@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://darashina.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T06:56:27.729Z</updated>
+    <updated>2021-07-27T07:27:50.998Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://darashina.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://darashina.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia エグゼクティブ] ITmedia エグゼクティブ勉強会スケジュール]]></title>
+        <id>https://mag.executive.itmedia.co.jp/executive/articles/2107/27/news131.html</id>
+        <link href="https://mag.executive.itmedia.co.jp/executive/articles/2107/27/news131.html"/>
+        <updated>2021-07-27T07:20:00.000Z</updated>
+        <summary type="html"><![CDATA[ご入会いただくとビジネスに役立つ情報をはじめ人材育成、ライフスタイル、カルチャー分野も含めた勉強会に参加できます。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽天モバイル、人口カバー率96％という目標を今夏から年内に表現を変更]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063867/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063867/?rss"/>
+        <updated>2021-07-27T07:10:00.000Z</updated>
+        <summary type="html"><![CDATA[楽天モバイルは、自社サービスエリアの人口カバー率の目標について、「2021年内に96％へ拡大予定」と表現を変更している。すでに公式サイト内の画像などでも確認可能。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[どの店のちまきが入ってるかはお楽しみ！ 横浜中華街「2021端午節 ちまき福袋」を7月31日に限定販売]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063863/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063863/?rss"/>
+        <updated>2021-07-27T07:10:00.000Z</updated>
+        <summary type="html"><![CDATA[横浜中華街では7月31日、「2021端午節 ちまき福袋」を販売する。限定200袋となり、価格は1000円。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia PC USER] エレコム、2.5GbE対応の5ポートスイッチングLANハブ]]></title>
+        <id>https://www.itmedia.co.jp/pcuser/articles/2107/27/news129.html</id>
+        <link href="https://www.itmedia.co.jp/pcuser/articles/2107/27/news129.html"/>
+        <updated>2021-07-27T07:04:00.000Z</updated>
+        <summary type="html"><![CDATA[エレコムは、2.5GbE接続に対応した5ポートスイッチングLANハブ2製品を発表した。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia Mobile] Sペン対応フォルダブル登場　Noteは“なし”――Samsung Electronicsが「Galaxy Unpacked」の概要を公開]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2107/27/news127.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2107/27/news127.html"/>
+        <updated>2021-07-27T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Samsung Electronicsのモバイルコミュケーションビジネス責任者が、8月11日に行われる「Galaxy Unpacked:Get ready to unfold」で発表される内容の一部を明らかにした。この中では「第3世代Galaxy Zシリーズ」にSペン対応モデルがあることと、今回の発表ではGalaxy Noteシリーズが含まれないことが言及されている。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] Facebook、メタバース製品グループ立ち上げ　「次のコミュニケーションプラットフォーム」とザッカーバーグCEO]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/27/news128.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/27/news128.html"/>
+        <updated>2021-07-27T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Facebookがメタバース構築のための製品グループを立ち上げた。ザッカーバーグCEOは「メタバースはモバイルインターネットの後継となると確信する」と語った。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P2Pラーニングでプログラミングが学べる「G's ACADEMY UNIT_YAMAGUCHI」2021年10月開校]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063862/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063862/?rss"/>
+        <updated>2021-07-27T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[デジタルハリウッドは2021年10月、P2Pラーニングでプログラミングが学べるコミュニティ「G's ACADEMY UNIT_YAMAGUCHI」（ジーズアカデミー　ユニット　ヤマグチ）を、ライセンス契約にて開校する。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[絶品の「牛タン定食」が1500円～　贅沢ひとりご飯にぴったりな「釜元たん米衛」恵比寿にオープン]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063837/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063837/?rss"/>
+        <updated>2021-07-27T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「釜元たん米衛」は、「牛タン＆釜炊きご飯」の「定食」を提供する新業態です。東京・恵比寿銀座通りに7月27日、新規オープン。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「直流安定化電源」は1台あると超便利]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063360/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063360/?rss"/>
+        <updated>2021-07-27T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サイズも小型化し、価格もこなれてきた直流安定化電源。興味をお持ちなら、1台持っていると便利かもしれません。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「プロジェクトEGG」でメサイアのシミュレーションRPG『エルスリード（MSX2・Windows10対応版）』が配信開始！]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063864/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063864/?rss"/>
+        <updated>2021-07-27T06:58:00.000Z</updated>
+        <summary type="html"><![CDATA[D4エンタープライズは、レトロゲーム配信サービス「プロジェクトEGG」にて、ファンタジーシミュレーションRPG『エルスリード（MSX2・Windows10対応版）』のリリースを2021年7月27日に開始した。価格は、440円（キャンペーン終了後は770円）。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] 2020年、全国の遊園地・テーマパークの半数が減収　収入高トップは？]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2107/27/news123.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2107/27/news123.html"/>
+        <updated>2021-07-27T06:50:00.000Z</updated>
+        <summary type="html"><![CDATA[東京データバンクが全国の遊園地・テーマパークの経営に関する調査を実施した。増収企業は39社のみで、減収企業の約3分1という結果に。軒並み減収に追い込まれる中で、収入高トップの企業はどこだったのだろうか？]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[忘れられないおいしさ!! あの「ポテトチップス イカスミ味」がファミマで復刻！]]></title>
         <id>https://ascii.jp/elem/000/004/063/4063830/?rss</id>
@@ -54,6 +164,26 @@
         <summary type="html"><![CDATA[崎陽軒は八景島シーパラダイスとコラボレーションした「横浜・八景島シーパラダイス×崎陽軒 ノリノリお絵かき シーウマイ弁当」を8月1日に発売する。]]></summary>
         <author>
             <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] 五輪観戦中の「この旗、どの国だっけ」を解決？　国旗を描くと国名を表示するWebアプリ登場]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/27/news125.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/27/news125.html"/>
+        <updated>2021-07-27T06:33:00.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピックを観戦中などに見かけた知らない国旗を、スマートフォンやPCに描くと国名が分かる──こんなWebアプリ「手書き国旗検索」がGitHub上で無償公開され、SNSで注目を集めている。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] 湖や雪山で“ととのい”　長野のホステルが仕掛ける「移動式サウナ」]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2107/27/news117.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2107/27/news117.html"/>
+        <updated>2021-07-27T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ホステル運営のFIKAが、移動式サウナ「Mobile SAUNA」の提供を開始すると発表した。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
         </author>
     </entry>
     <entry>
@@ -107,6 +237,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] 注文住宅の完成度は理想の何％か？　経験者636人に調査]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2107/27/news120.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2107/27/news120.html"/>
+        <updated>2021-07-27T06:22:00.000Z</updated>
+        <summary type="html"><![CDATA[建てた注文住宅の完成度は理想の何%ていどなのか？　完成度が「理想の半分以下」と答えた人は1割ほどだった。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[『PSO2 ニュージェネシス』の公式番組「NGS ヘッドライン」が本日21時より放送！]]></title>
         <id>https://ascii.jp/elem/000/004/063/4063860/?rss</id>
         <link href="https://ascii.jp/elem/000/004/063/4063860/?rss"/>
@@ -142,6 +282,16 @@
         <link href="https://www.itmedia.co.jp/news/articles/2107/27/news115.html"/>
         <updated>2021-07-27T06:15:00.000Z</updated>
         <summary type="html"><![CDATA[サイボウズが公式ブログで無償公開している、新人ITエンジニア向けの研修資料がTwitterで話題だ。Webアプリ開発の基礎知識などが学べるといい、「初心者（エンジニア）の指針になる」などの声が出ている。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] 日本で動き始めたIBM製“商用量子コンピュータ”の性能は？　実機を見てきた]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/27/news121.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/27/news121.html"/>
+        <updated>2021-07-27T06:10:00.000Z</updated>
+        <summary type="html"><![CDATA[米IBMの商用量子コンピュータの稼働が、神奈川県川崎市で始まった。実機の写真とともに、性能や設置の狙いなどを見ていく。]]></summary>
         <author>
             <name>ITmedia 総合記事一覧</name>
         </author>
