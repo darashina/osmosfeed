@@ -1,534 +1,1701 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-27T06:40:09.040Z</id>
+    <id>https://darashina.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T06:40:09.040Z</updated>
+    <updated>2021-07-27T06:56:27.729Z</updated>
     <generator>osmosfeed 1.11.0</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://darashina.github.io/osmosfeed/index.html"/>
+    <link rel="self" href="https://darashina.github.io/osmosfeed/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Demystifying styled-components]]></title>
-        <id>https://css-tricks.com/?p=345297</id>
-        <link href="https://www.joshwcomeau.com/react/demystifying-styled-components/"/>
-        <updated>2021-07-27T00:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Joshua Comeau digs into how styled-components works by re-building the basics. A fun and useful journey. 
-styled-components seems like the biggest player in the CSS-in-React market. Despite being in that world, I haven’t yet been fully compelled by it. I’m …
-The post Demystifying styled-components appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[忘れられないおいしさ!! あの「ポテトチップス イカスミ味」がファミマで復刻！]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063830/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063830/?rss"/>
+        <updated>2021-07-27T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ファミリーマートは7月27日から、1994年に山芳製菓から販売されていた商品を再現した「ポテトチップス　イカスミ味」を、全国約1万6600店で発売します。価格は128円（税込138円）。]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Doodle Games – Baseball, PacMan, and More]]></title>
-        <id>60fc070722b0e2078fcd0ae1</id>
-        <link href="https://www.freecodecamp.org/news/google-doodle-games-baseball-pacman-and-more/"/>
-        <updated>2021-07-26T23:01:30.000Z</updated>
-        <summary type="html"><![CDATA[The homepage for the Google Search engine is the most viewed webpage in the world. People conduct billions of searches every day.  When you land on the page, right above the search box, you'll see Google's logo. On many occassions the logo will be different and accompanied by what's called]]></summary>
+        <title type="html"><![CDATA[サラダのサブスクリプション「CRISP REPLENISH」開始]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063861/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063861/?rss"/>
+        <updated>2021-07-27T06:40:00.000Z</updated>
+        <summary type="html"><![CDATA[CRISP SALAD WORKSは、サラダのサブスクリプションサービス「CRISP REPLENISH（クリスプ・リプレニッシュ）」を正式ローンチした。]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Find Remote Jobs – 25 Websites To Help You Work from Home Online]]></title>
-        <id>60f746ee1d2b080797b807f6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-find-remote-jobs/"/>
-        <updated>2021-07-26T21:46:24.000Z</updated>
-        <summary type="html"><![CDATA[Working from home can have its challenges but there are also many benefits. A lot of employees enjoy the flexible schedule, and you can save money from not having to eat out or drive to work.  I have curated a list of 25 sites for remote work. Whether you are]]></summary>
+        <title type="html"><![CDATA[横浜と北海道の名産を丸ごと味わおう！ 崎陽軒「夏の北海道フェア」7月27日より開催]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063855/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063855/?rss"/>
+        <updated>2021-07-27T06:40:00.000Z</updated>
+        <summary type="html"><![CDATA[崎陽軒は7月27日より「夏の北海道フェア」を開催。通信販売や一部ロードサイド店舗にて北海道の名産を販売する。]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Perform CRUD Operations using React, React Hooks, and Axios]]></title>
-        <id>60fa671e1d2b080797b81cd4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-react/"/>
-        <updated>2021-07-26T21:41:00.000Z</updated>
-        <summary type="html"><![CDATA[If you're working with React, it can be quite difficult to understand and implement API Requests. So in this article, we'll learn how it all works by implementing CRUD Operations using React, React Hooks, React Router, and Axios. Let's dive in. How to Install Node and npmFirst of all, let's]]></summary>
+        <title type="html"><![CDATA[ソケットから飛び出さないコンパクトモデルから後席で利用できるロングケーブルまで、エレコムよりカーチャージャー3タイプを新発売]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063852/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063852/?rss"/>
+        <updated>2021-07-27T06:40:00.000Z</updated>
+        <summary type="html"><![CDATA[エレコムは自動車で利用できるアクセサリーソケット用カーチャージャー3タイプを発売した。]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Pseudocode? How to Use Pseudocode to Solve Coding Problems]]></title>
-        <id>60fe9a5222b0e2078fcd154f</id>
-        <link href="https://www.freecodecamp.org/news/what-is-pseudocode-in-programming/"/>
-        <updated>2021-07-26T19:23:37.000Z</updated>
-        <summary type="html"><![CDATA[You might be wondering what pseudocode is and why it's so useful for writing computer programs. But before we jump into pseudocode, let's refresh our memories about what programming and coding are, in the simplest sense. Programming is the manifestation of logic. A program is a set of instructions that]]></summary>
+        <title type="html"><![CDATA[特製ひょうちゃんがもれなく入ってる！「横浜・八景島シーパラダイス×崎陽軒 ノリノリお絵かき シーウマイ弁当」8月1日発売]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063831/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063831/?rss"/>
+        <updated>2021-07-27T06:40:00.000Z</updated>
+        <summary type="html"><![CDATA[崎陽軒は八景島シーパラダイスとコラボレーションした「横浜・八景島シーパラダイス×崎陽軒 ノリノリお絵かき シーウマイ弁当」を8月1日に発売する。]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust]]></title>
-        <id>https://css-tricks.com/?p=344653</id>
-        <link href="https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/"/>
-        <updated>2021-07-26T14:36:13.000Z</updated>
-        <summary type="html"><![CDATA[At Cloudflare, we have a great product called Workers KV which is a key-value storage layer that replicates globally. It can handle millions of keys, each of which is accessible from within a Worker script at exceptionally low latencies, …
-The post How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[エレコム、抗菌加工済みのバックパック・PCケースなど4種類8製品]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063857/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063857/?rss"/>
+        <updated>2021-07-27T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[15.6型までのノートPCが収納可能なバックパックなどを展開。表生地と内生地に抗菌加工を施しており、表面上における細菌の増殖を抑制、あるいは阻害する。]]></summary>
         <author>
-            <name>Luke Edwards</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Slinkity]]></title>
-        <id>https://css-tricks.com/?p=345288</id>
-        <link href="https://slinkity.dev/"/>
-        <updated>2021-07-26T14:36:04.000Z</updated>
-        <summary type="html"><![CDATA[Perhaps the #1 reason I love Astro is that it brings the JavaScript component authoring experience to the Static Site Generator world with zero JavaScript (except bits you very specifically opt-in to). That HTML-first approach is also why I like …
-The post Slinkity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[リングライトやスマホ用三脚など動画配信をサポートするアクセサリー3製品7モデル、エレコムから]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063853/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063853/?rss"/>
+        <updated>2021-07-27T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[エレコムは7月27日、リングライトやスマホ用三脚など、動画配信アクセサリー3製品7モデルを発売した。]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gatsby Serverless Functions And The International Space Station]]></title>
-        <id>https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/</id>
-        <link href="https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/"/>
-        <updated>2021-07-26T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).]]></summary>
+        <title type="html"><![CDATA[Dropbox、日本法人新社長に元日本MS 執行役員の梅田成二氏が就任]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063849/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063849/?rss"/>
+        <updated>2021-07-27T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Dropbox Japanの代表取締役社長に梅田成二氏が就任。梅田氏はDropbox Japanへの入社以前、アドビや日本マイクロソフトでクラウドやデバイスの事業に携わっていた。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Clear Search History – Delete All Browsing Data in Chrome]]></title>
-        <id>60faae4d1d2b080797b82046</id>
-        <link href="https://www.freecodecamp.org/news/how-to-clear-search-history-delete-all-browsing-data-in-chrome/"/>
-        <updated>2021-07-23T21:42:07.000Z</updated>
-        <summary type="html"><![CDATA[Your browsing history can come in very handy when you want to look up  something that you have already viewed on the internet.  Maybe you read an interesting article online and want to reference it again, but forgot to bookmark it. Well, you can have a look at your Chrome]]></summary>
+        <title type="html"><![CDATA[エレコム、全ポートがマルチギガビット2.5Gbpsに対応する2種類の5ポートスイッチングハブを発売]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063848/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063848/?rss"/>
+        <updated>2021-07-27T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[エレコムは全ポートがマルチギガビット2.5Gbpsに対応するホームユース向け、法人向け、2種類の2.5Gbps対応5ポートスイッチングハブを発売した。]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python zip() Function – Explained with Code Examples]]></title>
-        <id>60f5aca466c61b07d458f119</id>
-        <link href="https://www.freecodecamp.org/news/the-zip-function-in-python-explained-with-examples/"/>
-        <updated>2021-07-23T17:25:34.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever needed to loop through multiple iterables in parallel when coding in Python? In this tutorial, we'll use Python's zip() function to efficiently perform parallel iteration over multiple iterables. Here's what we'll cover in this post:  How to Use the 'in' Operator in Python to Traverse Iterables Why]]></summary>
+        <title type="html"><![CDATA[キミは生き残ることができるか!?『機動戦士ガンダム 戦場の絆II』が本日7月27日稼働開始]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063859/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063859/?rss"/>
+        <updated>2021-07-27T06:25:00.000Z</updated>
+        <summary type="html"><![CDATA[バンダイナムコアミューズメントは、ゲームセンター向けガンダムゲーム最新作『機動戦士ガンダム 戦場の絆II』を本日2021年7月27日から稼働開始した。プレイ料金は、トライアルコースで300円、スタンダードコースで500円、プレミアムコースで1000円となる。]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web Features That May Not Work As You’d Expect]]></title>
-        <id>https://css-tricks.com/?p=344019</id>
-        <link href="https://css-tricks.com/web-features-that-may-not-work-as-youd-expect/"/>
-        <updated>2021-07-23T15:12:11.000Z</updated>
-        <summary type="html"><![CDATA[As the web gets more and more capable, developers are able to make richer online experiences. There are times, however, where some new web capabilities may not work as you would expect in the interest of usability, security and privacy.…
-The post Web Features That May Not Work As You’d Expect appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[『PSO2 ニュージェネシス』の公式番組「NGS ヘッドライン」が本日21時より放送！]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063860/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063860/?rss"/>
+        <updated>2021-07-27T06:20:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年7月27日、セガの運営するオンラインRPG『PSO2 ニュージェネシス』の最新情報を公開する公式番組「NGS ヘッドライン」が、本日21時より配信されることが決定した。]]></summary>
         <author>
-            <name>Farai Gandiya</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My petite-vue review]]></title>
-        <id>https://css-tricks.com/?p=345209</id>
-        <link href="https://daverupert.com/2021/07/petite-vue-review/"/>
-        <updated>2021-07-23T15:10:08.000Z</updated>
-        <summary type="html"><![CDATA[Dave:
-petite-vue is a new cut of the Vue project specifically built with progressive enhancement in mind. At 5kb, petite-vue is a lightweight Alpine (or jQuery) alternative that can be “sprinkled” over your project requiring no extra bundling steps 
-…
-The post My petite-vue review appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[桃のアレンジメニューが大集結！「発見！おいしいふくしまフェア」8月4日～10日まで開催]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063851/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063851/?rss"/>
+        <updated>2021-07-27T06:20:00.000Z</updated>
+        <summary type="html"><![CDATA[小田急百貨店新宿店本館・ハルク地下2階の食料品売場で、デパ地下の10店舗から福島県産の桃をアレンジした桃メニューを販売する「発見！おいしいふくしまフェア」を8月4日～10日まで開催する。]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Guide To Attracting Clients To Your Agency]]></title>
-        <id>https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/</id>
-        <link href="https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/"/>
-        <updated>2021-07-23T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many web design agencies consider it a badge of honor that they win work exclusively through word-of-mouth recommendations. In this article, Paul Boag explains why that is entirely the wrong attitude and what to do about it.]]></summary>
+        <title type="html"><![CDATA[エレコム、コンパクトなUSBオーディオアダプター2製品を発売]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063847/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063847/?rss"/>
+        <updated>2021-07-27T06:20:00.000Z</updated>
+        <summary type="html"><![CDATA[エレコムはコンパクトなUSBオーディオアダプター2製品を発売した。USBポートに挿して3.5mmプラグのイヤホンやマイクを利用できる。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Organize your CSS declarations alphabetically]]></title>
-        <id>https://css-tricks.com/?p=344960</id>
-        <link href="https://ericwbailey.design/writing/organize-your-css-declarations-alphabetically/"/>
-        <updated>2021-07-22T22:33:29.000Z</updated>
-        <summary type="html"><![CDATA[Eric, again not mincin’ no words with blog post titles. This is me:
-The most common CSS declaration organization technique I come across is none whatsoever.
-Almost none, anyway. I tend to group them by whatever dumps out of my …
-The post Organize your CSS declarations alphabetically appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[[ITmedia News] サイボウズの“駆け出しエンジニア”向け研修資料が話題　Webアプリ開発やIT文化の基礎を無償公開]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/27/news115.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/27/news115.html"/>
+        <updated>2021-07-27T06:15:00.000Z</updated>
+        <summary type="html"><![CDATA[サイボウズが公式ブログで無償公開している、新人ITエンジニア向けの研修資料がTwitterで話題だ。Webアプリ開発の基礎知識などが学べるといい、「初心者（エンジニア）の指針になる」などの声が出ている。]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>ITmedia 総合記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Screenshot on Mac – Take a Screen Capture with a Keyboard Shortcut]]></title>
-        <id>60f969ee1d2b080797b8160a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-screenshot-on-mac-take-a-screen-capture-with-a-keyboard-shortcut/"/>
-        <updated>2021-07-22T22:05:03.000Z</updated>
-        <summary type="html"><![CDATA[Using just a few keystrokes, it's easy to capture part or all of your screen on a Mac.  Screenshots are useful in many cases, like when you're writing a blog post and you want to use images that will drive home the points you are making.  This guide will show]]></summary>
+        <title type="html"><![CDATA[Switch／PS4『新すばらしきこのせかい』本日発売！渋谷の街と本作の世界を融合した特設サイトも公開中]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063850/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063850/?rss"/>
+        <updated>2021-07-27T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年7月27日、アクションロールプレイングゲーム『新すばらしきこのせかい』[Nintendo Switch／PlayStation 4／PC（Epic Games Store）]がスクウェア・エニックスより発売された。価格は、7480円。]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Box Model Properties – Explained With Examples ✨]]></title>
-        <id>6063b98a9618b008528a9d92</id>
-        <link href="https://www.freecodecamp.org/news/css-box-model-explained-with-examples/"/>
-        <updated>2021-07-22T17:31:57.000Z</updated>
-        <summary type="html"><![CDATA[Today we're gonna learn how to use the CSS box model with examples. This will help you make pixel perfect websites and will teach you to use the box-sizing, margin, padding, and border properties more accurately.  We're also going to see some practical use cases for these properties. Let's get]]></summary>
+        <title type="html"><![CDATA[いすみ鉄道が「LINE WORKS」を導入、ペーパーレス化に加えて全従業員の観光情報を共有へ]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063840/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063840/?rss"/>
+        <updated>2021-07-27T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ワークスモバイルジャパンは7月27日、いすみ鉄道に「LINE WORKS」が導入されたと発表した。ペーパーレス化に加え、観光に注力していることもあって観光情報をの共有に役立っているという。]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Python to Detect Music Onsets]]></title>
-        <id>60f716ab1d2b080797b80532</id>
-        <link href="https://www.freecodecamp.org/news/use-python-to-detect-music-onsets/"/>
-        <updated>2021-07-22T16:56:17.000Z</updated>
-        <summary type="html"><![CDATA[In music terminology, an onset refers to the beginning of a musical note or other sound. In this post, we will look at how to detect music onsets with Python's audio signal processing libraries, Aubio and librosa. This tutorial is relevant even if your application doesn't use Python - for]]></summary>
+        <title type="html"><![CDATA[クラウド上の“ワークスペース”「Dropbox Business」とは]]></title>
+        <id>https://ascii.jp/elem/000/004/062/4062621/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/062/4062621/?rss"/>
+        <updated>2021-07-27T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本連載では、チームの共同作業をサポートするビジネスコラボレーションツール「Dropbox Business」の便利な機能と使いこなしテクニックをご紹介する。まずは個人向けDropboxとのコンセプトの違いや、作業がはかどる豊富な機能の概要を見てみよう。]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Webmentions with Gatsby.js – A Beginner&#x27;s Guide]]></title>
-        <id>60af854611ffb70827ef8526</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-webmentions-with-gatsby-beginners-guide/"/>
-        <updated>2021-07-22T16:33:55.000Z</updated>
-        <summary type="html"><![CDATA[Webmention is a simple protocol developed by the IndieWeb Community that you can use to request notifications when your URLs are mentioned on the web. When you post on your own site and syndicate elsewhere (POSSE), Webmention lets you enable rich interactions on your syndicated posts. This article will walk]]></summary>
+        <title type="html"><![CDATA[[ITmedia Mobile] Yahoo! MAP、商業施設などの「混雑予報」対象施設を全国17万件以上に拡充]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2107/27/news113.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2107/27/news113.html"/>
+        <updated>2021-07-27T05:51:00.000Z</updated>
+        <summary type="html"><![CDATA[ヤフーが提供する「Yahoo! MAP」は、ショッピングモールなど大型商業施設やスーパー、薬局などの施設周辺の混雑状況を確認できる「混雑予報」対象施設を全国約2万8000件から17万件以上に拡充した。]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>ITmedia 総合記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using Google Drive as a CMS]]></title>
-        <id>https://css-tricks.com/?p=344580</id>
-        <link href="https://css-tricks.com/using-google-drive-as-a-cms/"/>
-        <updated>2021-07-22T14:44:26.000Z</updated>
-        <summary type="html"><![CDATA[We’re going to walk through the technical process of hooking into Google Drive’s API to source content on a website. We’ll examine the step-by-step implementation, as well as how to utilize server-side caching to avoid the major pitfalls to avoid …
-The post Using Google Drive as a CMS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[暑い日に食べたい！「麺屋翔 みなと」の“冷製エビトマトつけ麺”が7月29日から]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063838/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063838/?rss"/>
+        <updated>2021-07-27T05:50:00.000Z</updated>
+        <summary type="html"><![CDATA[「麺屋翔 みなと」では7月29日から「冷製エビトマトつけ麺」を発売する。]]></summary>
         <author>
-            <name>Nathan Babcock</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hashnode: A Blogging Platform for Developers]]></title>
-        <id>https://css-tricks.com/?p=344330</id>
-        <link href="https://css-tricks.com/hashnode-a-blogging-platform-for-developers/"/>
-        <updated>2021-07-22T14:39:09.000Z</updated>
-        <summary type="html"><![CDATA[Hashnode is a free platform for developer blogging. Say you’ve just finished an ambitious project and want to write about 10 important lessons you’ve learned as a developer during it. You should definitely blog it—I love that kind of blog post, myself. Making a jump into the technical debt of operating your own blog isn’t a small choice, but it’s important to own your own content. With Hashnode, the decision gets a lot easier. You can blog under a site you entirely own, and at the same time, reap the benefits of hosted software tailor-made for developer blogging and be part of a social center around developer writing.
-The post Hashnode: A Blogging Platform for Developers appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[ミッキーファン必見！ ルミネ新宿“過去最大”のディズニーコレクション、8月31日まで]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063842/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063842/?rss"/>
+        <updated>2021-07-27T05:40:00.000Z</updated>
+        <summary type="html"><![CDATA[期間中、ルミネ新宿、ルミネエスト新宿、ニュウマン新宿にミッキー＆ミニーのPOP UP SHOPが出現。さらに、各ショップでは新デザインのグッズや、本イベントでしか手に入らないオリジナルデザインの限定グッズを販売する。]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adding Time To Your Schedule As A Professional]]></title>
-        <id>https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/</id>
-        <link href="https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/"/>
-        <updated>2021-07-22T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Are you running a business and have too many things going on at once? Meetings, bugs, customer feedback, new clients in addition to your already tight deadlines? Let’s face it, time management is hard, and it becomes even more difficult in the trying times we are in.]]></summary>
+        <title type="html"><![CDATA[[ITmedia PC USER] Apple、「macOS Big Sur 11.5.1」を公開　致命的な脆弱性を修正]]></title>
+        <id>https://www.itmedia.co.jp/pcuser/articles/2107/27/news112.html</id>
+        <link href="https://www.itmedia.co.jp/pcuser/articles/2107/27/news112.html"/>
+        <updated>2021-07-27T05:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、「macOS Big Sur」の最新アップデートとなる「11.5.1」を公開した。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Matthew Talebi)</name>
+            <name>ITmedia 総合記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yet Another Mobile Context Menu With No Indication it Can Scroll]]></title>
-        <id>https://css-tricks.com/?p=344950</id>
-        <link href="https://css-tricks.com/yet-another-mobile-context-menu-with-no-indication-it-can-scroll/"/>
-        <updated>2021-07-21T21:08:17.000Z</updated>
-        <summary type="html"><![CDATA[Remember Tyler Hall’s personal story of a UX moment where the popup sharing context menu on iOS had no visible indication that the content inside was scrollable? The thing his mom wanted to do seemed impossible because it was out …
-The post Yet Another Mobile Context Menu With No Indication it Can Scroll appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[おうち時間のお供に！ 抽選で「かぶきあげTOKYO」の季節限定フレーバーなどのセットが当たるTwitterキャンペーン]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063835/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063835/?rss"/>
+        <updated>2021-07-27T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[新宿区食品衛生協会手洗い推進部長・新宿あわわが、Twitterキャンペーン「新宿みやげで おうち時間 応援キャンペーン」を実施している。]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ECMAScript proposal: JSON modules]]></title>
-        <id>https://css-tricks.com/?p=344948</id>
-        <link href="https://2ality.com/2021/06/json-modules.html"/>
-        <updated>2021-07-21T21:08:08.000Z</updated>
-        <summary type="html"><![CDATA[Dr. Axel Rauschmayer looks at JSON modules, which is already live in Chrome 91 (but nothing else). It looks just like an ES Modules-style import, only you asset the type at the end. 
-import configData from './config-data.json' assert {type: 
-…
-The post ECMAScript proposal: JSON modules appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] 松井証券、米国株取引を開始　22年2月]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2107/27/news111.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2107/27/news111.html"/>
+        <updated>2021-07-27T05:25:00.000Z</updated>
+        <summary type="html"><![CDATA[松井証券は2022年2月に、米国株取引に対応することを明らかにした。7月27日に公開した決算説明資料にて触れた。昨今、米国市場の好調にともない、特に若年層で米国株への意欲が高まっている。]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>ITmedia 総合記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Step-By-Step Process for Turning Designs Into Code]]></title>
-        <id>https://css-tricks.com/?p=344337</id>
-        <link href="https://css-tricks.com/a-step-by-step-process-for-turning-designs-into-code/"/>
-        <updated>2021-07-21T14:37:07.000Z</updated>
-        <summary type="html"><![CDATA[Turning website design files into a combination of HTML, CSS and JavaScript is the bread and butter of many front-end web development jobs, but there’s a part of this work that doesn’t neatly fit in to tutorials on any specific …
-The post A Step-By-Step Process for Turning Designs Into Code appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[女性向け欲張りコース登場！ ひとりしゃぶしゃぶ いち 西新宿本店「レディースコース」の販売開始]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063829/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063829/?rss"/>
+        <updated>2021-07-27T05:20:00.000Z</updated>
+        <summary type="html"><![CDATA[ひとりしゃぶしゃぶ いち 西新宿本店では、7月12日より「レディースコース」の販売を開始している。]]></summary>
         <author>
-            <name>Mark Noonan</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Color Tools And Resources]]></title>
-        <id>https://smashingmagazine.com/2021/07/color-tools-resources/</id>
-        <link href="https://smashingmagazine.com/2021/07/color-tools-resources/"/>
-        <updated>2021-07-21T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? We’ve collected some useful color tools and resources that we’ve discovered lately — to help you get the most out of your creativity. We’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.]]></summary>
+        <title type="html"><![CDATA[[ITmedia News] Tesla、ビットコインで2400万ドル損失も過去最高の増収増益　納車数は20万台超]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/27/news109.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/27/news109.html"/>
+        <updated>2021-07-27T05:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Teslaの4～6月期決算は、売上高は前年同期比98％増、純利益は約11倍と好調だった。納車数は約2.2倍の20万1304台。保有するビットコインの価値下落で2400万ドルの損失を計上した。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>ITmedia 総合記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Nine States of Design]]></title>
-        <id>https://css-tricks.com/?p=345062</id>
-        <link href="https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85"/>
-        <updated>2021-07-20T23:34:53.000Z</updated>
-        <summary type="html"><![CDATA[Here’s a really good ol’ post from way back in 2015 all about the nine states of design and how we should think all the edge cases whenever we’re building interfaces. Vince Speelman writes:
-Modern UI teams are designing components 
-…
-The post The Nine States of Design appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[中本、いかない？ 東京モード学園の学生デザインの蒙古タンメン中本Tシャツ、7月30日から発売]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063832/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063832/?rss"/>
+        <updated>2021-07-27T05:10:00.000Z</updated>
+        <summary type="html"><![CDATA[東京モード学園の学生が、蒙古タンメンに着想を得てデザインしたグラフィックTシャツが、7月30日から「アース ミュージック＆エコロジー」の一部店舗で販売される。]]></summary>
         <author>
-            <name>Robin Rendle</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your Image Is Probably Not Decorative]]></title>
-        <id>https://css-tricks.com/?p=344944</id>
-        <link href="https://www.smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/"/>
-        <updated>2021-07-20T20:02:06.000Z</updated>
-        <summary type="html"><![CDATA[Eric doesn’t mince words, especially in the title, but also in the conclusion:
-In modern web design and development, displaying an image is a highly intentional act. Alternate descriptions allow us to explain the content of the image, and in 
-…
-The post Your Image Is Probably Not Decorative appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[[ITmedia Mobile] 「PayPay」ミニアプリからPCR検査キットを購入可能に]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2107/27/news093.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2107/27/news093.html"/>
+        <updated>2021-07-27T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「PayPay」のミニアプリから、ヘルスケアテクノロジーズが販売する新型コロナウイルス感染症の唾液PCR検査キット「PCR検査キット」が購入可能に。ヘルスケアアプリ「HELPO」で結果を確認できる。]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>ITmedia 総合記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Typewriter Animation That Handles Anything You Throw at It]]></title>
-        <id>https://css-tricks.com/?p=344497</id>
-        <link href="https://css-tricks.com/typewriter-animation-that-handles-anything-you-throw-at-it/"/>
-        <updated>2021-07-20T15:03:40.000Z</updated>
-        <summary type="html"><![CDATA[I watched Kevin Powell’s video where he was able to recreate a nice typewriter-like animation using CSS. It’s neat and you should definitely check it out because there are bonafide CSS tricks in there. I’m sure you’ve seen other CSS …
-The post Typewriter Animation That Handles Anything You Throw at It appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[エレコム、抗菌加工で快適なつけ心地を実現するマスク用抗菌フレームを発売]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063833/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063833/?rss"/>
+        <updated>2021-07-27T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[エレコムはマスク内の空間をキープして快適なつけ心地を実現するマスク用抗菌フレームを7月下旬より発売する。]]></summary>
         <author>
-            <name>Murtuzaali Surti</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Migrate From WordPress To A Headless CMS]]></title>
-        <id>https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/</id>
-        <link href="https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/"/>
-        <updated>2021-07-20T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will look at when it makes sense to migrate from a monolithic project to a headless setup and the benefits that come with it. In addition to a step-by-step guide on how to migrate WordPress to Storyblok Headless CMS, the problems that will arise during the process and how to deal with them.]]></summary>
+        <title type="html"><![CDATA[テレワーク・クラウド環境の一括提供ソリューション「dynaTeams かんたんテレワーク スターターパック」に自動応答サポート機能が追加]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063827/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063827/?rss"/>
+        <updated>2021-07-27T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dynabookは7月27日、テレワーク・クラウド環境をワンストップで一括提供するソリューションdynaTeams「かんたんテレワーク スターターパック」に、総合ヘルプデスク型チャットボットの自動応答サポート機能を追加し、8月2日から提供開始すると発表した。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Alba Silvente)</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Images are hard.]]></title>
-        <id>https://css-tricks.com/?p=344404</id>
-        <link href="https://css-tricks.com/images-are-hard/"/>
-        <updated>2021-07-19T20:51:07.000Z</updated>
-        <summary type="html"><![CDATA[Putting images on websites is incredibly simple, yes? Actually, yes, it is. You use <img> and link it to a valid source in the src attribute and you’re done. Except that there are (counts fingers) 927 things you could (and …
-The post Images are hard. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[VAIO、モバイル PC「VAIO Pro PG」シリーズからバッテリー駆動時間が大幅に強化された新モデルを発売]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063824/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063824/?rss"/>
+        <updated>2021-07-27T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[VAIOは7月27日、13.3型の法人向けモバイル PC「VAIO Pro PG」シリーズからバッテリー駆動時間を強化した新モデルを発売すると発表した。]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Maintaining End-To-End Quality With Visual Testing]]></title>
-        <id>https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/</id>
-        <link href="https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/"/>
-        <updated>2021-07-19T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[By adding visual elements to your tests, you can gain more options to add meaningful ways in maintaining a high level of quality for your app. Colby Fayock explains how.]]></summary>
+        <title type="html"><![CDATA[パスワードレスのログインを実現する「Windows Hello」についてあらためて解説]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063396/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063396/?rss"/>
+        <updated>2021-07-27T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ノートパソコンのログイン時には通常、IDやパスワードの入力が必要だ。しかし、パスワードの管理には煩雑さが伴う。Windows Helloは、こうしたパスワード管理の手間から私たちを解放してくれる仕組みとして注目されている。この記事ではWindows Helloの概要や機能、またノートパソコンを安全に使うためのポイントについて解説する。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Colby Fayock)</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Three Insights I Gained While Researching Vue.js Accessibility]]></title>
-        <id>https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/</id>
-        <link href="https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/"/>
-        <updated>2021-07-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.]]></summary>
+        <title type="html"><![CDATA[[ITmedia PC USER] 恵安、WQHD表示/165Hz駆動に対応した曲面31.5型ゲーミング液晶ディスプレイ]]></title>
+        <id>https://www.itmedia.co.jp/pcuser/articles/2107/27/news105.html</id>
+        <link href="https://www.itmedia.co.jp/pcuser/articles/2107/27/news105.html"/>
+        <updated>2021-07-27T04:55:00.000Z</updated>
+        <summary type="html"><![CDATA[恵安は、高リフレッシュレート表示をサポートした曲面31.5型ゲーミング液晶ディスプレイ「KIG320QD-G」を発表した。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Marcus Herrmann)</name>
+            <name>ITmedia 総合記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ISR vs DPR: Big Words, Quick Explanation]]></title>
-        <id>https://smashingmagazine.com/2021/07/isr-dpr-explained/</id>
-        <link href="https://smashingmagazine.com/2021/07/isr-dpr-explained/"/>
-        <updated>2021-07-15T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There are two strategies for incrementally building websites that are growing in popularity: Incremental Static Regeneration and Distributed Persistent Rendering. What’s the difference? Let’s figure it out.]]></summary>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] 甲信越の住みここランキング2021　2年連続で評価を得た自治体は？]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2107/27/news103.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2107/27/news103.html"/>
+        <updated>2021-07-27T04:50:00.000Z</updated>
+        <summary type="html"><![CDATA[大東建託は、甲信越（山梨県、長野県、新潟県）に住む成人男女が対象の居住満足度調査を行い、その結果を発表した。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Cassidy Williams)</name>
+            <name>ITmedia 総合記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You Can Do That With A JavaScript Data Grid?]]></title>
-        <id>https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/</id>
-        <link href="https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/"/>
-        <updated>2021-07-15T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you’ll get to see some pretty groundbreaking things you can achieve with modern JavaScript grids and discover new ways to augment a data grid to make it engaging, responsive, and accessible. All this will be illustrated using Kendo UI Data Grids and their features.]]></summary>
+        <title type="html"><![CDATA[[ITmedia News] 「猫の手ならぬ車の手も借りたい」トミカ50台セット登場　“手がある”車がずらり]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/27/news104.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/27/news104.html"/>
+        <updated>2021-07-27T04:46:00.000Z</updated>
+        <summary type="html"><![CDATA[トミカの「猫の手ならぬ車の手も借りたい50台セット」が登場。アーム付きの車がズラリ50台！　トミカ50周年記念企画の一環だ。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Zara Cooper)</name>
+            <name>ITmedia 総合記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns: Broken Filters]]></title>
-        <id>https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/</id>
-        <link href="https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/"/>
-        <updated>2021-07-14T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.]]></summary>
+        <title type="html"><![CDATA[「駅弁風トンテキ弁当」ミニストップで発売！ 温めなくてもおいしい]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063828/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063828/?rss"/>
+        <updated>2021-07-27T04:45:00.000Z</updated>
+        <summary type="html"><![CDATA[西日本で人気の「トンテキ」を駅弁風に盛り付けたメニュー。厚切りの豚ロース肉を丸々1枚使用し、温めなくても美味しいように柔らかく、また香ばしく焼き上げています。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building A Dynamic Header With Intersection Observer]]></title>
-        <id>https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/</id>
-        <link href="https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/"/>
-        <updated>2021-07-13T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, attaching an event listener to constantly fire a callback on scroll can be performance-intensive. But there is a better way with Intersection Observer.]]></summary>
+        <title type="html"><![CDATA[『電車でGO！！』最新作がセールを実施！「電車でGO-1グランプリ」特別配信番組の配信も決定]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063841/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063841/?rss"/>
+        <updated>2021-07-27T04:40:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年7月26日、スクウェア・エニックスはNintendo Switch版『電車でGO！！ はしろう山手線』にて実施された「電車でGO-1グランプリ」の特別配信番組を配信すると発表。配信日時は、2021年7月30日12時となる。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Migrate From jQuery To Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/"/>
-        <updated>2021-07-13T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’re taking a closer look at different approaches and strategies on how we can migrate a web application that uses jQuery framework, and start using one of the coolest React frameworks in the market: Next.js.]]></summary>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] “海なし県”でもフライト気分　温浴施設で機内食をイメージした食事を提供]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2107/27/news102.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2107/27/news102.html"/>
+        <updated>2021-07-27T04:38:00.000Z</updated>
+        <summary type="html"><![CDATA[温泉道場が運営する温浴施設「おふろcafe utatane」は、カフェエリアで機内食をイメージしたプレート料理を提供すると発表した。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
+            <name>ITmedia 総合記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Refactoring CSS: Introduction (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/</id>
-        <link href="https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/"/>
-        <updated>2021-07-12T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.]]></summary>
+        <title type="html"><![CDATA[[ITmedia News] 悲哀に満ちたガンダムのスノードーム発売　「ザク」の散り際、大破した「百式」再現]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/27/news100.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/27/news100.html"/>
+        <updated>2021-07-27T04:32:00.000Z</updated>
+        <summary type="html"><![CDATA[BANDAI SPIRITSは26日、TVアニメ「機動戦士ガンダム」の名シーンを再現したスノードーム2種を発表した。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+            <name>ITmedia 総合記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making A Strong Case For Accessibility]]></title>
-        <id>https://smashingmagazine.com/2021/07/strong-case-for-accessibility/</id>
-        <link href="https://smashingmagazine.com/2021/07/strong-case-for-accessibility/"/>
-        <updated>2021-07-09T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.]]></summary>
+        <title type="html"><![CDATA[エイシング、対象機器のマイコンに直接搭載できる超軽量異常検知アルゴリズム「MSAT」]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063813/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063813/?rss"/>
+        <updated>2021-07-27T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[エイシングは、KBオーダーで実装可能な超軽量異常検知アルゴリズム「MSAT（Memory Saving Anomaly Tracker）」を開発。顧客企業各社への提供を開始した。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Todd Libby)</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tools And Practices To Speed Up The Vue.js Development Process]]></title>
-        <id>https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/</id>
-        <link href="https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/"/>
-        <updated>2021-07-08T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Even though Vue.js claims to have an approachable minimalist framework that can be incrementally adaptable, it can be a little bit overwhelming when starting as a Vue.js newbie. In this article, we’re looking at ways to make writing Vue.js a breeze.]]></summary>
+        <title type="html"><![CDATA[[ITmedia News] Spotify、フォローするアーティストの新着情報を知らせる「What's New」機能]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/27/news099.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/27/news099.html"/>
+        <updated>2021-07-27T04:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Spotifyのモバイルアプリに、フォロー中のアーティストの新着情報をリアルタイムで知らせる「What's New」機能が追加される。ホーム右上のベルマークに青いドットが付いたらタップし、What's Newページを開く。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Uma Victor)</name>
+            <name>ITmedia 総合記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Introduction To Figma Interactive Components]]></title>
-        <id>https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/</id>
-        <link href="https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/"/>
-        <updated>2021-07-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.]]></summary>
+        <title type="html"><![CDATA[Steam版『戦国無双5』が配信スタート！追加シナリオなどが楽しめるDLC第二弾は8月19日に配信]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063834/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063834/?rss"/>
+        <updated>2021-07-27T04:20:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年7月27日、タクティカルアクション『戦国無双5』［PlayStation 4／Nintendo Switch／Xbox One／PC（Steam）］について、Steamストアでの配信が開始した。価格は、8580円。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Emiliano Cicero)</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Choose A Headless CMS]]></title>
-        <id>https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/</id>
-        <link href="https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/"/>
-        <updated>2021-07-06T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[There is an array of Headless CMSes out there. In this article, we delve into headless CMS features to satisfy your content editors, marketers and yourself as a developer. For the experience headless practitioner, this could be a checklist to see what’s new out there. For those starting out on their headless journey, this could be a guide on what to look for.]]></summary>
+        <title type="html"><![CDATA[[ITmedia News] 保険の営業先、AIが提案　顧客データ解析　朝日生命]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/27/news098.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/27/news098.html"/>
+        <updated>2021-07-27T04:15:00.000Z</updated>
+        <summary type="html"><![CDATA[朝日生命は、顧客データをAIで分析して訪問先を営業職員に提案するシステム「推奨活動自動立案」を構築した。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Emmanuel Tissera)</name>
+            <name>ITmedia 総合記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using HSL Colors In CSS]]></title>
-        <id>https://smashingmagazine.com/2021/07/hsl-colors-css/</id>
-        <link href="https://smashingmagazine.com/2021/07/hsl-colors-css/"/>
-        <updated>2021-07-05T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.]]></summary>
+        <title type="html"><![CDATA[[ITmedia エンタープライズ] テクニカルサポート詐欺、日本人の3人に1人が遭遇　傾向と対策は――Microsoft調査]]></title>
+        <id>https://www.itmedia.co.jp/enterprise/articles/2107/27/news090.html</id>
+        <link href="https://www.itmedia.co.jp/enterprise/articles/2107/27/news090.html"/>
+        <updated>2021-07-27T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoftのテクニカルサポート詐欺に関するグローバル調査によると、過去12カ月の詐欺遭遇率は、日本が29％で世界で最も低いものの、特に注意が必要な層もあることが分かった。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
+            <name>ITmedia 総合記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Email Testing Flow As It Should Be]]></title>
-        <id>https://smashingmagazine.com/2021/07/email-testing-flow/</id>
-        <link href="https://smashingmagazine.com/2021/07/email-testing-flow/"/>
-        <updated>2021-07-02T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.]]></summary>
+        <title type="html"><![CDATA[Kingston FURYから高性能メモリー「Kingston FURY Renegade／Beast／Impact」が登場]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063812/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063812/?rss"/>
+        <updated>2021-07-27T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[KingstonはKingston FURYから高性能メモリー「Kingston FURY Renegade／Beast／Impact」を発売開始した。DDR4＋RGBライティング、DDR4＋RGBライティングなし、およびDDR3をラインアップ。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Andriy Zapisotskyi)</name>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them]]></title>
-        <id>https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/</id>
-        <link href="https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/"/>
-        <updated>2021-07-01T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[When writing front-end tests, you’ll find a lot of pitfalls along the way. Let’s explore common mistakes developers make, and how to avoid them. Testing doesn’t need to be painful, after all.]]></summary>
+        <title type="html"><![CDATA[[ITmedia PC USER] ユニットコム、Celeronを搭載したエントリー15.6型/17.3型ノートPCを発売]]></title>
+        <id>https://www.itmedia.co.jp/pcuser/articles/2107/27/news097.html</id>
+        <link href="https://www.itmedia.co.jp/pcuser/articles/2107/27/news097.html"/>
+        <updated>2021-07-27T03:59:00.000Z</updated>
+        <summary type="html"><![CDATA[ユニットコムは、CPUにCeleronを採用したエントリークラスの15.6型/17.3型ノートPCを発表した。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Ramona Schwering)</name>
+            <name>ITmedia 総合記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The State Of Web Workers In 2021]]></title>
-        <id>https://smashingmagazine.com/2021/06/web-workers-2021/</id>
-        <link href="https://smashingmagazine.com/2021/06/web-workers-2021/"/>
-        <updated>2021-06-30T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!]]></summary>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] 東北の地銀に何が起きているのか　青銀×みち銀…相次ぐ経営統合]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2107/27/news096.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2107/27/news096.html"/>
+        <updated>2021-07-27T03:59:00.000Z</updated>
+        <summary type="html"><![CDATA[青森県経済を牽引（けんいん）してきた青森銀行（青銀、本店・青森市）とみちのく銀行（みち銀、同）が経営統合の協議入りに基本合意、来年4月をめどに持ち株会社を設立し、令和6年4月をめどに合併する方針だ。東北では地方銀行グループ「フィデアホールディングス」（本社・仙台市）と東北銀行（本店・盛岡市）も経営統合の協議入りで合意した。背景には人口減少や低金利政策などで地方銀行を取り巻く経営環境が厳しさを増す中、生き残りを懸けた経営基盤の強化がある。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Surma)</name>
+            <name>ITmedia 総合記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Many Shades Of July (2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/</id>
-        <link href="https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/"/>
-        <updated>2021-06-30T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!]]></summary>
+        <title type="html"><![CDATA[[ITmedia News] 「すとぷり」セガのゲーム実況可能に　著作物利用契約締結]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/27/news095.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/27/news095.html"/>
+        <updated>2021-07-27T03:59:00.000Z</updated>
+        <summary type="html"><![CDATA[「すとぷり」がセガと包括的な著作権利用許諾契約を結び、セガのゲーム実況が可能に。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>ITmedia 総合記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Breaking Down Bulky Builds With Netlify And Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/"/>
-        <updated>2021-06-29T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Static Generation is great for performance — until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.]]></summary>
+        <title type="html"><![CDATA[[ITmedia News] Yahoo! MAP、「混雑予報」対象施設を全国17万件以上に拡充　大型商業施設やスーパーも]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/27/news094.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/27/news094.html"/>
+        <updated>2021-07-27T03:55:00.000Z</updated>
+        <summary type="html"><![CDATA[ヤフーは27日、地図アプリ「Yahoo! MAP」（iOS／Android）でショッピングモールやスーパーなど商業施設周辺の混雑状況を確認できる「混雑予報」の対象施設を17万件以上に拡充したと発表した。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+            <name>ITmedia 総合記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 40 With Mike Cavaliere: What Is Chakra UI For React?]]></title>
-        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/</id>
-        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/"/>
-        <updated>2021-06-29T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavaliere to find out.]]></summary>
+        <title type="html"><![CDATA[[ITmedia エンタープライズ] 抜本的な対策がない脆弱性「PetitPotam」が見つかる　Microsoftが緩和策を公開]]></title>
+        <id>https://www.itmedia.co.jp/enterprise/articles/2107/27/news089.html</id>
+        <link href="https://www.itmedia.co.jp/enterprise/articles/2107/27/news089.html"/>
+        <updated>2021-07-27T03:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Windowsにソフトウェア側での抜本的な対策が難しい脆弱性「PetitPotam」が発見された。Microsoftはこれに対する適切な運用と推奨される緩和策を文書化している。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>ITmedia 総合記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating Custom Emmet Snippets In VS Code]]></title>
-        <id>https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/</id>
-        <link href="https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/"/>
-        <updated>2021-06-28T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.]]></summary>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] じゃらん「道の駅」満足度調査　2位は岩手県「道の駅　雫石あねっこ」、1位は？]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2107/27/news086.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2107/27/news086.html"/>
+        <updated>2021-07-27T03:20:00.000Z</updated>
+        <summary type="html"><![CDATA[じゃらんが「道の駅」満足度調査を発表した。国土交通省の調査によると、21年6月時点で道の駅は全国に1193駅登録されていることが分かった。そのなかで1位に選ばれた道の駅はどこなのだろうか？]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Manuel Matuzović)</name>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] ロボット連れて遊べる施設、渋谷にオープン　ドッグランならぬ“ロボットラン”も]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/27/news088.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/27/news088.html"/>
+        <updated>2021-07-27T03:19:00.000Z</updated>
+        <summary type="html"><![CDATA[ロボットオーナー同士が、“家族の一員であるロボット”を連れて交流できる新施設が渋谷に。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia PC USER] ハイエンド機でタイマン勝負！「Artist Pro 16TP」はワコムの牙城を崩せるか]]></title>
+        <id>https://www.itmedia.co.jp/pcuser/articles/2107/27/news024.html</id>
+        <link href="https://www.itmedia.co.jp/pcuser/articles/2107/27/news024.html"/>
+        <updated>2021-07-27T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[XP-Penがワコムの「Cintiq Pro 16」と丸かぶりのハイエンドモデル「Artist Pro 16TP」を投入してきました。実際の使い勝手はどうなのか、refeia先生が入念にチェックしたよ。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「脱ハンコ」で普及が進む電子署名、開発者はどうAPI実装を進めるべき？ 専門家が法務・実務的な背景を解説]]></title>
+        <id>http://codezine.jp/article/detail/14365</id>
+        <link href="http://codezine.jp/article/detail/14365"/>
+        <updated>2021-07-27T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DXなど急速な社会構造の変化に加え、コロナ禍により在宅勤務などが広がり、認証や確認といった業務フローがデジタル化しつつある。その中で重要なポイントとなるのが「電子署名」だ。世界的に電子署名が普及しつつある中で、押印という独自の商習慣をもつ日本がやや遅れているのは事実。しかし、今後、急速に電子署名が普及し、自社サービスやシステムに導入することが求められるのは明白であり、現場の開発者でも法務的・実務的な背景などを理解しておく必要があるだろう。そこで、日本及び世界の電子署名に関する法制・法律に精通する弁護士・弁理士・米国ミシガン州弁護士の牧野和夫氏、明治学院大学教授・米国ニューヨーク州弁護士の飯田浩司氏、そして立会人型電子署名「CMサイン」を世界に展開するCM.com Japanの中藤丹菜氏に、電子署名を取り巻く背景や最新動向、導入における注意点などについて伺った。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia Mobile] Y!mobile、8月18日からデータ容量の繰り越しが可能に　データ増量オプションの改定も]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2107/27/news085.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2107/27/news085.html"/>
+        <updated>2021-07-27T02:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Y!mobileの「シンプルS／M／L」にて、データ容量の繰り越しが可能になる。2021年8月18日以降に新規契約と同時に申し込んだ場合は8月利用分から、それ以外は9月利用分から繰り越せる。シンプルS／M／Lのデータ増量オプションを改定し、2GB～5GBが自動で増量される。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] 内定者の親に手紙、入社式に家族──企業の新卒「親対策」コロナ禍ではどう変化？]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2107/27/news045.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2107/27/news045.html"/>
+        <updated>2021-07-27T02:40:00.000Z</updated>
+        <summary type="html"><![CDATA[親の反対による内定辞退を防ぐなどの目的で、親へのアプローチに取り組む企業は少なくない。コロナ禍で様相が一変した新卒採用市場において、各社の親に対する取り組みは、どう変化しているのか取材した。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] プリングルズの“おじさん”が変化　SNS時代に合わせたデザインに]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2107/27/news082.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2107/27/news082.html"/>
+        <updated>2021-07-27T02:40:00.000Z</updated>
+        <summary type="html"><![CDATA[日本ケロッグは7月27日、ポテトチップスブランド「プリングルズ」のロゴ「Mr.P」をリニューアルすると発表した。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia PC USER] VAIO、前モデル比1.7倍の駆動時間を実現した法人向け13.3型モバイルノート「VAIO Pro PG」新モデル]]></title>
+        <id>https://www.itmedia.co.jp/pcuser/articles/2107/27/news084.html</id>
+        <link href="https://www.itmedia.co.jp/pcuser/articles/2107/27/news084.html"/>
+        <updated>2021-07-27T02:31:00.000Z</updated>
+        <summary type="html"><![CDATA[VAIOは、法人向け13.3型モバイルノート「VAIO Pro PG」の新モデルを発表した。最大22.2時間の駆動時間を実現している。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] 「偶発性を生むオフィスは存在しないが、偶発性を生み出すことはできる」　オカムラ中村雅行社長が明言する理由とは？]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2107/27/news059.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2107/27/news059.html"/>
+        <updated>2021-07-27T02:20:00.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスによって逆風にさらされていたオフィス関連市場。オフィス家具のオカムラも苦境に陥っていた。しかし、蓋を開けてみると21年3月期の通期連結決算は過去最高益を達成。コロナ禍で新しいオフィス需要を育てたことが功を奏した。アフターコロナのオフィスは「偶発性」がキーワードになるかもしれない。そんな考えを一刀両断するのがオカムラの中村雅行社長執行役員だ。「偶発性を生むオフィスは存在しない」そう話す理由とは？]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] テレワーク中にハラスメントと感じる上司の言動TOP10　2位は「部屋全体を映して」　1位は？]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/27/news083.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/27/news083.html"/>
+        <updated>2021-07-27T02:19:00.000Z</updated>
+        <summary type="html"><![CDATA[テレワーク中、部下は上司のどんな言動をハラスメントだと感じるか──ALL CONECTがこんなランキングを発表した。2位は「部屋全体を映すよう求める」、3位は「体形を話題にする」だった。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia エンタープライズ] CXへの期待は今後5年で「ウーバー化」？　いまCIOが関与すべき4つの技術分野]]></title>
+        <id>https://www.itmedia.co.jp/enterprise/articles/2107/27/news062.html</id>
+        <link href="https://www.itmedia.co.jp/enterprise/articles/2107/27/news062.html"/>
+        <updated>2021-07-27T02:15:00.000Z</updated>
+        <summary type="html"><![CDATA[今後5年で顧客があらゆる企業に求める体験は大きく変化する。CIOはこの期待にどう対応すべきだろうか。リサーチャーや注目のスタートアップ企業トップはこの状況にどう立ち向かうだろうか。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia PC USER] Dynabookの「かんたんテレワーク スターターパック」がサービスを拡充　ユーザーへの「チャットサポート」を提供可能に]]></title>
+        <id>https://www.itmedia.co.jp/pcuser/articles/2107/27/news071.html</id>
+        <link href="https://www.itmedia.co.jp/pcuser/articles/2107/27/news071.html"/>
+        <updated>2021-07-27T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dynabookがテレワーク（遠隔勤務）の導入に必要なPCやクラウドサービスを一括提供するサービスに、ユーザーへのAIチャットサポートを提供できるバージョンが登場する。シャープの子会社が提供するAIチャットボットサービスを活用したもので、回答内容にはDynabookのノウハウが反映されているという。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] 5年保存できるポテチ、湖池屋が開発した理由]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/27/news079.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/27/news079.html"/>
+        <updated>2021-07-27T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スナックメーカーの湖池屋は26日、5年保存できるポテトチップスを発表した。災害備蓄用として8月2日から一部店舗で限定販売する。参考価格は400円（税込）。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WindowsのRPAツール「Power Automate Desktop」でデスクトップ上での単純なタスクや業務を自動化しよう]]></title>
+        <id>http://codezine.jp/article/detail/14549</id>
+        <link href="http://codezine.jp/article/detail/14549"/>
+        <updated>2021-07-27T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日々の業務で、デスクトップ上で何度も繰り返し行わなければならない定型作業がよくあります。これらをコンピュータに自動化してもらえれば、効率的に遂行できますし、なによりケアレスミスの減少も期待できるでしょう。本連載で扱うPower Automate Desktopは、このような自動化可能な作業の流れ（フロー）をデザインし、実行するためのソフトウェアです。第1回では、簡単なフロー作成の基本と手作業の記録について説明します。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] Intel、Qualcommのプロセッサを製造すると発表　AWSはパッケージング技術を採用]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/27/news078.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/27/news078.html"/>
+        <updated>2021-07-27T01:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Intelが数世代先のプロセス「Intel 20A」でQualcommのプロセッサを製造すると発表した。また、新パッケージング技術「Foveros Omni」をAmazonのAWSが採用する。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Hubのアクセストークンにおいて、スコープの利用が可能に]]></title>
+        <id>http://codezine.jp/article/detail/14593</id>
+        <link href="http://codezine.jp/article/detail/14593"/>
+        <updated>2021-07-27T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Dockerは、コンテナイメージ共有サービス「Docker Hub」のアクセストークンが、スコープに対応したことを、7月20日（現地時間）に発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ITエンジニア向けイベント Engineer Career Study #3 「成長を実感し続けられるキャリアのあゆみ方」が7月30日に開催]]></title>
+        <id>http://codezine.jp/article/detail/14595</id>
+        <link href="http://codezine.jp/article/detail/14595"/>
+        <updated>2021-07-27T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[groovesは、ITエンジニア向けオンラインイベント Engineer Career Study #3 「成長を実感し続けられるキャリアのあゆみ方」を7月30日に開催する。参加費は無料。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] Intel、nmではない新命名法でのロードマップを発表　次は「Intel 7」に]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/27/news077.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/27/news077.html"/>
+        <updated>2021-07-27T00:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Intelがnm（ナノメートル）命名法をやめ、第12世代Alder Lakeは「Intel 7」になる。ゲルシンガーCEOがプロセッサのロードマップを発表した。Intel 7の4世代先の「Intel 20A」では新たなトランジスタアーキテクチャ「RibbonFET」を採用する。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] 「歓迎されないオリンピック」は本当か？　実は売れているBS4Kレコーダーと世論の関係]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/27/news076.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/27/news076.html"/>
+        <updated>2021-07-27T00:44:00.000Z</updated>
+        <summary type="html"><![CDATA[これまでの批判から手のひらを返したようなオリンピック礼賛。その背景を小寺信良さんが数字から読み解く。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] 実施人口は16年で2倍！　「筋トレ」を日本の成長戦略の柱に置くべき理由]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2107/27/news055.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2107/27/news055.html"/>
+        <updated>2021-07-27T00:36:00.000Z</updated>
+        <summary type="html"><![CDATA[コロナ禍でさまざまな業界で消費の低迷が見られたが、外出自粛による運動不足解消のため、「筋トレ」需要が増している。なぜ市場が拡大しているのかというと……。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] 首都圏版「住みここちランキング2021」　3年連続1位の街は？]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2107/27/news057.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2107/27/news057.html"/>
+        <updated>2021-07-27T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[大東建託が首都圏版「住みここちランキング2021」を発表した。住みここち1位に選ばれた街はどこだったのだろうか？そのほか、住みたい街や駅ランキングも発表。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] 経営者・平井一夫氏はソニーをどう復活させたのか　15年追ってきた記者が『ソニー再生』を読む]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/27/news075.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/27/news075.html"/>
+        <updated>2021-07-27T00:25:00.000Z</updated>
+        <summary type="html"><![CDATA[長年ソニーを追ってきた西田宗千佳さんによる経営者・平井一夫論。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[データリテラシーを身につけよう ── 新刊ピックアップ]]></title>
+        <id>https://gihyo.jp/book/pickup/2021/0037</id>
+        <link href="https://gihyo.jp/book/pickup/2021/0037"/>
+        <updated>2021-07-27T00:19:00.000Z</updated>
+        <summary type="html"><![CDATA[データが重要だと言われて久しい現代では，技術の進化によりデータの増加量がどんどん加速してきています。]]></summary>
+        <author>
+            <name>編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia PC USER] 2025年までに「1.8nm相当」に――Intelが半導体生産のロードマップを説明]]></title>
+        <id>https://www.itmedia.co.jp/pcuser/articles/2107/27/news069.html</id>
+        <link href="https://www.itmedia.co.jp/pcuser/articles/2107/27/news069.html"/>
+        <updated>2021-07-27T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Intelが半導体生産のロードマップを説明するイベントを開催した。2022年には7nmプロセスの製品が、2024年には新技術を取り入れた製品が登場する見通しだ。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIリテラシーと教育プログラム認定制度（リテラシーレベル） ── 新刊ピックアップ]]></title>
+        <id>https://gihyo.jp/book/pickup/2021/0036</id>
+        <link href="https://gihyo.jp/book/pickup/2021/0036"/>
+        <updated>2021-07-27T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[AIやデジタルトランスフォーメーション（DX），データサイエンスがバズワードとして盛り上がり，いまではすっかり普段使いされる言葉に落ち着きました。]]></summary>
+        <author>
+            <name>編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] 次期Mac ProはApple Siliconではない？　Mac Pro (2022) はIntel Xeon W 3300搭載か]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/27/news074.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/27/news074.html"/>
+        <updated>2021-07-27T00:11:00.000Z</updated>
+        <summary type="html"><![CDATA[次期Mac Pro (2022) にIntel Xeon W 3300シリーズを搭載？]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] 銀行とセキュリティ　6人に1人がパスワード使い回し]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2107/27/news072.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2107/27/news072.html"/>
+        <updated>2021-07-27T00:08:00.000Z</updated>
+        <summary type="html"><![CDATA[キャッシュレス決済利用者からは、キャッシュレス決済サービスとの連携が豊富なネット銀行が高い支持を得ている。一方で、過半数がセキュリティに不安を持つが、パスワード管理はリスク高い状況続く。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オープンソースのGitリポジトリマネージャ「GitLab 14.1」がリリース]]></title>
+        <id>http://codezine.jp/article/detail/14591</id>
+        <link href="http://codezine.jp/article/detail/14591"/>
+        <updated>2021-07-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米GitLabは、同社が開発しているオープンソースのWeb型Gitリポジトリマネージャの最新版となる「GitLab 14.1」を、7月22日（現地時間）にリリースした。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Rust 2021 Edition」がテスト公開、安定版は10月にリリース予定]]></title>
+        <id>http://codezine.jp/article/detail/14594</id>
+        <link href="http://codezine.jp/article/detail/14594"/>
+        <updated>2021-07-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オープンソースのプログラミング言語Rustの開発チームは、「Rust 2021 Edition」を7月21日（現地時間）にテスト公開した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] 「マネーフォワード クラウド人事管理」提供開始　従業員や組織情報の一元管理を実現]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2107/27/news070.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2107/27/news070.html"/>
+        <updated>2021-07-26T23:56:00.000Z</updated>
+        <summary type="html"><![CDATA[マネーフォワードは7月26日、「マネーフォワード クラウド人事管理」の提供を開始した。従業員情報の収集や管理におけるペーパーレス化と、従業員や組織情報の一元管理を実現する。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia エグゼクティブ] ブルートレインも「運んだ」技術　アチハ常務取締役・辻野卓さん]]></title>
+        <id>https://mag.executive.itmedia.co.jp/executive/articles/2107/27/news073.html</id>
+        <link href="https://mag.executive.itmedia.co.jp/executive/articles/2107/27/news073.html"/>
+        <updated>2021-07-26T23:53:00.000Z</updated>
+        <summary type="html"><![CDATA[ドライブをしていると山の上でゆっくりと回っている風力発電の風車を見ることがある。あんな所に巨大な物をどうやって運んで建てたのか。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] 中国、ネット業界を「半年間」集中取り締まり]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2107/27/news068.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2107/27/news068.html"/>
+        <updated>2021-07-26T23:44:00.000Z</updated>
+        <summary type="html"><![CDATA[【北京＝三塚聖平】中国政府は26日、インターネット業界の集中的な取り締まりに着手したと発表した。「安全で秩序ある市場環境を整備する」のが目的だと説明しており、半年間かけて問題行為を調べる。中国当局は、ネット通販最大手のアリババ集団など国内IT大手への統制を強めており、業界への逆風がさらに増すとみられる。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] ロボットの燃料は「カセットボンベ」　駆動時間はリチウムイオン電池の2倍]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/26/news140.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/26/news140.html"/>
+        <updated>2021-07-26T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ダイニチ工業が、カセットボンベを燃料に半導体の温度差で発電する「熱電発電」を使った自律走行ロボットを開発した。カセットボンベと同じ重さのリチウムイオン電池より駆動時間が2倍ほど長いという。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia マーケティング] 「サイト内検索」ツール（有償版）　国内売れ筋TOP10（2021年7月）]]></title>
+        <id>https://marketing.itmedia.co.jp/mm/articles/2107/27/news022.html</id>
+        <link href="https://marketing.itmedia.co.jp/mm/articles/2107/27/news022.html"/>
+        <updated>2021-07-26T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サイト内検索（サイトサーチ）ツールは検索窓から自社サイト内のコンテンツを正確に、効果的に表示して訪問者の離脱を防ぎ、CVRアップを実現します。今月はデータをフィルタリングし、有償版のサイト内検索ツールをランキング化しました。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google、AnthosにおけるWindows Serverコンテナのサポートをプレビュー]]></title>
+        <id>http://codezine.jp/article/detail/14592</id>
+        <link href="http://codezine.jp/article/detail/14592"/>
+        <updated>2021-07-26T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Googleは、オンプレミス環境のVMware上のAnthosクラスタにおいて、Windows Serverコンテナのサポートをプレビュー提供することを、7月23日（現地時間）に発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINEのインフラ基盤「Verda」のビジョンとSREが果たすべき役割とは ── LINE テクノロジー＆エンジニアリング大全]]></title>
+        <id>https://gihyo.jp/dev/serial/01/line2021/0008</id>
+        <link href="https://gihyo.jp/dev/serial/01/line2021/0008"/>
+        <updated>2021-07-26T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2019年にLINEで発足したSREに取り組む専門チーム。そのSREチームを率いるマネージャーである  萬治渉氏に，SREチームが発足した背景や現状の取り組みなどについてお話を伺いました。]]></summary>
+        <author>
+            <name>川添貴生，馮富久</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia エンタープライズ] 松江市のテレワーク施設がセキュリティ認証取得　自治体挙げた取り組みの内容は]]></title>
+        <id>https://www.itmedia.co.jp/enterprise/articles/2107/27/news053.html</id>
+        <link href="https://www.itmedia.co.jp/enterprise/articles/2107/27/news053.html"/>
+        <updated>2021-07-26T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[松江市内の3カ所の宿泊施設に付設したテレワーク施設が、「共同利用型オフィス セキュリティ認証プログラム」の認証を受けた。松江市は、滞在型テレワークプログラムの開発と受け入れを推進している。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia エンタープライズ] 国際的なスポーツイベントをテーマにしたワイパー型マルウェアが見つかる]]></title>
+        <id>https://www.itmedia.co.jp/enterprise/articles/2107/27/news050.html</id>
+        <link href="https://www.itmedia.co.jp/enterprise/articles/2107/27/news050.html"/>
+        <updated>2021-07-26T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[国際的なスポーツイベントはサイバー犯罪者にとって格好のイベントだ。すでに日本のユーザーを標的としたワイパー型マルウェアが確認された。期間中にはこれをテーマにしたサイバー攻撃が増加する見込みのためセキュリティ対策の強化が急がれる。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia エンタープライズ] Salesforceが新製品「Slack-first Customer 360」構想　Slack買収完了で]]></title>
+        <id>https://www.itmedia.co.jp/enterprise/articles/2107/27/news051.html</id>
+        <link href="https://www.itmedia.co.jp/enterprise/articles/2107/27/news051.html"/>
+        <updated>2021-07-26T22:15:00.000Z</updated>
+        <summary type="html"><![CDATA[両社は共同で「Slack-first Customer 360」の他、次世代のデジタルファーストなアプリケーションやワークフローを提供する予定としている。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia エグゼクティブ] ホテル東京ガーデンパレスでステーキ食べ放題イベントを開催中]]></title>
+        <id>https://mag.executive.itmedia.co.jp/executive/articles/2107/27/news020.html</id>
+        <link href="https://mag.executive.itmedia.co.jp/executive/articles/2107/27/news020.html"/>
+        <updated>2021-07-26T22:01:00.000Z</updated>
+        <summary type="html"><![CDATA[東京の街の“ローカルエキスパート”が、仕事の合間に一息つけるスポットやイベントを紹介します。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] EUが2035年に全面禁止検討　エンジンは本当に消滅するのか]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2107/27/news035.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2107/27/news035.html"/>
+        <updated>2021-07-26T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[7月中旬、EUの欧州委員会は2035年にEU圏内でのエンジン車販売を禁止する方針を打ち出した。マイルドハイブリッドやフルハイブリッドも禁止される見込みだ。つまり、現時点ではバッテリーEVとFCVしか認められないという方向だ。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PythonのWebフレームワーク「Django」のHttpRequestオブジェクトを徹底解説]]></title>
+        <id>http://codezine.jp/article/detail/14493</id>
+        <link href="http://codezine.jp/article/detail/14493"/>
+        <updated>2021-07-26T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PythonでWeb開発ができるフルスタックなフレームワーク「Django」について詳しく解説した『実践Django Pythonによる本格Webアプリケーション開発』から、DjangoのHttpRequestオブジェクトの役割と仕組みについて、HTTP 1.1の基礎知識から掘り下げて解説しているパートを抜粋して紹介します。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プログラミング初心者こそ「動くコード」をたくさん書いたほうがいい]]></title>
+        <id>hatenablog://entry/26006613789846914</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/07/26/130000"/>
+        <updated>2021-07-26T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。倉内です。
+ITエンジニアへの転職を考えている方の中には、連休中にプログラミングの学習に取り組んだ方も多いのではないでしょうか。
+paizaラーニングのようにブラウザ上で動画講座を見るものから、スライドや書籍を読んで学ぶものまでさまざまな学習方法がありますが、実際にコードはあまり書いていないという方もお見かけします。
+もちろんきちんとアウトプットするためにまずはインプットが必要というのも分かります。ただ、初心者こそ作法に則ったきれいなコードを書くより「動くコード」を意識してたくさん書く練習をしてほしいんです。
+そこで今回は、なぜ自らコードを書くことが大切なのかをお伝えするとともに、アウトプットをたくさんするためのおすすめ学習コンテンツも合わせてご紹介します。
+なぜ「きれいに書く」ことにとらわれてしまうのか？
+プログラミングには、命名規則だったり、改行位置やインデントなどのフォーマットだったり…コードを書くお作法があることを知っている方も多いと思います。
+以前当ブログでも「エンジニアになるならコーディング規約というものを知っておこう」とお伝えしました。
+また、2012年発売にもかかわらず、いまだにエンジニアのバイブルとして挙げられることが多い書籍『リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック』を読んだことがある、もしくは読もうと思っている方もいるかもしれません。
+たしかに、
+他の人や半年後・1年後の自分が見ても分かりやすいコードを書く
+保守性や品質を高めるために作法に則ってコードを書く
+といったことはとても大切です。業務でチーム開発をするとなったらなおさらです。
+そのため勉強をし始めたばかりの方は「まだきれいなコードを書けないから…」「コーディングの作法を知らないから…」と書くことをためらいます。
+もしくは本来は実現したい機能があって…]]></summary>
+        <author>
+            <name>paiza開発日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[個人開発こそ若手デベロッパーの成長促進剤！ 個人開発を自分のキャリアにどう結び付けたのか？――ゆずたそさんに聞いた]]></title>
+        <id>http://codezine.jp/article/detail/14460</id>
+        <link href="http://codezine.jp/article/detail/14460"/>
+        <updated>2021-07-26T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[プログラミング初心者から学生、ベテランのエンジニア、起業家まで全25名の個人開発者が自分の体験を語った書籍『個人開発をはじめよう！』。同人誌版の制作・販売をきっかけに、商業出版へとたどり着いた。同書を出版した横山翔さんは、TwitterやGitHubで「yuzutas0」（ゆずたそ）というアカウントで活動しながら、本業では業務支援Webサービスの企画・開発にたずさわっている。自身でも多数のWebサービスを開発し、数多くの個人開発を見てきたという。今回はそんな横山さんに個人開発のノウハウと、それを自分のキャリアにどう結びつけているのか話を伺った。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIVE INTO CODE、「Python3 エンジニア認定基礎試験　受験対策プラン」の提供を開始]]></title>
+        <id>http://codezine.jp/article/detail/14588</id>
+        <link href="http://codezine.jp/article/detail/14588"/>
+        <updated>2021-07-26T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DIVE INTO CODEは、無料模試サイト「DIVE INTO EXAM」内にて「Python3 エンジニア認定基礎試験　受験対策プラン」の提供を、7月15日に開始した。なお、プランの利用は有料となっている。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大切な情報を守るため 情報セキュリティの知識を身に付けよう ── 新刊ピックアップ]]></title>
+        <id>https://gihyo.jp/book/pickup/2021/0035</id>
+        <link href="https://gihyo.jp/book/pickup/2021/0035"/>
+        <updated>2021-07-26T00:15:20.000Z</updated>
+        <summary type="html"><![CDATA[企業・組織の活動の中では，さまざまな種類の情報を正しく取り扱う必要があります。]]></summary>
+        <author>
+            <name>編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「プログラミング的思考」って何なのさ？ ── 新刊ピックアップ]]></title>
+        <id>https://gihyo.jp/book/pickup/2021/0034</id>
+        <link href="https://gihyo.jp/book/pickup/2021/0034"/>
+        <updated>2021-07-26T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[突然ですが，「プログラミングなんて一度もやったことがないよ」という方に質問です。]]></summary>
+        <author>
+            <name>編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio Code用Python拡張機能の2021年7月版がリリース]]></title>
+        <id>http://codezine.jp/article/detail/14583</id>
+        <link href="http://codezine.jp/article/detail/14583"/>
+        <updated>2021-07-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftは、コードエディタVisual Studio Code用のPython拡張機能2021年7月版を、7月20日（現地時間）にリリースした。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lbose、月額制アジャイル開発支援「レンタル開発チーム」の提供を開始]]></title>
+        <id>http://codezine.jp/article/detail/14586</id>
+        <link href="http://codezine.jp/article/detail/14586"/>
+        <updated>2021-07-25T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lboseは、Webアプリやネイティブアプリを展開する事業会社向けのサービスとして、月額制アジャイル開発支援「レンタル開発チーム」の提供を、7月20日より開始した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Concordiumブロックチェーン、開発者へ最大2万米ドルを提供する助成金プログラムを発表]]></title>
+        <id>http://codezine.jp/article/detail/14587</id>
+        <link href="http://codezine.jp/article/detail/14587"/>
+        <updated>2021-07-23T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スイスのConcordiumは、信頼性、信用性、持続性のあるブロックチェーン業界を構築するための継続的なコミットメントの一環として、グローバルな開発者を対象としたパートナーシッププログラムを発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オープンソースのデータベース管理システム「MySQL 8.0.26」がリリース]]></title>
+        <id>http://codezine.jp/article/detail/14584</id>
+        <link href="http://codezine.jp/article/detail/14584"/>
+        <updated>2021-07-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Oracleは、オープンソースのデータベース管理システム「MySQL 8.0.26」および「MySQL 5.7.35」を、7月21日（現地時間）にリリースした。あわせて、MySQLの分散型バリアントである「MySQL Cluster 8.0.26」および「MySQL Cluster 7.6.19」「MySQL Cluster 7.5.23」「MySQL Cluster 7.4.33」もリリースされている。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[連休中に無料ゲームで楽しくプログラミング学習！【STEINS;GATEコラボ公開直前】]]></title>
+        <id>hatenablog://entry/26006613787463853</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/07/22/100000"/>
+        <updated>2021-07-22T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。倉内です。
+paizaではスキルチェックや動画学習講座といったプログラミング学習コンテンツを提供していますが、ゲーム感覚で楽しみながら学べるPOH（Paiza Online Hackathon）などエンタメコンテンツもご用意しています。
+
+POHで出題される問題は、初心者の方も楽しめる簡単な問題からアルゴリズムを駆使して解答するような上級者向けのものまでさまざまです。
+そこで今回は、7月28日に公開を控えたSTEINS;GATE（シュタインズ・ゲート）とのコラボに備えて、連休中に楽しくプログラミング学習ができる方法をお伝えします。
+解説や解答コード例を掲載した記事も合わせて紹介しますので、ぜひご自身のレベルに合わせて活用してみてください！
+なお、難易度のpaizaランクというのはスキルチェックのランクを示しています。S・A・B・C・D・Eの6段階でSがもっとも難易度が高い問題です。スキルチェックについて詳しくはこちら
+
+エンジニアが死滅した世界
+問題紹介と解答コード例・解説
+Cランク問題
+Bランク問題
+Aランク問題
+ロジックサマナー
+問題紹介と解答コード例・解説
+Bランク問題
+Sランク問題
+プログラミングで彼女をつくる
+問題紹介と解答コード例・解説
+Bランク問題・Aランク問題
+推しと学べるプログラミング
+まとめ
+エンジニアが死滅した世界
+
+難易度：★★★／想定paizaランク：A～E
+通称『ぼっち』は、エンジニアだけが感染する致死性の「Eウイルス」が蔓延し、地球上すべてのエンジニアが死滅した中で、あなたがアンドロイドのRINと一緒に文明社会を取り戻すというストーリーになっています。
+廃墟と化したマップに点在するプログラミング問題を解くことで、アイテムやRINの着せ替え衣装をゲットできます。
+
+問題紹介と解答コード例・解説
+Cランク問題
+Pythonの解答コード例…]]></summary>
+        <author>
+            <name>paiza開発日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[企業・学校対抗プログラミングコンテスト「PG BATTLE 2021」が10月23日に開催、エントリー受付中]]></title>
+        <id>http://codezine.jp/article/detail/14585</id>
+        <link href="http://codezine.jp/article/detail/14585"/>
+        <updated>2021-07-21T07:05:00.000Z</updated>
+        <summary type="html"><![CDATA[システムインテグレータは、企業・学校対抗のプログラミングコンテスト「PG BATTLE 2021」を、10月23日に開催する。エントリー期間は7月7日～10月16日で、参加費は無料。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年7月21日　オリンピック開幕直前！ ── 帰ってきた『技評ねこ部通信』]]></title>
+        <id>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202107/0722</id>
+        <link href="https://gihyo.jp/lifestyle/clip/01/monthly-cat/202107/0722"/>
+        <updated>2021-07-21T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[選手のみなさんが無事に悔いなく競技を終えられますように。]]></summary>
+        <author>
+            <name>gihyo.jp：総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブラウザ上からNode.jsやPythonでバックエンドを無料で開発可能な「Napkin」を使ってみた！]]></title>
+        <id>hatenablog://entry/26006613788991603</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/07/21/130000"/>
+        <updated>2021-07-21T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[どうも、まさとらん（@0310lan）です！
+今回は、ブラウザ上からNode.jsやPythonをプログラミング可能なクラウドエディタを提供する無料のWebサービスをご紹介します。
+サーバレスでバックエンドを開発できるうえ、シンプルなエディタから即座にエンドポイントを作って公開もできる便利なサービスとなっています。
+手軽にサーバ側の処理を構築したい場合やFaaSのように使いたい方にも最適なのでぜひ参考にしてみてください！
+【 Napkin 】
+
+■「Napkin」の使い方
+それでは、「Napkin」をどのように使えばいいのか詳しく見ていきましょう。
+まず最初にサイトのトップページから【Sign Up】ボタンをクリックして無料のユーザー登録を済ませておきます。
+
+
+登録方法はいくつかありますが、今回はもっとも簡単なGitHubアカウントを利用してみます。
+
+確認用のウィンドウが表示されるので承認をしておけばOKです。
+
+初回のみ「ユーザー名」を設定する画面が表示されるので、好きな名前を入力して【Start】ボタンをクリックします。
+
+
+最終的に以下のような「ダッシュボード」が表示されたら準備は完了です！
+
+この画面から新規のプロジェクトを作成・管理できるようになっています。また、チュートリアルや詳細なドキュメントなどのリンクも提供されているので、最初に一読しておくといいでしょう。
+■「Napkin」のコードエディタを使ってみよう！
+それではさっそくですが「Napkin」が提供するコードエディタを利用してみましょう。
+まずは「ダッシュボード」から【+ New Function】ボタンをクリックしてください。
+
+
+初期設定画面が表示されるので、今回は「Node.js」を選択してから好きな名称を入力します。
+
+
+「Napkin」のコードエディタが表示されました。
+
+このエディタでは…]]></summary>
+        <author>
+            <name>paiza開発日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一歩先の継続的デリバリー「プログレッシブデリバリー」とは？ 概要と実現のためのソリューションの紹介]]></title>
+        <id>http://codezine.jp/article/detail/14476</id>
+        <link href="http://codezine.jp/article/detail/14476"/>
+        <updated>2021-07-21T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本連載では、GitOpsを活用した継続的デリバリーやプログレッシブデリバリーについて紹介します。前回の記事では、継続的デリバリーの概要について解説しました。本記事ではその一歩先の概念であるプログレッシブデリバリーについて解説し、具体的なソリューションを紹介します。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[長期記憶とインターネット検索によって、より洗練された会話が可能なオープンソースのチャットボットが公開]]></title>
+        <id>http://codezine.jp/article/detail/14577</id>
+        <link href="http://codezine.jp/article/detail/14577"/>
+        <updated>2021-07-21T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Facebook AI Researchは、継続的にアクセスできる長期記憶の構築、インターネット上のタイムリーな情報の検索、ほぼすべてのトピックに関する洗練された会話を同時に行うことが可能なオープンソースのチャットボット「BlenderBot 2.0」を構築したことを、7月16日（現地時間）に発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT・Web業界に特化した求人情報サイト「FINDJOB!」、エンジニアリングスクール「RaiseTech」とサービス提携開始]]></title>
+        <id>http://codezine.jp/article/detail/14575</id>
+        <link href="http://codezine.jp/article/detail/14575"/>
+        <updated>2021-07-21T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ミクシィ・リクルートメントが提供する IT・Web業界に特化した求人情報サイト「FINDJOB!」は、RaiseTechが提供するエンジニアリングスクール「RaiseTech」とサービス連携を開始したことを、7月20日に発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web開発のためのJavaScriptフレームワーク「Ember 4」のロードマップが公開]]></title>
+        <id>http://codezine.jp/article/detail/14579</id>
+        <link href="http://codezine.jp/article/detail/14579"/>
+        <updated>2021-07-21T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Web開発のためのJavaScriptフレームワークEmber開発チームは、9月20日（現地時間）頃にリリース予定の「Ember 4.0」について、7月14日（現地時間）付の公式ブログ投稿にて紹介している。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第675回　apt-keyはなぜ廃止予定となったのか ── Ubuntu Weekly Recipe]]></title>
+        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0675</id>
+        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0675"/>
+        <updated>2021-07-21T00:42:00.000Z</updated>
+        <summary type="html"><![CDATA[サードパーティのAPTパッケージリポジトリを追加する際に使用する「apt-key」コマンドは，2020年8月の2.1.8から「廃止予定」となり，2022年の半ばには削除される予定になりました。今回はその理由と，代替手段について解説しましょう。]]></summary>
+        <author>
+            <name>柴田充也</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#01　「Cloud Operator Days Tokyo 2021」がすべてのクラウド従事者にお勧めなわけ ── "運用者に光を"「Cloud Operator Days Tokyo 2021」の歩き方]]></title>
+        <id>https://gihyo.jp/admin/serial/01/codt2021/0001</id>
+        <link href="https://gihyo.jp/admin/serial/01/codt2021/0001"/>
+        <updated>2021-07-21T00:15:40.000Z</updated>
+        <summary type="html"><![CDATA[2021年7月中旬からクラウド運用担当者のノウハウを共有するイベント「Cloud Operator Days Tokyo 2021」がオンラインで開催中です。]]></summary>
+        <author>
+            <name>gihyo.jp：総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「おすすめ」に囲まれた暮らしの先に ── 新刊ピックアップ]]></title>
+        <id>https://gihyo.jp/book/pickup/2021/0033</id>
+        <link href="https://gihyo.jp/book/pickup/2021/0033"/>
+        <updated>2021-07-21T00:15:20.000Z</updated>
+        <summary type="html"><![CDATA[インターネットで買い物をしていたら，選んでいないのに「おすすめ」や「こちらもおすすめ」などの商品が表示され，「ほぅ，こんなものもあるのか」と当初は買うつもりのなかった商品を買ってしまった経験のある方は多いと思います。]]></summary>
+        <author>
+            <name>編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pythonをはじめよう ── 新刊ピックアップ]]></title>
+        <id>https://gihyo.jp/book/pickup/2021/0032</id>
+        <link href="https://gihyo.jp/book/pickup/2021/0032"/>
+        <updated>2021-07-21T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Python（パイソン）は，もはや「最近人気」というレベルを超えて，「定番のプログラミング言語」になりつつあります。]]></summary>
+        <author>
+            <name>編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オープンソースビジョンライブラリ「OpenCV 4.5.3」リリース、新たなPythonオペレーションAPIの導入など]]></title>
+        <id>http://codezine.jp/article/detail/14580</id>
+        <link href="http://codezine.jp/article/detail/14580"/>
+        <updated>2021-07-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オープンソースのコンピュータビジョンライブラリOpenCVの、バージョン4.x系列の夏のアップデートとなる「OpenCV 4.5.3」が、7月19日（現地時間）にリリースされた。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第151回　知っておくとちょっと得するperformance_schemaのテーブル ── MySQL道普請便り]]></title>
+        <id>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0151</id>
+        <link href="https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0151"/>
+        <updated>2021-07-20T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[今回は，知っておくとちょっと得するperformance_schemaのテーブルをいくつか紹介したいと思います。]]></summary>
+        <author>
+            <name>北川健太郎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「みんなに薦めたい『エンジニアのバイブル』」を募集します！]]></title>
+        <id>hatenablog://entry/26006613787051641</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/07/19/120000"/>
+        <updated>2021-07-19T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[paizaが運営するエンジニア組織や文化づくりの情報を提供するWebメディア「Tech Team Journal」では、成長したいエンジニアを応援するための企画として、皆さんの「エンジニアのバイブル」を募集します！
+あなたがこれまでにお読みになった書籍の中で、「自分のキャリアに最も影響を与えた1冊」「エンジニアとしてのバイブルだと思っている1冊」を教えてください。
+エンジニアのキャリアについての書籍はもちろん、リーダーや社会人として、自分のキャリアや考え方に影響を与えている本であればどんなものでもOKです。なお、技術系の書籍については同じアンケート内で別項目として募集しておりますので、そちらへお書きください。
+ご推薦いただいた書籍のうち、一部を8月中旬にTech Team Journalにて発表いたします。
+また、アンケートにお答えいただいた方の中から、抽選で5名様に1,000円分のAmazonギフト券をプレゼント！
+さらにハッシュタグ「#エンジニアのバイブル」をつけてこの記事をTwitterにシェアしてくれた方の中から抽選で10名様にも500円分のAmazonギフト券をプレゼントします。
+募集内容：「エンジニアのバイブル」・「自分のキャリアに最も影響を与えた」書籍
+応募フォームからご入力ください
+応募フォームの詳細案内も合わせてご確認ください。
+docs.google.com
+皆さんからのたくさんのご応募をお待ちしています！！
+Tech Team Journalって？
+
+Tech Team Journalでは、「事業をドライブするテックチーム」をテーマに、VPoEやCTOのインタビュー、エンジニア採用や組織づくりに関するコラムなどを順次公開しています。
+エンジニアインタビュー
+CTOをはじめエンジニア組織をリードするエンジニアへのインタビューを多数掲載中。組織づくりで大切にしていることや、これからのエンジニアに求められることなどリアルな言葉で語っていただいています。
+ttj.paiza.jp
+ttj.paiza.jp
+CTO対談：Teck Career Talk
+第一線でご活躍されているエンジニア組織のリーダーをお招きして、対談形式でこれまでのキャリア、組織のリーダーとして大切にしていること、組織課題などを語っていただきます。ナビゲーターは元DMM.comCTOで、現在は株式会社デジタルハーツでCTOを務める城倉和孝氏です。
+ttj.paiza.jp
+コラム
+UUUM社 元CTOの尾藤正人氏にエンジニア採用や組織づくりの悩みに答えていただく「TTJお悩み相談室」を絶賛更新中です。お悩みも募集中！
+ttj.paiza.jp
+「VPoEってどんな役割？」「インフラエンジニアの採用ってどうすればいい？」など気になるテーマの記事を公開しています。
+ttj.paiza.jp
+ttj.paiza.jp]]></summary>
+        <author>
+            <name>paiza開発日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「中高生国際Rubyプログラミングコンテスト2021 in Mitaka」開催決定，作品募集開始～2021年9月30日まで ── インフォメーション]]></title>
+        <id>https://gihyo.jp/news/info/2021/07/1601</id>
+        <link href="https://gihyo.jp/news/info/2021/07/1601"/>
+        <updated>2021-07-16T09:03:00.000Z</updated>
+        <summary type="html"><![CDATA[「中高生国際Rubyプログラミングコンテスト2021 in Mitaka」第11回大会開催と応募受付が開始した。]]></summary>
+        <author>
+            <name>技術評論社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30代・40代エンジニアのキャリアパスとは？選択肢と求められる能力を解説]]></title>
+        <id>hatenablog://entry/26006613787026557</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/07/16/130000"/>
+        <updated>2021-07-16T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。谷口です。
+30代〜40代の方から「今後のキャリアについて悩んでいる」「今までの経験を生かして少し違うキャリアに進みたい」といったご相談を受けることがあります。
+中堅〜ベテランと言える年次になってくると、若手の頃と比べて組織内でのポジションや求められる役割が変わったり増えたりするケースも多く、現職の業務内容やキャリアに不満や不安を感じる方が増えてきます。
+そこで今回は、30代〜40代のエンジニアの方に向けて、今後もエンジニアもしくはその周辺領域で仕事を続ける場合のキャリアの選択肢について解説します。
+エンジニアか周辺領域で仕事を続けるキャリアの選択肢は
+エンジニアを続ける
+エンジニアとして仕事を続ける場合、本当にざっくりわけると専門技術に特化したスペシャリストになるか、ビジネスと技術を総合的に見渡して事業の進め方や組織マネジメントについて考える役割になるか（この中でもメインで担当する分野がわかれていたりします）になります。
+もちろん、企業によって求められる内容は異なりますし、役職名も研究開発・シニアエンジニア、CTO・VPoE・PdMなどさまざまで、組織規模によってはひとつのポジションで複数の役割を担うケースもあります。
+転職するにしても現職を続けるにしても、ここで大事なのは役職名よりも
+そのポジションでどんな役割や業務が求められるのか
+それは今の自分にとってやりたい&成長できる（ちょっと挑戦が必要な）仕事か
+を企業側とすりあわせておくことです。
+関連記事はこちら
+paiza.hatenablog.com
+paiza.hatenablog.com
+
+上流のSIerに転職する
+小規模なN次請け企業から同様のSIerへの転職を目指す場合、数千人規模の大手企業に入社するのは狭き門ですが、元請けもやっているようなより上流に近いSIer（数百人～1000人前後ほどの規模の…]]></summary>
+        <author>
+            <name>paiza開発日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年7月16日号　impishの開発/FUSE3へのトランジション，Visual Studio 2022とWSL ── Ubuntu Weekly Topics]]></title>
+        <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202107/17</id>
+        <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202107/17"/>
+        <updated>2021-07-16T00:42:00.000Z</updated>
+        <summary type="html"><![CDATA[impishではQEMU 6.0の採用が予定されています。この移行に伴って，「少なくともmainリポジトリでは」FUSE3への移行が行われる旨が宣言されています。]]></summary>
+        <author>
+            <name>吉田史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年7月第3週号 1位は，ユーザー体験の原則を5つ紹介，気になるネタは，東京駅などの屋内を「Googleマップ」がナビする新機能--JR東日本の17駅から順次提供へ ── 週刊Webテク通信]]></title>
+        <id>https://gihyo.jp/design/clip/01/weekly-web-tech/202107/15</id>
+        <link href="https://gihyo.jp/design/clip/01/weekly-web-tech/202107/15"/>
+        <updated>2021-07-15T00:15:20.000Z</updated>
+        <summary type="html"><![CDATA[ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2021年7月5日～7月11日の間に見つけた記事のベスト5です。]]></summary>
+        <author>
+            <name>アシカガコウジ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年7月第3週　巻き返しのときがやってきた。まずはGalaxy Watchから ── Android Weekly Topics]]></title>
+        <id>https://gihyo.jp/lifestyle/clip/01/awt/202107/15</id>
+        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202107/15"/>
+        <updated>2021-07-15T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年7月第3週のAndroid関連のニュースをお届けします。]]></summary>
+        <author>
+            <name>傍島康雄</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ITエンジニアに転職・就職してよかった！この仕事の楽しいところ]]></title>
+        <id>hatenablog://entry/26006613785602789</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/07/14/130000"/>
+        <updated>2021-07-14T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。谷口です。
+未経験や新卒からエンジニアを目指しているみなさん、エンジニアを目指そうと思ったのはなぜですか？
+プログラミングが好きだから
+自分でサービスを作れるようになりたいから
+手に職をつけたいから
+楽して稼げそうだから
+働きやすそうだから
+などなど…
+エンジニアになるメリットや、なる前に抱いているイメージは人それぞれかと思います。
+そこで今回は、paizaを運営していてエンジニアの方のお話を聞く中でわかった、ITエンジニアという仕事の楽しいところやメリットなどをお伝えします。
+ITエンジニアの楽しいところ
+技術やプログラミングなど好きなことで仕事ができる
+これは、技術やプログラミングが好きであることが前提になりますが。ただ、もうプログラミングやIT技術が身近になってきたり、エンジニアという職業もかなり一般的になってきた中で、「まったくどんな仕事かわからないけどエンジニアを目指す」とか「パソコンが苦手すぎるけどエンジニアになる」という人はあまりいないと思うので…。
+少なくともITやWebの技術やビジネスに多少は興味があるとか、好きとかいう方だと思います。
+自分の手でプログラミングをして動くものが作れる、仕事としては誰かが使ってくれて喜んでくれるもの、あるいは不便や困りごとを解決できるものを作れるというのはすごく手応えがあり、楽しいことです。
+自分の考えを自分で形にできる
+
+その中でも、エンジニアは「自分の手で考えを形にする」ということができます。自分のアイデアを実現したいとか、ものづくりがしたい人にはぴったりでしょう。
+ものづくりと一言でいっても、作るものによっては一人で実現できなかったり、時間がかかる場合もあります。エンジニアの場合、PCがあれば自分の手元でアイデアをすぐに実現したり、動かしたできます。組織の中でチーム開発をすれば、より大きなサービスやアプリを…]]></summary>
+        <author>
+            <name>paiza開発日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第674回　カーネルのクラッシュ情報を解析する ── Ubuntu Weekly Recipe]]></title>
+        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0674</id>
+        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0674"/>
+        <updated>2021-07-14T00:42:00.000Z</updated>
+        <summary type="html"><![CDATA[第673回では，カーネルクラッシュ時に情報を収集する仕組みを有効化しました。得られた情報は活用しないと意味がありません。今回はその中身を解析する方法を紹介します。]]></summary>
+        <author>
+            <name>柴田充也</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グレープシティ，Windows用画像処理コンポーネント「LEADTOOLS」の最新版 「LEADTOOLS 21J」を発売，新機能・新環境の追加および製品構成を変更 ── ニュースリリース]]></title>
+        <id>https://gihyo.jp/news/nr/2021/07/1301</id>
+        <link href="https://gihyo.jp/news/nr/2021/07/1301"/>
+        <updated>2021-07-13T05:44:00.000Z</updated>
+        <summary type="html"><![CDATA[グレープシティ株式会社は2021年7月13日，Windows用画像処理コンポーネント「LEADTOOLS」の最新バージョン「LEADTOOLS 21J」を発売した。]]></summary>
+        <author>
+            <name>技術評論社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年7月12日　Linux 5.14-rc1が登場，正式リリースは8月後半か9月前半に ── Linux Daily Topics]]></title>
+        <id>https://gihyo.jp/admin/clip/01/linux_dt/202107/12</id>
+        <link href="https://gihyo.jp/admin/clip/01/linux_dt/202107/12"/>
+        <updated>2021-07-12T07:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvaldsは7月11日，次期カーネル「Linux 5.14」の最初のリリース候補（RC）版となる「Linux 5.14-rc1」を公開した。]]></summary>
+        <author>
+            <name>階戸アキラ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年7月12日　新宿の巨大じゃないみけこなど ── 帰ってきた『技評ねこ部通信』]]></title>
+        <id>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202107/0712</id>
+        <link href="https://gihyo.jp/lifestyle/clip/01/monthly-cat/202107/0712"/>
+        <updated>2021-07-12T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[巨大なのもよいですが，巨大じゃない方がむしろよい，のです。]]></summary>
+        <author>
+            <name>gihyo.jp：総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30代後半から40代で転職に失敗するエンジニアがやりがちな勘違いとその対策]]></title>
+        <id>hatenablog://entry/26006613785005154</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/07/12/130000"/>
+        <updated>2021-07-12T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。倉内です。
+30代も半ばを過ぎると、これまで培ってきたスキルや経験で日々の仕事をある程度こなせるようになり、エンジニアといってもチームや組織をマネジメントする役割につく方も多いでしょう。
+そんな中で現状になんとなく閉塞感がある、年次が上がるにつれてやりたいことができなくなってきてつまらない…と感じるようになったり、環境を変えてもっと年収を上げたい・キャリアアップしたいといった理由で転職を考える方もいらっしゃると思います。
+一般的に年齢が上がるにつれ、転職の難度も上がりますが、エンジニアは専門職であり自身のスキルで仕事に就くことができるため年齢に左右されづらい面があります。
+ただ、特に若いうちに転職経験がある方に多いのが、20代前半と同じような気持ちと準備で転職活動に臨んでしまいうまくいかず悩むというものです。
+今回は、採用企業側の声も紹介しながら、30代後半から40代で転職に失敗する人がやりがちな勘違いと、成功させるためにどうすればいいかの対策をお伝えしたいと思います。
+エンジニア採用企業の本音
+採用状況について
+コロナ前後での中途採用の変化
+40代前後の転職でよくある3つの勘違いとその対策
+1．企業側が求める人材を理解できていない
+対策：企業が40代前後の人材に何を期待しているか知る
+2．転職準備にかける時間が圧倒的に足りていない
+対策：時間をかけて勝つための準備をする
+3．選考で年齢相応の実績アピールができていない
+対策：課題解決のプロセスも含め実績として伝える
+まとめ
+エンジニア採用企業の本音
+typeが2021年2月に公開した、企業向けアンケート調査（52社（IT・通信 / インターネット・広告・メディア 業界が対象））の結果から採用状況や企業の本音を見ていきます。
+（参考）【2021年2月】ITエンジニア採用のための最新動向情報！企業の採用状況・求人倍…]]></summary>
+        <author>
+            <name>paiza開発日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年7月9日号　AMD Sensor Fusion Hubの最新ドライバ，zstdベースのアーカイブ ── Ubuntu Weekly Topics]]></title>
+        <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202107/09</id>
+        <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202107/09"/>
+        <updated>2021-07-09T04:12:00.000Z</updated>
+        <summary type="html"><![CDATA[最近Linux Kernelにマージされた，AMD Sensor Fusion HubのドライバがUbuntuのOEMカーネルにマージされる見込みです。]]></summary>
+        <author>
+            <name>吉田史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[優秀だけど今の仕事が嫌いなエンジニアたちはどうしたらいいんだろう]]></title>
+        <id>hatenablog://entry/26006613784111724</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/07/09/130000"/>
+        <updated>2021-07-09T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。谷口です。
+今の自分の仕事について「不満がある」「この仕事についたことを後悔している」「転職したい」と考えている人は多いでしょう。
+特にエンジニアの場合、スキルのある優秀な方々からも
+エンジニアリングだけをしていたいので会社にマネジメント業務を求められるのが嫌
+インフラエンジニアになったが、本当はもっと開発寄りの仕事がしたい
+のようなご相談をよくお受けします。
+エンジニアが自分にとって満足度の高い仕事を得るにはどうしたらよいのでしょうか。
+優秀なエンジニアだからこそ感じる不満
+例えば、最初にあげた「エンジニアリングだけをしていたいので会社にマネジメント業務を求められるのが嫌」というよくある悩みを抱えている人について考えてみます。
+こうした悩みを抱える方々は、それなりに開発もマネジメントもできる優秀な方々が多くいらっしゃいます。
+プログラミングや開発業務が好きでエンジニアになったけど、数年たって会社からマネジメント業務を求められるようになった。マネジメントもチームにとって必要だからやってはいるしできなくはないけど、好きではない…。自分はやっぱり技術が好きだし開発がしたい…。けどマネジメントしないと会社から評価されないし、開発だけが続けられるキャリアパスもないし…。
+新卒から数年たったエンジニア、それも技術が好きで得意な、優秀なエンジニアならではのお悩みです。
+不満を解消して満足できる仕事を見つけるには
+前述のお悩みを抱えたエンジニアが、不満を解消するには以下のような方法があります。
+今すぐ開発に専念できそうな企業に転職する
+
+会社から求められる仕事内容や評価体制、キャリアパスなどに不満があるのであれば、自分の希望に近しい企業を探して、転職すればすぐにでも不満を解消できるでしょう。
+ただ、ここで注意すべきことは以下の二点です。
+得意＝やりたいことではない、働きやすさ…]]></summary>
+        <author>
+            <name>paiza開発日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[簡単すぎる！GitHubを自分だけのRSSリーダーに変える「osmos:feed」を使ってみた！]]></title>
+        <id>hatenablog://entry/26006613784123348</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/07/07/150000"/>
+        <updated>2021-07-07T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[どうも、まさとらん（@0310lan）です！
+今回は、GitHubのリポジトリをWebベースのRSSリーダーに変えることができるユニークなツールをご紹介します。
+専門的な知識は一切不要で、マークダウンファイルに好きなフィードを追加していくだけですぐに自分だけのRSSリーダーを作って管理できるようになります。
+すべて無料で利用可能なので、ご興味ある方はぜひ参考にしてみてください！
+【 osmos::feed 】
+
+■「osmos::feed」の使い方
+それでは、「osmos::feed」をどのように使えばいいのか詳しく見ていきましょう！
+基本的な使い方としては、公式のリポジトリにテンプレートが公開されているので、これを自分のGitHubリポジトリとしてコピーするところから始めます。
+テンプレートは以下のURLからアクセスできるようになっています。
+
+＜テンプレートURL＞
+https://github.com/osmoscraft/osmosfeed-template
+
+
+【Use this template】ボタンをクリックしてください。
+
+
+リポジトリの作成画面が表示されるので、好きなリポジトリ名を設定してから画面下部にある緑色のボタンをクリックします。
+
+
+これで、自分のGitHubリポジトリとしてテンプレートがコピーされました。
+
+テンプレートにはデフォルトでいくつかのRSSがすでに登録されているので、まずはこの状態でRSSリーダーとして機能するかを確認してみましょう。
+
+【Settings】タブをクリックしてください。
+
+
+「Pages」の項目をクリックしてGitHub Pagesの設定画面を開きます。
+
+
+【Source】の項目でブランチを選択するのですが、リストから「gh-pages」を選んでから「Save」ボタンをクリックしてください。
+
+
+数秒ほど待ってから…]]></summary>
+        <author>
+            <name>paiza開発日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「コードが書ければいい」だけじゃない！エンジニアを目指す人向け基礎テクニック]]></title>
+        <id>hatenablog://entry/26006613782549489</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/07/05/130000"/>
+        <updated>2021-07-05T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。倉内です。
+これからITエンジニアを目指そうという方の中には、学校で情報系を専攻した方もいれば、そうでない方もいらっしゃると思います。
+プログラミングは、向き不向きもありますが、基本の習得からサービスやアプリの開発までその気があればWebの学習教材や書籍、スクールに通うなどの方法で十分習得することができます。
+ただ、業務で開発をする場合、コードさえ書ければよいというわけではなく、それ以外にも実務で必須のテクニックがあります。特に未経験からエンジニアになると最初はそのあたりが分からず苦労することも多いようです。
+そこで今回は、エンジニアとして開発をおこなうにあたって、覚えておくべき基本的なテクニックのうちいくつかをお伝えしたいと思います。
+エンジニアを目指す人向け・開発の必須知識6選
+コーディングの規則について知る
+あとから読んでも理解できるコメントを残す
+エラーメッセージに慣れる
+コマンド実行を嫌がらない
+適切にログを出力して検証などに役立てる
+欲しい結果にたどり着くための検索力をつける
+なぜ業務ではそういった知識が必要になるのか
+チームで開発する
+開発規模の違い
+影響範囲の違い
+まとめ
+エンジニアを目指す人向け・開発の必須知識6選
+コーディングの規則について知る
+学習のためにプログラミング問題を解いたり、趣味でひとりで開発したりといったときにはとりあえず動くコードであればいいかもしれません。
+ただし業務での開発は多くの場合チームでおこないます。自分が書いたコードを他の人がメンテナンスしたり、逆に他の人が担当した機能に手をいれるために影響範囲を調べたりすることもあるでしょう。業務ではそういったことも意識してコードを書く必要があります。
+そこで、保守性や品質を高めるためにプロジェクトで共通して守るべきコーディングのルールをまとめたものが「コーディング規約」です。コ…]]></summary>
+        <author>
+            <name>paiza開発日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「自分にマネジャーは無理」は思い込みかも？エンジニアに求められるマネジメントスキルとは]]></title>
+        <id>hatenablog://entry/26006613778703817</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/07/02/140000"/>
+        <updated>2021-07-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo by Mark Hawkins
+こんにちは。谷口です。
+入社から数年たった若手エンジニアの方からよくご相談を受けるのが「会社からマネジメント業務も求められているけどどうしたらよいかわからない」といったお悩みです。
+「マネジメントをするのが嫌だから」という理由で、転職を希望するITエンジニアの方は少なくありません。
+その中には「今の会社を離れればマネジメントをしなくて済む」「自社開発をしている企業に入ればプログラミングだけをしていられる」と思っている人もいます。が、それは間違いです。
+一口にマネジメントといってもその分野はいくつかにわかれます。受託開発におけるいわゆるプロジェクトマネジメントだけが、エンジニアに求められるマネジメント業務ではありません。
+というわけで今回は、マネジメント初心者の方向けに、エンジニアに求められるマネジメント業務について簡単に解説します。
+チームマネジメント
+
+エンジニアの仕事を続けて年次や経験を重ねていくと、後輩や部下が増えてきますよね。チームリーダーとして、彼らをまとめあげ、一緒に成果を上げることが求められたりもするでしょう。このときに必要なのがチームマネジメントです。
+メンバーと信頼関係を築く
+「自分の仕事だけが進めばよい、自分だけが成果を上げればよい」「コミュニケーションは必要最低限でよい」という考えではチームマネジメントはできません。
+メンバーとの信頼関係を築いた上で、チームとしての成果の最大化や効率化を目指すには、以下のようなポイントに気をつけるとよいかと思います。
+メンバーとのコミュニケーション
+・情報共有
+適切な目標や期限の設定
+・目標は低すぎても高すぎても成長機会にならない
+プロジェクトマネジメント
+マネジメントと言われると、プロジェクトマネジメントを思い浮かべる人も多いかと思います。プロジェクトマネジメントとは、期限…]]></summary>
+        <author>
+            <name>paiza開発日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高度なモーションデザインを無料で作成できるWebエディタ「Jitter」を使ってみた！]]></title>
+        <id>hatenablog://entry/26006613781574564</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/06/30/160000"/>
+        <updated>2021-06-30T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[どうも、まさとらん（@0310lan）です！
+今回は、Webデザインに活用できるモーションデザインをブラウザ上のエディタから誰でも簡単に作れるWebサービスをご紹介します。
+手軽に高度なアニメーションを実現できる機能が豊富に提供されており、簡単なものならマウスで数回クリックするだけで完成してしまいます。無料で書き出しにも対応しており、記事後半ではFigmaとの連携方法についても解説しています。
+Webのアニメーションにご興味ある方はぜひ参考にしてみてください！
+【 Jitter 】
+
+■「Jitter」の使い方
+それでは、「Jitter」をどのように使えばいいのか詳しく見ていきましょう！
+まずはサイトのトップページから【Try it now】ボタンをクリックして無料のユーザー登録を済ませておきます。
+
+
+メールアドレスや名前などを入力するだけなので簡単です。
+
+登録したメールアドレス宛にログイン用のリンクが送付されるのでクリックしましょう。
+
+すると自分専用のダッシュボード画面が表示されます。
+
+これで準備は完了です！
+公式チュートリアルも公開されているので、最初にいくつかチェックしておくといいでしょう。
+■「Jitter」の機能紹介
+まず最初に「Jitter」のWebエディタがどのような機能を提供しているのかについて、基本的な部分をピックアップして解説しておきます。
+新規のプロジェクトを作成するにはダッシュボード画面から「New file」ボタンをクリックします。
+
+
+モーションデザインを作成するための編集エディタが表示されます。
+
+
+このエディタはざっくり言うと、3つの画面に分かれています。
+
+それぞれの画面は以下のような役割があります。
+【レイヤー】キャンバス上に配置したオブジェクトのリスト
+【キャンバス】デザインを作成するメイン画面
+【プロパティ】オブジェクトの設定…]]></summary>
+        <author>
+            <name>paiza開発日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[paiza×STEINS;GATEコラボ決定！事前登録受付中]]></title>
+        <id>hatenablog://entry/26006613781224086</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/06/29/150000"/>
+        <updated>2021-06-29T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[このたび、不朽の名作「STEINS;GATE」とpaizaのコラボが開催決定しました。
+岡部たちの新たな野望を達成する手段は「プログラミング」。秋葉原に、そして世界に革命を起こせ！2021年7月28日、数々の世界線を超えてきた岡部たちに、新たなオペレーションが始まる！
+7/28の開催に向けて、ただいまティザーページにて事前登録受付中です。
+事前登録はこちら
+
+
+待ってる間にプログラミング学習できるコンテンツ
+プログラミングが動画で学べるpaizaラーニング
+
+paizaラーニングは、動画レッスンを見ながらプログラミングの基本を学び、ブラウザ上で演習問題を解くことでスキルが身につくプログラミング学習サービスです。
+Python、Java、C言語、PHP、Ruby、SQLなど人気言語の入門編から、RailsやLaravel、DjangoなどのWebフレームワークを使ってアプリ開発ができる講座など、プログラミング初心者・未経験者でも楽しくやさしく学べる内容となっています。
+動画講座は、未経験から始められる各プログラミング言語の入門編から
+
+各言語のWebアプリケーションフレームワークなどを使って、実際に簡単なWebサービスを作ってみることができる実践的なWeb開発入門編
+
+などを公開しています。
+paizaラーニングについて詳しくはこちら
+
+
+コードクロニクル
+対応言語：Python、Java、PHP、Ruby、C#、C、C++、JavaScript、Kotlin
+
+コードクロニクル』は、「プログラミング＝魔法」というファンタジー世界で、簡単なプログラミング問題を解きながら進めていく学習ゲームです。
+豊かな自然に恵まれ、さまざまな種族が共存する穏やかな王国「パイザ」。魔法使いのお姫様エレナが17歳になった時、父王から「古より伝わりし王家秘伝の魔導書をその手におさめよ」と試練が与えられる。魔法で守られた王国「パイザ」から下界に降り立ち、人々を助けたり子どもたちに魔法を教えたりしながら進む一行、エレナと仲間たちの冒険のゆくえは……？
+
+
+コードガールこれくしょん
+対応言語：Python、Java、PHP、Ruby、C、C++、C#、JavaScript
+
+『コードガールこれくしょん』は、プログラミング問題を解いて「コードガール」を集めながらストーリーを進めていくプログラミング学習コンテンツです。
+
+ゲーム内では、クエスト報酬やログインボーナスなどとして手に入るコインやダイヤを使ってさまざまなコードガールが収集できます。このコードガールは、クエストを有利に進められるスキルが使えたり、これくしょんとしてマイページに飾ったりすることができます。
+ノーマルモードとハードモード（※現在Pythonのみ対応）があり、初心者でも少しずつプログラミングの練習ができます。
+
+ほかにも、paizaの学習ゲームコンテンツをこちらでご紹介しています。興味のある方はぜひチャレンジしてみてください！
+
+
+
+
+
+paizaラーニング」では、未経験者でもブラウザさえあれば、今すぐプログラミングの基礎が動画で学べるレッスンを多数公開しております。
+詳しくはこちら
+
+そしてpaizaでは、Webサービス開発企業などで求められるコーディング力や、テストケースを想定する力などが問われるプログラミングスキルチェック問題も提供しています。
+スキルチェックに挑戦した人は、その結果によってS・A・B・C・D・Eの6段階のランクを取得できます。必要なスキルランクを取得すれば、書類選考なしで企業の求人に応募することも可能です。「自分のプログラミングスキルを客観的に知りたい」「スキルを使って転職したい」という方は、ぜひチャレンジしてみてください。
+詳しくはこちら]]></summary>
+        <author>
+            <name>paiza開発日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リモート時代のオンボーディング、事例3選＆成功のポイント]]></title>
+        <id>hatenablog://entry/26006613779504703</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/06/28/130000"/>
+        <updated>2021-06-28T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。倉内です。
+以前、中途入社した社員がいち早く組織になじみ、成果を出すために企業側は「オンボーディング」で受け入れる必要があるとお伝えしたことがあります。
+paiza.hatenablog.com
+昨今入社時からリモート勤務というのも珍しくないと思いますが、オフィスでの受け入れと異なり課題を感じている企業も多いのではないでしょうか。
+また、エンジニアはリモートワークとの相性がよい職種とは言え、転職直後にリモートで働く経験がある人はまだそう多くはなく、不安を感じている人がほとんどです。
+そこで今回は、リモート環境下で社員を受け入れる際に企業はどんなことに気をつけるべきか、そして企業の成功事例を見ながら具体的な取り組みについても考えたいと思います。
+リモート時代だからこそ重視したいオンボーディング
+オンボーディングをする意味
+エンジニアは実際リモートワークをどう感じているか
+アンケート回答者の属性
+リモートワークの満足度
+リモートワークの不満・不便なこと
+リモート下での具体的なオンボーディング事例
+押さえておきたい4つの基本事項
+1. 適したツールを利用する
+2. 暗黙のルールをなくし見える化する
+3. 意図的なコミュニケーション機会を設ける
+4. 適切な期待値やゴール、評価制度を設定する
+他社事例
+Visionalグループ
+NTT Communications
+LAPRAS
+まとめ
+リモート時代だからこそ重視したいオンボーディング
+オンボーディングをする意味
+オンボーディングとは、簡単に言うと「新卒・中途で採用した新入社員が帰属意識を持ち、組織の一員として早期に成果を出せるようサポートする仕組みのこと」です。
+導入するメリットは大きく以下の3つがあります。
+新しいメンバーを短期間で戦力化する
+既存社員を巻き込んだ取組みのため組織の一体感・結束力を高める
+早期退職を防…]]></summary>
+        <author>
+            <name>paiza開発日誌</name>
         </author>
     </entry>
 </feed>
