@@ -12,6 +12,123 @@
       "siteUrl": "https://www.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/business/articles/2107/29/news147.html",
+          "author": null,
+          "description": "未婚男女270人を対象に「オンライン婚活」に関する調査を実施。結果は？",
+          "link": "https://www.itmedia.co.jp/business/articles/2107/29/news147.html",
+          "publishedOn": "2021-07-29T11:40:00.000Z",
+          "wordCount": 125,
+          "title": "[ITmedia ビジネスオンライン] 結婚の裏側にある「婚活ヅカレ」　オンライン婚活に関する男女の悩み1位は？"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2107/29/news141.html",
+          "author": null,
+          "description": "大東建託は、岡山県に住む成人男女累計6641人の回答を集計し、住みここちランキングを作成した。",
+          "link": "https://www.itmedia.co.jp/business/articles/2107/29/news141.html",
+          "publishedOn": "2021-07-29T11:34:00.000Z",
+          "wordCount": 122,
+          "title": "[ITmedia ビジネスオンライン] 岡山県の住みここちランキング2021　交通利便性や行政サ―ビスが評価され1位になった町は？"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2107/29/news149.html",
+          "author": null,
+          "description": "眼鏡チェーン「JINS」を運営するジンズは、スノーピークとコラボしたサングラス「JINS×Snow Peak」を発売。大人から子ども向けまで全4シリーズ6型18種で展開し、アウトドアシーンに最適なモデルとなっている。",
+          "link": "https://www.itmedia.co.jp/business/articles/2107/29/news149.html",
+          "publishedOn": "2021-07-29T11:28:00.000Z",
+          "wordCount": 170,
+          "title": "[ITmedia ビジネスオンライン] JINSとSnow Peakがコラボ、アウトドアに最適なサングラスを発売"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/pcuser/articles/2107/29/news144.html",
+          "author": null,
+          "description": "マウスコンピューターの「G-Tune EP-A-6700XT」は、AMDの最新CPUとGPUをまとったゲーミングデスクトップPCだ。製品レビューの前に、写真でじっくり見ていこう。",
+          "link": "https://www.itmedia.co.jp/pcuser/articles/2107/29/news144.html",
+          "publishedOn": "2021-07-29T11:20:00.000Z",
+          "wordCount": 581,
+          "title": "[ITmedia PC USER] Ryzen 5000シリーズ＋Radeon RX 6700 XT！　写真で見る「G-Tune EP-A-6700XT」"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/29/news148.html",
+          "author": null,
+          "description": "Kasperskyが、東京五輪に便乗したフィッシング詐欺の手口を同社の公式サイトで紹介した。被害に遭わないよう、サイトURLの確認や公式サービスを使うよう注意を促した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/29/news148.html",
+          "publishedOn": "2021-07-29T11:15:00.000Z",
+          "wordCount": 153,
+          "title": "[ITmedia News] 五輪に便乗した詐欺サイト、5つの手口　「チケット払い戻し」やIOC偽サイトなど　Kasperskyが注意喚起"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/29/news146.html",
+          "author": null,
+          "description": "広島市内でタクシー事業を共同運営する協同組合タクシーセンター（広島市）が電話で運賃を事前確定するサービスを8月2日から始める。電話で乗降車場所を告げると、専用システムで適切な経路を検索するとともに、運賃を提示する仕組み。",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/29/news146.html",
+          "publishedOn": "2021-07-29T11:02:00.000Z",
+          "wordCount": 151,
+          "title": "[ITmedia News] 電話でタクシー運賃を事前確定　広島で8月開始、順次全国展開"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2107/29/news145.html",
+          "author": null,
+          "description": "JR東日本は、プリペイドカード「オレンジカード」のうち、5000円券と1万円券を9月30日に廃止する。",
+          "link": "https://www.itmedia.co.jp/business/articles/2107/29/news145.html",
+          "publishedOn": "2021-07-29T10:59:00.000Z",
+          "wordCount": 127,
+          "title": "[ITmedia ビジネスオンライン] JR東、オレンジカードを一部廃止　発売から36年"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/29/news140.html",
+          "author": null,
+          "description": "集英社は29日、「週刊ヤングジャンプ」で連載中の人気まんが「ゴールデンカムイ」をWebコミックサイト「となりのヤングジャンプ」とスマートフォンアプリ「ヤンジャン！」で無料公開した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/29/news140.html",
+          "publishedOn": "2021-07-29T10:28:00.000Z",
+          "wordCount": 154,
+          "title": "[ITmedia News] 人気まんが「ゴールデンカムイ」全話無料公開　アプリとWebサイトで　9月17日まで"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2107/29/news138.html",
+          "author": null,
+          "description": "オリエンタルランドが22年3月期第1四半期の連結業績を発表。売上高は前年同期比8倍に回復したが、純損失は60億円の赤字に。",
+          "link": "https://www.itmedia.co.jp/business/articles/2107/29/news138.html",
+          "publishedOn": "2021-07-29T10:20:00.000Z",
+          "wordCount": 128,
+          "title": "[ITmedia ビジネスオンライン] オリエンタルランド、売上8倍も純損失60億円　入園制限で、見通しは不透明"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/29/news139.html",
+          "author": null,
+          "description": "日本高等学校野球連盟（日本高野連）は8月に開幕する全国高校野球選手権大会（夏の甲子園）の開催に向け、クラウドファンディングで1億円の資金を募ると発表した。一般向けチケットの販売断念で収益が大幅に減少するため。",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/29/news139.html",
+          "publishedOn": "2021-07-29T10:19:00.000Z",
+          "wordCount": 157,
+          "title": "[ITmedia News] “夏の甲子園”開催へ日本高野連がクラファン、1億円募る　チケット販売断念に伴う減収で"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2107/29/news125.html",
+          "author": null,
+          "description": "不二家は7月29日、2021年12月期第2四半期（21年1～6月）の連結決算を発表した。",
+          "link": "https://www.itmedia.co.jp/business/articles/2107/29/news125.html",
+          "publishedOn": "2021-07-29T08:50:00.000Z",
+          "wordCount": 129,
+          "title": "[ITmedia ビジネスオンライン] 不二家、営業利益は464.0%増　洋菓子・製菓事業ともに好調"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/29/news132.html",
+          "author": null,
+          "description": "米Cloudflareが、東京オリンピックの競技が始まってから、日本へのサイバー攻撃の数が前週比で10倍以上に増加したとする調査データを公開した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/29/news132.html",
+          "publishedOn": "2021-07-29T08:50:00.000Z",
+          "wordCount": 157,
+          "title": "[ITmedia News] 日本へのサイバー攻撃、五輪開始後は約10倍に　組織委「対策を徹底する」"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2107/29/news130.html",
+          "author": null,
+          "description": "日本航空は宿泊および賃貸運営業を展開するKabuK Styleと提携し、「航空サブスクサービス」の実証実験を始めると発表した。どんな内容かというと……。",
+          "link": "https://www.itmedia.co.jp/business/articles/2107/29/news130.html",
+          "publishedOn": "2021-07-29T08:42:00.000Z",
+          "wordCount": 131,
+          "title": "[ITmedia ビジネスオンライン] JAL、「航空サブスク」実証実験　3万6000円で3往復とホテル3泊"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2107/29/news128.html",
           "author": null,
           "description": "さいたま市は29日、市の誕生20周年を記念して無観客の「♯StayHome花火大会」を実施すると発表した。打ち上げの日時や場所は非公開。",
@@ -1855,6 +1972,267 @@
       "siteUrl": "https://ascii.jp/1/",
       "articles": [
         {
+          "id": "https://ascii.jp/elem/000/004/064/4064244/?rss",
+          "author": null,
+          "description": "ファーウェイは、中国でオンライン発表会を開催。6月のHarmonyOS搭載デバイスの発表会で予告していた、同社最新フラグシップモデル「HUAWEI P50」シリーズを正式に発表した。",
+          "link": "https://ascii.jp/elem/000/004/064/4064244/?rss",
+          "publishedOn": "2021-07-29T12:35:00.000Z",
+          "wordCount": 201,
+          "title": "ファーウェイ、「HUAWEI P50」シリーズ海外発表　RGB＋モノクロに10bit処理と最強カメラ再び"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064077/?rss",
+          "author": null,
+          "description": "アスキーストアでは、スキミング防止機能付きカード入れ、紙幣と硬貨が入れられる多機能財布「イタリアシュリンクレザーRFIDミニウォレット」を販売中。",
+          "link": "https://ascii.jp/elem/000/004/064/4064077/?rss",
+          "publishedOn": "2021-07-29T12:00:00.000Z",
+          "wordCount": 350,
+          "title": "スキミング防止機能付き！ 小さくても多機能なイタリアシュリンクレザーのミニウォレット"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064242/?rss",
+          "author": null,
+          "description": "シャオミは、公式Twitterアカウントで8月2日14時の新製品発表を予告している。",
+          "link": "https://ascii.jp/elem/000/004/064/4064242/?rss",
+          "publishedOn": "2021-07-29T11:15:00.000Z",
+          "wordCount": 507,
+          "title": "シャオミ、8月2日14時の新製品発表を予告"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064234/?rss",
+          "author": null,
+          "description": "NEOWIZは、PC向けMMORPG『BLESS UNLEASHED PC』で「事前登録特典ボリュームアップキャンペーン」を本日2021年7月29日より開始した。期間は、2021年8月4日正午まで。なお、本作は2021年8月7日にサービス開始予定だ。",
+          "link": "https://ascii.jp/elem/000/004/064/4064234/?rss",
+          "publishedOn": "2021-07-29T11:00:00.000Z",
+          "wordCount": 382,
+          "title": "正式サービスまであと少し！PC向けMMORPG 『BLESS UNLEASHED PC』で事前登録特典ボリュームアップキャンペーンを実施"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064066/?rss",
+          "author": null,
+          "description": "色白ボディーが特徴で、美尻を推して活動する紅羽祐美（くれは・ゆみ）さんが、1st DVD「初恋天使」（発売元：グラヴィス、収録時間：136分、価格：4180円）の発売記念イベントを7月23日、ソフマップAKIBA パソコン・デジタル館で開催した。",
+          "link": "https://ascii.jp/elem/000/004/064/4064066/?rss",
+          "publishedOn": "2021-07-29T11:00:00.000Z",
+          "wordCount": 518,
+          "title": "「日本で一番色白のグラドル」紅羽祐美、最初からセクシー全開で攻める！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/063/4063951/?rss",
+          "author": null,
+          "description": "アスキーストアでは、冷却パネルが首元を冷やす「Qurra ネッククーラー&ウォーマー ひやぬっく」を7月中旬に発売。冬場は温めることも可能。",
+          "link": "https://ascii.jp/elem/000/004/063/4063951/?rss",
+          "publishedOn": "2021-07-29T11:00:00.000Z",
+          "wordCount": 390,
+          "title": "年中活躍するスグレモノ！ 長時間使えるネッククーラー&ウォーマー"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064232/?rss",
+          "author": null,
+          "description": "ロジクールは7月29日、ゲーミングブランド「ロジクールG」より、幅400mm×奥行900mmの特大サイズマウスパッド「ロジクール G840 XLゲーミング マウス パッド」を8月26日から全国の家電量販店とオンラインストアで発売すると発表した。",
+          "link": "https://ascii.jp/elem/000/004/064/4064232/?rss",
+          "publishedOn": "2021-07-29T10:20:00.000Z",
+          "wordCount": 501,
+          "title": "ロジクール、幅400×奥行900mmの特大サイズのゲーミングマウスパッドを8月26日に発売"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064227/?rss",
+          "author": null,
+          "description": "クレカのいらない後払い決済サービス「atone（アトネ）」がセイコーマート全店（北海道・茨城県・埼玉県）で利用可能に。",
+          "link": "https://ascii.jp/elem/000/004/064/4064227/?rss",
+          "publishedOn": "2021-07-29T10:20:00.000Z",
+          "wordCount": 446,
+          "title": "クレカのいらない後払い決済サービス「atone」がセイコーマート全店で利用可能に"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064230/?rss",
+          "author": null,
+          "description": "2021年7月29日、バンダイナムコエンターテインメントは、PlayStation 5／PlayStation 4向けオンライン専用ゲーム『機動戦士ガンダム バトルオペレーション2』で、豪華イベントが満載の3周年大感謝祭を開催。期間は、2021年8月26日13時59分（予定）まで。",
+          "link": "https://ascii.jp/elem/000/004/064/4064230/?rss",
+          "publishedOn": "2021-07-29T10:15:00.000Z",
+          "wordCount": 378,
+          "title": "PS5／PS4『機動戦士ガンダム バトルオペレーション2』で3周年大感謝祭開催中！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064228/?rss",
+          "author": null,
+          "description": "象印マホービンは、あらゆるシーンで使えるデザイン・性能を目指したステンレス真空2重まほうびんで象印独自の「シームレスせん」を採用した「ステンレス キャリータンブラー」SX-JA型・SX-KA型の2シリーズを9月1日から発売する。",
+          "link": "https://ascii.jp/elem/000/004/064/4064228/?rss",
+          "publishedOn": "2021-07-29T10:00:00.000Z",
+          "wordCount": 497,
+          "title": "象印マホービン、ステンレス真空2重まほうびんの新カテゴリー「ステンレス キャリータンブラー」2シリーズが9月1日から発売"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064225/?rss",
+          "author": null,
+          "description": "本機能を有効にすると、ユーザーは商品を左右にスクロールして商品を確認できる。商品をタップすると詳細を確認できるほか、Twitterを離れることなくアプリ内ブラウザーで購入まで完了できる。",
+          "link": "https://ascii.jp/elem/000/004/064/4064225/?rss",
+          "publishedOn": "2021-07-29T10:00:00.000Z",
+          "wordCount": 501,
+          "title": "Twitter、米国でショッピング機能をテスト アプリ内で購入まで完了"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064218/?rss",
+          "author": null,
+          "description": "リンクスインターナショナルは5.5型のスライド式モバイルゲーミングPC「GPD WIN3」のCore i5-1135G7搭載モデルを発売する。",
+          "link": "https://ascii.jp/elem/000/004/064/4064218/?rss",
+          "publishedOn": "2021-07-29T10:00:00.000Z",
+          "wordCount": 508,
+          "title": "リンクスインターナショナル、スライド式モバイルゲーミングPC「GPD WIN3」のCore i5-1135G7搭載モデルを発売"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064065/?rss",
+          "author": null,
+          "description": "水着で活動すること10年以上。33歳を迎えた「グラビアのおねーさん」こと遠野千夏さんが、19th DVD「極CHIKA」（発売元：エスデジタル、収録時間：120分、価格：4400円）の発売記念イベントを7月23日、ソフマップAKIBA パソコン・デジタル館で開催した。",
+          "link": "https://ascii.jp/elem/000/004/064/4064065/?rss",
+          "publishedOn": "2021-07-29T10:00:00.000Z",
+          "wordCount": 517,
+          "title": "その正体は女スパイ。遠野千夏の19th DVDは、理想と妄想が詰まった新婚生活！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/063/4063950/?rss",
+          "author": null,
+          "description": "スペイン生まれの革新的なサングラス「SUNFOLD」。日本向けに選りすぐりの3種類をラインナップしました。",
+          "link": "https://ascii.jp/elem/000/004/063/4063950/?rss",
+          "publishedOn": "2021-07-29T10:00:00.000Z",
+          "wordCount": 403,
+          "title": "「腕に巻く」革命的サングラス「SUNFOLD」で夏を楽しもう！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064247/?rss",
+          "author": null,
+          "description": "東大発クラウド処方箋読取サービス「mediLab AI」がUI, AI基盤を強化",
+          "link": "https://ascii.jp/elem/000/004/064/4064247/?rss",
+          "publishedOn": "2021-07-29T09:37:49.000Z",
+          "wordCount": 530,
+          "title": "東大発クラウド処方箋読取サービス「mediLab AI」がUI, AI基盤を強化"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064226/?rss",
+          "author": null,
+          "description": "2021年7月29日、アパート経営シミュレーションゲーム『お住まい夢物語DX』（Nintendo Switch／PlayStation 4）が、カイロソフトより配信開始された。価格は、1500円。",
+          "link": "https://ascii.jp/elem/000/004/064/4064226/?rss",
+          "publishedOn": "2021-07-29T09:30:00.000Z",
+          "wordCount": 300,
+          "title": "カイロソフト、世界で1270万DLを誇る人気SLG『お住まい夢物語DX』をSwitch／PS4で配信開始！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064217/?rss",
+          "author": null,
+          "description": "Amazonパントリーは、食品や日用品をまとめて注文できるサービス。2015年9月より提供していたが、8月24日23時59分をもってサービスを終了する。",
+          "link": "https://ascii.jp/elem/000/004/064/4064217/?rss",
+          "publishedOn": "2021-07-29T09:30:00.000Z",
+          "wordCount": 504,
+          "title": "「Amazonパントリー」8月24日でサービス終了へ"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064215/?rss",
+          "author": null,
+          "description": "ZENB JAPANは、FOOD LOSS BANKとコラボし、可能な限りまるごと使った野菜に豆・雑穀・ナッツを加えた、動物性原料や添加物を使わないスティック食品「ZENB STICK」にアーティストの佐々木卓也さんがデザインしたオリジナルパッケージを施し、7月29日から数量限定で販売する。",
+          "link": "https://ascii.jp/elem/000/004/064/4064215/?rss",
+          "publishedOn": "2021-07-29T09:30:00.000Z",
+          "wordCount": 304,
+          "title": "アーティストの佐々木卓也さんがデザインしたオリジナルパッケージのスティック食品「ZENB STICK」、7月29日から数量限定で販売"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064214/?rss",
+          "author": null,
+          "description": "高額オレンジカード（5000円券、1万円券）を、9月30日をもって廃止。同社は10月1日～2023年3月31日の期間、5000円・1万円のオレンジカードの払戻しを実施する。",
+          "link": "https://ascii.jp/elem/000/004/064/4064214/?rss",
+          "publishedOn": "2021-07-29T09:30:00.000Z",
+          "wordCount": 500,
+          "title": "JR東日本、5000円・1万円の高額オレンジカードを9月末に廃止へ"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064213/?rss",
+          "author": null,
+          "description": "東京都は「自画像撮り被害」防止にむけ、裸や裸に近い画像を撮影した際に警告を表示するカメラアプリの使用を推奨する発表を行なった。",
+          "link": "https://ascii.jp/elem/000/004/064/4064213/?rss",
+          "publishedOn": "2021-07-29T09:30:00.000Z",
+          "wordCount": 497,
+          "title": "東京都、裸を自撮りすると警告を出すカメラアプリを推奨"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064180/?rss",
+          "author": null,
+          "description": "Wi-Fiや有線通信デバイスを、SORACOMでIoT化できる新サービス「SORACOM Arc」を活用したアイディアと使用方法についてのブログ記事を募集。優秀なブログを執筆した人に優秀賞、そしてエントリーした全員に参加賞が用意される。",
+          "link": "https://ascii.jp/elem/000/004/064/4064180/?rss",
+          "publishedOn": "2021-07-29T09:30:00.000Z",
+          "wordCount": 229,
+          "title": "ソラコム、新サービス「SORACOM Arc」活用のブログを募集。8月31日まで"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064246/?rss",
+          "author": null,
+          "description": "【7/31-8/1の週末限定】Show !tでの商品購入で、もれなく「Switch Bot」プレゼント！【￥4,378相当】",
+          "link": "https://ascii.jp/elem/000/004/064/4064246/?rss",
+          "publishedOn": "2021-07-29T09:00:00.000Z",
+          "wordCount": 586,
+          "title": "【7/31-8/1の週末限定】Show !tでの商品購入で、もれなく「Switch Bot」プレゼント！【￥4,378相当】"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064210/?rss",
+          "author": null,
+          "description": "楽天モバイルは、オリジナルモバイルWi-Fiルーターの新製品「Rakuten WiFi Pocket 2B」を「楽天モバイル」公式サイトおよび全国の楽天モバイルショップにて7月29日より販売。また、キャンペーンとして「Rakuten WiFi Pocket 2 本体価格1円キャンペーン」も実施される。",
+          "link": "https://ascii.jp/elem/000/004/064/4064210/?rss",
+          "publishedOn": "2021-07-29T09:00:00.000Z",
+          "wordCount": 529,
+          "title": "楽天モバイル、モバイルWi-Fiルーターの新製品「Rakuten WiFi Pocket 2B」を7月29日より販売"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064209/?rss",
+          "author": null,
+          "description": "AppleはApple TVアプリをアップデートした。ビデオサブスクリプションサービスのAmazon Prime Videoやバンダイチャンネルがシームレスに視聴可能となる。",
+          "link": "https://ascii.jp/elem/000/004/064/4064209/?rss",
+          "publishedOn": "2021-07-29T09:00:00.000Z",
+          "wordCount": 364,
+          "title": "Apple TVアプリがアップデート、Amazon Prime Videoやバンダイチャンネルがシームレスに視聴できる"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064201/?rss",
+          "author": null,
+          "description": "マカフィーは脅威が拡大しているBabukランサムウェアに関する最新調査結果を発表した。",
+          "link": "https://ascii.jp/elem/000/004/064/4064201/?rss",
+          "publishedOn": "2021-07-29T09:00:00.000Z",
+          "wordCount": 197,
+          "title": "マカフィー、Babukランサムウェアに関する最新調査結果を発表"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/063/4063947/?rss",
+          "author": null,
+          "description": "アスキーストアでは、さらに改良され使いやすくなった「Qurra 冷風扇 ヒヤミスト2」を6980円で販売中。",
+          "link": "https://ascii.jp/elem/000/004/063/4063947/?rss",
+          "publishedOn": "2021-07-29T09:00:00.000Z",
+          "wordCount": 431,
+          "title": "ワンタッチでマイナス7.7度！ 送風+ミスト機能を搭載の冷風扇"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064229/?rss",
+          "author": null,
+          "description": "米国疾病予防管理センター（CDC）は、新型コロナウイルス「デルタ株」の国内感染者の増加を受けて、感染者が急増している地域ではマスク着用を推奨すると発表した。米国の63％以上の地域がCDCにより「感染率が相当高い」とされている。",
+          "link": "https://ascii.jp/elem/000/004/064/4064229/?rss",
+          "publishedOn": "2021-07-29T08:51:04.000Z",
+          "wordCount": 477,
+          "title": "ワクチン接種後でもマスク着用を推奨、米CDCが方針転換"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064212/?rss",
+          "author": null,
+          "description": "2021年7月29日、『LOST JUDGMENT：裁かれざる記憶』（PlayStation 5／PlayStation 4／Xbox Series X|S／Xbox One）の「ユースドラマ」に関する最新情報がセガより公開された。本作は、2021年9月24日発売予定。",
+          "link": "https://ascii.jp/elem/000/004/064/4064212/?rss",
+          "publishedOn": "2021-07-29T08:45:00.000Z",
+          "wordCount": 349,
+          "title": "『ロストジャッジメント』暴走族やガールズバーなど、潜入できるコミュニティが新たに公開"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064216/?rss",
+          "author": null,
+          "description": "楽天モバイルは、モバイルルーターの新製品「Rakuten WiFi Pocket 2B」を発売した。端末はZTE製で、価格は7980円。",
+          "link": "https://ascii.jp/elem/000/004/064/4064216/?rss",
+          "publishedOn": "2021-07-29T08:40:00.000Z",
+          "wordCount": 506,
+          "title": "楽天モバイル新ルーター　初回時に実質0円＆3ヵ月使い放題"
+        },
+        {
           "id": "https://ascii.jp/elem/000/004/064/4064202/?rss",
           "author": null,
           "description": "西武バス、国際興業、イーグルバス、ジョルダンは7月29日より、飯能市に来たユーザーが飯能市をチケットレスでお得に満喫できるモバイルチケット企画券「Meets! HANNO Pass 2」の提供開始。",
@@ -3599,6 +3977,24 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/14606",
+          "author": null,
+          "description": "anyenvは、新規事業に特化したモバイルアプリ開発を支援するFlutterアプリ開発ソリューションの提供をを7月27日に発表した。",
+          "link": "http://codezine.jp/article/detail/14606",
+          "publishedOn": "2021-07-29T09:00:00.000Z",
+          "wordCount": 209,
+          "title": "anyenv、新規事業に特化したFlutterアプリ開発ソリューションを提供開始"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/14614",
+          "author": null,
+          "description": "ソフトウェア開発支援ソリューションの開発・提供をするSiderは、同社が提供するコードレビューSaaS「Sider」において、クレデンシャル情報の流出を防ぐセキュリティ機能「Sider Secret Scan」の提供を開始したことを、7月27日に発表した。",
+          "link": "http://codezine.jp/article/detail/14614",
+          "publishedOn": "2021-07-29T09:00:00.000Z",
+          "wordCount": 223,
+          "title": "コードレビューSaaS「Sider」、秘密情報の流出を防ぐセキュリティ機能「Sider Secret Scan」の提供を開始"
+        },
+        {
           "id": "http://codezine.jp/article/detail/14612",
           "author": null,
           "description": "米Googleは、同社が立ち上げた脆弱性の報酬プログラム「Vulnerability Rewards Program（VRP）」が、開始から10年を経たことを受けて、新たなプラットフォーム「bughunters.google.com」の立ち上げを、7月27日（現地時間）に発表した。",
@@ -4382,6 +4778,456 @@
       "feedUrl": "https://news.mynavi.jp/rss/index",
       "siteUrl": "https://news.mynavi.jp/",
       "articles": [
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933914/index.html",
+          "author": null,
+          "description": "つい余計なものまで買ってしまいやすい100円ショップ。しかし、使い方を工夫すれば、より経済的に有利な選択ができるようになります。私は、100円ショップの優位性は2つあると考えています。1つは、もちろん…",
+          "link": "https://news.mynavi.jp/article/20210729-1933914/index.html",
+          "publishedOn": "2021-07-29T12:40:00.000Z",
+          "wordCount": 308,
+          "title": "お金持ち流！100円ショップを使い倒すテクニック"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933910/index.html",
+          "author": null,
+          "description": "大阪市立大学(大阪市大)は7月27日、意欲を引き出すような情報が与えられることによって、認知課題の成績が向上する神経メカニズムを解明したと発表した。",
+          "link": "https://news.mynavi.jp/article/20210729-1933910/index.html",
+          "publishedOn": "2021-07-29T12:39:46.000Z",
+          "wordCount": 291,
+          "title": "事実に関わらずいい成績であると伝えると学習意欲が向上する、大阪市大が確認"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933915/index.html",
+          "author": null,
+          "description": "全国のアミューズメント施設に「しろたん」がやってくる♪ 可愛い「しろたん」プライズが8月より順次展開決定！「しろたん」は、1999年に誕生したたてごとアザラシの赤ちゃんキャラクター。のんびりやさんでちょっぴりおちゃめ、ふわふわで真っ白な愛く・・・",
+          "link": "https://news.mynavi.jp/article/20210729-1933915/index.html",
+          "publishedOn": "2021-07-29T12:30:00.000Z",
+          "wordCount": 302,
+          "title": "たてごとアザラシ「しろたん」アミューズメント施設に参上♪"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933904/index.html",
+          "author": null,
+          "description": "東北大などは、「ベイズ推定」という統計学的手法を用いて、膨大な数のパラメータを持つ電子構造の全貌を明らかにする新しい解析方法を開発したと共同で発表した。",
+          "link": "https://news.mynavi.jp/article/20210729-1933904/index.html",
+          "publishedOn": "2021-07-29T12:22:39.000Z",
+          "wordCount": 304,
+          "title": "東北大など、「ベイズ推定」で電子構造の全貌を明らかにする解析方法を開発"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933899/index.html",
+          "author": null,
+          "description": "老後のお金や生活費が足りるのか不安ですよね。老後生活の収入の柱になるのが「老齢年金」ですが、年金制度にまつわることは、難しい用語が多くて、ますます不安になってしまう人もいるのではないでしょうか。そんな…",
+          "link": "https://news.mynavi.jp/article/20210729-1933899/index.html",
+          "publishedOn": "2021-07-29T12:20:00.000Z",
+          "wordCount": 309,
+          "title": "60代前半でもらえる特別支給の老齢厚生年金は、繰下げ受給できますか？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933911/index.html",
+          "author": null,
+          "description": "チェルシーのアメリカ代表FWクリスティアン・プリシッチが新シーズンに向けて意気込みを語っている。イギリス紙『イブニングスタンダード』が伝えている。\n　チェルシーは昨シーズン、チャンピオンズリーグ（C",
+          "link": "https://news.mynavi.jp/article/20210729-1933911/index.html",
+          "publishedOn": "2021-07-29T12:18:06.000Z",
+          "wordCount": 294,
+          "title": "欧州制覇のチェルシーFWプリシッチが振り返り「簡単な旅ではなかった」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933900/index.html",
+          "author": null,
+          "description": "2021年8月5日（木）より一部のローソン店舗にて、映画『僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション』（8月6日公開）のA4クリアファイル3枚セットを販売する。さらに、8月5日（木）まで、本作のフライトタグ・・・",
+          "link": "https://news.mynavi.jp/article/20210729-1933900/index.html",
+          "publishedOn": "2021-07-29T12:15:00.000Z",
+          "wordCount": 327,
+          "title": "映画『ヒロアカ』限定グッズとムビチケをローソンでゲット！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933890/index.html",
+          "author": null,
+          "description": "千葉工業大学(千葉工大)、金沢大学(金大)、福井大学の3者は7月28日、産学官連携プロジェクトで開発した「幼児用脳磁計」を活用して絵本を読み聞かせ中の子どもの脳反応を調べたところ、読み手の親密性(母親かそうでないか)によって異なることを明らかにしたと発表した。",
+          "link": "https://news.mynavi.jp/article/20210729-1933890/index.html",
+          "publishedOn": "2021-07-29T12:06:53.000Z",
+          "wordCount": 297,
+          "title": "子どもへの読み聞かせは母親と他人では効果が異なる、千葉工大などが確認"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933666/index.html",
+          "author": null,
+          "description": "dTVで配信中の韓流ドラマ『馬医』と華流ドラマ『陳情令』の視聴数が徐々に増加し、6月&7月の月間視聴数ランキングの上位にランクインしたことが発表された。",
+          "link": "https://news.mynavi.jp/article/20210729-1933666/index.html",
+          "publishedOn": "2021-07-29T12:00:00.000Z",
+          "wordCount": 320,
+          "title": "『馬医』『陳情令』、6月&7月の月間視聴数ランキング上位に　dTVが発表"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933882/index.html",
+          "author": null,
+          "description": "SCANDALがパーソナリティをつとめる番組「SCANDAL Catch up Supported by 明治アポロ」。結成、デビューから10年超のキャリアを持ち、最近では国内のみならず世界各国にも熱狂的なファンが多い彼女たち。英語で「最近どう？」という意味の「Catch up」そのままの、フランクな内容でお届けしていきます。\n\n7月26日（月）の配信では、人気コーナー「境界線協会」をお届け。今回は恋愛における“しつこさと積極的”の境界線をメンバーと一緒に探っていきます。",
+          "link": "https://news.mynavi.jp/article/20210729-1933882/index.html",
+          "publishedOn": "2021-07-29T12:00:00.000Z",
+          "wordCount": 366,
+          "title": "SCANDALと考える「境界線テーマ」 恋愛における“しつこさと積極的”の境界線とは？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933885/index.html",
+          "author": null,
+          "description": "1話約2～3分のマンガに声優が声を入れたコンテンツ、ボイスコミック。その第一弾として配信中なのが、かみおりえ先生の『おかあちゃんとかわいいネコちゃんず』。キャリアウーマンの式ちゃん（おかあちゃん）と、愛情を注がれまくる、ふな（ふーちゃん）・・・・",
+          "link": "https://news.mynavi.jp/article/20210729-1933885/index.html",
+          "publishedOn": "2021-07-29T12:00:00.000Z",
+          "wordCount": 317,
+          "title": "『おかネコ』視聴者リクエストキャストはたかはし智秋に決定！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933884/index.html",
+          "author": null,
+          "description": "2021年8月3日（火）より、ローソン店舗（ナチュラルローソン・ローソンストア 100・一部店舗除く）にて、テレビアニメ『PUIPUI モルカー』とタイアップしたキャンペーンを実施する。オリジナルミニトートバッグのプレゼントは10日（火）か・・・",
+          "link": "https://news.mynavi.jp/article/20210729-1933884/index.html",
+          "publishedOn": "2021-07-29T12:00:00.000Z",
+          "wordCount": 309,
+          "title": "モルカーとスイーツのコラボがかわいい♪ ローソンでキャンペーン開催"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933912/index.html",
+          "author": null,
+          "description": "レアル・マドリードは29日、スペイン代表DFダニエル・カルバハルとの契約を2025年6月30日まで延長した。同日、クラブ公式サイトで発表した。\n　現在29歳のカルバハルは、2002年からレアル・マド",
+          "link": "https://news.mynavi.jp/article/20210729-1933912/index.html",
+          "publishedOn": "2021-07-29T11:57:54.000Z",
+          "wordCount": 298,
+          "title": "レアル・マドリード、不動の右SBカルバハルと契約延長！　2025年夏まで"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1928155/index.html",
+          "author": null,
+          "description": "",
+          "link": "https://news.mynavi.jp/article/20210729-1928155/index.html",
+          "publishedOn": "2021-07-29T11:52:08.000Z",
+          "wordCount": 790,
+          "title": "標的型攻撃対策ツール24選比較！各製品の機能や特徴を紹介"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933895/index.html",
+          "author": null,
+          "description": "岩田剛典と新田真剣佑が出演したサスペンス・エンターテインメント映画『名も無き世界のエンドロール』のBlu-ray＆DVDコンプリート版と豪華版収録のメイキング映像の一部が公開された。 原作は2012年「小説すばる新人賞」を受賞した行成薫の同・・・",
+          "link": "https://news.mynavi.jp/article/20210729-1933895/index.html",
+          "publishedOn": "2021-07-29T11:51:00.000Z",
+          "wordCount": 313,
+          "title": "岩田剛典と新田真剣佑初共演映画、映像作品のメイキング映像一部を公開"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933913/index.html",
+          "author": null,
+          "description": "モンテディオ山形がタイ代表MFジャルンサック・ウォンコーンの獲得に動いているようだ。タイの複数メディアが報じている。\n　ジャルンサックは右サイドを主戦場とする24歳のアタッカーで、石井正忠監督が率い",
+          "link": "https://news.mynavi.jp/article/20210729-1933913/index.html",
+          "publishedOn": "2021-07-29T11:46:26.000Z",
+          "wordCount": 294,
+          "title": "山形がタイ代表ジャルンサックの獲得に興味…現地メディアが報道"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933873/index.html",
+          "author": null,
+          "description": "アニメ「天空のエスカフローネ」をモチーフにした香水と雑貨が、本日7月29日にフェアリーテイルから発売された。",
+          "link": "https://news.mynavi.jp/article/20210729-1933873/index.html",
+          "publishedOn": "2021-07-29T11:45:00.000Z",
+          "wordCount": 290,
+          "title": "「天空のエスカフローネ」ディランドゥ＆フォルケンが香水に、ひとみたちの雑貨も"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933871/index.html",
+          "author": null,
+          "description": "欧州南天文台(ESO)は7月22日、アルマ望遠鏡を用いた観測により、生まれて間もない恒星「PDS70」を巡る巨大ガス惑星「PDS70c」の周囲に、衛星が形成されている可能性がある塵の円盤「周惑星円盤」が2019年7月の第一報時を遙かに上回る明確さで検出され、その直径や質量を見積もることに成功したことを発表した。",
+          "link": "https://news.mynavi.jp/article/20210729-1933871/index.html",
+          "publishedOn": "2021-07-29T11:44:38.000Z",
+          "wordCount": 309,
+          "title": "系外衛星が形成中？ アルマ望遠鏡で「周惑星円盤」のサイズと質量を算出"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933875/index.html",
+          "author": null,
+          "description": "青木源太と足立梨花がパーソナリティをつとめ、暮らしに役立つ情報や気になるトピックを深掘りしていくTOKYO FMの番組「青木源太・足立梨花 Sunday Collection」。7月25日（日）の放送では、乃木坂46・山崎怜奈がコメント出演。ゲストに警察庁長官官房参事官・中村彰宏さんを招いて「家族の絆で勝つ！ ストップ！『オレオレ詐欺』」をテーマに話を伺いました。",
+          "link": "https://news.mynavi.jp/article/20210729-1933875/index.html",
+          "publishedOn": "2021-07-29T11:40:00.000Z",
+          "wordCount": 350,
+          "title": "被害額は約285億円！「還付金詐欺」「オレオレ詐欺」…最近の手口は？ 防止対策を解説！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933874/index.html",
+          "author": null,
+          "description": "乃木坂46の山崎怜奈（れなち）がパーソナリティをつとめるTOKYO FMの番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」。7月28日（水）の放送では、みんなの“応援メッセージ”をシェアしました。",
+          "link": "https://news.mynavi.jp/article/20210729-1933874/index.html",
+          "publishedOn": "2021-07-29T11:40:00.000Z",
+          "wordCount": 315,
+          "title": "同期、父、弟、隣人、そして妻へ…みんなが身近な人に贈る“応援メッセージ”とは？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933883/index.html",
+          "author": null,
+          "description": "“芸能界最強占い師”といわれ、テレビ・ラジオ・雑誌など、さまざまなメディアで活躍中のゲッターズ飯田が贈る、今週しあわせになる、ちょっといい言葉。",
+          "link": "https://news.mynavi.jp/article/20210729-1933883/index.html",
+          "publishedOn": "2021-07-29T11:40:00.000Z",
+          "wordCount": 329,
+          "title": "ゲッターズ飯田「恋愛で優位に立てるテクニック」とは？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1932274/index.html",
+          "author": null,
+          "description": "2021年6月にサービス開始から1周年を迎え、競技シーンの注目度も高まってきたタクティカルFPS『VALORANT』。人気の高まりを受けて、試しに自分でプレイしてみたくなってきた人も多いのでは。そこで今回は、VALORANT初心者が迷いそうなポイントをメインに解説しようと思います。",
+          "link": "https://news.mynavi.jp/article/20210729-1932274/index.html",
+          "publishedOn": "2021-07-29T11:30:00.000Z",
+          "wordCount": 382,
+          "title": "タクティカルFPS『VALORANT』を始めよう！ - 初心者向けキャラピックなど総まとめ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933777/index.html",
+          "author": null,
+          "description": "スマートフォン向けアプリ『ラブライブ！スクールアイドルフェスティバル ALL STARS』にてストーリー29章が追加された。",
+          "link": "https://news.mynavi.jp/article/20210729-1933777/index.html",
+          "publishedOn": "2021-07-29T11:30:00.000Z",
+          "wordCount": 325,
+          "title": "『ラブライブ！スクールアイドルフェスティバル ALL STARS』ストーリー29章が追加"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933861/index.html",
+          "author": null,
+          "description": "お金を増やせる人は、お金を引き寄せる力を持っています。そして、引き寄せる準備がいつもできています。お金は欲しいけれどお金に恵まれないと思っている人は、実はお金を引き寄せる心の準備ができていません。たと…",
+          "link": "https://news.mynavi.jp/article/20210729-1933861/index.html",
+          "publishedOn": "2021-07-29T11:30:00.000Z",
+          "wordCount": 315,
+          "title": "自分を貧しくしてしまう5つのふるまい"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933877/index.html",
+          "author": null,
+          "description": "これまでの働き方に大きな転換期が訪れている現在。ニューノーマルな時代に、私たちはどう働き、どのようにキャリアを積めばよいのでしょうか？\n\n7月22日（木）に放送されたTOKYO FMの特別番組「Transform for The Next～プロフェッショナルのあなたに～ supported by ビズリーチ」では、各界を代表する日本のトップランナーがゲストに登場。独自のキャリアを築き上げてきた目線で、これからのビジネスや働き方を語りました。\n\nここでは、GROOVE X株式会社 代表取締役社長・林要さんと、WHILL株式会社 代表取締役社長CEO・杉江理さんの対談パートの内容をご紹介します。",
+          "link": "https://news.mynavi.jp/article/20210729-1933877/index.html",
+          "publishedOn": "2021-07-29T11:30:00.000Z",
+          "wordCount": 362,
+          "title": "これからの時代「会社員」であり続けるメリットは？ ベンチャー企業代表がフリーランス・会社員のメリットを分析"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933876/index.html",
+          "author": null,
+          "description": "TOKYO FMで月曜から木曜の深夜1時に放送の“ラジオの中のBAR”「TOKYO SPEAKEASY」。7月6日（火）のお客様は、コロッケさん、山寺宏一さんのお2人。「飲みの席でモノマネを試している」というコロッケさん。その理由とは？",
+          "link": "https://news.mynavi.jp/article/20210729-1933876/index.html",
+          "publishedOn": "2021-07-29T11:30:00.000Z",
+          "wordCount": 358,
+          "title": "コロッケ、モノマネの練習は「飲んでいるときに、普段やらないやつを試している」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933878/index.html",
+          "author": null,
+          "description": "リアライズのアニメ・漫画専門ECサイトであるAnimo（アニモ）にて、壽屋よりリリースされる『ロックマンX ゼロ ロックマンX セカンドアーマー』の予約販売が開始される。人気ゲーム『ロックマン』より、『ロックマンX ゼロ』『ロックマンX セ・・・",
+          "link": "https://news.mynavi.jp/article/20210729-1933878/index.html",
+          "publishedOn": "2021-07-29T11:30:00.000Z",
+          "wordCount": 312,
+          "title": "かっこいい！『ロックマンX』ゼロ＆セカンドアーマー見参!!"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933858/index.html",
+          "author": null,
+          "description": "インテルに所属するデンマーク代表MFクリスティアン・エリクセンが、同クラブでのプレー続行の可否を判断する検査を受けるようだ。29日、イギリスメディア『スカイスポーツ』が報じた。\n　エリクセンは、6月",
+          "link": "https://news.mynavi.jp/article/20210729-1933858/index.html",
+          "publishedOn": "2021-07-29T11:29:44.000Z",
+          "wordCount": 297,
+          "title": "デンマーク代表MFエリクセンが検査へ…インテルでのプレー続行可否を判断か"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933859/index.html",
+          "author": null,
+          "description": "トッテナムに所属するブラジル代表FWルーカス・モウラが、新たなシーズンについて自身の見解を示した。29日付けでイギリスメディア『BBC』が伝えている。\n　新型コロナウイルスの感染拡大によって財政難や",
+          "link": "https://news.mynavi.jp/article/20210729-1933859/index.html",
+          "publishedOn": "2021-07-29T11:23:35.000Z",
+          "wordCount": 294,
+          "title": "止まないSNSでの人種差別や誹謗中傷へ…L・モウラが警鐘「社会が解決に向かうことを願う」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933896/index.html",
+          "author": null,
+          "description": "PUSHIMが、2021年8月25日にリリースする約2年振り新作ミニアルバム『深呼吸』から表題曲「深呼吸」のMVを公開した。このMVはSIRUP、ZEN-LA-ROCK、あっこゴリラ、さらには電波少女、SCANDALなどの映像も手掛けるマザ・・・",
+          "link": "https://news.mynavi.jp/article/20210729-1933896/index.html",
+          "publishedOn": "2021-07-29T11:23:00.000Z",
+          "wordCount": 317,
+          "title": "PUSHIM、約2年振りミニアルバム『深呼吸』からマザーファッ子監督MV公開"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933862/index.html",
+          "author": null,
+          "description": "櫻坂46の田村保乃の1st写真集『一歩目』（小学館）が8月17日に発売される。今回、その書店限定ポストカード10種の画像が一挙公開された。【写真】櫻坂４６の田村保乃の1st写真集書店限定ポストカード10種写真集発売の発表直後から大反響となっ・・・",
+          "link": "https://news.mynavi.jp/article/20210729-1933862/index.html",
+          "publishedOn": "2021-07-29T11:21:00.000Z",
+          "wordCount": 318,
+          "title": "櫻坂46 田村保乃1st写真集、“想像力をかき立てられる”書店限定ポストカード10種が一挙公開"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933897/index.html",
+          "author": null,
+          "description": "2021年9月1日に横浜アリーナでのリベンジ公演を控えているBAD HOPが、翌日9月2日に「BAD HOP THE REVENGE TOUR FINAL IN YOKOHAMA ARENA DAY2」と銘打ったヒップホップ・フェスを開催す・・・",
+          "link": "https://news.mynavi.jp/article/20210729-1933897/index.html",
+          "publishedOn": "2021-07-29T11:19:00.000Z",
+          "wordCount": 355,
+          "title": "BAD HOP、横浜アリーナにて最重要ラッパーら15組出演ヒップホップ・フェス開催"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933849/index.html",
+          "author": null,
+          "description": "STMicroelectronicsは7月27日(スイス時間)、スウェーデンのノールショピング(Norrköping)にあるSiCウェハ製造工場において、次世代パワーデバイスのプロトタイプ製造に向けた200mm(8インチ)SiCバルクウェハの製造に成功したと発表した。",
+          "link": "https://news.mynavi.jp/article/20210729-1933849/index.html",
+          "publishedOn": "2021-07-29T11:16:46.000Z",
+          "wordCount": 281,
+          "title": "STMicro、200mm SiCウェハの製造に成功"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933850/index.html",
+          "author": null,
+          "description": "後藤真希が公式YouTubeチャンネル「ゴマキのギルド」にて、ポップスピアニスト・ハラミちゃんと初めてコラボし、その動画が7月29日（木）20時に配信される。【写真】後藤真希とハラミちゃんの奇跡のコラボ後藤真希は、1999年に当時13歳で国・・・",
+          "link": "https://news.mynavi.jp/article/20210729-1933850/index.html",
+          "publishedOn": "2021-07-29T11:13:00.000Z",
+          "wordCount": 298,
+          "title": "後藤真希がピアニスト・ハラミちゃんとYou Tubeで初コラボ、モンハン挿入歌を披露"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933898/index.html",
+          "author": null,
+          "description": "韓国のアーティストNIve（ニーヴ）が自身初となる EP『Broken Kaleidoscope』を2021年7月27日にリリースした。 NIveはシンガー、シンガーソングライター、プロデューサーとしても活躍し、BTSやEXO、Super ・・・",
+          "link": "https://news.mynavi.jp/article/20210729-1933898/index.html",
+          "publishedOn": "2021-07-29T11:13:00.000Z",
+          "wordCount": 303,
+          "title": "BTSやEXOなどの楽曲制作に携わっているNIve、初EP収録曲MV公開"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933845/index.html",
+          "author": null,
+          "description": "皆さんから寄せられた家計の悩みにお答えする、その名も「マネープランクリニック」。相談者は転職して1年の26歳会社員の女性。転職後から貯蓄が全く増えない状態を何とかしたいとお悩みです。ファイナンシャル・…",
+          "link": "https://news.mynavi.jp/article/20210729-1933845/index.html",
+          "publishedOn": "2021-07-29T11:05:00.000Z",
+          "wordCount": 321,
+          "title": "ストレスから転職して月収は13万円に。貯金残高が200万円を超えません"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933839/index.html",
+          "author": null,
+          "description": "グッドスマイルカンパニーは、『To LOVEる-とらぶる- ダークネス』より、「ララ・サタリン・デビルーク」をフィギュアシリーズ「POP UP PARADE」の新ラインナップとして2021年7月29日（木）から予約開始した。『ジャンプスクエ・・・",
+          "link": "https://news.mynavi.jp/article/20210729-1933839/index.html",
+          "publishedOn": "2021-07-29T11:00:00.000Z",
+          "wordCount": 329,
+          "title": "POP UP PARADE /『To LOVEる』水着姿シリーズにララ登場♪"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933837/index.html",
+          "author": null,
+          "description": "うすた京介の新連載「きのうまでのポノガタリ」が、アイドルグループ・きのホ。の公式サイトおよびTwitterアカウントでスタートした。",
+          "link": "https://news.mynavi.jp/article/20210729-1933837/index.html",
+          "publishedOn": "2021-07-29T11:00:00.000Z",
+          "wordCount": 288,
+          "title": "うすた京介、現実の新人アイドルグループ・きのホ。と連動するギャグ新連載"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933852/index.html",
+          "author": null,
+          "description": "AKB48の向井地美音がパーソナリティをつとめ、公認会計士の澤昭人から身近にある経済の仕組みをわかりやすく学んでいくTOKYO FMの番組「ジュグラーの波～澤と美音のまるっと経済学～」。7月15日（木）、22日（木・祝）放送の「美音のまるっとエコノミー supported by PE-BANK」のコーナーでは、ベンチャー女優の寺田有希さんを迎え、フリーランスになったきっかけやコミュニケーション能力について、自身の仕事への向き合い方などを伺いました。",
+          "link": "https://news.mynavi.jp/article/20210729-1933852/index.html",
+          "publishedOn": "2021-07-29T11:00:00.000Z",
+          "wordCount": 354,
+          "title": "「正直、苦労だらけでした」ベンチャー女優・寺田有希が10年のフリーランス活動で培った「対峙力」とは？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933851/index.html",
+          "author": null,
+          "description": "本部長・マンボウやしろと秘書・浜崎美保が、リスナーのみなさんと「社会人の働き方・生き方」を一緒に考えていくTOKYO FMの番組「Skyrocket Company」。毎週月曜日のコーナー「イチオシ！動画配信部」では、年間約300本の映画を観るというお笑い芸人・ガリットチュウの熊谷茶がおすすめ映画を紹介します。7月は「ファミリー・家族」をテーマに、4本のおすすめ映画をピックアップしました。",
+          "link": "https://news.mynavi.jp/article/20210729-1933851/index.html",
+          "publishedOn": "2021-07-29T11:00:00.000Z",
+          "wordCount": 357,
+          "title": "年間映画鑑賞本数300本！「この夏、家族で観たいイチオシ映画」をガリットチュウ熊谷がセレクト"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933838/index.html",
+          "author": null,
+          "description": "川上亮原作による麗太朗「人狼ゲーム ロスト・エデン」1巻が、本日7月29日に発売された。",
+          "link": "https://news.mynavi.jp/article/20210729-1933838/index.html",
+          "publishedOn": "2021-07-29T10:59:00.000Z",
+          "wordCount": 292,
+          "title": "デスゲーム会場と失踪事件を追う警察描く「人狼ゲーム ロスト・エデン」1巻"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933831/index.html",
+          "author": null,
+          "description": "SEMIは7月27日(米国時間)、2021年第2四半期(4～6月)のシリコンウェハ出荷面積が前四半期比6％増、前年同期比12％増の35億3400万平方インチとなり、過去最高値を更新したと発表した。",
+          "link": "https://news.mynavi.jp/article/20210729-1933831/index.html",
+          "publishedOn": "2021-07-29T10:56:19.000Z",
+          "wordCount": 292,
+          "title": "2021年第2四半期のシリコンウェハ出荷面積、過去最高を更新 - SEMI"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933860/index.html",
+          "author": null,
+          "description": "リヴァプールは29日、同クラブのファンだったアンドリュー・ディヴァイン氏に97秒間の黙祷を捧げた。クラブ公式サイトで伝えている。\n　ディヴァイン氏は1989年4月15日、FAカップ準決勝リヴァプール",
+          "link": "https://news.mynavi.jp/article/20210729-1933860/index.html",
+          "publishedOn": "2021-07-29T10:50:43.000Z",
+          "wordCount": 299,
+          "title": "リヴァプール、1人のファンに97秒間の黙祷…ヒルズボロの悲劇で97人目の犠牲者"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1932672/index.html",
+          "author": null,
+          "description": "ネットワークを構成するには、スイッチやハブ、ルータなど多数の機器が必要であり、多くのメーカーが販売しています。この記事では、ネットワーク機器について解説し、商品の一例をご紹介します。また、たくさんあるネットワーク機器の中から選ぶ際に見るべきポイントを3つ解説します。",
+          "link": "https://news.mynavi.jp/article/20210729-1932672/index.html",
+          "publishedOn": "2021-07-29T10:40:30.000Z",
+          "wordCount": 396,
+          "title": "ネットワーク機器の比較3選！構築のメリット・選び方のポイントも解説"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933808/index.html",
+          "author": null,
+          "description": "Amazon.co.jpは、ひと箱に商品をまとめ買いできる「Amazonパントリー」を、2021年8月24日23時59分に終了すると告知した。サービス終了日時までは通常通りの利用が可能。",
+          "link": "https://news.mynavi.jp/article/20210729-1933808/index.html",
+          "publishedOn": "2021-07-29T10:31:15.000Z",
+          "wordCount": 348,
+          "title": "Amazonパントリーが8月24日にサービス終了"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933776/index.html",
+          "author": null,
+          "description": "スマートフォン向けリズムゲーム『D4DJ Groovy Mix』にカバー曲「恋心」が追加された。",
+          "link": "https://news.mynavi.jp/article/20210729-1933776/index.html",
+          "publishedOn": "2021-07-29T10:30:00.000Z",
+          "wordCount": 322,
+          "title": "『D4DJ Groovy Mix』にカバー曲「恋心」が追加"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933817/index.html",
+          "author": null,
+          "description": "「家計簿をつけましょう」という話をよく耳にすると思います。自分の収支を把握することは非常に大切ですし、家計簿をつけることで、普段は気づきにくいムダが見つかったり、考えて買うクセがついて衝動買いが減った…",
+          "link": "https://news.mynavi.jp/article/20210729-1933817/index.html",
+          "publishedOn": "2021-07-29T10:30:00.000Z",
+          "wordCount": 312,
+          "title": "家計簿いらず！お金を貯める3つのステップ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933824/index.html",
+          "author": null,
+          "description": "リアライズのアニメ・漫画専門ECサイトであるAnimo（アニモ）にて、コスパよりリリースされる「ウルトラセブン ポインター Tシャツ」の予約販売がスタート！ ウルトラ警備隊の特殊車両を身に纏え！円谷プロの特撮ドラマ『ウルトラセブン』に登場す・・・",
+          "link": "https://news.mynavi.jp/article/20210729-1933824/index.html",
+          "publishedOn": "2021-07-29T10:30:00.000Z",
+          "wordCount": 301,
+          "title": "ウルトラ警備隊「ポインター」Tシャツになって発進!!!"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933768/index.html",
+          "author": null,
+          "description": "アリババグループのアリババクラウドは7月29日、オリンピック放送機構（OBS）との協業の下、東京2020大会期間中に同社のクラウドサービスを提供していることを発表した。各国の放送権者に対して、同社のクラウドプラットフォーム上に構築した「OBSクラウド」を活用したサービスを提供する。",
+          "link": "https://news.mynavi.jp/article/20210729-1933768/index.html",
+          "publishedOn": "2021-07-29T10:25:34.000Z",
+          "wordCount": 306,
+          "title": "東京2020競技映像の放送サービス、アリババクラウド介して配信"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933809/index.html",
+          "author": null,
+          "description": "映画『東京リベンジャーズ』大ヒット御礼! 東リベの夏は終わらない! 舞台挨拶が29日に都内で行われ、北村匠海、杉野遥亮、磯村勇斗が登場した。",
+          "link": "https://news.mynavi.jp/article/20210729-1933809/index.html",
+          "publishedOn": "2021-07-29T10:22:29.000Z",
+          "wordCount": 314,
+          "title": "杉野遥亮、1人だけデートコーデで「ミスっちゃった…」磯村勇斗は「黒のイメージ」"
+        },
         {
           "id": "https://news.mynavi.jp/article/20210729-1933609/index.html",
           "author": null,
