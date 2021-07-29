@@ -1972,6 +1972,51 @@
       "siteUrl": "https://ascii.jp/1/",
       "articles": [
         {
+          "id": "https://ascii.jp/elem/000/004/064/4064206/?rss",
+          "author": null,
+          "description": "M.2 2280フォームファクターのSSDで、互換性のあるデスクトップ用マザーボードやノートPCに搭載可能なコンパクトなモデル。コンテンツ制作者やゲーマー向けに、PCIe Gen4およびNVMe 1.4規格に対応する。",
+          "link": "https://ascii.jp/elem/000/004/064/4064206/?rss",
+          "publishedOn": "2021-07-29T15:00:00.000Z",
+          "wordCount": 328,
+          "title": "MSI、初のSSD「SPATIUM M480 PCIe 4.0 NVMe M.2」1TB／2TBを発売"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064181/?rss",
+          "author": null,
+          "description": "NTTぷららのひかりTVショッピングでは、「aiuto PCパーツポイントアップキャンペーン」を開催。aiutoのPCパーツ購入でぷららポイントが20倍または30倍付与となる。",
+          "link": "https://ascii.jp/elem/000/004/064/4064181/?rss",
+          "publishedOn": "2021-07-29T15:00:00.000Z",
+          "wordCount": 220,
+          "title": "aiutoのPCパーツ購入でぷららポイント20倍または30倍付与！ 「aiuto PCパーツポイントアップキャンペーン」"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/063/4063748/?rss",
+          "author": null,
+          "description": "AMD Ryzen7 5800XとRadeon RX 6800を搭載するPCが通常価格より2万8000円オフに。その他、インテルCore i9-11900K搭載PCなどがセール対象。",
+          "link": "https://ascii.jp/elem/000/004/063/4063748/?rss",
+          "publishedOn": "2021-07-29T15:00:00.000Z",
+          "wordCount": 233,
+          "title": "AMD Ryzen7 5800X搭載ゲーミングPCが2万8000円オフ、24時間限定セール"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064250/?rss",
+          "author": null,
+          "description": "Bang & Olufsenは7月29日、同社製品では初めてアクティブ・ノイズ・キャンセリング（ANC）機能を搭載した完全ワイヤレスイヤホン「Beoplay EQ」を発表した。価格は3万9900円。",
+          "link": "https://ascii.jp/elem/000/004/064/4064250/?rss",
+          "publishedOn": "2021-07-29T14:00:00.000Z",
+          "wordCount": 560,
+          "title": "Bang & Olufsen初のANC完全ワイヤレス、自然に音の世界に浸れる注目機種"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064078/?rss",
+          "author": null,
+          "description": "アスキーストアでは、iPhoneやiPadでテレビを視聴・録画できるモバイルワンセグチューナー 「KR-012AP」を販売中。",
+          "link": "https://ascii.jp/elem/000/004/064/4064078/?rss",
+          "publishedOn": "2021-07-29T13:00:00.000Z",
+          "wordCount": 362,
+          "title": "iPhoneやiPadのLightning端子に挿すだけ！ テレビを視聴・録画できるモバイルワンセグチューナー 「KR-012AP」が1万978円"
+        },
+        {
           "id": "https://ascii.jp/elem/000/004/064/4064244/?rss",
           "author": null,
           "description": "ファーウェイは、中国でオンライン発表会を開催。6月のHarmonyOS搭載デバイスの発表会で予告していた、同社最新フラグシップモデル「HUAWEI P50」シリーズを正式に発表した。",
@@ -4779,6 +4824,204 @@
       "siteUrl": "https://news.mynavi.jp/",
       "articles": [
         {
+          "id": "https://news.mynavi.jp/article/20210730-1934028/index.html",
+          "author": null,
+          "description": "ウェストハムは29日、パリ・サンジェルマン（PSG）からフランス代表GKアルフォンス・アレオラを期限付き移籍で獲得したと公式サイトで発表した。\n　期限付き移籍期間は2021－22シーズン終了までとな",
+          "link": "https://news.mynavi.jp/article/20210730-1934028/index.html",
+          "publishedOn": "2021-07-29T15:56:19.000Z",
+          "wordCount": 301,
+          "title": "ウェストハム、PSGからGKアレオラを獲得！　買取OP付の1年レンタル"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934002/index.html",
+          "author": null,
+          "description": "2021年12月24日(金)に公開となる、『呪術廻戦』初の映画化作品『劇場版 呪術廻戦 0』より、劇場版の主人公・乙骨憂太(おっこつゆうた)役を緒方恵美が担当することが発表された。",
+          "link": "https://news.mynavi.jp/article/20210730-1934002/index.html",
+          "publishedOn": "2021-07-29T15:45:00.000Z",
+          "wordCount": 341,
+          "title": "『劇場版 呪術廻戦 0』、乙骨憂太役を緒方恵美が担当！特報映像を公開"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934003/index.html",
+          "author": null,
+          "description": "アーセン・ヴェンゲル氏にスイス代表監督就任の可能性が浮上しているようだ。イギリス紙『デイリーメール』が伝えている。\n　ヴェンゲル氏は、1996年10月にアーセナルの指揮官に就任。2003－04シーズ",
+          "link": "https://news.mynavi.jp/article/20210730-1934003/index.html",
+          "publishedOn": "2021-07-29T15:28:24.000Z",
+          "wordCount": 294,
+          "title": "ヴェンゲル氏に監督復帰の可能性浮上…指揮官退任のスイス代表が招へい検討か"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934004/index.html",
+          "author": null,
+          "description": "タイ代表は29日、西野朗監督の解任を発表した。\n　タイ代表は2022 FIFAワールドカップ カタール・アジア2次予選で敗退。「成績が目標を達成できなかったため」、来年1月の契約満了を待たずに西野氏",
+          "link": "https://news.mynavi.jp/article/20210730-1934004/index.html",
+          "publishedOn": "2021-07-29T15:16:57.000Z",
+          "wordCount": 298,
+          "title": "タイ代表、西野朗監督の解任を発表…アジア2次予選敗退受け"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1933991/index.html",
+          "author": null,
+          "description": "芥見下々原作による映画「劇場版 呪術廻戦 0」の特報が解禁。主人公・乙骨役を緒方恵美が演じることも発表された。",
+          "link": "https://news.mynavi.jp/article/20210730-1933991/index.html",
+          "publishedOn": "2021-07-29T15:14:00.000Z",
+          "wordCount": 314,
+          "title": "「劇場版 呪術廻戦 0」特報解禁！乙骨役は緒方恵美"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1933626/index.html",
+          "author": null,
+          "description": "エムエスアイコンピュータージャパンは7月30日、同社初となるM.2 SSD製品「SPATIUM M480」を発売した。価格は1TBモデルが25,520円、2TBモデルが49,500円。",
+          "link": "https://news.mynavi.jp/article/20210730-1933626/index.html",
+          "publishedOn": "2021-07-29T15:00:00.000Z",
+          "wordCount": 418,
+          "title": "MSIから同社初のM.2 SSD製品「SPATIUM M480」が登場 - 1TBと2TB"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1933726/index.html",
+          "author": null,
+          "description": "女優の多部未華子、永野芽郁が出演するUQmobile新CM「映画撮影」編が、30日より放送される。",
+          "link": "https://news.mynavi.jp/article/20210730-1933726/index.html",
+          "publishedOn": "2021-07-29T15:00:00.000Z",
+          "wordCount": 317,
+          "title": "多部未華子、久々に“UQ三姉妹”CM登場　永野芽郁「うれしかった」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/win10tips-636/index.html",
+          "author": null,
+          "description": "Windows 10以降、ウィンドウの外枠1ピクセルをアクセントカラーで囲む機能が加わっている。筆者はWindows 8.1から移行した当初は有効にしていたが、気付くとオフになっていた。",
+          "link": "https://news.mynavi.jp/article/win10tips-636/index.html",
+          "publishedOn": "2021-07-29T15:00:00.000Z",
+          "wordCount": 465,
+          "title": "Windows 10ミニTips 第636回 Windows 11に備える - 「ウィンドウ枠線」は廃止路線？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1933984/index.html",
+          "author": null,
+          "description": "今日7月30日は「梅干しの日」。 この季節に新物の梅干しが食べられることと、「梅干しを食べると難が去る」と昔から言われてきたことから「なん（7）がさ（3）る（0）」の語呂合わせにちなんで制定されたそうですよ。難が去ることを祈って皆さんも一粒・・・",
+          "link": "https://news.mynavi.jp/article/20210730-1933984/index.html",
+          "publishedOn": "2021-07-29T15:00:00.000Z",
+          "wordCount": 294,
+          "title": "【木村良平さんに堀内賢雄さんも！】7月30日がお誕生日の声優さんは？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1933983/index.html",
+          "author": null,
+          "description": "「劇場版 Fate/Grand Order -神聖円卓領域キャメロット- 後編 Paladin; Agateram」のBlu-ray / DVD が、12月22日に発売される。",
+          "link": "https://news.mynavi.jp/article/20210730-1933983/index.html",
+          "publishedOn": "2021-07-29T15:00:00.000Z",
+          "wordCount": 308,
+          "title": "劇場版「FGO」後編のBD/DVDが12月22日発売、特典に特製ブックレットやイラスト集"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933977/index.html",
+          "author": null,
+          "description": "チェルシーに所属するU－21イングランド代表MFコナー・ギャラガーは、クリスタル・パレスへの期限付き移籍に近づいているようだ。29日、イギリス紙『ガーディアン』が報じた。\n　パトリック・ヴィエラ新監",
+          "link": "https://news.mynavi.jp/article/20210729-1933977/index.html",
+          "publishedOn": "2021-07-29T14:37:42.000Z",
+          "wordCount": 292,
+          "title": "チェルシーの若手MF、今季もレンタルへ…C・パレスが争奪戦制して獲得か"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933960/index.html",
+          "author": null,
+          "description": "コスプレイヤー篠崎こころが7月13日、自身のTwitterを更新し宮本彩希とのツーショットを披露した。",
+          "link": "https://news.mynavi.jp/article/20210729-1933960/index.html",
+          "publishedOn": "2021-07-29T14:30:00.000Z",
+          "wordCount": 318,
+          "title": "コスプレイヤー篠崎こころが宮本彩希とのツーショットでアップルマンゴーに大喜び"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933954/index.html",
+          "author": null,
+          "description": "コスプレイヤー紗雪が7月20日、自身のTwitterを更新し白網タイツショットを披露した。",
+          "link": "https://news.mynavi.jp/article/20210729-1933954/index.html",
+          "publishedOn": "2021-07-29T14:00:00.000Z",
+          "wordCount": 314,
+          "title": "「上手に座れた」コスプレイヤー紗雪が白網タイツで美脚を披露"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933978/index.html",
+          "author": null,
+          "description": "アーセナルのスペイン代表DFエクトル・ベジェリンがインテル移籍に近づいているようだ。イタリアメディア『Calciomercato.com』が伝えている。\n　インテルは今夏、モロッコ代表DFアクラフ・",
+          "link": "https://news.mynavi.jp/article/20210729-1933978/index.html",
+          "publishedOn": "2021-07-29T13:57:53.000Z",
+          "wordCount": 295,
+          "title": "インテル移籍へ一押し…ベジェリン代理人がアーセナル役員と会談か"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933979/index.html",
+          "author": null,
+          "description": "ドルトムントは29日、ドイツ代表MFマフムド・ダフードとの契約を2023年6月30日まで延長したとクラブ公式サイトで発表した。\n　現在25歳のダフードは2014年にボルシアMGでデビュー。ビッグクラ",
+          "link": "https://news.mynavi.jp/article/20210729-1933979/index.html",
+          "publishedOn": "2021-07-29T13:52:05.000Z",
+          "wordCount": 296,
+          "title": "ドルトムント、独代表MFダフードと契約延長「簡単ではない局面があったけど…」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933956/index.html",
+          "author": null,
+          "description": "東京五輪OPラウンドB組 第1戦\n○ 韓国 6× － 5 イスラエル ●\n＜7月29日・横浜スタジアム＞\n\n　東京オリンピック（五輪）の野球競技の2日目が横浜スタジアムでスタート。前回大会王者…",
+          "link": "https://news.mynavi.jp/article/20210729-1933956/index.html",
+          "publishedOn": "2021-07-29T13:50:01.000Z",
+          "wordCount": 311,
+          "title": "韓国が一発合戦からの延長タイブレークを制して白星発進"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933955/index.html",
+          "author": null,
+          "description": "TVアニメ「機動戦士ガンダム 鉄血のオルフェンズ」をモチーフにしたネーム印が「シヤチハタ ネーム9」に登場。サンスターより発売される。",
+          "link": "https://news.mynavi.jp/article/20210729-1933955/index.html",
+          "publishedOn": "2021-07-29T13:36:00.000Z",
+          "wordCount": 293,
+          "title": "「鉄血のオルフェンズ」三日月たちのネーム印、イラストと好きな3文字選んで刻印"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933939/index.html",
+          "author": null,
+          "description": "皆さんから寄せられた家計の悩みにお答えする、その名も「マネープランクリニック」。今回の相談者は、貯蓄が増えず、将来が不安という44歳の主婦の方。ファイナンシャル・プランナーの深野康彦さんが担当します。…",
+          "link": "https://news.mynavi.jp/article/20210729-1933939/index.html",
+          "publishedOn": "2021-07-29T13:20:00.000Z",
+          "wordCount": 312,
+          "title": "44歳主婦、貯蓄300万円。増えない貯金、借家住まいで先が見えない"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933950/index.html",
+          "author": null,
+          "description": "今日の占い「12星座ランキング」を発表！ ラジオ発のエンタメニュース＆コラム「TOKYO FM＋」がお届けする、毎日運勢占い「12星座別ランキング＆ワンポイントアドバイス」。2021年（令和3年）7月30日（金）のあなたの運勢を、東京・池袋占い館セレーネ所属・占い師の玉木佑和（たまき・ゆな）さんが占います。今日の第1位は獅子座（しし座）！ あなたの星座は何位……？",
+          "link": "https://news.mynavi.jp/article/20210729-1933950/index.html",
+          "publishedOn": "2021-07-29T13:10:00.000Z",
+          "wordCount": 349,
+          "title": "★今日の運勢★2021年7月30日（金）12星座占いランキング第1位は獅子座（しし座）！ あなたの星座は何位…!?"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933909/index.html",
+          "author": null,
+          "description": "NCネットワークは、サイト会員の中小企業経営者を対象に、工場の稼働率や景況感についてWEB上でアンケート調査を実施し、結果を発表した。",
+          "link": "https://news.mynavi.jp/article/20210729-1933909/index.html",
+          "publishedOn": "2021-07-29T13:01:33.000Z",
+          "wordCount": 283,
+          "title": "中小製造業の景況感が上昇傾向へ - NCネットワーク調査"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1932640/index.html",
+          "author": null,
+          "description": "グラビアアイドルの春野恵が25日、東京・秋葉原のソフマップで最新イメージDVD＆ブルーレイ『激写』(ともに発売中 ブルーレイ: 5,280円税込 DVD:4,180円税込 発売元:FACE)の発売記念イベントを行った。",
+          "link": "https://news.mynavi.jp/article/20210729-1932640/index.html",
+          "publishedOn": "2021-07-29T13:00:00.000Z",
+          "wordCount": 319,
+          "title": "Gカップ春野恵、拘束されながらのろうそくプレイ「気持ちよかった」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933926/index.html",
+          "author": null,
+          "description": "◆ 第5回：試合を決めた二次戦力\n\n　日本が初陣となるドミニカ共和国戦をサヨナラ勝ちで飾った。\n\n　2点ビハインドの最終回は、一死満塁から坂本勇人選手の中越え安打で決着。ど派手な幕切れは、次戦…",
+          "link": "https://news.mynavi.jp/article/20210729-1933926/index.html",
+          "publishedOn": "2021-07-29T12:55:24.000Z",
+          "wordCount": 315,
+          "title": "鍵をにぎる“仕事人”の役割【出陣！稲葉ジャパンの光と影】"
+        },
+        {
           "id": "https://news.mynavi.jp/article/20210729-1933914/index.html",
           "author": null,
           "description": "つい余計なものまで買ってしまいやすい100円ショップ。しかし、使い方を工夫すれば、より経済的に有利な選択ができるようになります。私は、100円ショップの優位性は2つあると考えています。1つは、もちろん…",
@@ -4795,6 +5038,15 @@
           "publishedOn": "2021-07-29T12:39:46.000Z",
           "wordCount": 291,
           "title": "事実に関わらずいい成績であると伝えると学習意欲が向上する、大阪市大が確認"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210729-1933927/index.html",
+          "author": null,
+          "description": "なんだかイライラするけれど、原因がよくわからない……。そんなことはありませんか？ 原因がハッキリしていれば対処できますが、よくわからないモヤモヤだと困ってしまいますよね。\nラジオ発のエンタメニュース＆コラム「TOKYO FM＋」がお届けする「心理テスト」。今回の心理テストは「『アイロンがけをする服の色』でわかる!? あなたの『イライラの原因』チェック！」。この心理テストで「心の奥にある本当の自分」を探ってみましょう。",
+          "link": "https://news.mynavi.jp/article/20210729-1933927/index.html",
+          "publishedOn": "2021-07-29T12:30:00.000Z",
+          "wordCount": 344,
+          "title": "◆心理テスト◆ あなたの「イライラの原因」がわかる!? 深層心理をチェック！"
         },
         {
           "id": "https://news.mynavi.jp/article/20210729-1933915/index.html",
