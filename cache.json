@@ -12,6 +12,24 @@
       "siteUrl": "https://www.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/business/articles/2107/30/news017.html",
+          "author": null,
+          "description": "マクドナルドの1～6月における店舗の売上高が好調だ。8月に発表される第2四半期決算の結果に注目が集まる。コロナ禍を乗り越えるための「4つの戦略」と、先行投資の中身を分析する。",
+          "link": "https://www.itmedia.co.jp/business/articles/2107/30/news017.html",
+          "publishedOn": "2021-07-29T20:00:00.000Z",
+          "wordCount": 135,
+          "title": "[ITmedia ビジネスオンライン] マクドナルド、「4つの戦略」で要注目の1～6月期決算　先行投資の行方は？"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/enterprise/articles/2107/30/news065.html",
+          "author": null,
+          "description": "「Chromebookは安全に使えるデバイスだ」という声がある。本当にそうなのか。判断を下すにはそのセキュリティ機能を正しく理解することが重要だ。Chromebookが搭載する6つのセキュリティ機能を解説しよう。",
+          "link": "https://www.itmedia.co.jp/enterprise/articles/2107/30/news065.html",
+          "publishedOn": "2021-07-29T20:00:00.000Z",
+          "wordCount": 116,
+          "title": "[ITmedia エンタープライズ] 「Chromebookはやっぱり安全だ」と納得できる6大機能"
+        },
+        {
           "id": "https://www.itmedia.co.jp/business/articles/2107/29/news147.html",
           "author": null,
           "description": "未婚男女270人を対象に「オンライン婚活」に関する調査を実施。結果は？",
@@ -4801,20 +4819,6 @@
             "type": "image/jpeg",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/26006613781574564",
-          "author": null,
-          "description": "どうも、まさとらん（@0310lan）です！\n今回は、Webデザインに活用できるモーションデザインをブラウザ上のエディタから誰でも簡単に作れるWebサービスをご紹介します。\n手軽に高度なアニメーションを実現できる機能が豊富に提供されており、簡単なものならマウスで数回クリックするだけで完成してしまいます。無料で書き出しにも対応しており、記事後半ではFigmaとの連携方法についても解説しています。\nWebのアニメーションにご興味ある方はぜひ参考にしてみてください！\n【 Jitter 】\n\n■「Jitter」の使い方\nそれでは、「Jitter」をどのように使えばいいのか詳しく見ていきましょう！\nまずはサイトのトップページから【Try it now】ボタンをクリックして無料のユーザー登録を済ませておきます。\n\n\nメールアドレスや名前などを入力するだけなので簡単です。\n\n登録したメールアドレス宛にログイン用のリンクが送付されるのでクリックしましょう。\n\nすると自分専用のダッシュボード画面が表示されます。\n\nこれで準備は完了です！\n公式チュートリアルも公開されているので、最初にいくつかチェックしておくといいでしょう。\n■「Jitter」の機能紹介\nまず最初に「Jitter」のWebエディタがどのような機能を提供しているのかについて、基本的な部分をピックアップして解説しておきます。\n新規のプロジェクトを作成するにはダッシュボード画面から「New file」ボタンをクリックします。\n\n\nモーションデザインを作成するための編集エディタが表示されます。\n\n\nこのエディタはざっくり言うと、3つの画面に分かれています。\n\nそれぞれの画面は以下のような役割があります。\n【レイヤー】キャンバス上に配置したオブジェクトのリスト\n【キャンバス】デザインを作成するメイン画面\n【プロパティ】オブジェクトの設定…",
-          "link": "https://paiza.hatenablog.com/entry/2021/06/30/160000",
-          "publishedOn": "2021-06-30T07:00:00.000Z",
-          "wordCount": 274,
-          "title": "高度なモーションデザインを無料で作成できるWebエディタ「Jitter」を使ってみた！",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210630/20210630121216.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
         }
       ]
     },
@@ -4823,6 +4827,33 @@
       "feedUrl": "https://news.mynavi.jp/rss/index",
       "siteUrl": "https://news.mynavi.jp/",
       "articles": [
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1933970/index.html",
+          "author": null,
+          "description": "きょう30日の『東京2020オリンピック』中継番組のテレビ放送スケジュールは、以下の通り。",
+          "link": "https://news.mynavi.jp/article/20210730-1933970/index.html",
+          "publishedOn": "2021-07-29T20:00:00.000Z",
+          "wordCount": 375,
+          "title": "『東京2020オリンピック』7月30日テレビ放送スケジュール／陸上開幕など"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934052/index.html",
+          "author": null,
+          "description": "Microsoftは米国時間2021年7月28日、Visual Studio Code用拡張機能「C/C++ バージョン1.5.1」をリリースした旨を[公式ブログ](https://devblogs.microsoft.com/cppblog/visual-studio-code-c-july-2021-update-disassembly-view-macro-expansion-and-windows-arm64-debugging/)で報告した。最新の拡張機能は先のマーケットプレイスや、Visual Studio Code内の拡張機能ギャラリーからインストールできる。新バージョンでは、デバッグ中の逆アセンブリビューやインラインマクロ拡張、Windows ARM64アーキテクチャーのデバッグサポートが加わった。",
+          "link": "https://news.mynavi.jp/article/20210730-1934052/index.html",
+          "publishedOn": "2021-07-29T18:22:34.000Z",
+          "wordCount": 326,
+          "title": "逆アセンブリビューやインラインマクロを搭載したVisual Studio Code用「C/C++」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934047/index.html",
+          "author": null,
+          "description": "イタリア代表DFジョルジョ・キエッリーニとユヴェントスの契約延長が近づいているようだ。イタリアメディア『フットボールイタリア』が伝えている。\n　現在36歳のキエッリーニは2005年にユヴェントスに加",
+          "link": "https://news.mynavi.jp/article/20210730-1934047/index.html",
+          "publishedOn": "2021-07-29T17:48:58.000Z",
+          "wordCount": 295,
+          "title": "ユーヴェ主将キエッリーニが契約延長を明言「月曜にはトリノに着きリスタート」"
+        },
         {
           "id": "https://news.mynavi.jp/article/20210730-1934028/index.html",
           "author": null,

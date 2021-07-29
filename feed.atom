@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://darashina.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T17:01:31.582Z</updated>
+    <updated>2021-07-29T20:35:44.980Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://darashina.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://darashina.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] マクドナルド、「4つの戦略」で要注目の1～6月期決算　先行投資の行方は？]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2107/30/news017.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2107/30/news017.html"/>
+        <updated>2021-07-29T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[マクドナルドの1～6月における店舗の売上高が好調だ。8月に発表される第2四半期決算の結果に注目が集まる。コロナ禍を乗り越えるための「4つの戦略」と、先行投資の中身を分析する。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia エンタープライズ] 「Chromebookはやっぱり安全だ」と納得できる6大機能]]></title>
+        <id>https://www.itmedia.co.jp/enterprise/articles/2107/30/news065.html</id>
+        <link href="https://www.itmedia.co.jp/enterprise/articles/2107/30/news065.html"/>
+        <updated>2021-07-29T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「Chromebookは安全に使えるデバイスだ」という声がある。本当にそうなのか。判断を下すにはそのセキュリティ機能を正しく理解することが重要だ。Chromebookが搭載する6つのセキュリティ機能を解説しよう。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『東京2020オリンピック』7月30日テレビ放送スケジュール／陸上開幕など]]></title>
+        <id>https://news.mynavi.jp/article/20210730-1933970/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210730-1933970/index.html"/>
+        <updated>2021-07-29T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[きょう30日の『東京2020オリンピック』中継番組のテレビ放送スケジュールは、以下の通り。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逆アセンブリビューやインラインマクロを搭載したVisual Studio Code用「C/C++」]]></title>
+        <id>https://news.mynavi.jp/article/20210730-1934052/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210730-1934052/index.html"/>
+        <updated>2021-07-29T18:22:34.000Z</updated>
+        <summary type="html"><![CDATA[Microsoftは米国時間2021年7月28日、Visual Studio Code用拡張機能「C/C++ バージョン1.5.1」をリリースした旨を[公式ブログ](https://devblogs.microsoft.com/cppblog/visual-studio-code-c-july-2021-update-disassembly-view-macro-expansion-and-windows-arm64-debugging/)で報告した。最新の拡張機能は先のマーケットプレイスや、Visual Studio Code内の拡張機能ギャラリーからインストールできる。新バージョンでは、デバッグ中の逆アセンブリビューやインラインマクロ拡張、Windows ARM64アーキテクチャーのデバッグサポートが加わった。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ユーヴェ主将キエッリーニが契約延長を明言「月曜にはトリノに着きリスタート」]]></title>
+        <id>https://news.mynavi.jp/article/20210730-1934047/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210730-1934047/index.html"/>
+        <updated>2021-07-29T17:48:58.000Z</updated>
+        <summary type="html"><![CDATA[イタリア代表DFジョルジョ・キエッリーニとユヴェントスの契約延長が近づいているようだ。イタリアメディア『フットボールイタリア』が伝えている。
+　現在36歳のキエッリーニは2005年にユヴェントスに加]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウェストハム、PSGからGKアレオラを獲得！　買取OP付の1年レンタル]]></title>
         <id>https://news.mynavi.jp/article/20210730-1934028/index.html</id>
@@ -10656,48 +10707,6 @@ https://github.com/osmoscraft/osmosfeed-template
 ・目標は低すぎても高すぎても成長機会にならない
 プロジェクトマネジメント
 マネジメントと言われると、プロジェクトマネジメントを思い浮かべる人も多いかと思います。プロジェクトマネジメントとは、期限…]]></summary>
-        <author>
-            <name>paiza開発日誌</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高度なモーションデザインを無料で作成できるWebエディタ「Jitter」を使ってみた！]]></title>
-        <id>hatenablog://entry/26006613781574564</id>
-        <link href="https://paiza.hatenablog.com/entry/2021/06/30/160000"/>
-        <updated>2021-06-30T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[どうも、まさとらん（@0310lan）です！
-今回は、Webデザインに活用できるモーションデザインをブラウザ上のエディタから誰でも簡単に作れるWebサービスをご紹介します。
-手軽に高度なアニメーションを実現できる機能が豊富に提供されており、簡単なものならマウスで数回クリックするだけで完成してしまいます。無料で書き出しにも対応しており、記事後半ではFigmaとの連携方法についても解説しています。
-Webのアニメーションにご興味ある方はぜひ参考にしてみてください！
-【 Jitter 】
-
-■「Jitter」の使い方
-それでは、「Jitter」をどのように使えばいいのか詳しく見ていきましょう！
-まずはサイトのトップページから【Try it now】ボタンをクリックして無料のユーザー登録を済ませておきます。
-
-
-メールアドレスや名前などを入力するだけなので簡単です。
-
-登録したメールアドレス宛にログイン用のリンクが送付されるのでクリックしましょう。
-
-すると自分専用のダッシュボード画面が表示されます。
-
-これで準備は完了です！
-公式チュートリアルも公開されているので、最初にいくつかチェックしておくといいでしょう。
-■「Jitter」の機能紹介
-まず最初に「Jitter」のWebエディタがどのような機能を提供しているのかについて、基本的な部分をピックアップして解説しておきます。
-新規のプロジェクトを作成するにはダッシュボード画面から「New file」ボタンをクリックします。
-
-
-モーションデザインを作成するための編集エディタが表示されます。
-
-
-このエディタはざっくり言うと、3つの画面に分かれています。
-
-それぞれの画面は以下のような役割があります。
-【レイヤー】キャンバス上に配置したオブジェクトのリスト
-【キャンバス】デザインを作成するメイン画面
-【プロパティ】オブジェクトの設定…]]></summary>
         <author>
             <name>paiza開発日誌</name>
         </author>
