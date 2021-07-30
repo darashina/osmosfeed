@@ -12,6 +12,240 @@
       "siteUrl": "https://www.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/business/articles/2107/30/news074.html",
+          "author": null,
+          "description": "鉄道・運輸機構は新築工事を進めている北陸新幹線 福井駅（福井市）について、外部足場の解体に伴って間もなく駅の外観が姿を現すと発表。",
+          "link": "https://www.itmedia.co.jp/business/articles/2107/30/news074.html",
+          "publishedOn": "2021-07-30T01:20:00.000Z",
+          "wordCount": 136,
+          "title": "[ITmedia ビジネスオンライン] 北陸新幹線 福井駅、8月に駅名標の取り付けへ"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2107/30/news077.html",
+          "author": null,
+          "description": "人工知能（AI）などの先端デジタル技術を使ってサプライチェーン（供給網）の課題を解決する「デジタルトランスフォーメーション（DX）」サービスを事業化する動きが相次いでいる。パナソニックは物流・流通現場の作業状況の画像データをAIで分析し、生産性の向上を支援する事業を本格化する。三菱商事も、NTTと共同出資で新設したインダストリー・ワン（東京都千代田区）が今月から食品流通をAIなどで効率化するサービスの展開を始めた。",
+          "link": "https://www.itmedia.co.jp/business/articles/2107/30/news077.html",
+          "publishedOn": "2021-07-30T01:02:00.000Z",
+          "wordCount": 142,
+          "title": "[ITmedia ビジネスオンライン] 物流・流通DX、事業化の動き　パナや三菱商事系がAIでサプライチェーン効率化"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/30/news076.html",
+          "author": null,
+          "description": "GarageBandのアプリはアップデートせずに新しい音楽スタイルを追加できるサウンドライブラリを活用した新企画はアーティストとプロデューサーに焦点を当てたもの。",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/30/news076.html",
+          "publishedOn": "2021-07-30T01:00:00.000Z",
+          "wordCount": 185,
+          "title": "[ITmedia News] GarageBand for iOSにデュア・リパ、レディー・ガガや著名プロデューサーのサウンドパック追加"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2107/30/news052.html",
+          "author": null,
+          "description": "夏も本番を迎えました。外でスマホを使うと、非常に熱くなることもあります。そうなったら、どうすればいいのでしょうか……？",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2107/30/news052.html",
+          "publishedOn": "2021-07-30T01:00:00.000Z",
+          "wordCount": 532,
+          "title": "[ITmedia Mobile] スマホが発熱！　「絶対にやってはいけないこと」は？"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2107/30/news072.html",
+          "author": null,
+          "description": "エン・ジャパンはミドル世代の異業種転職調査を発表した。調査から40代前半の異業種転職が増加していることが分かった。転職先の業種1位は？　その他、転職先での職種や前職の業種なども公表。",
+          "link": "https://www.itmedia.co.jp/business/articles/2107/30/news072.html",
+          "publishedOn": "2021-07-30T00:45:00.000Z",
+          "wordCount": 136,
+          "title": "[ITmedia ビジネスオンライン] 40代前半の異業種転職が増加　転職先の業種1位は？"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/30/news073.html",
+          "author": null,
+          "description": "Googleは公式Andoirdアプリストアの今後のポリシー更新について発表した。援助交際（sugar dating）アプリを9月1日から禁止する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/30/news073.html",
+          "publishedOn": "2021-07-30T00:34:00.000Z",
+          "wordCount": 171,
+          "title": "[ITmedia News] Google、公式Androidアプリストアでの援助交際アプリ提供禁止のポリシー更新"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/30/news070.html",
+          "author": null,
+          "description": "株取引アプリのRobinhoodがNASDAQに上場した。公開価格は1株当たり38ドル。初日終値は8.4％下げ、約20億ドルを調達した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/30/news070.html",
+          "publishedOn": "2021-07-29T23:18:00.000Z",
+          "wordCount": 149,
+          "title": "[ITmedia News] Robinhood、38ドルでNASDAQ上場"
+        },
+        {
+          "id": "https://mag.executive.itmedia.co.jp/executive/articles/2107/30/news071.html",
+          "author": null,
+          "description": "人工知能などの先端デジタル技術を使ってサプライチェーンの課題を解決する「デジタルトランスフォーメーション」サービスを事業化する動きが相次いでいる。",
+          "link": "https://mag.executive.itmedia.co.jp/executive/articles/2107/30/news071.html",
+          "publishedOn": "2021-07-29T23:11:00.000Z",
+          "wordCount": 318,
+          "title": "[ITmedia エグゼクティブ] 物流・流通DX、事業化の動き　パナや三菱商事系がAIでサプライチェーン効率化"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/30/news053.html",
+          "author": null,
+          "description": "ミクシィが公式ブログで無償公開している、新卒エンジニア向け研修資料と講義動画がネットで話題だ。iOS／AndroidアプリやUnity開発などを学べる内容で、「IT基礎知識の一通りのことが身につく」などの反応がある。",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/30/news053.html",
+          "publishedOn": "2021-07-29T23:00:00.000Z",
+          "wordCount": 153,
+          "title": "[ITmedia News] ミクシィの新卒エンジニア研修資料が話題　講師は「モンスト」エンジニアなど　iOS／AndroidアプリやUnity開発などを公開"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2107/30/news049.html",
+          "author": null,
+          "description": "日本代表選手団の公式服装を手掛けたAOKIが展開する「東京2020オリンピックエンブレム ストレッチウォッシャブルスーツ」の売り上げが好調だという。",
+          "link": "https://www.itmedia.co.jp/business/articles/2107/30/news049.html",
+          "publishedOn": "2021-07-29T23:00:00.000Z",
+          "wordCount": 136,
+          "title": "[ITmedia ビジネスオンライン] AOKI、メダルラッシュで東京2020公式スーツの売り上げ好調"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2107/30/news039.html",
+          "author": null,
+          "description": "24時間365日体調を自動で計測する「マザーブレスレット」が、健康意識の高い人々をざわつかせているようだ。クラウドファンディング「Makuake」で展開したところ、支援金は4500万円を突破。開発担当者にヒットの裏側などを聞いたところ……。",
+          "link": "https://www.itmedia.co.jp/business/articles/2107/30/news039.html",
+          "publishedOn": "2021-07-29T23:00:00.000Z",
+          "wordCount": 132,
+          "title": "[ITmedia ビジネスオンライン] 体温で発電する「マザーブレスレット」にざわつく　開発の狙いは？"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/30/news055.html",
+          "author": null,
+          "description": "川崎市に設置された米IBMの商用量子コンピュータについて多くのメディアが報じているが、「スパコン超えの性能」や「1万年かかる計算を3分20秒で」などの報道をそのまま受け取ってはいけない。量子コンピュータ日本設置の意義を整理する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/30/news055.html",
+          "publishedOn": "2021-07-29T23:00:00.000Z",
+          "wordCount": 154,
+          "title": "[ITmedia News] 「量子コンピュータはスパコンより速い」のウソと本当　日本設置の意義は"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/enterprise/articles/2107/30/news046.html",
+          "author": null,
+          "description": "GROUNDと日本ユニシスは、物流施設向け統合管理、最適化システム「GWES」の提供に当たってパートナーシップ締結に合意した。両社のネットワークを通じて販売し、導入支援や保守サポート体制を強化する。",
+          "link": "https://www.itmedia.co.jp/enterprise/articles/2107/30/news046.html",
+          "publishedOn": "2021-07-29T22:30:00.000Z",
+          "wordCount": 131,
+          "title": "[ITmedia エンタープライズ] 物流向け統合管理システム提供へ　GROUNDと日本ユニシスがパートナーシップ"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2107/30/news069.html",
+          "author": null,
+          "description": "Huaweiがカメラ性能に特化したPシリーズ最新モデル「HUAWEI P50 Pro」と「HUAWEI P50」を発表した。Proのカメラは5000万画素カラーセンサーがメインの4台構成とハイスペックだ。ただし、米制裁の影響で5Gをサポートしない。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2107/30/news069.html",
+          "publishedOn": "2021-07-29T22:12:00.000Z",
+          "wordCount": 525,
+          "title": "[ITmedia Mobile] Huawei、フラグシップ「P50」シリーズ発表　高性能カメラ搭載も米制裁で5G断念"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/30/news059.html",
+          "author": null,
+          "description": "【台北＝矢板明夫】台湾の政治家や当局高官ら100人以上の無料通信アプリ「LINE（ライン）」の個人アカウントがハッキングされていたことが29日までに明らかになった。複数の台湾メディアが伝えた。被害者のアカウントに保存されていた一部の通信情報が流出した恐れがあるという。捜査当局は機密情報の窃取を狙った可能性もあるとみて捜査を開始した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/30/news059.html",
+          "publishedOn": "2021-07-29T22:00:00.000Z",
+          "wordCount": 146,
+          "title": "[ITmedia News] 台湾でLINEハッキング　イスラエル製スパイウエア使用か"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2107/30/news043.html",
+          "author": null,
+          "description": "大東建託は、山口県に住む成人男女累計4530人の回答を集計し、住みここちランキングを作成した。2年連続で1位を獲得した自治体は？",
+          "link": "https://www.itmedia.co.jp/business/articles/2107/30/news043.html",
+          "publishedOn": "2021-07-29T22:00:00.000Z",
+          "wordCount": 139,
+          "title": "[ITmedia ビジネスオンライン] 山口県の住みここちランキング2021発表　2年連続で1位を獲得した自治体は？"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/30/news054.html",
+          "author": null,
+          "description": "Googleのpring買収で、同社は何を目指しているのか、今回の買収が日本の金融市場にどのようなインパクトを与えるのかを分析する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/30/news054.html",
+          "publishedOn": "2021-07-29T22:00:00.000Z",
+          "wordCount": 152,
+          "title": "[ITmedia News] Googleの決済サービスを振り返りながら、pring買収による“金融本格参入”のインパクトを分析する"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/30/news058.html",
+          "author": null,
+          "description": "ほんの少し前は“迷惑系”と呼ばれるYouTuberが世間を騒がせていたが、今では人気YouTuberも安直なドッキリ企画で批判を浴びている。不適切なドッキリ企画が生まれる背景には再生数確保のため内容が二の次になっている現状がある。",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/30/news058.html",
+          "publishedOn": "2021-07-29T22:00:00.000Z",
+          "wordCount": 146,
+          "title": "[ITmedia News] お騒がせYouTuber“安直ドッキリ”増加のワケ　内容は二の次、再生回数稼ぎ躍起"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2107/30/news015.html",
+          "author": null,
+          "description": "「ギガたこ焼き器」や「せんべろメーカー」、「焼きペヤングメーカー」など、ひときわ個性的な家電を展開するライソン。「ライソン発の、世界初をつくる。」と掲げ、ワイヤレススピーカーやアウトドア用品まで展開する。新興メーカーの戦略と、アイデアあふれるものづくりについて代表取締役の山俊介氏に話を聞いた。",
+          "link": "https://www.itmedia.co.jp/business/articles/2107/30/news015.html",
+          "publishedOn": "2021-07-29T22:00:00.000Z",
+          "wordCount": 140,
+          "title": "[ITmedia ビジネスオンライン] 「焼きペヤングメーカー」開発秘話　クラウドファンディングで“個性”が大ヒット"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/enterprise/articles/2107/31/news005.html",
+          "author": null,
+          "description": "Windows 11が発表されたことで「いつまでWindows 10を使うか」「社内のPCはどのタイミングでアップグレードする必要があるか」といった点を考え始めた読者は多いのではないでしょうか。Windows 10とWindows 11の間には、運用に関わる重大な変更点があります。その内容と影響の範囲について考察しました。",
+          "link": "https://www.itmedia.co.jp/enterprise/articles/2107/31/news005.html",
+          "publishedOn": "2021-07-29T22:00:00.000Z",
+          "wordCount": 187,
+          "title": "[ITmedia エンタープライズ] PC管理者の皆、気付いたか？　Windows 11発表会の外でしれっと公開された“インパクト大”の変更点"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2107/29/news136.html",
+          "author": null,
+          "description": "トランプ政権下で実行された米上場中国企業の規制強化で、最も不憫（ふびん）な立場なのが、米国市場にも展開している中国企業だろう。これら中国企業は米国から締め付けをくらい、今回は中国からの締め付けによってダメージを受けているという、まさに板挟みの状況だ。",
+          "link": "https://www.itmedia.co.jp/business/articles/2107/29/news136.html",
+          "publishedOn": "2021-07-29T22:00:00.000Z",
+          "wordCount": 137,
+          "title": "[ITmedia ビジネスオンライン] 84兆円が消失した中国企業時価総額、ADRのリスクも下落に拍車？"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2107/30/news021.html",
+          "author": null,
+          "description": "注目が集まる「NFTアート」は、法的にはどのような位置づけになるのでしょうか。譲渡や利用など、シーン別に「リアルアート」との違いを弁護士が解説します。",
+          "link": "https://www.itmedia.co.jp/business/articles/2107/30/news021.html",
+          "publishedOn": "2021-07-29T22:00:00.000Z",
+          "wordCount": 142,
+          "title": "[ITmedia ビジネスオンライン] 「リアルアート」と「NFTアート」、法的な違いは？　弁護士が解説"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/30/news056.html",
+          "author": null,
+          "description": "NTTドコモが、スマートフォン決済サービス「d払い」で、ポイントの獲得時期をd払いの利用直後に通知するよう、システムを見直すことが分かった。これまでは最大手のPayPayに利便性で後れを取っていたが、利便性向上やキャンペーン拡大で巻き返しを図る構えだ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/30/news056.html",
+          "publishedOn": "2021-07-29T22:00:00.000Z",
+          "wordCount": 148,
+          "title": "[ITmedia News] d払い、ポイント還元時期を即時通知へ　利便性改善でPayPayに追随"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2107/30/news061.html",
+          "author": null,
+          "description": "オフィスのファシリティマネジメントをフルリモートで行っている総務部員が、エン・ジャパンにいるという。彼は、通常業務だけでなく、オフィスを約4割縮小したプロジェクトの推進も全てリモートで成し遂げた。オフィス縮小プロジェクトはどう進めたのか、総務がリモートで働くための秘訣とは──？　話を聞いた。",
+          "link": "https://www.itmedia.co.jp/business/articles/2107/30/news061.html",
+          "publishedOn": "2021-07-29T22:00:00.000Z",
+          "wordCount": 147,
+          "title": "[ITmedia ビジネスオンライン] オフィス約4割減を指揮したのは“フルリモート総務”！　決定から解約までを、遠隔で実現できたワケ"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2107/30/news068.html",
+          "author": null,
+          "description": "東京オリンピック・パラリンピックの経済効果は、どのくらいあるのだろうか。関西大学の宮本勝浩名誉教授が試算したところ……。",
+          "link": "https://www.itmedia.co.jp/business/articles/2107/30/news068.html",
+          "publishedOn": "2021-07-29T21:36:00.000Z",
+          "wordCount": 128,
+          "title": "[ITmedia ビジネスオンライン] 東京オリパラの経済効果は？　「アスリートを称えるセール」を試算"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2107/30/news020.html",
+          "author": null,
+          "description": "マーケティングでは「ミレニアル世代」と「Z世代」の存在を無視できない。価値観・消費行動にどのような特徴があるのか。超狭い住宅に好んで住む理由を分析していみると……。",
+          "link": "https://www.itmedia.co.jp/business/articles/2107/30/news020.html",
+          "publishedOn": "2021-07-29T20:00:00.000Z",
+          "wordCount": 140,
+          "title": "[ITmedia ビジネスオンライン] 超狭い住宅に申し込み殺到！　モノを持たない「ミレニアル世代」と「Z世代」がマーケティングを変える理由"
+        },
+        {
           "id": "https://www.itmedia.co.jp/business/articles/2107/30/news017.html",
           "author": null,
           "description": "マクドナルドの1～6月における店舗の売上高が好調だ。8月に発表される第2四半期決算の結果に注目が集まる。コロナ禍を乗り越えるための「4つの戦略」と、先行投資の中身を分析する。",
@@ -1989,6 +2223,123 @@
       "feedUrl": "https://ascii.jp/rss.xml",
       "siteUrl": "https://ascii.jp/1/",
       "articles": [
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064207/?rss",
+          "author": null,
+          "description": "ショップインバースでは7月31日～8月6日まで「決算セール！！」を開催。期間中、レノボの12型ノートPC「ThinkPad X270」を1万9800円の特別価格で販売する。",
+          "link": "https://ascii.jp/elem/000/004/064/4064207/?rss",
+          "publishedOn": "2021-07-30T01:00:00.000Z",
+          "wordCount": 254,
+          "title": "Core i3-7100U搭載の「ThinkPad X270」が期間限定で1万9800円の特価に"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/063/4063786/?rss",
+          "author": null,
+          "description": "XPGブランドのゲーミングヘッドセット「XPG PRECOG Gaming Headset」は、デュアルドライバーによる高音質、音の方向感や距離感がわかりすいFPSモードの搭載などが特徴のハイエンドモデルだ。",
+          "link": "https://ascii.jp/elem/000/004/063/4063786/?rss",
+          "publishedOn": "2021-07-30T01:00:00.000Z",
+          "wordCount": 324,
+          "title": "ゲームやテレワークで即戦力のゲーミングヘッドセット「XPG PRECOG Gaming Headset」レビュー"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064133/?rss",
+          "author": null,
+          "description": "弁当・惣菜専門店の「オリジン弁当」「キッチンオリジン」は8月2日10時から、「旨辛豚丼」を期間限定で発売します。",
+          "link": "https://ascii.jp/elem/000/004/064/4064133/?rss",
+          "publishedOn": "2021-07-30T00:10:00.000Z",
+          "wordCount": 349,
+          "title": "オリジン、スタミナたっぷり「旨辛豚丼」!! 肉ダブルもあるよ"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064111/?rss",
+          "author": null,
+          "description": "生鮮食品を家の近所で手軽にピックアップできる新しい生鮮食品EC「クックパッドマート」。コロナ禍のライフスタイルの変化にあわせて成長を続けるサービスを支える「マートステーション」の開発とIoTプラットフォーム「SORACOM」採用の背景について、クックパッドの買物プロダクト開発部ハードウェアアプリケーショングループ長 今井晨介氏に話を聞いた。",
+          "link": "https://ascii.jp/elem/000/004/064/4064111/?rss",
+          "publishedOn": "2021-07-30T00:00:00.000Z",
+          "wordCount": 203,
+          "title": "好調クックパッドマートを支える「マートステーション」の開発とSORACOM"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/063/4063810/?rss",
+          "author": null,
+          "description": "これから外に出る機会が増えてくれば、自分自身の個人情報などを守るために、よりVPNの必要性は増していくだろう。",
+          "link": "https://ascii.jp/elem/000/004/063/4063810/?rss",
+          "publishedOn": "2021-07-30T00:00:00.000Z",
+          "wordCount": 273,
+          "title": "これからのネットでVPNが必要になってくる理由"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064262/?rss",
+          "author": null,
+          "description": "動態管理サービス MOVO Fleetに、トラックのCO2排出量削減につながる2つの新機能を追加",
+          "link": "https://ascii.jp/elem/000/004/064/4064262/?rss",
+          "publishedOn": "2021-07-29T23:00:00.000Z",
+          "wordCount": 571,
+          "title": "動態管理サービス MOVO Fleetに、トラックのCO2排出量削減につながる2つの新機能を追加"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064251/?rss",
+          "author": null,
+          "description": "カメラの性能調査とその情報を提供している「DXOMARK」は、ファーウェイ製スマートフォン「HUAWEI P50 Pro」のスコアを掲載。144点でスマートフォンの最高点を付けている。",
+          "link": "https://ascii.jp/elem/000/004/064/4064251/?rss",
+          "publishedOn": "2021-07-29T23:00:00.000Z",
+          "wordCount": 534,
+          "title": "発表されたばかりのファーウェイ「HUAWEI P50 Pro」、DXOMARKでシャオミを抜いて最高点"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064200/?rss",
+          "author": null,
+          "description": "沖縄県竹富町黒島のさくら牧場で7月27日、東京工業大学、信州大学、電通国際情報サービス、ファームノート、テクノプロ・デザイン、ソニーグループの共同プロジェクトチームが開発したエッジAI技術とLPWA技術による放牧牛AIモニタリングシステム「PETER（ピーター）」の動産・債権担保融資（ABL：Asset Based Lending）への適用に関する実証実験が開始された。",
+          "link": "https://ascii.jp/elem/000/004/064/4064200/?rss",
+          "publishedOn": "2021-07-29T23:00:00.000Z",
+          "wordCount": 467,
+          "title": "放牧牛を担保とする動産担保融資におけるAIモニタリングシステム「PETER」の有効性検証を開始"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/063/4063245/?rss",
+          "author": null,
+          "description": "中小企業オフィスのネットワークをIPv6対応するための考え方や手順を解説してきた本連載。今回からはより実践的に、主要なオフィス向けネットワーク機器を取り上げて、IPv6対応のための手順と設定を見ていく。まずはNECプラットフォームズの小型Wi-Fi 6ルーター「Aterm Biz SH621A1」を取り上げる。",
+          "link": "https://ascii.jp/elem/000/004/063/4063245/?rss",
+          "publishedOn": "2021-07-29T23:00:00.000Z",
+          "wordCount": 359,
+          "title": "「Aterm Biz SHシリーズ」と「v6プラス」で中小企業／店舗のIPv6対応を行う"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064243/?rss",
+          "author": null,
+          "description": "Dropbox Japanが国内2000名を対象とした「コロナ禍におけるテクノロジー利用動向調査」の結果を発表した。プライベート／仕事の両面で、コロナ禍を通じてテクノロジー利用にどのような変化が生じたのかを明らかにすることを目的としたもので、人どうしの接触が制限される中において、テクノロジーによって人間関係を維持し、生活を充実させようとする行動が多く見られた。",
+          "link": "https://ascii.jp/elem/000/004/064/4064243/?rss",
+          "publishedOn": "2021-07-29T22:00:00.000Z",
+          "wordCount": 299,
+          "title": "「コロナ禍でテクノロジーの便利さを再認識」が6割強、Dropbox国内調査"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064205/?rss",
+          "author": null,
+          "description": "台湾グルメとして人気の「ザージーパイ」をミニストップが再現。本日から発売。",
+          "link": "https://ascii.jp/elem/000/004/064/4064205/?rss",
+          "publishedOn": "2021-07-29T22:00:00.000Z",
+          "wordCount": 337,
+          "title": "【本日発売】ミニストップで大きな「台湾からあげ」"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064256/?rss",
+          "author": null,
+          "description": "電動化の波はトラックにも及んでいる。短距離を走るトラックはすぐに電動化できそうだが、長距離を走る大型トラックを電動化するには何が必要になるのだろうか。",
+          "link": "https://ascii.jp/elem/000/004/064/4064256/?rss",
+          "publishedOn": "2021-07-29T21:55:32.000Z",
+          "wordCount": 491,
+          "title": "EVトラック普及で送電網は耐えられるか？"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064261/?rss",
+          "author": null,
+          "description": "素人でもプロ並みに撮影！スマホジンバル『Hohem iSteady X』が最大2,500円OFFになるAmazon割引クーポンキャンペーンが実施",
+          "link": "https://ascii.jp/elem/000/004/064/4064261/?rss",
+          "publishedOn": "2021-07-29T21:30:00.000Z",
+          "wordCount": 574,
+          "title": "素人でもプロ並みに撮影！スマホジンバル『Hohem iSteady X』が最大2,500円OFFになるAmazon割引クーポンキャンペーンが実施"
+        },
         {
           "id": "https://ascii.jp/elem/000/004/064/4064206/?rss",
           "author": null,
@@ -4040,6 +4391,69 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/14616",
+          "author": null,
+          "description": "Sansanが運営するエンジニアリング強化のためのプロジェクト「Builders Box」は、エンジニア向けオンラインイベント「Builders Box - ON AIR ♯5 達人プログラマー」を8月25日に開催する。",
+          "link": "http://codezine.jp/article/detail/14616",
+          "publishedOn": "2021-07-30T01:00:00.000Z",
+          "wordCount": 250,
+          "title": "Sansan、エンジニア強化のためのオンラインイベント「Builders Box - ON AIR ♯5 達人プログラマー」を8月25日に開催"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/14617",
+          "author": null,
+          "description": "米Microsoftは、最新のVisual Studio CodeにてJavaScriptデバッガが組み込まれ、ブラウザで容易にデバッグができるようになったことを、7月16日（現地時間）付の公式ブログ投稿にて紹介している。",
+          "link": "http://codezine.jp/article/detail/14617",
+          "publishedOn": "2021-07-30T01:00:00.000Z",
+          "wordCount": 244,
+          "title": "Visual Studio CodeへのJavaScriptデバッガ統合でブラウザでのデバッグが容易に"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/14619",
+          "author": null,
+          "description": "チェコのJetBrainsは、RubyとRailsに対応した統合開発環境の最新版「RubyMine 2021.2」を、7月27日（現地時間）にリリースした。",
+          "link": "http://codezine.jp/article/detail/14619",
+          "publishedOn": "2021-07-30T00:00:00.000Z",
+          "wordCount": 221,
+          "title": "JetBrains、Ruby／Rails用IDE「RubyMine 2021.2」をリリース"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/14503",
+          "author": null,
+          "description": "コロナ禍により、2020年にオンラインで開催されたDevOpsカンファレンス「Deserted Island DevOps」。イベントの舞台はなんと、任天堂の人気ゲーム「あつまれ どうぶつの森」。このイベントでは、まるで実際にゲームの世界で講演をしているような体験を、DiscordやTwitchなどの他のツールも活用しつつ提供した。セッションはDevOpsに関するさまざまなテーマについて、ゲームの例えを交えながらユーモアいっぱいに語られるものばかり。本記事では、2021年5月に開催された第2回「Deserted Island DevOps 2021」をレポートする。（編集部）",
+          "link": "http://codezine.jp/article/detail/14503",
+          "publishedOn": "2021-07-30T00:00:00.000Z",
+          "wordCount": 286,
+          "title": "うちの島でDevOpsについて語ろうよ！ 「あつまれ どうぶつの森」を舞台にしたDevOpsカンファレンス開催"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/14618",
+          "author": null,
+          "description": "米Microsoftは、コードエディタ「Visual Studio Code」向けC++拡張機能の、2021年7月版を7月28日（現地時間）にリリースした。",
+          "link": "http://codezine.jp/article/detail/14618",
+          "publishedOn": "2021-07-30T00:00:00.000Z",
+          "wordCount": 239,
+          "title": "Visual Studio Code向けの、C++拡張機能2021年7月版がリリース"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/14620",
+          "author": null,
+          "description": "米HashiCorpは、シークレット管理ソリューションの最新版「HashiCorp Vault 1.8」の一般提供を、7月28日（現地時間）に開始した。",
+          "link": "http://codezine.jp/article/detail/14620",
+          "publishedOn": "2021-07-29T23:00:00.000Z",
+          "wordCount": 232,
+          "title": "シークレット管理ソリューション「HashiCorp Vault 1.8」が一般提供に"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/14621",
+          "author": null,
+          "description": "ITインフラソリューションを中心に、クラウド環境や、ネットワークシステムの構築・保守・運用におけるサービスを提供するアイエスエフネットは、オンラインセミナー「～インフラエンジニアだからこそPythonを知ろう～＜ついでに自動化も少し知ろう＞」を8月4日にオンライン開催する。参加費は無料で、定員は100名。",
+          "link": "http://codezine.jp/article/detail/14621",
+          "publishedOn": "2021-07-29T23:00:00.000Z",
+          "wordCount": 225,
+          "title": "オンラインセミナー「インフラエンジニアだからこそPythonを知ろう」が8/4にオンライン開催"
+        },
+        {
           "id": "http://codezine.jp/article/detail/14606",
           "author": null,
           "description": "anyenvは、新規事業に特化したモバイルアプリ開発を支援するFlutterアプリ開発ソリューションの提供をを7月27日に発表した。",
@@ -4397,6 +4811,15 @@
       "feedUrl": "https://gihyo.jp/feed/rss2",
       "siteUrl": "https://gihyo.jp/",
       "articles": [
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202107/30",
+          "author": "吉田史",
+          "description": "この2週ほどはGNOME 40本体とNautilus 40がDaily build ISOイメージに投入される一方，デスクトップ関連のアップデートが行われています。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202107/30",
+          "publishedOn": "2021-07-30T00:44:00.000Z",
+          "wordCount": 749,
+          "title": "2021年7月30日号　impishの開発・GNOME40のDaily Imageへの投下，Backportsリポジトリの変化 ── Ubuntu Weekly Topics"
+        },
         {
           "id": "https://gihyo.jp/design/clip/01/weekly-web-tech/202107/29",
           "author": "アシカガコウジ",
@@ -4827,6 +5250,456 @@
       "feedUrl": "https://news.mynavi.jp/rss/index",
       "siteUrl": "https://news.mynavi.jp/",
       "articles": [
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934252/index.html",
+          "author": null,
+          "description": "● カブス 4 － 7 レッズ ○\n＜現地時間7月29日　リグリー・フィールド＞\n\n　レッズの秋山翔吾外野手（33）が29日（日本時間30日）、敵地でのカブス戦に「8番・中堅」で先発出場。4打数…",
+          "link": "https://news.mynavi.jp/article/20210730-1934252/index.html",
+          "publishedOn": "2021-07-30T01:33:33.000Z",
+          "wordCount": 311,
+          "title": "秋山翔吾、4打数1安打で2戦連続安打　レッズは3連勝、ボットが6戦連続アーチ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934247/index.html",
+          "author": null,
+          "description": "Amplitude(アンプリチュード)から2021年秋コスメが発売される。アイシャドウ、リップ、チークはもちろん、眉毛もカラフルを楽しむ時代。 withマスク時代に周りと差をつけるなら今回のテーマ「カ...",
+          "link": "https://news.mynavi.jp/article/20210730-1934247/index.html",
+          "publishedOn": "2021-07-30T01:30:25.000Z",
+          "wordCount": 411,
+          "title": "Amplitude2021年秋コスメでカラフルメイクに挑戦♡ 洗練された色彩で、アイブロウもカラフルに楽しんで！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1933633/index.html",
+          "author": null,
+          "description": "2021年夏ボーナスの支給実績を振り返りつつ、企業業績との関係性について見ていきましょう。",
+          "link": "https://news.mynavi.jp/article/20210730-1933633/index.html",
+          "publishedOn": "2021-07-30T01:30:00.000Z",
+          "wordCount": 353,
+          "title": "夏のボーナスが好調だった業種は? ボーナス動向から考える、将来有望な株式銘柄"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934241/index.html",
+          "author": null,
+          "description": "お笑いコンビ・コロコロチキチキペッパーズのナダルと西野創人が25日、YouTubeチャンネル『コロコロチキチキペッパーズのよろチキチャンネル』で、動画「人生で一番辛かった地方営業の話を教えます」を公開。“地獄だった”という過酷な地方営業のエピソードを打ち明けた。",
+          "link": "https://news.mynavi.jp/article/20210730-1934241/index.html",
+          "publishedOn": "2021-07-30T01:30:00.000Z",
+          "wordCount": 311,
+          "title": "コロチキ、“地獄”の地方営業を語る「今思い返すとゾッとする…」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1933577/index.html",
+          "author": null,
+          "description": "キャリアデザインセンターはこのほど、「出社派とリモート派のランチ事情」に関する調査結果を発表した。同調査は6月18日～7月1日、同社運営サイト「女の転職type」会員648名を対象に、インターネットで実施した。",
+          "link": "https://news.mynavi.jp/article/20210730-1933577/index.html",
+          "publishedOn": "2021-07-30T01:28:00.000Z",
+          "wordCount": 339,
+          "title": "働く女性が平日ランチにかける平均額は? - 出社とリモートで違いも"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1933579/index.html",
+          "author": null,
+          "description": "エン・ジャパンはこのほど、「ミドル世代の異業種転職」に関する調査結果を発表した。同調査は7月8日～16日、ミドル世代に特化した求人情報サイト「ミドルの転職」を利用する転職コンサルタント164名を対象に、インターネットで実施した。",
+          "link": "https://news.mynavi.jp/article/20210730-1933579/index.html",
+          "publishedOn": "2021-07-30T01:24:45.000Z",
+          "wordCount": 343,
+          "title": "異業種転職したミドル世代の職種、トップ3は?"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934213/index.html",
+          "author": null,
+          "description": "インフォマートは7月29日、「総務の業務課題」に関する調査結果を発表した。調査は5月7日～14日、総務業務を担当する会社員343名を対象にインターネットで行われた。",
+          "link": "https://news.mynavi.jp/article/20210730-1934213/index.html",
+          "publishedOn": "2021-07-30T01:20:34.000Z",
+          "wordCount": 328,
+          "title": "総務担当の会社員「テレワークはしていない」が67%、最も多い出社理由は?"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934179/index.html",
+          "author": null,
+          "description": "ビズヒッツは7月29日、「コネ転職に関する意識調査」の結果をランキング形式にて発表した。調査は6月22日～7月7日、コネを使って転職したことがある男女249名(女性147名/男性102名)を対象にインターネットで行われた。",
+          "link": "https://news.mynavi.jp/article/20210730-1934179/index.html",
+          "publishedOn": "2021-07-30T01:17:38.000Z",
+          "wordCount": 338,
+          "title": "コネ転職のメリット1位は「採用までがスムーズ」- デメリットは?"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934237/index.html",
+          "author": null,
+          "description": "2021年の母の日EC商戦は、2020年に引き続き、コロナ禍の影響が強く反映された結果となったようだ。ECに関するデータ収集・分析を行うNint（ニント）によると、ある大手ＥＣモールにおける、母の日関連商品（商品名に「母の日」と設定している・・・",
+          "link": "https://news.mynavi.jp/article/20210730-1934237/index.html",
+          "publishedOn": "2021-07-30T01:03:00.000Z",
+          "wordCount": 280,
+          "title": "【データで分析！EC商戦】「2021年母の日」ギフト系食品市場にコロナの追い風続く 雑貨ジャンルは売り上げ前年割れも"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934225/index.html",
+          "author": null,
+          "description": "コメダは8月4日、季節のシロノワール「シロノワール 杏仁マンゴー」を全国の「コメダ珈琲店」店舗で発売する。9月中旬までの期間限定販売(予定)で、終売時期は店舗により異なる。",
+          "link": "https://news.mynavi.jp/article/20210730-1934225/index.html",
+          "publishedOn": "2021-07-30T01:01:47.000Z",
+          "wordCount": 331,
+          "title": "コメダ珈琲店「シロノワール」新作は杏仁豆腐＆マンゴーの味わい"
+        },
+        {
+          "id": "https://news.mynavi.jp/kikaku/20210730-1926579/index.html",
+          "author": null,
+          "description": "",
+          "link": "https://news.mynavi.jp/kikaku/20210730-1926579/index.html",
+          "publishedOn": "2021-07-30T01:00:00.000Z",
+          "wordCount": 552,
+          "title": "「イヤホンは開放型がいい」という人に試してほしい！ - 『HUAWEI FreeBuds 4』の実力とは"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1916620/index.html",
+          "author": null,
+          "description": "神奈川県川崎市では、2009年から「川崎市総合防災情報システム」を運用するなど、ICTを活用した防災活動に力を入れている。",
+          "link": "https://news.mynavi.jp/article/20210730-1916620/index.html",
+          "publishedOn": "2021-07-30T01:00:00.000Z",
+          "wordCount": 398,
+          "title": "老若男女問わず「災害情報」を届けたい! 川崎市が取り組む危機管理のあり方"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1933788/index.html",
+          "author": null,
+          "description": "スマートフォン向けゲーム『バンドリ！ ガールズバンドパーティ！』の新規描き下ろしイラストを使用した物販イベント「バンドリ！ ガールズバンドパーティ！ 2021 Summer」が7月31日より開催される。",
+          "link": "https://news.mynavi.jp/article/20210730-1933788/index.html",
+          "publishedOn": "2021-07-30T01:00:00.000Z",
+          "wordCount": 331,
+          "title": "「Summer Vacation」をテーマに「バンドリ！ ガールズバンドパーティ！ 2021 Summer」開催"
+        },
+        {
+          "id": "https://news.mynavi.jp/kikaku/20210730-1931629/index.html",
+          "author": null,
+          "description": "カシオで働く「人」にフォーカス。ご紹介するのは入社7年目、カシオの看板ブランド「G-SHOCK」や「BABY-G」の商品企画を手がける野村瑞季さんです。また、野村さんが手がけたユニセックスのG-SHOCK「GM-S2100」についてもご紹介します。就活中の方はもちろん、時計ファンの方々もぜひご覧ください！",
+          "link": "https://news.mynavi.jp/kikaku/20210730-1931629/index.html",
+          "publishedOn": "2021-07-30T01:00:00.000Z",
+          "wordCount": 465,
+          "title": "G-SHOCKに新たな1ページを－カシオで商品企画を担当する野村瑞季さん（入社7年目）"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1933823/index.html",
+          "author": null,
+          "description": "アイドルグループ・V6の岡田准一が主演を務める、映画『ザ・ファブル 殺さない殺し屋』(公開中)の本編映像が29日に公開された。",
+          "link": "https://news.mynavi.jp/article/20210730-1933823/index.html",
+          "publishedOn": "2021-07-30T01:00:00.000Z",
+          "wordCount": 324,
+          "title": "岡田准一、リアル師匠と超肉弾戦! 「デラヒーバからベリンボロという技を使っている」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934008/index.html",
+          "author": null,
+          "description": "2021年7月から放送開始となったTVアニメ『迷宮ブラックカンパニー』より、Blu-ray＆DVD第1巻のジャケットイラストが公開された。",
+          "link": "https://news.mynavi.jp/article/20210730-1934008/index.html",
+          "publishedOn": "2021-07-30T01:00:00.000Z",
+          "wordCount": 315,
+          "title": "TVアニメ『迷宮ブラックカンパニー』、BD＆DVD第1巻ジャケットイラスト公開"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934214/index.html",
+          "author": null,
+          "description": "細田守監督の最新アニメ映画『竜とそばかすの姫』の公式プレイリストが、30日から音楽ストリーミングサービス・Spotifyで配信を開始した。",
+          "link": "https://news.mynavi.jp/article/20210730-1934214/index.html",
+          "publishedOn": "2021-07-30T01:00:00.000Z",
+          "wordCount": 315,
+          "title": "『竜とそばかすの姫』公式プレイリスト配信開始、Spotify限定コンテンツも"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934230/index.html",
+          "author": null,
+          "description": "ホットトイズの「コミック・マスターピース DIECAST」最新作として「『アーマライズ・ウォーリアー・コレクション』16スケールフィギュア アーマライズ・デッドプール」が2025年4月に発売予定、現在予約受付中だ。ボディーに合金を使用するこ・・・",
+          "link": "https://news.mynavi.jp/article/20210730-1934230/index.html",
+          "publishedOn": "2021-07-30T01:00:00.000Z",
+          "wordCount": 306,
+          "title": "超武装の俺ちゃん登場！ ホットトイズ「アーマライズ・デッドプール」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934227/index.html",
+          "author": null,
+          "description": "細田守が監督を務めるアニメ映画「竜とそばかすの姫」の公式プレイリストがSpotifyにて公開された。",
+          "link": "https://news.mynavi.jp/article/20210730-1934227/index.html",
+          "publishedOn": "2021-07-30T01:00:00.000Z",
+          "wordCount": 291,
+          "title": "「竜とそばかすの姫」Spotifyに公式プレイリスト、岩崎太整らのボイスコメンタリーも"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934226/index.html",
+          "author": null,
+          "description": "おおのこうすけ原作によるアニメ「極主夫道」のおまけシリーズとなる実写ドラマ「極工夫道」が、8月29日よりNetflixで全世界配信されることが決定。主演はアニメで主人公・龍の声を担当した津田健次郎が務める。",
+          "link": "https://news.mynavi.jp/article/20210730-1934226/index.html",
+          "publishedOn": "2021-07-30T01:00:00.000Z",
+          "wordCount": 289,
+          "title": "津田健次郎が実写で主演！アニメ「極主夫道」のおまけシリーズをNetflixで配信"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934235/index.html",
+          "author": null,
+          "description": "東京2020オリンピックは、大会7日目。陸上競技がスタートする。最初の決勝種目となる男子1万mには、伊藤達彦と相澤晃が出場。アフリカ勢が席巻するこの種目で、東京の蒸し暑さという“地の利”を味方にでき…",
+          "link": "https://news.mynavi.jp/article/20210730-1934235/index.html",
+          "publishedOn": "2021-07-30T01:00:00.000Z",
+          "wordCount": 314,
+          "title": "トランポリンと柔道最重量級の金メダルに期待！東京オリンピック主なライブ配信（7月30日）"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934236/index.html",
+          "author": null,
+          "description": "1960年～1970年代、シボレーコルベット、フォードマスタング、シェルビーコブラなど、往年の名車がアメリカで生み出されてきた。あの頃を振り返りたい…そんな方に朗報だ。株式会社デアゴスティーニ･ジャパンより、1960～1970・・・",
+          "link": "https://news.mynavi.jp/article/20210730-1934236/index.html",
+          "publishedOn": "2021-07-30T01:00:00.000Z",
+          "wordCount": 329,
+          "title": "かつて憧れたアメ車たちが集結！｜ダイキャスト製ミニチュアコレクション『アメリカンカーコレクション』創刊"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934228/index.html",
+          "author": null,
+          "description": "マンチェスター・Cとアストン・ヴィラのイングランド代表MFジャック・グリーリッシュの交渉についてイギリスメディア『スカイスポーツ』や『ガーディアン』などが29日に報じている。\n　アストン・ヴィラグリ",
+          "link": "https://news.mynavi.jp/article/20210730-1934228/index.html",
+          "publishedOn": "2021-07-30T00:54:06.000Z",
+          "wordCount": 292,
+          "title": "マンCが交渉中のグリーリッシュ…売却望まないヴィラの提示額は153億円超か"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1933553/index.html",
+          "author": null,
+          "description": "7月28日(米国時間)、CISA、オーストラリアサイバーセキュリティセンター、英国の国家サイバーセキュリティセンター(NCSC)、FBIが共同執筆したサイバーセキュリティアドバイザリにおいて、2020年および2021年にかけてサイバー犯罪者によって日常的に悪用された脆弱性情報が発表された。",
+          "link": "https://news.mynavi.jp/article/20210730-1933553/index.html",
+          "publishedOn": "2021-07-30T00:36:19.000Z",
+          "wordCount": 368,
+          "title": "サイバー犯罪者が日常使いする代表的な脆弱性が発表"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934212/index.html",
+          "author": null,
+          "description": "アキレスは8月1日より、キッズ用シューズ「ODP 2080」(4,290円)を全国の靴専門店およびECサイトなどで発売する。",
+          "link": "https://news.mynavi.jp/article/20210730-1934212/index.html",
+          "publishedOn": "2021-07-30T00:29:38.000Z",
+          "wordCount": 329,
+          "title": "アメリカの「アウトドアプロダクツ」、キッズシューズを発売"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934229/index.html",
+          "author": null,
+          "description": "285日ぶりに実戦復帰を果たしたリヴァプールのオランダ代表DFフィルジル・ファン・ダイクがその喜びを自身のツイッターに綴った。\n　リヴァプールは29日、プレシーズンマッチでヘルタ・ベルリンと対戦。そ",
+          "link": "https://news.mynavi.jp/article/20210730-1934229/index.html",
+          "publishedOn": "2021-07-30T00:03:27.000Z",
+          "wordCount": 297,
+          "title": "「気持ちを言い表すのは難しいけど」…長期離脱から復帰のファン・ダイクが感謝綴る「ありがとう」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934205/index.html",
+          "author": null,
+          "description": "MyReferは7月29日、「リファラル採用リクルーター実態調査」を発表した。調査は5月26315日、従業員数30～1,000名以上の会社の従業員500人を対象にインターネットで行われた。",
+          "link": "https://news.mynavi.jp/article/20210730-1934205/index.html",
+          "publishedOn": "2021-07-30T00:03:17.000Z",
+          "wordCount": 343,
+          "title": "知り合いを「自分の会社に紹介する人」の特徴は? 役職や人となりを調査"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934188/index.html",
+          "author": null,
+          "description": "リミニストリートは7月29日、世界13の市場の最高財務責任者（CFO）および上級財務責任者を対象に、デジタルトランスフォーメーション（DX）やIT投資への認識に関する調査を実施し、結果を発表した。",
+          "link": "https://news.mynavi.jp/article/20210730-1934188/index.html",
+          "publishedOn": "2021-07-30T00:01:35.000Z",
+          "wordCount": 290,
+          "title": "リミニストリート、CFOに対するDXやIT投資への調査 - 日本の特徴とは？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1933786/index.html",
+          "author": null,
+          "description": "『バンドリ！』プロジェクトより「バンドリーマー感謝キャラバン 2021 in 札幌」が7月25日に開催された。",
+          "link": "https://news.mynavi.jp/article/20210730-1933786/index.html",
+          "publishedOn": "2021-07-30T00:00:00.000Z",
+          "wordCount": 324,
+          "title": "「バンドリーマー感謝キャラバン 2021 in 札幌」開催"
+        },
+        {
+          "id": "https://news.mynavi.jp/kikaku/20210730-1923770/index.html",
+          "author": null,
+          "description": "",
+          "link": "https://news.mynavi.jp/kikaku/20210730-1923770/index.html",
+          "publishedOn": "2021-07-30T00:00:00.000Z",
+          "wordCount": 383,
+          "title": "大型人工サーフィン施設「静波サーフスタジアム」開業の裏側に迫る! 財布を持たずにサーフィンを楽しめる世界をFileMakerで実現"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/Excelgraphzissentech-18/index.html",
+          "author": null,
+          "description": "Excelの複合グラフは、「集合縦棒」と「積み上げ縦棒」の混在は不可、という仕様になっている。そこで、この問題を解決するテクニックを紹介していこう。",
+          "link": "https://news.mynavi.jp/article/Excelgraphzissentech-18/index.html",
+          "publishedOn": "2021-07-30T00:00:00.000Z",
+          "wordCount": 383,
+          "title": "作り方で変わる！Excelグラフ実践テク 第18回 集合縦棒と積み上げ縦棒を混在させる方法"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934187/index.html",
+          "author": null,
+          "description": "リクルートは7月29日、「2021年4-6月期の『転職時の賃金変動状況』」に関する調査結果を発表した。",
+          "link": "https://news.mynavi.jp/article/20210730-1934187/index.html",
+          "publishedOn": "2021-07-29T23:37:31.000Z",
+          "wordCount": 325,
+          "title": "今年の4～6月の転職による賃金変動、「1割以上増加した割合」が発表"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1932669/index.html",
+          "author": null,
+          "description": "魚座(うお座)の人の2021年8月の恋愛運と仕事運を紹介します。占ってくれたのは、スピリチュアルカウンセラーとして、風水や四柱推命などで多くの人を鑑定する月香さんです。ビジネスや恋愛がうまくいくためのヒントが散りばめられているので、仕事に恋愛にまい進したい人はぜひご覧になってください。",
+          "link": "https://news.mynavi.jp/article/20210730-1932669/index.html",
+          "publishedOn": "2021-07-29T23:10:00.000Z",
+          "wordCount": 346,
+          "title": "8月の魚座の運勢をスピリチュアルカウンセラーが占う!"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934174/index.html",
+          "author": null,
+          "description": "新型コロナウイルス感染症拡大の影響を受け、株高の局面となっています。こうした状況を見ると、「いまから投資をしても大丈夫？」と思ったり、資産運用をしてこなかった人にとっては「株価がどうなろうと自分には関…",
+          "link": "https://news.mynavi.jp/article/20210730-1934174/index.html",
+          "publishedOn": "2021-07-29T23:10:00.000Z",
+          "wordCount": 307,
+          "title": "40代から始める！今から老後のお金を作るには？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934196/index.html",
+          "author": null,
+          "description": "アルゼンチン人FWマキシ・ロペスが29日に自身のインスタグラムを更新し、現役引退を表明した。\nマキシ・ロペスは現在37歳でアルゼンチンの名門リーベル・プレートの下部組織出身。2001年にトップチームに",
+          "link": "https://news.mynavi.jp/article/20210730-1934196/index.html",
+          "publishedOn": "2021-07-29T23:09:15.000Z",
+          "wordCount": 295,
+          "title": "FWマキシ・ロペスが現役引退を発表…トリノで活躍、バルサやミランでもプレー"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/architecture-462/index.html",
+          "author": null,
+          "description": "天河1Aのサービスサブシステムの1ノードは2個のFT-1000 CPUで構成されている。FT-1000はSPARC V9命令セットアーキテクチャを使う中国開発のプロセサである。",
+          "link": "https://news.mynavi.jp/article/architecture-462/index.html",
+          "publishedOn": "2021-07-29T23:00:51.000Z",
+          "wordCount": 359,
+          "title": "コンピュータアーキテクチャの話 第462回 独自開発プロセサ「FT-1000」を搭載した天河一号Aのサービスサブシステム"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934173/index.html",
+          "author": null,
+          "description": "DeNAの佐野恵太は、前半戦を打率リーグトップの.328で終え、2年連続首位打者に向けて期待が膨らむ。\n\n　昨季4番に定着し、今季も開幕から4番に座っていたが、5月18日の中日戦から3番・佐野、…",
+          "link": "https://news.mynavi.jp/article/20210730-1934173/index.html",
+          "publishedOn": "2021-07-29T23:00:48.000Z",
+          "wordCount": 300,
+          "title": "2年連続首位打者に期待のDeNA・佐野恵太"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934191/index.html",
+          "author": null,
+          "description": "サラダを食べるという習慣や、冷凍食品などの便利アイテム。私たちの身近にある様々なコトやモノが、実は1964年の東京オリンピック・パラリンピックをきっかけに、誕生、発展、普及したということをご存じだろうか。東京2020大会真っ只中の今こそ知っておきたい、私たちの暮らしを変えた過去のオリパラレガシーを紹介する。",
+          "link": "https://news.mynavi.jp/article/20210730-1934191/index.html",
+          "publishedOn": "2021-07-29T23:00:31.000Z",
+          "wordCount": 325,
+          "title": "知ってる？サラダや冷凍食品の普及は1964年東京オリパラがきっかけ"
+        },
+        {
+          "id": "https://news.mynavi.jp/kikaku/20210730-security_frontline_v118/index.html",
+          "author": null,
+          "description": "2021年6月（6月1日〜6月30日）にESET製品が国内で検出したマルウェアの検出数の推移をレポートします。",
+          "link": "https://news.mynavi.jp/kikaku/20210730-security_frontline_v118/index.html",
+          "publishedOn": "2021-07-29T23:00:00.000Z",
+          "wordCount": 432,
+          "title": "Webサイトの閲覧時、悪意あるマルウェアにはご注意を！―2021年6月 サイバーセキュリティニュース"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1933866/index.html",
+          "author": null,
+          "description": "俳優の藤原大祐が、フジテレビ系情報番組『めざましテレビ』(毎週月～金曜5:25～)で、エンタメコーナーの8月担当マンスリープレゼンターを務めることが30日、明らかになった。8月10日から毎週火曜に出演する。",
+          "link": "https://news.mynavi.jp/article/20210730-1933866/index.html",
+          "publishedOn": "2021-07-29T23:00:00.000Z",
+          "wordCount": 321,
+          "title": "藤原大祐『めざましテレビ』8月プレゼンター　昔はアナ志望「光栄です」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1933799/index.html",
+          "author": null,
+          "description": "9月10日より公開の『映画 おかあさんといっしょ　ヘンテコ世界からの脱出！』の予告編、ポスター、場面写真が30日、公開された。",
+          "link": "https://news.mynavi.jp/article/20210730-1933799/index.html",
+          "publishedOn": "2021-07-29T23:00:00.000Z",
+          "wordCount": 347,
+          "title": "横山だいすけ＆小池徹平の登場シーン初公開　あつこお姉さんに“異変”も"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934172/index.html",
+          "author": null,
+          "description": "7月30日の『沸騰ワード10』（日本テレビ系、毎週金曜19:56～）では、松丸亮吾の豊富な知識が話題を呼ぶ「スマート家電に取り憑かれた松丸亮吾」が放送される。  同番組では、一般の人は聞いたことがな…",
+          "link": "https://news.mynavi.jp/article/20210730-1934172/index.html",
+          "publishedOn": "2021-07-29T23:00:00.000Z",
+          "wordCount": 294,
+          "title": "林遣都＆坂東龍汰がゲスト出演！スマート家電で“魔改造”された家の持ち主は？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934168/index.html",
+          "author": null,
+          "description": "バンダイ ベンダー事業部は、キャラクターのコスチュームをトルソーに見立てて立体化し、アクセサリーをかけて使用することができる新シリーズ「Capsule トルソー」の第2弾として、ディズニーのプリンセスたちのドレスをトルソーにした『Capsu・・・",
+          "link": "https://news.mynavi.jp/article/20210730-1934168/index.html",
+          "publishedOn": "2021-07-29T23:00:00.000Z",
+          "wordCount": 303,
+          "title": "【カプセルトイ】ディズニープリンセスのドレスがトルソーに♪"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1932656/index.html",
+          "author": null,
+          "description": "水瓶座(みずがめ座)の人の2021年8月の恋愛運と仕事運を紹介します。占ってくれたのは、スピリチュアルカウンセラーとして、風水や四柱推命などで多くの人を鑑定する月香さんです。ビジネスや恋愛がうまくいくためのヒントが散りばめられているので、仕事に恋愛にまい進したい人はぜひご覧になってください。",
+          "link": "https://news.mynavi.jp/article/20210730-1932656/index.html",
+          "publishedOn": "2021-07-29T22:55:00.000Z",
+          "wordCount": 346,
+          "title": "8月の水瓶座の運勢をスピリチュアルカウンセラーが占う!"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1932576/index.html",
+          "author": null,
+          "description": "山羊座の人の2021年８月の恋愛運と仕事運を紹介します。占ってくれたのは、スピリチュアルカウンセラーとして、風水や四柱推命などで多くの人を鑑定する月香さんです。ビジネスや恋愛がうまくいくためのヒントが散りばめられているので、仕事に恋愛にまい進したい人はぜひご覧になってください。",
+          "link": "https://news.mynavi.jp/article/20210730-1932576/index.html",
+          "publishedOn": "2021-07-29T22:35:00.000Z",
+          "wordCount": 347,
+          "title": "８月の山羊座の運勢をスピリチュアルカウンセラーが占う!"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1933741/index.html",
+          "author": null,
+          "description": "タレントのマツコ・デラックスとお笑い芸人の有吉弘行が、きょう30日放送のテレビ朝日系バラエティ番組『マツコ＆有吉 かりそめ天国 2時間スペシャル』(20:00～)で、白髪についてトークを繰り広げる。",
+          "link": "https://news.mynavi.jp/article/20210730-1933741/index.html",
+          "publishedOn": "2021-07-29T22:30:00.000Z",
+          "wordCount": 319,
+          "title": "マツコ、急激な白髪増を告白　有吉弘行が考える原因とは"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/teiji-112/index.html",
+          "author": null,
+          "description": "本連載の第111回では「正論だけで人は動かない」と題し、人を説得する際には正論に加えて感情に働きかけることの重要性をお話しました。今回は仕事におけるエネルギー配分の重要性をお伝えします。",
+          "link": "https://news.mynavi.jp/article/teiji-112/index.html",
+          "publishedOn": "2021-07-29T22:30:00.000Z",
+          "wordCount": 367,
+          "title": "成果を上げながら定時で帰る仕事術 第112回 仕事に費やすエネルギーの配分を考えよう"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934175/index.html",
+          "author": null,
+          "description": "世のポルシェファン、車好きの方々に大変嬉しいお知らせが届いた。スポーツドライビングおよびブランド体験施設「ポルシェ・エクスペリエンスセンター東京」のオープン日が2021年10月1日（金）に決定し、7月29日（木）よりプログラムの予約受付が開・・・",
+          "link": "https://news.mynavi.jp/article/20210730-1934175/index.html",
+          "publishedOn": "2021-07-29T22:30:00.000Z",
+          "wordCount": 314,
+          "title": "ポルシェエクスペリエンスセンター東京のオープン日が決定！プログラム予約も受付中"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1934147/index.html",
+          "author": null,
+          "description": "◆ 好スタートを切ったルーキーの「テーマ」は…？\n\n　私事ながら小学生の時、夏休みの宿題は早々に取りかかるタイプで、終業式を終えて帰宅したその瞬間からフライング気味にプリントの山を処理していた。…",
+          "link": "https://news.mynavi.jp/article/20210730-1934147/index.html",
+          "publishedOn": "2021-07-29T22:07:58.000Z",
+          "wordCount": 316,
+          "title": "「4回6失点」から得た収穫…阪神のルーキー・伊藤将司が取り組む“自由研究”"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210730-1933807/index.html",
+          "author": null,
+          "description": "俳優の斎藤工が主演するテレビ朝日系ドラマ『漂着者』(毎週金曜23:15～※一部地域除く)第2話が、きょう30日に放送される。",
+          "link": "https://news.mynavi.jp/article/20210730-1933807/index.html",
+          "publishedOn": "2021-07-29T22:00:00.000Z",
+          "wordCount": 320,
+          "title": "ヘミングウェイ(斎藤工)が詠美(白石麻衣)をバックハグ? 『漂着者』第2話"
+        },
         {
           "id": "https://news.mynavi.jp/article/20210730-1933970/index.html",
           "author": null,
