@@ -2,10 +2,242 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://darashina.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-30T12:57:46.968Z</updated>
+    <updated>2021-07-30T16:59:26.258Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://darashina.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://darashina.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[プログラミング言語「Rust」v1.54.0がリリース]]></title>
+        <id>https://news.mynavi.jp/article/20210731-1934953/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210731-1934953/index.html"/>
+        <updated>2021-07-30T15:18:32.000Z</updated>
+        <summary type="html"><![CDATA[Rust Foundationは現地時間2021年7月29日、開発言語であるRust バージョン1.54.0をリリースした。インストール済みの環境では「rustup update stable」で更新を実行し、新規インストールする場合はインストールページの手順で導入が可能。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] 初代ポケモンで買えなかった100万円の「じてんしゃ」、実物大で再現　乗車は不可]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/31/news021.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/31/news021.html"/>
+        <updated>2021-07-30T15:10:00.000Z</updated>
+        <summary type="html"><![CDATA[「ポケモン情報局」はフォロワー100万人突破を記念して「ポケットモンスター 赤・緑」に登場する100万円の「じてんしゃ」を再現した実物大模型を1人にプレゼントすると発表した。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] 藍井エイルの曲に音質を合わせたイヤフォン、ソニーが発売　27万5000円から]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/31/news022.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/31/news022.html"/>
+        <updated>2021-07-30T15:01:00.000Z</updated>
+        <summary type="html"><![CDATA[ソニーは30日、TVアニメ「Fate」シリーズや「ソードアート・オンライン」シリーズなどの主題歌で知られる歌手・藍井エイルさんの楽曲に合わせて音質を調整したイヤフォン「Just ear XJE-MH/Eir」を発表した。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「東京卍リベンジャーズ」が相変わらずの強さ、まんが王国ランキング（男性）（7月23日〜7月29日）]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064257/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064257/?rss"/>
+        <updated>2021-07-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[コミック配信サービス「まんが王国」の、7月23日〜7月29日の週間男性ランキング。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[インテルCore i7-11700KとGeforce RTX 3090を搭載する「ZEFT G18C」が4万8000円オフ！]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063808/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063808/?rss"/>
+        <updated>2021-07-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[セブンアールジャパンは7月31日、パソコンショップSEVENにて「2021/7/31 24時間限定セール」を開催。インテルCore i7-11700KとGeforce RTX 3090を搭載する「ZEFT G18C」が4万8000円オフに。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10ミニTips 第637回 安定版Edge 92、パスワードが安全かチェックする機能に注目]]></title>
+        <id>https://news.mynavi.jp/article/win10tips-637/index.html</id>
+        <link href="https://news.mynavi.jp/article/win10tips-637/index.html"/>
+        <updated>2021-07-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoftが米国時間2021年7月22日に公式ブログで報じたように、安定版Microsoft Edgeがバージョン92に更新された。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『劇場版 だかいち』、10/9公開！追加キャストに速水奨＆落合福嗣]]></title>
+        <id>https://news.mynavi.jp/article/20210731-1934937/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210731-1934937/index.html"/>
+        <updated>2021-07-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[発行部数400万部を突破したボーイズ・ラブマンガ『抱かれたい男1位に脅されています。』(桜日梯子／リブレ刊)の人気エピソードを原作とした『劇場版 抱かれたい男1位に脅されています。～スペイン編～』の公開日が、2021年10月9日(土)に決定した。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「劇場版だかいち」公開は10月9日！セレス役は速水奨、アントニオ役は落合福嗣]]></title>
+        <id>https://news.mynavi.jp/article/20210731-1934942/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210731-1934942/index.html"/>
+        <updated>2021-07-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[桜日梯子原作によるアニメ「劇場版 抱かれたい男1位に脅されています。～スペイン編～」の公開日が10月9日に決定。併せてキービジュアル、追加キャストが発表された。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アムロ・レイ、安室透役の古谷徹さんも！】7月31日がお誕生日の声優さんは？]]></title>
+        <id>https://news.mynavi.jp/article/20210731-1934944/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210731-1934944/index.html"/>
+        <updated>2021-07-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今日7月31日は「ビーチの日」。ビーチは波によって形造られることから「な（7）み（3）がいい（1）＝波が良い」という語呂合わせにちなんで制定されたそうです。また、今日は「少年よ、大志を抱け」で有名なアメリカの教育者、ウィリアム・スミス・クラ・・・]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ベスト4決定！アメリカvsカナダ、オーストラリアvsスウェーデン／東京五輪女子準々決勝]]></title>
+        <id>https://news.mynavi.jp/article/20210730-1934930/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210730-1934930/index.html"/>
+        <updated>2021-07-30T14:37:37.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピック・女子サッカー競技準々決勝が30日に各地で行われた。
+　自国開催でのメダル獲得を目標としていたなでしこジャパンは、前回のリオデジャネイロ・オリンピックで銀メダル獲得、2019年ワール]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[田中圭が驚く千葉雄大の音楽特番でのカメラ慣れ「そんなの簡単ですよ」]]></title>
+        <id>https://news.mynavi.jp/article/20210730-1934833/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210730-1934833/index.html"/>
+        <updated>2021-07-30T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ダンス＆ボーカルグループのDa-iCEが、30日に放送された日本テレビ系音楽番組『MUSIC BLOOD』(毎週金曜23:00～)に出演した。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生駒里奈、遺言状の存在明かす「私がいなくなったら弟に全部お金あげて」]]></title>
+        <id>https://news.mynavi.jp/article/20210730-1934909/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210730-1934909/index.html"/>
+        <updated>2021-07-30T14:25:31.000Z</updated>
+        <summary type="html"><![CDATA[元乃木坂46で女優の生駒里奈が、30日放送のフジテレビ系バラエティ番組『人志松本の酒のツマミになる話』(毎週金曜21:58～)に出演。遺言状の存在を明かした。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[お絵描き大好きオタク女子高生、転生して美少女エルフの姿になる新連載]]></title>
+        <id>https://news.mynavi.jp/article/20210730-1934919/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210730-1934919/index.html"/>
+        <updated>2021-07-30T14:10:00.000Z</updated>
+        <summary type="html"><![CDATA[沖ノ輔の新連載「お絵かきエルフは3600倍速で魔法業界を無双する」が、本日7月30日にGANMA!でスタートした。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今週のデジタル編集部 第18回 どんなネジでもそろうらしい]]></title>
+        <id>https://news.mynavi.jp/article/kouki-18/index.html</id>
+        <link href="https://news.mynavi.jp/article/kouki-18/index.html"/>
+        <updated>2021-07-30T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[週末の夜遅くに掲載している「今週のデジタル編集部」。普段の誌面からちょっとそれまして、編集後記をお送りします。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新業態「TREE＆TREE’s」オープン記念 ドムドムハンバーガー POP UP STORE【ロフト58店舗＋ネットストア】]]></title>
+        <id>https://news.mynavi.jp/kikaku/20210730-1934469/index.html</id>
+        <link href="https://news.mynavi.jp/kikaku/20210730-1934469/index.html"/>
+        <updated>2021-07-30T13:52:42.000Z</updated>
+        <summary type="html"><![CDATA[新業態「TREE＆TREE’s」が、8月2日(月)にオープンすることを記念して、ドムドムハンバーガーとロフトによる共同企画「ドムドムハンバーガー POP UP STORE」を全国のロフト58店舗とロフトネットストアで開催！]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PK戦にもつれた激闘はアメリカに軍配！　オランダはエースが大会10点目記録もW杯決勝のリベンジならず]]></title>
+        <id>https://news.mynavi.jp/article/20210730-1934931/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210730-1934931/index.html"/>
+        <updated>2021-07-30T13:52:03.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピック準々決勝が30日に行われ、オランダ女子代表とアメリカ女子代表が対戦した。
+　グループFを2勝1分で首位通過したオランダと、グループGを1勝1分1敗の2位で通過したアメリカ。2019年]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[キスマイ10周年特番&千賀・横尾・藤ヶ谷『ConneXion』最終回生出演が決定]]></title>
+        <id>https://news.mynavi.jp/article/20210730-1934530/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210730-1934530/index.html"/>
+        <updated>2021-07-30T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Kis-My-Ft2の千賀健永、横尾渉、藤ヶ谷太輔が8月6日(22:00〜)、dTVオリジナルドラマ『ConneXion』(全6話・毎週金曜22:00〜配信)最終回『ConneXion最終回つながる生特番』に生出演。また、Kis-My-Ft2のデビュー10周年を記念した特別番組として、メンバー7人が10年間の思い出を語りながら挑むクイズ型リアリティショー『キスマイ タイムトンネル』が8月10日(12:00〜)、配信される。なお同番組は全4話で、2話目以降は毎週金曜正午に配信。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[33歳月収17万、貯金20万円。家族3人で生活が苦しい…]]></title>
+        <id>https://news.mynavi.jp/article/20210730-1934892/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210730-1934892/index.html"/>
+        <updated>2021-07-30T13:20:00.000Z</updated>
+        <summary type="html"><![CDATA[皆さんから寄せられた家計の悩みにお答えする、その名も「マネープランクリニック」。今回の相談者は、苦しい家計に悩む30代の会社員男性。ファイナンシャル・プランナーの平野泰嗣さんがアドバイスします。ペンペ…]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仕事が生き甲斐の男爵令嬢が婚約回避に奮闘、「運命の恋人は期限付き」マンガ版]]></title>
+        <id>https://news.mynavi.jp/article/20210730-1934884/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210730-1934884/index.html"/>
+        <updated>2021-07-30T13:07:00.000Z</updated>
+        <summary type="html"><![CDATA[小鳩子鈴原作による紫藤むらさきの新連載「運命の恋人は期限付き」が、本日7月30日発売のWeb雑誌・コミックライド62号（マイクロマガジン社）でスタートした。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8強敗退…なでしこ高倉監督「私たちのレベルアップ以上に世界の進化がある」]]></title>
+        <id>https://news.mynavi.jp/article/20210730-1934900/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210730-1934900/index.html"/>
+        <updated>2021-07-30T13:00:40.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピック準々決勝が30日に行われ、スウェーデン女子代表と対戦した日本女子代表（なでしこジャパン）は前半1－1で折り返したものの、後半2失点を喫して1－3で敗戦。メダル獲得はならなかった。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マグネット式でパタッと閉じられる薄型カード入れ「XGO.style CARD-CASE」が6600円]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064368/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064368/?rss"/>
+        <updated>2021-07-30T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アスキーストアでは、マグネット式フラップを用いることで薄型で開け閉めがスマートに行なえるカード入れ「XGO.style CARD-CASE」を発売中。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gカップ日向葵衣、小悪魔的OLに扮して先輩を大胆に誘惑]]></title>
+        <id>https://news.mynavi.jp/article/20210730-1933386/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210730-1933386/index.html"/>
+        <updated>2021-07-30T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[グラビアアイドルの日向葵衣(ひなた あおい)が、最新イメージDVD『日向くんはちょっぴり過剰』(発売中 4,180円税込 発売元:ラインコミュニケーションズ)をリリースした。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「FGOソロモン」本日上映開始、公開記念ビジュアルお目見え]]></title>
+        <id>https://news.mynavi.jp/article/20210730-1934876/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210730-1934876/index.html"/>
+        <updated>2021-07-30T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アニメ「Fate/Grand Order -終局特異点 冠位時間神殿ソロモン-」の公開記念ビジュアルが公開された。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ITmedia Mobile] 「povoの契約数は？」「LINEMOの990円には追随する？」――KDDI決算説明会一問一答（2021年7月編）]]></title>
         <id>https://www.itmedia.co.jp/mobile/articles/2107/30/news177.html</id>
@@ -77,6 +309,16 @@
         <link href="https://news.mynavi.jp/article/20210730-1934870/index.html"/>
         <updated>2021-07-30T12:32:00.000Z</updated>
         <summary type="html"><![CDATA[九段そごう「ぷらすアルファ」の1巻が、本日7月30日に発売された。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ローソンで『ヒプマイ』タイアップキャンペーン！限定グッズをゲット]]></title>
+        <id>https://news.mynavi.jp/article/20210730-1934878/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210730-1934878/index.html"/>
+        <updated>2021-07-30T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年8月3日（火）より、ローソン店舗（ナチュラルローソン・ローソンストア 100・一部店舗除く）にて、『ヒプノシスマイク-Division Rap Battle-』とタイアップしたキャンペーンを実施する。『ヒプノシスマイク-Divis・・・]]></summary>
         <author>
             <name>マイナビニュース</name>
         </author>
