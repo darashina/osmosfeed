@@ -12,6 +12,15 @@
       "siteUrl": "https://www.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/01/news016.html",
+          "author": null,
+          "description": "ホリエモンこと堀江貴文氏が出資する宇宙ベンチャー、インターステラテクノロジズは7月31日午後5時、観測ロケット「MOMO（モモ）」6号機である「TENGAロケット」を打ち上げた。同機は高度92キロに到達。ISTにとって今月3日のロケット打ち上げと合わせて、2回連続での宇宙空間到達となった。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/01/news016.html",
+          "publishedOn": "2021-07-31T15:15:00.000Z",
+          "wordCount": 123,
+          "title": "[ITmedia ビジネスオンライン] 堀江貴文氏「積み重ねが結果に結びついた」　インターステラテクノロジズ「TENGAロケット」が宇宙空間に到達"
+        },
+        {
           "id": "https://www.itmedia.co.jp/business/articles/2107/31/news039.html",
           "author": null,
           "description": "ソニー生命保険が「中高生が思い描く将来についての意識調査2021」を実施。2019年の同調査と比較して、中学生のなりたい職業には「ゲーム実況者」「ボカロP」が新たにランクイン。高校生のなりたい職業は「公務員」「教師・教員」「保育士・幼稚園教諭」が順位上昇した。",
@@ -2970,6 +2979,69 @@
       "feedUrl": "https://ascii.jp/rss.xml",
       "siteUrl": "https://ascii.jp/1/",
       "articles": [
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064458/?rss",
+          "author": null,
+          "description": "MSIからNVMe M.2対応SSDの新モデル「SPATIUM M480」シリーズが発売された。",
+          "link": "https://ascii.jp/elem/000/004/064/4064458/?rss",
+          "publishedOn": "2021-07-31T16:50:00.000Z",
+          "wordCount": 543,
+          "title": "リード7000MB/secのNVMe M.2対応SSDがMSIから登場"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064457/?rss",
+          "author": null,
+          "description": "ZALMANから、ブラックを基調としたカラーリングが特徴のサイドフロー型CPUクーラー「CNPS10X PERFORMA BLACK」が発売された。",
+          "link": "https://ascii.jp/elem/000/004/064/4064457/?rss",
+          "publishedOn": "2021-07-31T16:28:00.000Z",
+          "wordCount": 513,
+          "title": "ヒートシンクやファンをブラックで統一したZALMANのCPUクーラー"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064453/?rss",
+          "author": null,
+          "description": "8月1日23:59まで有効「2000円クーポン」が、ZOZOTOWNで発行された。対象ショップは、ZOZOTOWNのFOSSIL（フォッシル）直営店、SKAGEN（スカーゲン）直営店ほか。",
+          "link": "https://ascii.jp/elem/000/004/064/4064453/?rss",
+          "publishedOn": "2021-07-31T15:05:00.000Z",
+          "wordCount": 284,
+          "title": "【本日限定2000円引き】人気フォッシル、スカーゲンのスマートウォッチや腕時計ほか"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064007/?rss",
+          "author": null,
+          "description": "セブンアールジャパンは8月1日、パソコンショップSEVENにて「2021/8/1 24時間限定セール」を開催する。インテルCore i7-11700KとGeforce RTX 3080を搭載した「ZEFT G15ACE」が4万1000円オフなど、全10商品を特別価格で販売する。",
+          "link": "https://ascii.jp/elem/000/004/064/4064007/?rss",
+          "publishedOn": "2021-07-31T15:00:00.000Z",
+          "wordCount": 239,
+          "title": "インテルCore i7-11700K+Geforce RTX 3080搭載「ZEFT G15ACE」が4万1000円オフ"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064456/?rss",
+          "author": null,
+          "description": "Inno3Dから、オリジナルVGAクーラーを採用するLite Hash Rate版のGeForce RTX 3060 Ti搭載ビデオカード「INNO3D GEFORCE RTX 3060 TI TWIN X2 LHR」が発売された。",
+          "link": "https://ascii.jp/elem/000/004/064/4064456/?rss",
+          "publishedOn": "2021-07-31T14:57:00.000Z",
+          "wordCount": 535,
+          "title": "Inno3Dからも基板短め240mmサイズのGeForce RTX 3060 Tiが発売"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064455/?rss",
+          "author": null,
+          "description": "MSIから、オリジナルVGAクーラー採用のLite Hash Rate版のGeForce RTX 3060 Ti搭載ビデオカード「GeForce RTX 3060 Ti VENTUS 2X 8G OCV1 LHR」が発売された。",
+          "link": "https://ascii.jp/elem/000/004/064/4064455/?rss",
+          "publishedOn": "2021-07-31T14:37:00.000Z",
+          "wordCount": 559,
+          "title": "MSIから2スロットで長さ235mmのGeForce RTX 3060 Tiが発売"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064259/?rss",
+          "author": null,
+          "description": "アスキーストアでは、iPhoneやiPadでテレビを視聴・録画できるモバイルワンセグチューナー 「KR-012AP」を販売中。",
+          "link": "https://ascii.jp/elem/000/004/064/4064259/?rss",
+          "publishedOn": "2021-07-31T13:00:00.000Z",
+          "wordCount": 365,
+          "title": "iPhone、iPadでどこでもテレビが観れる！録れる！"
+        },
         {
           "id": "https://ascii.jp/elem/000/004/064/4064076/?rss",
           "author": null,
@@ -6893,6 +6965,105 @@
       "feedUrl": "https://news.mynavi.jp/rss/index",
       "siteUrl": "https://news.mynavi.jp/",
       "articles": [
+        {
+          "id": "https://news.mynavi.jp/article/20210801-1935704/index.html",
+          "author": null,
+          "description": "ジャニーズJr.の美 少年が本格的な戦隊ヒーローに初挑戦することが話題となっているテレビ朝日系オシドラサタデー『ザ・ハイスクール ヒーローズ』のオリジナルスピンオフ『特撮美 少年』が、毎週地上波の放送終了後に「TELASA（テラサ）」で配信される。",
+          "link": "https://news.mynavi.jp/article/20210801-1935704/index.html",
+          "publishedOn": "2021-07-31T15:00:00.000Z",
+          "wordCount": 338,
+          "title": "『特撮美 少年』配信スタート、『ザ・ハイスクール ヒーローズ』オリジナルスピンオフ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210801-1935727/index.html",
+          "author": null,
+          "description": "水あさと「阿波連さんははかれない」のTVアニメ化が決定。水瀬いのりが阿波連れいな、寺島拓篤がライドウを演じ、2022年4月から放送される。",
+          "link": "https://news.mynavi.jp/article/20210801-1935727/index.html",
+          "publishedOn": "2021-07-31T15:00:00.000Z",
+          "wordCount": 310,
+          "title": "「阿波連さんははかれない」TVアニメ化！水瀬いのりと寺島拓篤が共演"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210801-1935730/index.html",
+          "author": null,
+          "description": "今日8月1日は「水の日」。他にも花火の日や麻雀の日、肺の日、パインの日など色々な記念日になっています。また、今日は学問の神様として有名な平安時代の政治家・菅原道真や、フランスが生んだ世界的ファッションデザイナー、イヴ・サン＝ローランが生まれ・・・",
+          "link": "https://news.mynavi.jp/article/20210801-1935730/index.html",
+          "publishedOn": "2021-07-31T15:00:00.000Z",
+          "wordCount": 295,
+          "title": "【今日は誰のお誕生日？】8月1日がお誕生日の声優さんは？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210731-1935728/index.html",
+          "author": null,
+          "description": "アストン・ヴィラは31日、ジャマイカ代表FWレオン・ベイリーの完全移籍加入でレヴァークーゼンと合意に至ったことをクラブ公式サイトで発表した。\n　バイリーはメディカルチェック、および個人条件の最終的な",
+          "link": "https://news.mynavi.jp/article/20210731-1935728/index.html",
+          "publishedOn": "2021-07-31T14:51:08.000Z",
+          "wordCount": 296,
+          "title": "アストン・ヴィラ、FWベイリー獲得でレヴァークーゼンと合意！　諸手続き後に正式契約へ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210731-1935692/index.html",
+          "author": null,
+          "description": "U－24日本代表を率いる森保一監督が、31日に行われた東京オリンピック男子サッカー競技の準々決勝U－24ニュージーランド代表戦を振り返った。\n　日本はなかなか試合の主導権を握れない苦しい展開となり、",
+          "link": "https://news.mynavi.jp/article/20210731-1935692/index.html",
+          "publishedOn": "2021-07-31T13:48:17.000Z",
+          "wordCount": 294,
+          "title": "森保監督、NZとの激闘制した選手たちを称賛「粘り強く戦い抜いてくれた」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210731-1935677/index.html",
+          "author": null,
+          "description": "皆さんから寄せられた家計の悩みにお答えする、その名も「マネープランクリニック」。今回の相談者は、割高なマンションを買ってしまったという43歳の一人暮らしの男性です。ファイナンシャル・プランナーの深野康…",
+          "link": "https://news.mynavi.jp/article/20210731-1935677/index.html",
+          "publishedOn": "2021-07-31T13:20:00.000Z",
+          "wordCount": 344,
+          "title": "43歳一人暮らし。中古マンションを2700万円で購入し、後悔しています"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210731-1935684/index.html",
+          "author": null,
+          "description": "今日の占い「12星座ランキング」を発表！ ラジオ発のエンタメニュース＆コラム「TOKYO FM＋」がお届けする、毎日運勢占い「12星座別ランキング＆ワンポイントアドバイス」。2021年（令和3年）8月1日（日）のあなたの運勢を、東京・池袋占い館セレーネ所属・占い師の夏目みやび（なつめ・みやび）さんが占います。今日の第1位は乙女座（おとめ座）！ あなたの星座は何位……？",
+          "link": "https://news.mynavi.jp/article/20210731-1935684/index.html",
+          "publishedOn": "2021-07-31T13:10:00.000Z",
+          "wordCount": 344,
+          "title": "★今日の運勢★2021年8月1日（日）12星座占いランキング第1位は乙女座（おとめ座）！ あなたの星座は何位…!?"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210731-1935694/index.html",
+          "author": null,
+          "description": "東京オリンピック準々決勝が31日に行われ、U－24ニュージーランド代表と対戦したU－24日本代表は、スコアレスで持ち込まれたPK戦を制して、準決勝進出を決めた。\n　グルールステージで3試合連続先制点",
+          "link": "https://news.mynavi.jp/article/20210731-1935694/index.html",
+          "publishedOn": "2021-07-31T13:03:59.000Z",
+          "wordCount": 294,
+          "title": "久保建英、スペインとの準決勝は「120％、150％の力でチームを勝たせたい」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210731-1935693/index.html",
+          "author": null,
+          "description": "東京オリンピック男子サッカー競技の準々決勝が31日に行われた。\n　A組を全勝で突破した日本は、決勝トーナメントに初進出したB組2位のニュージーランドと対戦。日本はなかなか主導権を握れない苦しい展開と",
+          "link": "https://news.mynavi.jp/article/20210731-1935693/index.html",
+          "publishedOn": "2021-07-31T13:03:42.000Z",
+          "wordCount": 322,
+          "title": "日本とスペインが激闘制して4強入り！　韓国に大勝のメキシコはブラジルと対戦へ／東京五輪男子準々決勝"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210731-1933415/index.html",
+          "author": null,
+          "description": "フリーアナウンサーでグラビアアイドルの塩地美澄(しおち みすみ)が、最新イメージDVD＆ブルーレイ『look forward』(ともに発売中 DVD:4,400円税込 ブルーレイ:5,500円税込 発売元:竹書房)をリリースした。",
+          "link": "https://news.mynavi.jp/article/20210731-1933415/index.html",
+          "publishedOn": "2021-07-31T13:00:00.000Z",
+          "wordCount": 318,
+          "title": "フリーアナウンサー塩地美澄、彼氏とのラブラブ旅行で見せた大胆な姿に興奮"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210731-1935695/index.html",
+          "author": null,
+          "description": "東京オリンピック男子サッカー競技の準々決勝が31日に行われ、U－24韓国代表とU－24メキシコ代表が対戦した。\n　グループBを首位通過した韓国と、グループAを2位で突破したメキシコの一戦。試合は11",
+          "link": "https://news.mynavi.jp/article/20210731-1935695/index.html",
+          "publishedOn": "2021-07-31T12:53:43.000Z",
+          "wordCount": 329,
+          "title": "メキシコ、計9点の打ち合い制して韓国粉砕！　ブラジルの待つ準決勝に進出"
+        },
         {
           "id": "https://news.mynavi.jp/article/20210731-1935658/index.html",
           "author": null,
