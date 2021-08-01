@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://darashina.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-01T16:58:06.423Z</updated>
+    <updated>2021-08-01T20:36:44.992Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://darashina.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://darashina.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[羽鳥慎一「涙腺崩壊でした」『鳥人間コンテスト』無観客で2年ぶり開催]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1936375/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1936375/index.html"/>
+        <updated>2021-08-01T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[自作の人力飛行機競技会『Iwataniスペシャル 鳥人間コンテスト2021』(読売テレビ・日本テレビ系 9月2日19:00～)が7月31日・8月1日、滋賀県彦根市の琵琶湖・松原水泳場で、無観客で開催された。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『東京2020オリンピック』8月2日テレビ放送スケジュール／野球アメリカ戦など]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1936444/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1936444/index.html"/>
+        <updated>2021-08-01T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[きょう8月2日の『東京2020オリンピック』中継番組のテレビ放送スケジュールは、以下の通り。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[昇格組の浅野所属ボーフム、ホッフェンハイムからDFスタフィリディスをレンタル]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1936531/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1936531/index.html"/>
+        <updated>2021-08-01T17:35:23.000Z</updated>
+        <summary type="html"><![CDATA[FW浅野拓磨が所属するボーフムは8月1日、ホッフェンハイムからギリシャ代表DFコスタス・スタフィリディスを1シーズンのレンタル移籍で獲得したことを発表した。
+　現在27歳のスタフィリディスは左サイド]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「ハコヅメ」マッドハウス制作でTVアニメ化！若山詩音と石川由依が女性警官コンビに]]></title>
         <id>https://news.mynavi.jp/article/20210802-1936500/index.html</id>
