@@ -12,6 +12,123 @@
       "siteUrl": "https://www.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/enterprise/articles/2108/02/news055.html",
+          "author": null,
+          "description": "DX推進は輝かしい成果に目が行きやすく、成果を急ぐ経営陣も多いだろう。だがサイバーセキュリティインシデントへの対応体制は十分だろうか。事業成長の核を担うDX施策のリスクに対応する体制整備の在り方を取材した。",
+          "link": "https://www.itmedia.co.jp/enterprise/articles/2108/02/news055.html",
+          "publishedOn": "2021-08-02T01:00:00.000Z",
+          "wordCount": 140,
+          "title": "[ITmedia エンタープライズ] DRMとは？　DX時代のリスクマネジメントは従来と何が異なるか　DX推進特有のリスクと対応体制"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/02/news062.html",
+          "author": null,
+          "description": "ジャック・ドーシー氏率いるモバイル決済企業Squareが決済サービスのAfterpayを買収する。総額290億ドル（約3兆1822億円）。Afterpayは無利息で分割払いできるサービスで、Squareはこの機能を送金アプリに統合する計画だ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/02/news062.html",
+          "publishedOn": "2021-08-02T00:28:00.000Z",
+          "wordCount": 160,
+          "title": "[ITmedia News] Square、分割後払いサービスのAfterpayを290億ドル（3兆円超）で買収"
+        },
+        {
+          "id": "https://mag.executive.itmedia.co.jp/executive/articles/2108/02/news060.html",
+          "author": null,
+          "description": "テレワークの拡大などによる電子部品需要の高まりで、7社が増収増益。世界的な半導体不足を受け、関連製品の売り上げも伸びた。",
+          "link": "https://mag.executive.itmedia.co.jp/executive/articles/2108/02/news060.html",
+          "publishedOn": "2021-08-01T23:58:00.000Z",
+          "wordCount": 315,
+          "title": "[ITmedia エグゼクティブ] 電子部品大手の4～6月期、増収増益も半導体不足など先行き不透明"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/02/news057.html",
+          "author": null,
+          "description": "Amazonに対し、ルクセンブルク当局がGDPRに違反したとして7億4600万ユーロ（約971億円）の罰金を科した。GDPR違反の罰金としては過去最高。Amazonは「積極的に自社を弁護する」としている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/02/news057.html",
+          "publishedOn": "2021-08-01T23:04:00.000Z",
+          "wordCount": 153,
+          "title": "[ITmedia News] AmazonにGDPR侵害で7億4600万ユーロ（約971億円）の罰金　過去最高"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/02/news051.html",
+          "author": null,
+          "description": "熱戦が繰り広げられている東京五輪だが、選手のSNSには、試合内容や採点方法をめぐって国内外から誹謗中傷の書き込みが相次いでいる。選手のメンタルに大きな負担となる可能性が高く、IOCも対策に乗り出した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/02/news051.html",
+          "publishedOn": "2021-08-01T22:00:00.000Z",
+          "wordCount": 150,
+          "title": "[ITmedia News] 選手へのSNS中傷相次ぐ　IOCも対応へ"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/02/news053.html",
+          "author": null,
+          "description": "イスラエル企業が犯罪者追跡のために開発したスパイウェア「ペガサス」が、世界各国の政府関係者や記者、人権活動家ら多数へのハッキングに不正使用されていた可能性が浮上し、国際的な問題になっている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/02/news053.html",
+          "publishedOn": "2021-08-01T22:00:00.000Z",
+          "wordCount": 147,
+          "title": "[ITmedia News] イスラエル製スパイウエア　世界の要人が被害に"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/enterprise/articles/2108/02/news036.html",
+          "author": null,
+          "description": "積水ポリマテックは、SAP製品を使った社内データ管理の規模を世界に展開する際、予算の課題を抱えていたという。同社が大規模なデータの収集、集約を効率的に進めるため採った戦略とは。",
+          "link": "https://www.itmedia.co.jp/enterprise/articles/2108/02/news036.html",
+          "publishedOn": "2021-08-01T22:00:00.000Z",
+          "wordCount": 133,
+          "title": "[ITmedia エンタープライズ] 積水ポリマテック、DataSpiderでデータ連携基盤を構築　実現に向けた3つのポイント"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/02/news047.html",
+          "author": null,
+          "description": "国産車は取り決めで時速180キロでスピードリミッターが働くようになっている。しかし最近引き上げられたとはいえ、それでも日本の高速道路の最高速度は時速120キロが上限だ。どうしてスピードリミッターの作動は180キロなのだろうか？　そう思うドライバーは少なくないようだ。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/02/news047.html",
+          "publishedOn": "2021-08-01T22:00:00.000Z",
+          "wordCount": 135,
+          "title": "[ITmedia ビジネスオンライン] 高速道路の最高速度が120キロなのに、それ以上にクルマのスピードが出る理由"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/02/news052.html",
+          "author": null,
+          "description": "物流・流通業界を対象とするDXサービスを事業化する動きが相次いでいる。物流業界は人手不足に加えてインターネット販売の需要拡大などもあり、業務改革のニーズが高まっている。今後も効率化の動きは幅広い業種に広がる見込みで、DXサービスの受注競争も熱を帯びそうだ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/02/news052.html",
+          "publishedOn": "2021-08-01T22:00:00.000Z",
+          "wordCount": 146,
+          "title": "[ITmedia News] 物流・流通DX、事業化の動き　パナや三菱商事系がAIでサプライチェーン効率化"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/03/news006.html",
+          "author": null,
+          "description": "過去を振り返ると、現在ほど日本企業で役員が改革の対象になったことはなかったといえます。どうして日本企業で役員改革が急務になっているのか、そもそも役員改革とは何なのか、全6回の連載でじっくりとお伝えします。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/03/news006.html",
+          "publishedOn": "2021-08-01T22:00:00.000Z",
+          "wordCount": 134,
+          "title": "[ITmedia ビジネスオンライン] 「役員」という聖域の消滅　2021年が“改革元年”になる理由"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/enterprise/articles/2107/30/news121.html",
+          "author": null,
+          "description": "Cloudflareは、「二酸化炭素排出ゼロ」のインターネットを実現するための支援を開始する。再生可能エネルギーを利用したインターネット運用で二酸化炭素排出量を削減する他、アプリケーションやWebサイト、ネットワークにサステナビリティを組み込めるよう、新たなツールも発表した。",
+          "link": "https://www.itmedia.co.jp/enterprise/articles/2107/30/news121.html",
+          "publishedOn": "2021-08-01T22:00:00.000Z",
+          "wordCount": 146,
+          "title": "[ITmedia エンタープライズ] Cloudflare、「二酸化炭素排出ゼロ」のインターネットを実現する顧客支援を開始"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/pcuser/articles/2108/02/news054.html",
+          "author": null,
+          "description": "AdDuplexのWindows 10バージョン別シェアが久々に更新された。そこには、あのOSが早くも登場していた。新OS登場以降の「Windows as a Service」のコンセプトの行方を含めて考察した。",
+          "link": "https://www.itmedia.co.jp/pcuser/articles/2108/02/news054.html",
+          "publishedOn": "2021-08-01T21:00:00.000Z",
+          "wordCount": 586,
+          "title": "[ITmedia PC USER] Windows 11がバージョン別シェアの集計にデビュー"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/02/news021.html",
+          "author": null,
+          "description": "管理職と同等の貢献度のある社員を処遇するために専門職コースを新設。しかし、運用を始めると「専門職の方が管理職よりも楽に給料が上がる」と不満の声が──こんな時、人事はどうしたらいいのだろうか？",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/02/news021.html",
+          "publishedOn": "2021-08-01T21:00:00.000Z",
+          "wordCount": 123,
+          "title": "[ITmedia ビジネスオンライン] 専門職は「管理職よりも楽に給与が上がる」と批判殺到──人事はどうしたらいいでしょうか？"
+        },
+        {
           "id": "https://www.itmedia.co.jp/business/articles/2107/31/news020.html",
           "author": null,
           "description": "2021年上半期 越境ECランキング。世界で売れている日本の商品1位は、繊細な刃先が特徴の「パンフラワー用ハサミ」（やおき工業）だった。",
@@ -2997,6 +3114,186 @@
       "feedUrl": "https://ascii.jp/rss.xml",
       "siteUrl": "https://ascii.jp/1/",
       "articles": [
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064489/?rss",
+          "author": null,
+          "description": "対応自販機において、発行されたQRを読み取ることで「財布いらず」で飲料購入が可能になる。オフィス、工場内での利用を想定。",
+          "link": "https://ascii.jp/elem/000/004/064/4064489/?rss",
+          "publishedOn": "2021-08-02T01:30:00.000Z",
+          "wordCount": 234,
+          "title": "QRコードで飲料が購入できる自販機、ダイドーが導入　来客対応や福利厚生に"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/062/4062184/?rss",
+          "author": null,
+          "description": "「柳谷智宣のkintoneマスターへの道」第99回は、kintoneでDXを推進する人材を育成する「J CAMP」について紹介する。",
+          "link": "https://ascii.jp/elem/000/004/062/4062184/?rss",
+          "publishedOn": "2021-08-02T01:30:00.000Z",
+          "wordCount": 395,
+          "title": "kintoneは使いたいが神Excelも手放せない！　そんな時は「Smart at tools Excel入力」"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064487/?rss",
+          "author": null,
+          "description": "夏休みのご家庭応援メニュー。餃子2個、鶏の唐揚2個、シャウエッセン2本、ライス(中盛り)が入って、270円。",
+          "link": "https://ascii.jp/elem/000/004/064/4064487/?rss",
+          "publishedOn": "2021-08-02T01:00:00.000Z",
+          "wordCount": 336,
+          "title": "餃子の王将、270円の「お子様弁当」8月末まで販売中"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064473/?rss",
+          "author": null,
+          "description": "資生堂は7月17日、顔形状3次元（3D）データから表情を解析できるタブレット端末用のアプリケーションソフトの開発に成功したと発表。",
+          "link": "https://ascii.jp/elem/000/004/064/4064473/?rss",
+          "publishedOn": "2021-08-02T01:00:00.000Z",
+          "wordCount": 526,
+          "title": "資生堂、顔形状3次元データから表情を解析するアプリケーションの開発に成功"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064463/?rss",
+          "author": null,
+          "description": "世界最先端のテクノロジー情報をお届けするグローバルメディア「MITテクノロジーレビュー」から、ビジネスに役立つ注目のテック企業の最新動向、イノベーションにつながる最新の研究内容をピックアップして紹介します。",
+          "link": "https://ascii.jp/elem/000/004/064/4064463/?rss",
+          "publishedOn": "2021-08-02T01:00:00.000Z",
+          "wordCount": 560,
+          "title": "太陽光発電の 「不都合な真実」／数学者が考えたオンラインゲームが人気"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064472/?rss",
+          "author": null,
+          "description": "エムティーアイは7月19日、母子手帳アプリ「母子モ」での新たなサービス「母子モ　子育てDX小児予防接種サービス」の提供開始をした。",
+          "link": "https://ascii.jp/elem/000/004/064/4064472/?rss",
+          "publishedOn": "2021-08-02T00:30:00.000Z",
+          "wordCount": 436,
+          "title": "小児予防接種の手続きがオンラインでできる母子手帳アプリ「母子モ」"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064476/?rss",
+          "author": null,
+          "description": "カリフォルニア州やシベリアで大規模な森林火災が発生し、二酸化炭素排出量の増加が予想されている。大規模な森林火災は今後も続発し、温暖化に拍車をかけるという。",
+          "link": "https://ascii.jp/elem/000/004/064/4064476/?rss",
+          "publishedOn": "2021-08-02T00:12:49.000Z",
+          "wordCount": 485,
+          "title": "米西海岸で森林火災が続発、 「温暖化に拍車」の悪循環"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064471/?rss",
+          "author": null,
+          "description": "PLEN Roboticsと近鉄百貨店は7月16日、あべのハルカス近鉄本店タワー館8階「kodomoの街」にて、AIを活用した百貨店の未来像を創る日本初の実証実験イベント｢ミライデパート｣を開催すると発表した。期間は7月16日から2021年8月17日。",
+          "link": "https://ascii.jp/elem/000/004/064/4064471/?rss",
+          "publishedOn": "2021-08-02T00:00:00.000Z",
+          "wordCount": 551,
+          "title": "AIアシスタント｢PLEN Cube｣を活用し百貨店の未来像を実現 ｢あべのハルカス近鉄本店｣ で実証実験イベントを開催"
+        },
+        {
+          "id": "https://ascii.jp/limit/group/ida/elem/000/004/064/4064364/?rss",
+          "author": null,
+          "description": "フランスやアメリカでワクチン義務化の動きが出てきている。接種率がまだ低い日本も他人事ではなさそうだ。",
+          "link": "https://ascii.jp/limit/group/ida/elem/000/004/064/4064364/?rss",
+          "publishedOn": "2021-08-02T00:00:00.000Z",
+          "wordCount": 512,
+          "title": "ワクチン義務化の流れ、日本でも？"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064485/?rss",
+          "author": null,
+          "description": "8月6日、19日開催【マーケター・販促担当者向けウェビナー】アナログ販促をDX化するエリアマーケティングシステムとは？",
+          "link": "https://ascii.jp/elem/000/004/064/4064485/?rss",
+          "publishedOn": "2021-08-01T23:30:00.000Z",
+          "wordCount": 563,
+          "title": "8月6日、19日開催【マーケター・販促担当者向けウェビナー】アナログ販促をDX化するエリアマーケティングシステムとは？"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064484/?rss",
+          "author": null,
+          "description": "シャープの最新スマホ「AQUOS R6」に画像処理のAIスタートアップNavierのAI技術が搭載",
+          "link": "https://ascii.jp/elem/000/004/064/4064484/?rss",
+          "publishedOn": "2021-08-01T23:30:00.000Z",
+          "wordCount": 558,
+          "title": "シャープの最新スマホ「AQUOS R6」に画像処理のAIスタートアップNavierのAI技術が搭載"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064483/?rss",
+          "author": null,
+          "description": "保険DXに向けさらなる事業加速、そして組織体制を強化",
+          "link": "https://ascii.jp/elem/000/004/064/4064483/?rss",
+          "publishedOn": "2021-08-01T23:00:00.000Z",
+          "wordCount": 557,
+          "title": "保険DXに向けさらなる事業加速、そして組織体制を強化"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064482/?rss",
+          "author": null,
+          "description": "「住宅設備、ネットで注文　交換できるくん」がオウンドメディア「スムタノ」を開設",
+          "link": "https://ascii.jp/elem/000/004/064/4064482/?rss",
+          "publishedOn": "2021-08-01T23:00:00.000Z",
+          "wordCount": 535,
+          "title": "「住宅設備、ネットで注文　交換できるくん」がオウンドメディア「スムタノ」を開設"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064481/?rss",
+          "author": null,
+          "description": "株式会社サンステラ、最高250mm/sの印刷速度を実現した３Dプリンター「Creality 3D Ender-7」を新発売！",
+          "link": "https://ascii.jp/elem/000/004/064/4064481/?rss",
+          "publishedOn": "2021-08-01T23:00:00.000Z",
+          "wordCount": 697,
+          "title": "株式会社サンステラ、最高250mm/sの印刷速度を実現した３Dプリンター「Creality 3D Ender-7」を新発売！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064447/?rss",
+          "author": null,
+          "description": "IBMが4月から一般提供を開始したフルマネージドKubernetesランタイム「IBM Cloud Code Engine」。他のメガクラウドに比べて後発ともいえるこのネージドサービスには、にはアプリケーション開発者や運用担当者にとってどんなアドバンテージがあるのだろうか。",
+          "link": "https://ascii.jp/elem/000/004/064/4064447/?rss",
+          "publishedOn": "2021-08-01T22:00:00.000Z",
+          "wordCount": 500,
+          "title": "Kubernetesランタイムとしての「IBM Cloud Code Engine」の魅力とは"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064311/?rss",
+          "author": null,
+          "description": "PCパーツ店を応援したい！そんな想いから生まれたジサトラの新シリーズ「ジサトラコンシェルジュ」。今回は、今回は、エディオン広島本店に行ってきた様子をお届けします！",
+          "link": "https://ascii.jp/elem/000/004/064/4064311/?rss",
+          "publishedOn": "2021-08-01T22:00:00.000Z",
+          "wordCount": 372,
+          "title": "8/3火 20時～生放送 ゲーミングPC売り場が凄すぎる！inエディオン広島本店【ジサトラコンシェルジュ】"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064263/?rss",
+          "author": null,
+          "description": "8月6日のアスキーグルメNEWSはお休みとなります。次回の生放送は8月20日です。",
+          "link": "https://ascii.jp/elem/000/004/064/4064263/?rss",
+          "publishedOn": "2021-08-01T22:00:00.000Z",
+          "wordCount": 365,
+          "title": "次回のアスキーグルメNEWSは8月20日（金）を予定しております！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064033/?rss",
+          "author": null,
+          "description": "2021年8月4日（水）19時から生放送。昨年は中止となった夏の人気イベント「よこはま夜の動物園」が2年ぶりに復活し、8月の土日祝日に計10回開催！　3つの動物園での企画や見どころをゲストを交えて紹介します。",
+          "link": "https://ascii.jp/elem/000/004/064/4064033/?rss",
+          "publishedOn": "2021-08-01T22:00:00.000Z",
+          "wordCount": 366,
+          "title": "2年ぶりに復活！ イルミや夜市なども行われる夏の人気イベント「よこはま夜の動物園」＠よこはま動物園ズーラシア、野毛山動物園、金沢動物園：LOVE横浜#16"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064032/?rss",
+          "author": null,
+          "description": "MCつばさと、ASCIIブランド総編集長こばQ、ASCII.jp副編集長オカモトが1週間の記事をふりかえる『今週のASCII.jp注目ニュース ベスト5』。雑談成分多めでゆるふわっと生放送します。お楽しみに！",
+          "link": "https://ascii.jp/elem/000/004/064/4064032/?rss",
+          "publishedOn": "2021-08-01T22:00:00.000Z",
+          "wordCount": 390,
+          "title": "『今週のASCII.jp注目ニュース』生放送（2021年7/31～8/6ぶん）"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064470/?rss",
+          "author": null,
+          "description": "ボーイングは8月3日、自社開発の宇宙船「スターライナー」で国際宇宙ステーションへ向かう無人ミッションを打ち上げる予定だ。2019年12月の同様の試験飛行は失敗に終わっており、宇宙開発における同社の命運を賭けたミッションとなるだろう。",
+          "link": "https://ascii.jp/elem/000/004/064/4064470/?rss",
+          "publishedOn": "2021-08-01T21:09:40.000Z",
+          "wordCount": 484,
+          "title": "ボーイングの新型宇宙船、背水の陣で2度目の打ち上げへ"
+        },
         {
           "id": "https://ascii.jp/elem/000/004/064/4064083/?rss",
           "author": null,
@@ -6227,6 +6524,24 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/14623",
+          "author": null,
+          "description": "Branding Engineerは、同社が運営するプログラミングスクール「tech boost」にてAIコースの受講受付を開始し、教育ローンを導入したことを7月30日に発表した。",
+          "link": "http://codezine.jp/article/detail/14623",
+          "publishedOn": "2021-08-02T00:00:00.000Z",
+          "wordCount": 224,
+          "title": "プログラミングスクール「tech boost」がAIコースを開始、教育教育ローンも導入"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/14627",
+          "author": null,
+          "description": "クライアントのあらゆる課題をさまざまな手法により解決していく総合デジタルソリューションカンパニー・D2C dotから、デジタルを中核とした4名のプロデューサー・チーム「組（くむ）」が生まれました。本連載では、「組」のプロデューサー陣が、仕事に取り組むうえでのポイントを紹介していきます。第4回は「パートナーとの関係構築」についてです。",
+          "link": "http://codezine.jp/article/detail/14627",
+          "publishedOn": "2021-08-01T23:00:00.000Z",
+          "wordCount": 238,
+          "title": "困難を乗り越えるために パートナーとの信頼関係の築きかたを解説"
+        },
+        {
           "id": "http://codezine.jp/article/detail/14558",
           "author": null,
           "description": "「第10回MLOpsコミュニティイベント」が8月25日にオンライン開催する。参加費は無料。",
@@ -6702,6 +7017,15 @@
       "siteUrl": "https://gihyo.jp/",
       "articles": [
         {
+          "id": "https://gihyo.jp/dev/serial/01/oss-db-various-news/0072",
+          "author": "梶山隆輔，溝口則行",
+          "description": "この連載はOSSコンソーシアム データベース部会のメンバーがお伝えしています。2015年9月の第1回から始まり，今回で満6歳の小学生になりました。これからもよろしくお願いいたします。",
+          "link": "https://gihyo.jp/dev/serial/01/oss-db-various-news/0072",
+          "publishedOn": "2021-08-02T00:57:00.000Z",
+          "wordCount": 520,
+          "title": "第72回　6年間のOSS DBランキング，MySQL 8.0.26リリース，Postgres Vision Tokyo 2021開催 ── OSSデータベース取り取り時報"
+        },
+        {
           "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202107/30",
           "author": "吉田史",
           "description": "この2週ほどはGNOME 40本体とNautilus 40がDaily build ISOイメージに投入される一方，デスクトップ関連のアップデートが行われています。",
@@ -7140,6 +7464,456 @@
       "feedUrl": "https://news.mynavi.jp/rss/index",
       "siteUrl": "https://news.mynavi.jp/",
       "articles": [
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1911206/index.html",
+          "author": null,
+          "description": "年始の挨拶をメールで済ませる人は増えたものの、年賀状にこだわっている人はまだまだ多いはず。印刷をどうしようか、毎年悩む人もいるのではないでしょうか。そんな時に頼りになるコンビニの年賀状印刷についてご紹介します。",
+          "link": "https://news.mynavi.jp/article/20210802-1911206/index.html",
+          "publishedOn": "2021-08-02T01:35:09.000Z",
+          "wordCount": 367,
+          "title": "コンビニの年賀状印刷、宛名書きはしてくれる? ハガキの持ち込みは?"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936770/index.html",
+          "author": null,
+          "description": "THREE（スリー）から、宇宙や星をテーマにした2021秋のコレクションが登場！ 注目は、アイシャドウとチークがひとつになった『TREE スターダストドリーマームードパレット』やプラネットカラーのマス...",
+          "link": "https://news.mynavi.jp/article/20210802-1936770/index.html",
+          "publishedOn": "2021-08-02T01:30:34.000Z",
+          "wordCount": 428,
+          "title": "【THREE 2021秋】テーマはSPACE SONIC！ 宇宙からインスパイアされた新作コスメで秋メイク！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1925154/index.html",
+          "author": null,
+          "description": "恣意的(しいてき)は、「勝手気まま」という意味の言葉です。「意図的」と同じように使われることもありますが、両者の意味合いは明確に異なります。本記事では、「恣意的に」の正しい使い方や例文などについて紹介します。",
+          "link": "https://news.mynavi.jp/article/20210802-1925154/index.html",
+          "publishedOn": "2021-08-02T01:30:00.000Z",
+          "wordCount": 399,
+          "title": "「恣意的」と「意図的」の違いは? 意味や英語表現などくわしく解説"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/flooddisaster-1/index.html",
+          "author": null,
+          "description": "大切な自宅や家財が損害を受けたときに補償される保険には火災保険がありますが、水災が補償されるかどうかなど、詳しい内容をよく理解していない人も多いようです。そこで本記事では、火災保険で水災が補償されるかどうか、されるとしたらどの範囲で補償されるかについて説明していきます。",
+          "link": "https://news.mynavi.jp/article/flooddisaster-1/index.html",
+          "publishedOn": "2021-08-02T01:30:00.000Z",
+          "wordCount": 365,
+          "title": "災害時にもらえるお金 第1回 台風や豪雨で被災したら、火災保険はどこまで補償してくれる?"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1934552/index.html",
+          "author": null,
+          "description": "スマホからボタン一つで買い物ができる時代。いつ届くかな～、早く使ってみたいな～、絶対イケてるよな～と、ワクワクしながら商品の到着を心待ちにしている人も多いと思います。",
+          "link": "https://news.mynavi.jp/article/20210802-1934552/index.html",
+          "publishedOn": "2021-08-02T01:30:00.000Z",
+          "wordCount": 353,
+          "title": "【段ボールをつまみに……⁉】Amazonから届いた商品を開封せずにいる理由に「わかる」「自分も同じタイプです」と共感の声集まる"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936765/index.html",
+          "author": null,
+          "description": "7月30日～8月1日に放送された『東京2020オリンピック』主な番組視聴率は、以下の通り。",
+          "link": "https://news.mynavi.jp/article/20210802-1936765/index.html",
+          "publishedOn": "2021-08-02T01:26:40.000Z",
+          "wordCount": 352,
+          "title": "「サッカー男子NZ戦・後半」個人17.0%・世帯26.9%　東京オリンピック視聴率"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936757/index.html",
+          "author": null,
+          "description": "主演・白洲迅、ヒロイン・横田真悠が出演するドラマ『どうせもう逃げられない』（MBS、毎週木曜24:59～）が、9月16日よりドラマ特区枠にて放送されることがわかった。それをうけ、白洲、横田のコメント…",
+          "link": "https://news.mynavi.jp/article/20210802-1936757/index.html",
+          "publishedOn": "2021-08-02T01:10:00.000Z",
+          "wordCount": 299,
+          "title": "白洲迅×横田真悠の極上ピュア・ラブストーリー『どうせもう逃げられない』が9月よりスタート"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936758/index.html",
+          "author": null,
+          "description": "アーセナルに所属するガーナ代表MFトーマス・パルティが、プレシーズンマッチで負傷交代を余儀なくされた。クラブ公式サイトが伝えている。\n　トーマスは8月1日に行われたプレシーズンマッチ『マインド・シリ",
+          "link": "https://news.mynavi.jp/article/20210802-1936758/index.html",
+          "publishedOn": "2021-08-02T01:05:23.000Z",
+          "wordCount": 293,
+          "title": "アルテタ監督、負傷交代のMFトーマスに言及「現時点では良くなさそう」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936759/index.html",
+          "author": null,
+          "description": "ウェストハムはチェルシーのフランス人DFクルト・ズマの獲得交渉に難航しており、フィオレンティーナのセルビア代表DFニコラ・ミレンコヴィッチが現実的な選択肢となるようだ。1日、イギリスメディア『スカイ",
+          "link": "https://news.mynavi.jp/article/20210802-1936759/index.html",
+          "publishedOn": "2021-08-02T01:04:34.000Z",
+          "wordCount": 293,
+          "title": "ウェストハム、ズマ獲得難航でフィオレンティーナDFミレンコヴィッチに切り替えか"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1931830/index.html",
+          "author": null,
+          "description": "テレワークの普及によって、通勤せず毎日自宅で仕事をする人、週の数日自宅で仕事をする人など、働き方が大きく変わりました。しかし、「在宅ワークだと仕事がはかどらない…」という人が急増していることも問題になっています。アドバイスをお願いしたのは、一級建築士で「部屋」にまつわる著者も多い八納啓創さん。",
+          "link": "https://news.mynavi.jp/article/20210802-1931830/index.html",
+          "publishedOn": "2021-08-02T01:00:00.000Z",
+          "wordCount": 391,
+          "title": "在宅ワークがまったくはかどらない…。それは、あなたの部屋が「健康によくない」から  /一級建築士・八納啓創"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936749/index.html",
+          "author": null,
+          "description": "東京2020オリンピックは、大会10日目。陸上競技の快挙達成とレスリングのメダルに期待がかかる。  オリンピックのメインスタジアムである国立競技場を舞台に繰り広げられている陸上競技は4日目を迎え、こ…",
+          "link": "https://news.mynavi.jp/article/20210802-1936749/index.html",
+          "publishedOn": "2021-08-02T01:00:00.000Z",
+          "wordCount": 322,
+          "title": "男子走幅跳の橋岡優輝ら陸上競技の快挙達成に期待！東京オリンピック主なライブ配信（8月2日）"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936744/index.html",
+          "author": null,
+          "description": "堀越耕平原作による劇場アニメ「僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション」の入場者プレゼントとして配布される小冊子より、堀越描き下ろしマンガの一部が公開された。",
+          "link": "https://news.mynavi.jp/article/20210802-1936744/index.html",
+          "publishedOn": "2021-08-02T01:00:00.000Z",
+          "wordCount": 321,
+          "title": "劇場版「ヒロアカ」入場者プレゼント収録マンガを一部先行公開、配布数は150万部に"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936721/index.html",
+          "author": null,
+          "description": "五輪9日目(7月31日)、東京・国立競技場での陸上・女子100m障害で、寺田明日香が、準決勝進出を果たした。2000年シドニー五輪での金沢イボンヌ以来21年ぶりの快挙─。決勝には進めなかった。それでも彼女の復活劇に観る者は熱い拍手を贈った。＜挫けてもいい、逃げてもいい。それでも本気になってやり直せば夢は叶う＞。",
+          "link": "https://news.mynavi.jp/article/20210802-1936721/index.html",
+          "publishedOn": "2021-08-02T01:00:00.000Z",
+          "wordCount": 368,
+          "title": "「ママさんハードラー」寺田明日香の復活劇─。絶望しても、本気でやり直せば夢は叶う!"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936760/index.html",
+          "author": null,
+          "description": "インテルのアルゼンチン代表FWラウタロ・マルティネスの獲得競争について、アトレティコ・マドリードがアーセナルを一歩リードしているようだ。1日、イタリアメディア『Tuttosport』が報じている。",
+          "link": "https://news.mynavi.jp/article/20210802-1936760/index.html",
+          "publishedOn": "2021-08-02T00:21:01.000Z",
+          "wordCount": 293,
+          "title": "インテルの要求額に遠く及ばずも…アトレティコがラウタロ獲得にリードか"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936722/index.html",
+          "author": null,
+          "description": "象印マホービンは9月1日より、「ステンレス キャリータンブラー」SX-JA型とSX-KA型を発売する。",
+          "link": "https://news.mynavi.jp/article/20210802-1936722/index.html",
+          "publishedOn": "2021-08-02T00:13:02.000Z",
+          "wordCount": 330,
+          "title": "パッキンの「つけ外し」を解消したタンブラー、象印から登場"
+        },
+        {
+          "id": "https://news.mynavi.jp/kikaku/python_trends-8/index.html",
+          "author": null,
+          "description": "中高年が未経験でPythonプログラマーとして生計を立てる上で必要なことについて、一般社団法人Pythonエンジニア育成推進協会 代表理事の見解をお話ししていきます。",
+          "link": "https://news.mynavi.jp/kikaku/python_trends-8/index.html",
+          "publishedOn": "2021-08-02T00:00:00.000Z",
+          "wordCount": 329,
+          "title": "Python動向と試験の活用法 第8回 【コラム】中高年の皆様が未経験でPythonプログラマーで生計を立てるには その2"
+        },
+        {
+          "id": "https://news.mynavi.jp/kikaku/20210802-1933424/index.html",
+          "author": null,
+          "description": "スーパーマーケット業界では、さまざまな形でDXに取り組む企業が増えてきている。しかし、その対応を上回るスピードで、社会や消費動向は大きく変化しつつある。今後、スーパーマーケット各社はどのようなDX施策を進めていくべきだろうか？",
+          "link": "https://news.mynavi.jp/kikaku/20210802-1933424/index.html",
+          "publishedOn": "2021-08-02T00:00:00.000Z",
+          "wordCount": 283,
+          "title": "食品スーパー業界のDXはどこへ向かうか? 海外動向を踏まえたその将来像とは"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936716/index.html",
+          "author": null,
+          "description": "「映画トロピカル～ジュ！プリキュア 雪のプリンセスと奇跡の指輪！」の新たな予告映像「『ハートキャッチプリキュア！』登場編」と、新場面カット1点が公開された。",
+          "link": "https://news.mynavi.jp/article/20210802-1936716/index.html",
+          "publishedOn": "2021-08-02T00:00:00.000Z",
+          "wordCount": 372,
+          "title": "映画プリキュア最新作、主題歌とともにハートキャッチが予告に登場！全話無料配信も"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936616/index.html",
+          "author": null,
+          "description": "「モーニング」(講談社刊)にて連載中の『ハコヅメ～交番女子の逆襲』が、2022年にTVアニメ化されることが決定。ティザービジュアル＆PVやメインスタッフ＆キャストコメントが公開された。",
+          "link": "https://news.mynavi.jp/article/20210802-1936616/index.html",
+          "publishedOn": "2021-08-01T23:30:00.000Z",
+          "wordCount": 355,
+          "title": "『ハコヅメ～交番女子の逆襲』、2022年TVアニメ化！ティザービジュアル＆PV"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936727/index.html",
+          "author": null,
+          "description": "エヴァ―トンのコロンビア代表MFハメス・ロドリゲスが今夏に移籍する可能性が浮上しているようだ。1日、イギリスの地元紙『リヴァプール・エコー』が報じている。\n　昨シーズンまでエヴァートンで指揮を執って",
+          "link": "https://news.mynavi.jp/article/20210802-1936727/index.html",
+          "publishedOn": "2021-08-01T23:21:41.000Z",
+          "wordCount": 296,
+          "title": "「将来のことはわからない」…ハメス、ベニテス監督の構想外で新天地探しか？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936696/index.html",
+          "author": null,
+          "description": "● エンゼルス 3 － 8 アスレチックス ○\n＜現地時間8月1日　エンゼルス・スタジアム＞\n\n　エンゼルスの大谷翔平選手（27）が1日（日本時間2日）、本拠地でのアスレチックス戦に「2番・指名…",
+          "link": "https://news.mynavi.jp/article/20210802-1936696/index.html",
+          "publishedOn": "2021-08-01T23:19:10.000Z",
+          "wordCount": 312,
+          "title": "大谷翔平、まさかの2打席連続併殺打で4の0　逆転負けのエ軍は再び借金1"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936661/index.html",
+          "author": null,
+          "description": "女優の清原果耶がヒロインを務めるNHKの連続テレビ小説『おかえりモネ』(総合 毎週月～土曜8:00～ほか ※土曜は1週間の振り返り)の第57回が、あす3日に放送される。",
+          "link": "https://news.mynavi.jp/article/20210802-1936661/index.html",
+          "publishedOn": "2021-08-01T23:15:00.000Z",
+          "wordCount": 328,
+          "title": "『おかえりモネ』第57回　宮城県に大型台風　りょーちん、父・新次の姿に喜び"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936690/index.html",
+          "author": null,
+          "description": "老後のお金や生活費が足りるのか不安ですよね。老後生活の収入の柱になるのが「老齢年金」ですが、年金制度にまつわることは、難しい用語が多くて、ますます不安になってしまう人もいるのではないでしょうか。そんな…",
+          "link": "https://news.mynavi.jp/article/20210802-1936690/index.html",
+          "publishedOn": "2021-08-01T23:10:00.000Z",
+          "wordCount": 316,
+          "title": "年金が増える？ 会社員の「長期加入者の特例」って何？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936688/index.html",
+          "author": null,
+          "description": "巨人のビエイラは、リリーフ陣に欠かせない存在となった。\n\n　ビエイラは今季初登板となった3月27日のDeNA戦で3失点するなど、開幕してから1カ月は不安定な投球が目立った。5月4日に一軍登録を抹…",
+          "link": "https://news.mynavi.jp/article/20210802-1936688/index.html",
+          "publishedOn": "2021-08-01T23:00:17.000Z",
+          "wordCount": 300,
+          "title": "巨人の救援陣に欠かせない存在となったビエイラ"
+        },
+        {
+          "id": "https://news.mynavi.jp/kikaku/freshworks_sateraito-1/index.html",
+          "author": null,
+          "description": "企業の成長において、顧客の声に耳を傾けることは欠かせず、CS（カスタマーサポート）部門は顧客とのコミュニケーションを円滑・丁寧に行う必要があるが、人手不足や接点（チャネル）の多様化といった、現代ならではの課題も浮上している。本稿ではこうした課題をあらためて提起しつつ、その解決策を探っていく。",
+          "link": "https://news.mynavi.jp/kikaku/freshworks_sateraito-1/index.html",
+          "publishedOn": "2021-08-01T23:00:00.000Z",
+          "wordCount": 318,
+          "title": "顧客サポートの最適化を実現! 企業成長を支える「サテライトオフィスコンタクトセンター for Freshworks」 第1回 顧客サポートの最適化・効率化に必要なこととは?"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936153/index.html",
+          "author": null,
+          "description": "フジテレビの夏イベント『THE ODAIBA 2021 バーチャル冒険アイランド』(8月14日～9月5日 ※お台場エリア：7月21日～)で開催される「めざましライブ」の第1弾出演アーティストが2日、発表された。",
+          "link": "https://news.mynavi.jp/article/20210802-1936153/index.html",
+          "publishedOn": "2021-08-01T23:00:00.000Z",
+          "wordCount": 334,
+          "title": "フジ夏イベント「めざましライブ」バーチャル開催、トップバッターはJO1"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210801-1936466/index.html",
+          "author": null,
+          "description": "TOYOTA GAZOO Racing（以下、TGR）は、ランドクルーザー生誕70周年にあたる8月1日、ランドクルーザー「40系」（1960～84年生産）の補給部品復刻を発表した。なお当該部品はトヨタ2000GT、A7080スープラの補給部・・・",
+          "link": "https://news.mynavi.jp/article/20210801-1936466/index.html",
+          "publishedOn": "2021-08-01T23:00:00.000Z",
+          "wordCount": 342,
+          "title": "ビッグな「誕生日プレゼント」！　生誕70周年を迎える「ランドクルーザー 40系」（1960〜84年生産）の補給部品を復刻"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936701/index.html",
+          "author": null,
+          "description": "死の恐怖を感じさせないプロの仕事に見る終末期のあり方 著者の本を最初に読んだのは、２０１２年に第10回開高健ノンフィクション賞を受賞した『エンジェルフライト 国際霊柩送還士』でした。『エンド・オブ・ライフ』は本屋大賞２０２０年ノンフィクショ・・・",
+          "link": "https://news.mynavi.jp/article/20210802-1936701/index.html",
+          "publishedOn": "2021-08-01T23:00:00.000Z",
+          "wordCount": 249,
+          "title": "【わたしの一冊】『エンド・オブ・ライフ』／西浦三郎・ヒューリック会長"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936680/index.html",
+          "author": null,
+          "description": "● メッツ 1 － 7 レッズ ○\n＜現地時間8月1日　シティ・フィールド＞\n\n　レッズの秋山翔吾外野手（33）が1日（日本時間2日）、敵地でのメッツ戦に代打で出場したが見逃し三振に倒れた。レッ…",
+          "link": "https://news.mynavi.jp/article/20210802-1936680/index.html",
+          "publishedOn": "2021-08-01T22:59:00.000Z",
+          "wordCount": 310,
+          "title": "秋山翔吾、代打で出場も見逃し三振　レッズは快勝、敵地で勝ち越し貯金6"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936686/index.html",
+          "author": null,
+          "description": "チェルシーのトーマス・トゥヘル監督がイングランド人MFルベン・ロフタス・チークの去就について言及した。2－1で勝利したアーセナルとのプレシーズンマッチ終了後のインタビューに応じ、1日のイギリスメディ",
+          "link": "https://news.mynavi.jp/article/20210802-1936686/index.html",
+          "publishedOn": "2021-08-01T22:31:15.000Z",
+          "wordCount": 300,
+          "title": "トゥヘル監督、移籍噂のロフタス・チークに言及「判断するには早すぎる」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936691/index.html",
+          "author": null,
+          "description": "2003年8月にアメリカ・ペブルビーチにて「フォードとキャロル・シェルビーが協力して高性能車を開発している」ことが発表された。それがこの「現代のコブラ」として開発されたコンセプトカー「デイジー」だ。コンセプトカーといえども、生産の実現可能性・・・",
+          "link": "https://news.mynavi.jp/article/20210802-1936691/index.html",
+          "publishedOn": "2021-08-01T22:30:00.000Z",
+          "wordCount": 313,
+          "title": "キャロル・シェルビーが手掛けた「現代のコブラ」｜コンセプトカー「デイジー」がオークションに登場！"
+        },
+        {
+          "id": "https://news.mynavi.jp/kikaku/20210802-1918669/index.html",
+          "author": null,
+          "description": "東京2020オリンピック・パラリンピックの選手村カジュアルダイニングで提供するメニューの一部を一般から募集する参加型プロジェクト、「みんなのフードプロジェクト」。その採用メニューのいくつかをキッコーマンが家庭向けにアレンジし、サイトでレシピを掲載中。選手村で実際に提供されているメニューを自宅でも気軽に堪能することができるとあって、注目を集めています。",
+          "link": "https://news.mynavi.jp/kikaku/20210802-1918669/index.html",
+          "publishedOn": "2021-08-01T22:30:00.000Z",
+          "wordCount": 325,
+          "title": "自慢のメニューを届けたい。「東京2020みんなのフードプロジェクト※」選手村の提供メニューに選ばれたレシピに注目！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936687/index.html",
+          "author": null,
+          "description": "ブンデスリーガ2部第2節が7月30日〜8月1日にかけて各地で開催された。\n　DF室屋成が所属するハノーファーはホームで昇格組のハンザ・ロストックに完敗した。40分にMFハノ・ベーレンスの得点で先制を",
+          "link": "https://news.mynavi.jp/article/20210802-1936687/index.html",
+          "publishedOn": "2021-08-01T22:09:20.000Z",
+          "wordCount": 322,
+          "title": "ブレーメンがデュッセルドルフに劇的勝利…ハノーファーは昇格組に完敗／ブンデス2部第2節"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936655/index.html",
+          "author": null,
+          "description": "● マーリンズ 1 － 3 ヤンキース ○\n＜現地時間8月1日　ローンデポ・パーク＞\n\n　今夏のトレードでレンジャーズからヤンキースへ移籍したジョエリー・ロドリゲス投手（29）が1日（日本時間2…",
+          "link": "https://news.mynavi.jp/article/20210802-1936655/index.html",
+          "publishedOn": "2021-08-01T22:02:29.000Z",
+          "wordCount": 313,
+          "title": "ヤンキース、3連勝で貯金8　前中日のロドリゲスが移籍後初登板で勝利投手"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1934804/index.html",
+          "author": null,
+          "description": "Samsung Electronicsが7月29日に発表した2021年第2四半期(4～6月期)連結決算の部門別業績によると、半導体事業の売上高は前年同期比25％増の22兆7400億ウォン、営業利益は同28％増の6兆9300億ウォンで営業利益率は30％を超えたという。",
+          "link": "https://news.mynavi.jp/article/20210802-1934804/index.html",
+          "publishedOn": "2021-08-01T22:00:49.000Z",
+          "wordCount": 310,
+          "title": "2021年第2四半期のSamsungとSK Hynixの業績はともに前年同期比2桁増と好調"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/housekeeping-160/index.html",
+          "author": null,
+          "description": "「家事も育児も家計も全部ワリカン! 」バツイチ同士の事実再婚を選んだマンガ家・水谷さるころが、共働き家庭で家事・育児・仕事を円満にまわすためのさまざまな独自ルールを紹介します。第160回のテーマは「子どもへの態度の違いは親としての主義の違い? 」です。",
+          "link": "https://news.mynavi.jp/article/housekeeping-160/index.html",
+          "publishedOn": "2021-08-01T22:00:35.000Z",
+          "wordCount": 398,
+          "title": "家事と育児と男と女 第160回 主義の違いを尊重し合うことも大事"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-wadai/index.html",
+          "author": null,
+          "description": "今回紹介する投稿は、広島県に本社を置く精密部品メーカー「キャステム」の社員、IRON FACTORY IKEDA(CASTEM)さん(@IRON_IKEDA)のツイート。",
+          "link": "https://news.mynavi.jp/article/20210802-wadai/index.html",
+          "publishedOn": "2021-08-01T22:00:07.000Z",
+          "wordCount": 387,
+          "title": "【社食の金メダル】社員食堂に170円の「ステーキ食べ放題」が登場!? 夢のような光景に「めっちゃ食いてぇ～」「最高の福利厚生」「社員にしてください」と大反響"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936367/index.html",
+          "author": null,
+          "description": "Sexy Zoneの佐藤勝利が、先月30日に放送されたラジオ番組『VICTORY ROADS』(bayfm／毎週金曜21:30～22:00)に出演。嵐・櫻井翔とのエピソードを語ったほか、メンバー・菊池風磨から影響を受けたという“ある思い”を明かした。",
+          "link": "https://news.mynavi.jp/article/20210802-1936367/index.html",
+          "publishedOn": "2021-08-01T22:00:00.000Z",
+          "wordCount": 329,
+          "title": "佐藤勝利、“打倒嵐!”色紙を受け取った櫻井翔の一言に感動「カッコいい」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936449/index.html",
+          "author": null,
+          "description": "俳優の菅田将暉が主演を務める、映画『CUBE』(10月22日公開)の予告編が2日に公開された。",
+          "link": "https://news.mynavi.jp/article/20210802-1936449/index.html",
+          "publishedOn": "2021-08-01T22:00:00.000Z",
+          "wordCount": 322,
+          "title": "菅田将暉が絶叫、死のトラップ…『CUBE』予告編＆ビジュアルにも謎解きポイント"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-dyson/index.html",
+          "author": null,
+          "description": "照明器具も開発しているダイソンが「Dyson睡眠環境 勉強会」と題し、環境のプロやYouTuberを招いたプレス向け睡眠セミナーを開催。ダイソンのIoT照明「Dyson Lightcycle Morph」を中心に、睡眠に適した部屋の明かりについて解説しました。",
+          "link": "https://news.mynavi.jp/article/20210802-dyson/index.html",
+          "publishedOn": "2021-08-01T22:00:00.000Z",
+          "wordCount": 449,
+          "title": "快眠を導く「明かり」とは？ 寝る前の1時間の明かりが眠りの質を高める - ダイソンの睡眠セミナーから"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936599/index.html",
+          "author": null,
+          "description": "声優、そしてアーティストとして活躍する水樹奈々が、2021年8月7日(土)19時に「NANA MIZUKI LIVE EXPRESS2019」を自身のオフィシャルYouTube Channelにてプレミア公開することを発表した。",
+          "link": "https://news.mynavi.jp/article/20210802-1936599/index.html",
+          "publishedOn": "2021-08-01T22:00:00.000Z",
+          "wordCount": 326,
+          "title": "水樹奈々、ライブ「NANA MIZUKI LIVE EXPRESS 2019」を8/7にプレミア公開"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936590/index.html",
+          "author": null,
+          "description": "「月刊コミックアライブ」に掲載中の『のんのんびより りめんばー』単行本の発売が決定。さらに、TVアニメ『のんのんびより のんすとっぷ』十三話を収録したOAD付きの特装版の発売も決定した。",
+          "link": "https://news.mynavi.jp/article/20210802-1936590/index.html",
+          "publishedOn": "2021-08-01T22:00:00.000Z",
+          "wordCount": 318,
+          "title": "『のんのんびより のんすとっぷ』十三話収録の「OAD付き特装版」発売決定"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936638/index.html",
+          "author": null,
+          "description": "国分太一、上白石萌音がMCを務めるTBS系バラエティ番組『世界くらべてみたら』(毎週水曜20:00～)。今年3月に番組を卒業した渡辺直美が、4日に放送される2時間スペシャル(19:00～21:00)に出演することが決定した。",
+          "link": "https://news.mynavi.jp/article/20210802-1936638/index.html",
+          "publishedOn": "2021-08-01T22:00:00.000Z",
+          "wordCount": 323,
+          "title": "渡辺直美、4カ月ぶり『せかくら』出演! NYの花火大会をレポート「すごく感動」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936660/index.html",
+          "author": null,
+          "description": "ジムニーを得意とし、全国に知られるカスタムメーカーの名前はいくつか上げられる。そのなかで中京地区の代表格と言えるのが、愛知・春日井にショップを構える「ショウワガレージ」だ。これまでに先代のJB23型ジムニー用をはじめ、オリジナルカスタムパー・・・",
+          "link": "https://news.mynavi.jp/article/20210802-1936660/index.html",
+          "publishedOn": "2021-08-01T22:00:00.000Z",
+          "wordCount": 334,
+          "title": "ショウワガレージがジムニーライフをトータルサポート"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936648/index.html",
+          "author": null,
+          "description": "一井かずみ「どうせもう逃げられない」がドラマ化され、MBS「ドラマ特区」枠にて9月16日より放送されることが発表された。白洲迅が向坂拓己役で主演を務め、横田真悠がヒロイン・野田蔵なほ役を演じる。",
+          "link": "https://news.mynavi.jp/article/20210802-1936648/index.html",
+          "publishedOn": "2021-08-01T22:00:00.000Z",
+          "wordCount": 315,
+          "title": "一井かずみ「どうせもう逃げられない」ドラマ化！向坂役に白洲迅、なほ役は横田真悠"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936647/index.html",
+          "author": null,
+          "description": "俳優の白洲迅とモデル・女優の横田真悠が、MBSドラマ特区枠で9月16日によりスタートする『どうせもう逃げられない』で共演することが2日、発表された。",
+          "link": "https://news.mynavi.jp/article/20210802-1936647/index.html",
+          "publishedOn": "2021-08-01T22:00:00.000Z",
+          "wordCount": 334,
+          "title": "白洲迅×横田真悠、『どうせもう逃げられない』ドラマ化で共演"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936666/index.html",
+          "author": null,
+          "description": "小林新会長への期待は大きいが… 東京電力ホールディングス（ＨＤ）は７月21日、東電福島第一原発事故後の事業再建に向けた「第４次総合特別事業計画」をまとめ、政府に申請した。 東電ＨＤは廃炉や賠償の原資を確保するため、収益の改善が・・・",
+          "link": "https://news.mynavi.jp/article/20210802-1936666/index.html",
+          "publishedOn": "2021-08-01T22:00:00.000Z",
+          "wordCount": 260,
+          "title": "【東京電力】新たな再建計画も原発頼みの構図は変わらず"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1936653/index.html",
+          "author": null,
+          "description": "赤楚衛二、SUMIRE、Kis-My-Ft2が、8月2日放送の『しゃべくり007』（日本テレビ系、毎週月曜22:00～）に出演する。  7人全員では初となるKis-My-Ft2。プロフィールを見る限…",
+          "link": "https://news.mynavi.jp/article/20210802-1936653/index.html",
+          "publishedOn": "2021-08-01T22:00:00.000Z",
+          "wordCount": 296,
+          "title": "赤楚衛二『しゃべくり007』で無茶ブリ初洗礼!?"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1934882/index.html",
+          "author": null,
+          "description": "半導体市場動向調査会社である仏Yole Développementによると、2020年のMEMS市場は、前年比2.5％増の121億ドルであったが、2026年まで年平均成長率7.2％で成長し、182億ドル規模にまで成長するという。2021年のMEMS市場は、前年比11％増の134億ドルと予測している。",
+          "link": "https://news.mynavi.jp/article/20210802-1934882/index.html",
+          "publishedOn": "2021-08-01T21:30:21.000Z",
+          "wordCount": 337,
+          "title": "2020年のMEMSサプライヤ売上高ランキングトップ30、日本勢は7社がランクイン"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210802-1934422/index.html",
+          "author": null,
+          "description": "30代の中頃や後半で住宅購入を検討する人も多いのではないでしょうか。毎月のローンの支払いは無理のない金額にすることが重要です。この記事では35歳で4,000万円の物件を購入するといくらの支払いになるか、シミュレーションをしてみました。",
+          "link": "https://news.mynavi.jp/article/20210802-1934422/index.html",
+          "publishedOn": "2021-08-01T21:30:00.000Z",
+          "wordCount": 356,
+          "title": "35歳で4000万円の住宅を購入! 住宅ローンの毎月の支払いはいくらになる?"
+        },
         {
           "id": "https://news.mynavi.jp/article/20210802-1936375/index.html",
           "author": null,
