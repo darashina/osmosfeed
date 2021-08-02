@@ -2,10 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://darashina.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-02T17:00:17.499Z</updated>
+    <updated>2021-08-02T20:37:22.605Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://darashina.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://darashina.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google、スマホ「Pixel 6/6 Pro」を今秋発売、独自開発のSoC「Tensor」搭載]]></title>
+        <id>https://news.mynavi.jp/article/20210803-1937588/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210803-1937588/index.html"/>
+        <updated>2021-08-02T20:17:26.000Z</updated>
+        <summary type="html"><![CDATA[米Googleがスマートフォン「Pixel 6」と「Pixel 6 Pro」を今秋に発売すると発表した。AIおよび機械学習の活用を進めるために独自開発のSoC「Tensor」を搭載。6 Proは"ウルトラハイエンド"と呼べるような端末になるという。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『東京2020オリンピック』8月3日テレビ放送スケジュール／サッカー男子準決勝スペイン戦など]]></title>
+        <id>https://news.mynavi.jp/article/20210803-1937442/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210803-1937442/index.html"/>
+        <updated>2021-08-02T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[きょう8月3日の『東京2020オリンピック』中継番組のテレビ放送スケジュールは、以下の通り。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[退団の噂から一転…レヴァークーゼン、昨季11得点のFWアラリオと2024年まで契約延長]]></title>
+        <id>https://news.mynavi.jp/article/20210803-1937580/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210803-1937580/index.html"/>
+        <updated>2021-08-02T19:43:09.000Z</updated>
+        <summary type="html"><![CDATA[レヴァークーゼンは2日、アルゼンチン代表FWルーカス・アラリオとの契約を2024年6月30日まで延長したことを発表した。
+　アラリオは昨シーズンのブンデスリーガで25試合に出場し、自身最多の11ゴー]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[食野亮太郎、2年連続でポルトガルにレンタル移籍…1部復帰のエストリルが獲得発表]]></title>
+        <id>https://news.mynavi.jp/article/20210803-1937581/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210803-1937581/index.html"/>
+        <updated>2021-08-02T19:24:18.000Z</updated>
+        <summary type="html"><![CDATA[プリメイラ・リーガ（ポルトガル1部）のエストリル・プライアは2日、マンチェスター・CからFW食野亮太郎を獲得したことを発表した。
+　2シーズン連続でポルトガルでの武者修行が決まった。クラブは移籍の詳]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ユヴェントス、36歳の主将キエッリーニと契約延長！…2023年までの新契約締結]]></title>
+        <id>https://news.mynavi.jp/article/20210803-1937582/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210803-1937582/index.html"/>
+        <updated>2021-08-02T19:07:54.000Z</updated>
+        <summary type="html"><![CDATA[ユヴェントスは2日、イタリア代表DFジョルジョ・キエッリーニとの契約を2023年まで延長したことを発表した。
+　キエッリーニは今夏にユヴェントスとの契約が満了を迎えていたため、移籍の可能性も報じられ]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジャニーズWEST「でっかい愛/喜努愛楽」が1位! 4作連続の初週売上20万枚超]]></title>
+        <id>https://news.mynavi.jp/article/20210803-1937305/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210803-1937305/index.html"/>
+        <updated>2021-08-02T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アイドルグループ・ジャニーズWESTの最新シングル「でっかい愛/喜努愛楽」が、3日発表の「オリコン週間シングルランキング」にて初週売上20.3万枚で初登場1位を獲得した(オリコン調べ・集計期間7月26日～8月1日)。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サヨナラ勝ちの日本代表・稲葉監督が選手たちに賛辞 「すぐに取り返していたので」]]></title>
+        <id>https://news.mynavi.jp/article/20210803-1937534/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210803-1937534/index.html"/>
+        <updated>2021-08-02T18:03:55.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪ノックアウトステージ
+○ 侍ジャパン 7x － 6 米国代表 ●
+＜8月2日・横浜スタジアム＞
+
+　東京オリンピック（五輪）の野球日本代表・侍ジャパンは2日、ノックアウトステージの第2…]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大谷翔平が2カ月連続で月間MVPを受賞！7月は9本塁打＆19打点でOPS1.067]]></title>
+        <id>https://news.mynavi.jp/article/20210803-1937521/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210803-1937521/index.html"/>
+        <updated>2021-08-02T17:32:05.000Z</updated>
+        <summary type="html"><![CDATA[◆ まさに二刀流の活躍！
+
+　エンゼルスの大谷翔平選手（26）が2日（日本時間3日）、7月度のア・リーグ野手部門で月間MVPに選出された。大谷は6月にも同賞を受賞しており、2カ月連続での受賞という…]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グーグル、公式TwitterでPixel 6の外観を公表　カメラ部が特徴的でSoCには独自開発チップを搭載]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064693/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064693/?rss"/>
+        <updated>2021-08-02T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PixelやNest、Chromecastなど、グーグルのコンシューマー向けハードの開発部門を代表する「Made By Google」の公式Twitterアカウントが、Pixel 6／Pixel 6 Proと称する新スマホの画像を次々と投稿している。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サヨナラ決勝打の甲斐が栗林に賛辞「しっかりと初球から自分の球を投げてきた」]]></title>
         <id>https://news.mynavi.jp/article/20210803-1937491/index.html</id>
