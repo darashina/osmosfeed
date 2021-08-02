@@ -2,10 +2,1242 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://darashina.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-02T01:37:18.094Z</updated>
+    <updated>2021-08-02T08:39:33.889Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://darashina.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://darashina.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google CloudとSAPが提携拡大、SAP製品がGCPで利用可能に]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937121/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937121/index.html"/>
+        <updated>2021-08-02T08:34:27.000Z</updated>
+        <summary type="html"><![CDATA[Google Cloudは7月29日（米国時間）、独SAPとの戦略的パートナーシップの拡大を発表した。これにより、SAP Business Technology Platform、SAP HANA Cloud などの SAPのサービスとプロダクトが、Google Cloud上で、利用可能になる。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エンジン・車体とも進化した「YZ250FX」などクロカン競技用4モデル発売]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937088/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937088/index.html"/>
+        <updated>2021-08-02T08:33:14.000Z</updated>
+        <summary type="html"><![CDATA[ヤマハ発動機は10月28日、クロスカントリー競技用の「YZシリーズ」の2022年モデル4機種を発売する。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社畜はつらいよ 第125回 失業保険をもらおう!]]></title>
+        <id>https://news.mynavi.jp/article/shachiku-125/index.html</id>
+        <link href="https://news.mynavi.jp/article/shachiku-125/index.html"/>
+        <updated>2021-08-02T08:30:30.000Z</updated>
+        <summary type="html"><![CDATA[漫画家・ごえたむさんの"社畜"をテーマにしたギャグ四コマ。ブラック企業に勤めた経験がある人なら、きっと共感できる!? 週一更新です。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【無料配信】次世代セキュリティがテーマのオンラインNEDOピッチ開催]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064520/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064520/?rss"/>
+        <updated>2021-08-02T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[JOIC事務局はNEDOと共同で、「第41回NEDOピッチ（サイバー&次世代セキュリティ ver.）」を2021年8月10日18時にオンライン配信します。幅広い領域で求められる「サイバー&次世代セキュリティ」をテーマにし、優れた関連技術を持つ、スタートアップ企業4社に登壇いただきます。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップル新型「MacBook Pro」でもメモリは最大32GBまでか]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064494/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064494/?rss"/>
+        <updated>2021-08-02T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[アップルが発売するとうわさの新型MacBook Proは、メモリが最大32GBまでに制限されている可能性があるという。人気YouTuberがリーク情報として伝えた。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『D4DJ Groovy Mix』にゲームBGM「FAKE」が追加]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1936967/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1936967/index.html"/>
+        <updated>2021-08-02T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[スマートフォン向けリズムゲーム『D4DJ Groovy Mix』に「FAKE」が追加された。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『ヴァンガード ZERO』にて「レギオンメイト編クライマックス」キャンペーン開催]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937078/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937078/index.html"/>
+        <updated>2021-08-02T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[アプリ『ヴァンガード ZERO』にて「レギオンメイト編クライマックス」キャンペーンを開催している。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「愛しきにゃんこ」コスプレイヤー火将ロシエルが猫ショット披露]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1936859/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1936859/index.html"/>
+        <updated>2021-08-02T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[コスプレイヤー火将ロシエルが7月29日、自身のTwitterを更新し「にゃんこ」とのショットを披露した。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「わかりやすい!」と評判 白井健三のキャスター界の金メダルなるか?]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1936867/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1936867/index.html"/>
+        <updated>2021-08-02T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピック真っ最中だ。会場でも熱戦が続いているが、テレビオタクとしてはもうひとつの競技会場は、各テレビ局の中継や、ニュースでの"競技解説"になると思っている。現役を引退した選手たちが今度はレポーターとして、颯爽とテレビに登場。種目によっては生放送を渡り歩く元・選手たちの新しい道。その姿を見て「あ、この人もう引退したんだ……」と、初めて気づくこともある。とはいえ、アナウンサーのように発音や表現に関する鍛錬を重ねてきたわけではない。いきなりのテレビ出演で緊張しているのだろう、たどたどしい部分がある。それも以前に偉業を成し遂げたアスリートたちの、ご愛嬌かしら……と思っていたら、とんでもないエースが舞い降りてきた。それが元・日本代表の白井健三さんだ。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自治医大、これまで未解明だったADHD治療薬「GXR」の薬効反応の検出に成功]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937154/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937154/index.html"/>
+        <updated>2021-08-02T08:29:14.000Z</updated>
+        <summary type="html"><![CDATA[自治医科大学(自治医大)は7月30日、これまで明らかになっていなかった、注意欠如多動症(ADHD)に対する「α2A選択的作動薬(グアンファシン塩酸塩:GXR)」の薬効反応を検出したと発表した。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mora、2,000円以上の楽曲購入でポイントがもらえるキャンペーン]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937153/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937153/index.html"/>
+        <updated>2021-08-02T08:28:54.000Z</updated>
+        <summary type="html"><![CDATA[ソニー・ミュージックソリューションズは8月2日、音楽ダウンロードサービス「mora～WALKMAN公式ミュージックストア～」で、「夏のポイントプレゼントキャンペーン2021」を開始した。実施期間は2021年8月31日まで。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オートマチックエンジン搭載のキッズ向けファンバイク「PW50」新モデル発売]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937084/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937084/index.html"/>
+        <updated>2021-08-02T08:25:14.000Z</updated>
+        <summary type="html"><![CDATA[ヤマハ発動機は10月28日、オートマチックエンジンを搭載するキッズ向けファンバイク「PW50」の2022年モデルを発売する。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhoneの「ダークモード」、設定方法や切り替え方、メリットを解説]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937129/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937129/index.html"/>
+        <updated>2021-08-02T08:21:33.000Z</updated>
+        <summary type="html"><![CDATA[この記事では、iPhoneの画面全体の色調を暗くする「ダークモード」について解説します。画面の明るさを下げても眩しすぎる、バッテリーを少しでも節約したい、そんなときはダークモードを活用しましょう。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[容器の色は特定の味を強めたり弱めたりする効果があることを千葉大が確認]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937141/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937141/index.html"/>
+        <updated>2021-08-02T08:20:24.000Z</updated>
+        <summary type="html"><![CDATA[千葉大学は7月30日、多様な飲料における味覚の強さについて、飲料の中身が見えない状態で容器の色が味覚にどのような影響を及ぼすかについて調べた結果、容器の色は飲料の特定の味を強調したり弱めたりする効果があることが明らかになったと発表した。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[渋谷の眺望×コリアンBBQ「SHIBUYA CLASS」のサムギョプサルに食欲が止まらない]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937130/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937130/index.html"/>
+        <updated>2021-08-02T08:08:35.000Z</updated>
+        <summary type="html"><![CDATA[渋谷駅前スクランブル交差点前の商業施設「MAGNET by SHIBUYA109」の屋上展望台を含む屋内外スペースにて、コリアンBBQ専門店「SHIBUYA CLASS（シブヤクラス）」が7月21日にオープン。どんな料理を食べられるのか、早速足を運んでみた。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[統合運用管理ツール・サービスおすすめ14選比較！各製品の機能や特徴は？｜選び方も解説]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1932452/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1932452/index.html"/>
+        <updated>2021-08-02T08:07:15.000Z</updated>
+        <summary type="html"><![CDATA[統合運用管理ツールとは、社内のIT環境を集中管理するためのITシステムの一種です。この記事では、おすすめの統合運用管理ツールおよびサービスをご紹介します。さらに、ツールの選び方のポイントも解説します。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アルミと鉄の合金で水素を蓄えられることを量研機構などが確認]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937128/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937128/index.html"/>
+        <updated>2021-08-02T08:05:25.000Z</updated>
+        <summary type="html"><![CDATA[量子科学技術研究開発機構(量研機構)などは、アルミニウムと鉄を組み合わせた合金で水素が蓄えられることを発見し、従来のように希少な元素を含むことなく、コンパクトに水素を蓄えられる水素吸蔵合金ができる可能性が示されたと発表した。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZOC 15歳の逸材・鎮目のどかが涙で語る決意「苦しんでいる人たちを励ましていきたい」]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937133/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937133/index.html"/>
+        <updated>2021-08-02T08:01:00.000Z</updated>
+        <summary type="html"><![CDATA[大森靖子を中心に結成され、若者を中心に圧倒的支持を集めるアイドルグループ・ZOC（ゾック）。そんなZOCの新メンバーオーディションで、応募総数3000通を超える中から唯一勝ち抜いたのが、15歳の逸材"鎮目のどか"だ。大森靖子が見出したその才・・・]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia PC USER] リタンダント型ATXタイプも登場！　電源ユニットの最新トレンド]]></title>
+        <id>https://www.itmedia.co.jp/pcuser/articles/2108/02/news116.html</id>
+        <link href="https://www.itmedia.co.jp/pcuser/articles/2108/02/news116.html"/>
+        <updated>2021-08-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[定格700Wの電源モジュールを左右に配置できるATXサイズのリタンダント電源ユニット「Twins PRO 700W」が、FSPから売り出されて注目を集めている。その他、MSIからNVMe PCIe 4.0 SSD、ASUS JAPANからテンキー着脱式のキーボードが登場して注目を集めた。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自分で手作りできる! 栃木レザーDIYウォレットが70％オフ！]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064477/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064477/?rss"/>
+        <updated>2021-08-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビスを打ち込んで手作りできる二つ折り財布「GORBE(ゴルベ)栃木レザーDIYウォレット」。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コスプレイヤーえなこがホロライブ宝鐘マリンのコスプレ披露]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1936849/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1936849/index.html"/>
+        <updated>2021-08-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[コスプレイヤーえなこが7月29日、自身のTwitterを更新し宝鐘マリンのコスプレを披露した。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1tを切る軽い車体にハイパワーエンジンを搭載｜1993年式 プジョー 205 GTI　Vol.3]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937137/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937137/index.html"/>
+        <updated>2021-08-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【1993年式 プジョー 205 GTI Vol.3】【2】から続く 搭載エンジンは、導入当初は105psと115psの1.6Lで、1988年から100psの1.9Lに変更。同時に右ハンドル仕様を追加し、翌1989年には4速ATも投入。この・・・]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[橋本愛、ラジオ番組が一夜限りの復活「生放送ってことだけがヒヤヒヤ」]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937008/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937008/index.html"/>
+        <updated>2021-08-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[女優の橋本愛がパーソナリティを務める、MBSラジオの特別番組『橋本愛の、今ここにしかないどこかへ』が9日(20:00〜)、生放送される。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZOC 鎮目のどか「他と比べられない存在だった」グループへの想いとオーディション秘話]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937134/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937134/index.html"/>
+        <updated>2021-08-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大森靖子を中心に結成され、若者を中心に圧倒的支持を集めるアイドルグループ・ZOC（ゾック）。そんなZOCの新メンバーオーディションで、応募総数3000通を超える中から唯一勝ち抜いたのが、15歳の逸材"鎮目のどか"だ。大森靖子が見出したその才・・・]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スイカ炒め、ドレッシング冷奴…水樹奈々が衝撃を受けた、森口博子オススメの「夏レシピ」を紹介！]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937135/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937135/index.html"/>
+        <updated>2021-08-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[声優・歌手として活躍する水樹奈々がパーソナリティをつとめるTOKYO FMの番組「水樹奈々のMの世界」。7月26日（月）の放送には、森口博子さんが登場！ 暑い夏を乗り切る、森口さんオススメの夏メシレシピを教えてもらいました。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[玉井詩織「貴重なステージだったな」ももクロが参加したフェスならではの“サプライズ”とは？]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937136/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937136/index.html"/>
+        <updated>2021-08-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ももいろクローバーZのメンバーがパーソナリティをつとめるTOKYO FMの番組「ももいろクローバーZのSUZUKIハッピー・クローバー！」。好奇心を刺激する“知識”と日曜夕方を彩る“音楽”をあわせ持った家族で楽しめる「知識＋音楽のハイブリッドプログラム」です。毎週、より音楽が色濃くなって、家族でドライブに行きたくなるような1時間をお届けします。
+
+8月1日（日）の放送では、「ラジオで夏フェス気分！ ライブで盛り上がる曲プレイリスト2021」をお届け。リスナーのみなさんから募集した「ライブで盛り上がる曲」をオンエアしていきました。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[知って納得、ケータイ業界の"なぜ" 第96回 日本専用の低価格モデル「Redmi Note 10 JE」を投入したシャオミの狙い]]></title>
+        <id>https://news.mynavi.jp/article/mobile_business-96/index.html</id>
+        <link href="https://news.mynavi.jp/article/mobile_business-96/index.html"/>
+        <updated>2021-08-02T07:59:50.000Z</updated>
+        <summary type="html"><![CDATA[中国のシャオミは2021年8月2日、日本市場に向けオリジナルのスマートフォン「Redmi Note 10 JE」をKDDIから独占販売することを発表した。FeliCaに加え防水・防塵にも対応するなど、日本市場専用モデルとして開発されたRedmi Note 10 JEだが、2万円台という非常に低価格なモデルながら、日本独自のカスタマイズを施したシャオミの狙いはどこにあるのだろうか。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コミケ「新C99」東京ビッグサイトで12月開催へ。1日数万人規模に]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937098/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937098/index.html"/>
+        <updated>2021-08-02T07:57:37.000Z</updated>
+        <summary type="html"><![CDATA[コミックマーケット準備会は、「コミックマーケット99」(C99)を12月30～31日の2日間、東京ビッグサイトのリアル会場で開催すると発表した。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「コミックマーケット99」の新日程が発表、12月30日・31日に開催を予定]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937122/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937122/index.html"/>
+        <updated>2021-08-02T07:56:00.000Z</updated>
+        <summary type="html"><![CDATA[「コミックマーケット99」の新日程が決定。12月30日、31日に東京ビッグサイト東・西・南展示棟を使って開催されることが、公式サイトにて発表された。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] Square、143％増収　Cash Appのビットコイン収益は200％増]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/02/news120.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/02/news120.html"/>
+        <updated>2021-08-02T07:54:00.000Z</updated>
+        <summary type="html"><![CDATA[ジャック・ドーシー氏率いるモバイル決済企業Squareの4～6月期決算は、売上高は143％増の46億8000万ドル、純利益は2億400万ドル（前年同期は赤字）。送金アプリ「Cash App」が好調だった。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[まさに死角なし。夏の胃袋が喜ぶ「久兵衛屋」の季節限定メニュー「豚しゃぶごまだれうどん穴子天定食」が美味い!]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937048/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937048/index.html"/>
+        <updated>2021-08-02T07:52:41.000Z</updated>
+        <summary type="html"><![CDATA[考えてみれば、夏はなにかと食事に迷う季節である。そんなもどかしい季節にあって、「これはほぼ100点ではないか」と思えるメニューを発見した。武蔵野うどんをウリにするチェーン「久兵衛屋」の季節限定メニュー「豚しゃぶごまだれうどん穴子天定食」だ。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゲームアプリ『五等分の花嫁』にて新イベント「五つ子ちゃんの花火大会が四葉の場合 ～大きくて小さなサプライズ～」が8月4日より開催！]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064621/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064621/?rss"/>
+        <updated>2021-08-02T07:50:00.000Z</updated>
+        <summary type="html"><![CDATA[enishの運営するゲームアプリ『五等分の花嫁 五つ子ちゃんはパズルを五等分できない。』にて、2021年8月4日より新イベントが開催決定。期間は、2021年8月13日23時59分までとなる。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第2弾応募締め切り迫る】東京2020大会オリジナルピンズなど2020名に当たる! - 久光製薬「ニッポンを元気に!」キャンペーン]]></title>
+        <id>https://news.mynavi.jp/kikaku/20210802-1931721/index.html</id>
+        <link href="https://news.mynavi.jp/kikaku/20210802-1931721/index.html"/>
+        <updated>2021-08-02T07:47:18.000Z</updated>
+        <summary type="html"><![CDATA[久光製薬は、7月1日より「久光製薬オリジナル ～みんなに、エールを。～ 『ニッポンを元気に! 東京2020応援キャンペーン』」の第2弾を開催中だ。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] トヨタ、新型ランドクルーザー発売　200キロの軽量化と指紋認証スイッチ搭載で安全性向上]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2108/02/news114.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2108/02/news114.html"/>
+        <updated>2021-08-02T07:45:00.000Z</updated>
+        <summary type="html"><![CDATA[トヨタ自動車は8月2日、新型ランドクルーザー（300シリーズ）を発売した。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] ニコ動に“プレミア公開”風機能　新作動画を公開と同時に「ニコ生」で配信]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/02/news122.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/02/news122.html"/>
+        <updated>2021-08-02T07:43:00.000Z</updated>
+        <summary type="html"><![CDATA[ドワンゴは、同社が運営するニコニコ動画で「ライブ公開」機能を実装すると発表した。ニコニコ動画への動画投稿時に同機能を選択することで、公開時間に合わせて、自動的にニコニコ生放送で動画が配信されるという。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年収800万円以上のエンジニアが注目する言語・技術は? - 使用1位はPython]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937091/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937091/index.html"/>
+        <updated>2021-08-02T07:37:15.000Z</updated>
+        <summary type="html"><![CDATA[ファインディは8月2日、「エンジニアのキャリア動向」に関する調査結果を発表した。調査は6月30日〜7月18日、エンジニア採用プラットフォーム「Findy」のユーザー1,044名を対象に行われた。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOOK☆WALKER、竹書房作品の半額＋ポイント還元キャンペーン]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937082/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937082/index.html"/>
+        <updated>2021-08-02T07:36:43.000Z</updated>
+        <summary type="html"><![CDATA[ブックウォーカーは、総合電子書籍ストア「BOOK☆WALKER」にて、 14,000冊以上の竹書房作品がお得になる「竹書房の日2021」キャンペーンを開催している。実施期間は2021年8月3日まで。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] 満足度の高い「住宅ローン」ランキング　11年連続で1位を獲得したのは？]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2108/02/news117.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2108/02/news117.html"/>
+        <updated>2021-08-02T07:36:00.000Z</updated>
+        <summary type="html"><![CDATA[oricon ME（東京都港区）が住宅ローンに関する満足度ランキングを発表した。11年連続で1位を獲得したのは？]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] ホールケーキのサブスクサービス？　コンビニスイーツも手掛ける製菓企業が狙うコロナ禍のニーズ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/02/news118.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/02/news118.html"/>
+        <updated>2021-08-02T07:33:00.000Z</updated>
+        <summary type="html"><![CDATA[コロナ禍にこそ、自宅でスイーツ作りをしたい。そんなニーズを掘り起こそうというスイーツメーカーの試み。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジャンプ3誌のイベント「ジャンバル」のTV特番、オードリー春日らが“お宝島”冒険]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937100/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937100/index.html"/>
+        <updated>2021-08-02T07:31:00.000Z</updated>
+        <summary type="html"><![CDATA[集英社による子供向けイベント「ジャンプビクトリーカーニバル」の一環として、特番番組「ジャンプアドベンチャーTV」が、8月22日にテレビ東京系で放送される。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8月7日の7時より『フォートナイト』で世界的歌手のアリアナ・グランデさんが出演するスペシャルイベント「リフトツアー」が開催！]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064601/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064601/?rss"/>
+        <updated>2021-08-02T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年8月2日、Epic Gamesが運営するバトルロイヤルゲーム『Fortnite』（フォートナイト）にて、アリアナ・グランデさんが出演するスペシャルイベントの開催が発表。期間は、日本時間の2021年8月7日7時から8月9日7時までとなる。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジョナサン、話題のウルグアイ牛ステーキ発売中！肉本来の美味しさが魅力]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064540/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064540/?rss"/>
+        <updated>2021-08-02T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ジョナサンは、ウルグアイ産ナチュラルビーフのサーロインを使用したメニューを9月8日まで販売する。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『プロジェクトセカイ』より「セカイはまだ始まってすらいない/potatoになっていく」がオリコン3位獲得]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1936964/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1936964/index.html"/>
+        <updated>2021-08-02T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[iOS/Android向けリズム＆アドベンチャー『プロジェクトセカイ』よりワンダーランズ×ショウタイムの1stシングル「セカイはまだ始まってすらいない/potatoになっていく」が8月2日付のオリコンウィークリーランキングにて3位を獲得したことが発表された。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グッチ一族の30年間を描いた映画『House of Gucci』予告編が公開]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937144/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937144/index.html"/>
+        <updated>2021-08-02T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[イタリアのグッチ一族の30年間を描いた映画『House of Gucci』(原題）の予告編が公開された。レディー・ガガがグッチ帝国を支配する様が描かれる。映画『House of Gucci』の予告編では、アダム・ドライバー演じるマウリツィオ・・・]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コスプレイヤー宮本彩希が「17LIVE×関西コレクション」出演でメイド服披露]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1936846/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1936846/index.html"/>
+        <updated>2021-08-02T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[コスプレイヤー宮本彩希が7月29日、自身のTwitterを更新しメイド服姿を披露した。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TVアニメ『D_CIDE TRAUMEREI THE ANIMATION』第1話が無料特別配信]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937070/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937070/index.html"/>
+        <updated>2021-08-02T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[TVアニメ『D_CIDE TRAUMEREI THE ANIMATION(ディーサイドトロイメライ ジ アニメーション)』第1話が無料特別配信された。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京大など、トポロジカル量子コンピュータの実現に重要な準粒子の性質を解明]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937079/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937079/index.html"/>
+        <updated>2021-08-02T07:29:32.000Z</updated>
+        <summary type="html"><![CDATA[京都大学(京大)などは、トポロジカル量子コンピュータの実現に有効と考えられている、2次元的な平面構造を持つある種の磁性体において現れる準粒子「非可換エニオン」の性質を解明したと発表した。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【毎日がアプリディ】そもそもナゼ尾行(つけ)てるんだ？「カナちゃんのひみつ」]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937077/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937077/index.html"/>
+        <updated>2021-08-02T07:23:27.000Z</updated>
+        <summary type="html"><![CDATA[前を行くカナちゃんに気づかれないよう、尾行し続けるアクションゲーム。振り向きそうになったら画面をタップして様々なごまかしを行なおう。ただし、振り向きそうで振り向かないといったこともありそうしたときにタップしてしまうと先へ行かれてしまい見失うので注意だ。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11がInsider PreviewのBetaチャンネルで利用可能に]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1936946/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1936946/index.html"/>
+        <updated>2021-08-02T07:22:51.000Z</updated>
+        <summary type="html"><![CDATA[Microsoftは7月29日(現地時間)、Windows Insider Blogにおいて、Windows 11がInsider PreviewプログラムのBetaチャンネルで利用可能になったことをアナウンスした。この秋にリリースされる予定のWindows 11は。これまで主に技術力の高いユーザーを対象とした「Devチャンネル」でのみ利用可能だった。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ポルノグラフィティ、初配信ライブ辿る映画を47都道府県の映画館で上映]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937143/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937143/index.html"/>
+        <updated>2021-08-02T07:22:00.000Z</updated>
+        <summary type="html"><![CDATA[ポルノグラフィティの初配信ライブを追ったLIVE FILMが、2021年9月19日、 20日、 21日の3日間限定で全国47都道府県の映画館にて上映される。2020年12月4日に、 ポルノグラフィティが約1年3ヶ月ぶりとなるライヴ「CYBE・・・]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“夏の味” 金麦を飲みながら食べる手作りカレーに大満足]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937072/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937072/index.html"/>
+        <updated>2021-08-02T07:20:22.000Z</updated>
+        <summary type="html"><![CDATA[8月に入り、気温は上昇中。毎日暑くなってきた。夏といえば、カレー。サントリービールとハウス食品は“夏の味”の「金麦」と、「ジャワカレー」「こくまろカレー」をともに楽しんでもらいたいとの思いから、2021年7月5日から「絶対もらえる！夏のあいあいカレー皿」マイレージキャンペーンを実施中。そこで今回は、「金麦によくあう夏のおいしいカレーレシピ」を元に3種類のカレーを作り、それぞれ金麦を飲みながら楽しんでみた。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia PC USER] デル、抽選でノートPC「XPS」シリーズなどが当たる「Twitter夏祭りキャンペーン」]]></title>
+        <id>https://www.itmedia.co.jp/pcuser/articles/2108/02/news113.html</id>
+        <link href="https://www.itmedia.co.jp/pcuser/articles/2108/02/news113.html"/>
+        <updated>2021-08-02T07:18:00.000Z</updated>
+        <summary type="html"><![CDATA[デル・テクノロジーズは、Twitter連動のプレゼントキャンペーン「Twitter夏祭りキャンペーン」を開始した。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Amazon得報】素早く正確に体温や温度が計測できる非接触型体温計が14%オフの4,290円！]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937071/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937071/index.html"/>
+        <updated>2021-08-02T07:16:18.000Z</updated>
+        <summary type="html"><![CDATA[額からこめかみをスキャンすることで正確に計測できる非接触型体温計が、参考価格から14%オフの4,290円でセール中。実際の使い方は、測定ボタンを押したまま2～3cm離した状態で額の中央部分からこめかみまで動かすだけ。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[キャラガー氏、本格復帰が近づくファン・ダイクに慎重な姿勢「急がせないようにしなければ」]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937101/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937101/index.html"/>
+        <updated>2021-08-02T07:06:44.000Z</updated>
+        <summary type="html"><![CDATA[元イングランド代表DFで現在は解説者を務めるジェイミー・キャラガー氏が、リヴァプールに所属するオランダ代表DFフィルジル・ファン・ダイクについて語った。3日付けでイギリスメディア『スカイスポーツ』が]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MISIAがEXIT新曲にコーラス参加、りんたろー。「喜びにつつみ込まれたように不思議な感覚」]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937106/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937106/index.html"/>
+        <updated>2021-08-02T07:06:00.000Z</updated>
+        <summary type="html"><![CDATA[EXITが9月15日にリリースする1stミニアルバム「GENESIS」に、MISIAがコーラスとして参加することが発表された。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トッテナム指揮官、古巣ウルヴスからアダマ・トラオレ獲得を希望か]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937102/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937102/index.html"/>
+        <updated>2021-08-02T07:05:40.000Z</updated>
+        <summary type="html"><![CDATA[トッテナムが、ウルヴァーハンプトン（ウルヴス）に所属するスペイン代表FWアダマ・トラオレに関心を示しているようだ。8月1日、イギリス紙『デイリーメール』が伝えている。
+　トッテナムには今夏、新指揮官]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大質量星の形成には磁場よりも重力の方が寄与している、アルマ望遠鏡で判明]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937063/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937063/index.html"/>
+        <updated>2021-08-02T07:03:00.000Z</updated>
+        <summary type="html"><![CDATA[国立天文台(NAOJ)は7月30日、アルマ望遠鏡を用いて、磁場が大質量星の形成過程に必要不可欠あるという長年の研究者たちの考えを確かめるべく、大質量星形成領域「IRAS 18089-1732」を観測したところ渦巻き状の磁場構造を発見したが、予想に反して磁場の寄与が小さく、重力の方が圧倒的に大きいことが判明したと発表した。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ぴたぴたのむちむち どう?」コスプレイヤーとみこがハイレグショット公開]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1936835/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1936835/index.html"/>
+        <updated>2021-08-02T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[コスプレイヤーのとみこが7月30日に自身のツイッターを更新し、セルフィーを公開した]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1965年トライアンフのホースの話？それとも「ロンドンで最高の屋内ガレージ」の話？どちらの話をするべきか…]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937065/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937065/index.html"/>
+        <updated>2021-08-02T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Octane UK副編集長のマーク・ディクソンが「このトライアンフのレポートをしてくれないか？」と頼んできた時、さては私がSNSに載せていたヒーターホース交換の勇姿（！）を見たのだな、と思った。しかし彼が「できればジュールスの家を背景に写真・・・]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS、IE 11のサポートを2022年7月31日に終了]]></title>
+        <id>http://codezine.jp/article/detail/14629</id>
+        <link href="http://codezine.jp/article/detail/14629"/>
+        <updated>2021-08-02T06:55:00.000Z</updated>
+        <summary type="html"><![CDATA[米Amazon Web Servicesは、同社が提供する各種Webサービスにおける、Internet Explorer 11（IE 11）のサポートを、2022年7月31日（現地時間）に終了する。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エルフに生まれ変わって異世界を食べ歩く「食いしん坊エルフ＠CОМIC」1巻]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937056/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937056/index.html"/>
+        <updated>2021-08-02T06:54:00.000Z</updated>
+        <summary type="html"><![CDATA[なっとうごはん原作にによる神吉李花「食いしん坊エルフ＠CОМIC」1巻が、本日8月2日にTOブックスのコロナ・コミックスから発売された。小説を原作としたコミカライズ作品だ。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] 港区のセゾンカード会員はフードデリバリーに月12万円　クレディセゾン調査]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/02/news110.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/02/news110.html"/>
+        <updated>2021-08-02T06:52:00.000Z</updated>
+        <summary type="html"><![CDATA[クレディセゾンは2日、会員の決済データを基にした2020年の消費動向調査結果を発表した。2020年に利用率が最も上がったのはフードデリバリーサービスだった。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型ランドクルーザーに異例の誓約書。輸出及び転売目的を防ぐために…納期が大変なことに！]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937069/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937069/index.html"/>
+        <updated>2021-08-02T06:47:00.000Z</updated>
+        <summary type="html"><![CDATA[8月2日についに発表・発売となった新型ランドクルーザー300系。約1カ月ほど前から予約受注を開始していたが、どうやら大変な人気となっているようだ。販売店などの情報によれば、「受注台数は2万台近くに到達、今から注文しても納期は4年先になる可能・・・]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「グラカニ」マスターとの距離を感じるエレシュキガルにドゥムジが勧めたものは]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937057/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937057/index.html"/>
+        <updated>2021-08-02T06:40:00.000Z</updated>
+        <summary type="html"><![CDATA[OVA「『Fate/Grand Carnival』2nd Season」に収録される「第三特異宴」および「第四特異宴 絆MAXチャンネル」の場面カットが公開された。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[温野菜の新メニュー「本格四川麻婆鍋」はテイクアウトもできる今夏の最強鍋]]></title>
+        <id>https://news.mynavi.jp/article/20210802-1937038/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210802-1937038/index.html"/>
+        <updated>2021-08-02T06:37:28.000Z</updated>
+        <summary type="html"><![CDATA[関東甲信地方・東北地方が梅雨明けして、いよいよ本格的な夏到来。暑い日にはやっぱり辛い料理が食べたくなる。季節ごとに趣向を凝らした新作鍋を販売している「しゃぶしゃぶ温野菜」から、「本格四川麻婆鍋」が登場したと聞いて、「しゃぶしゃぶ温野菜 高田馬場店」にお邪魔してきた。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] 楽天のポイント運用、ユーザー数500万突破]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2108/02/news108.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2108/02/news108.html"/>
+        <updated>2021-08-02T06:33:00.000Z</updated>
+        <summary type="html"><![CDATA[楽天グループは8月2日、楽天ポイントを使って投資の疑似体験ができる「ポイント運用 by 楽天PointClub」のユーザー数が500万を超えたことを発表した。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【連載】横浜中華街で絶対に外さない店選びのコツ]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064596/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064596/?rss"/>
+        <updated>2021-08-02T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[横浜中華街中華街発展会協同組合専務理事の石河陽一郎が、地元ならではの切り口で中華街の表も裏も語り尽くす、ディープな街案内。毎回のランチ情報では、隠れた名店のツウ好みな一品が登場。中華街の裏切らないグルメ情報にも注目！]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ツクモYahoo!店」オープン、テレビ・家電・ゲーム機など5万点以上を販売]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064593/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064593/?rss"/>
+        <updated>2021-08-02T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[パソコン・PCパーツを取り扱う「ツクモ PayPayモール店」に続く出店2店舗目。ツクモYahoo!店は、テレビ、一般家電、ゲーム機等幅広いジャンルの商品を5万点以上を取り扱う。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スカーゲン、シンプルなレクタンギュラーケースのソーラーウォッチ]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064562/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064562/?rss"/>
+        <updated>2021-08-02T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[SKAGENは、サステナブルなソーラーウォッチシリーズから、ミニマルかつレクタンギュラーなケースを採用したSKW6756／SKW6757／SKW2999／SKW3000を発売した。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北九州がIoTプロトタイプ製作まで支援「IoT Maker's Project」公募受付中]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064561/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064561/?rss"/>
+        <updated>2021-08-02T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[北九州市が主催するビジネス創出プロジェクト「IoT Maker's Project」は2021年7月30日、令和3年度の事業説明会をZoomウェビナーで開催した。同プロジェクトの公募締め切りは8月29日。全国エリアを問わず、個人または企業など誰でも応募が可能だ。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[焼肉の和民「熟成黒毛和牛大判カルビ」約1000円のお値打ち価格で提供]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064533/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064533/?rss"/>
+        <updated>2021-08-02T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[優良な雌牛を九州の恵まれた自然の中で半年以上かけて再肥育し、焼肉の和民独自の3段階の格付基準で厳選された熟成黒毛和牛のカルビ。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『真・女神転生V』の主人公の同級生たちや新たな悪魔、バトルシステムなど新情報を一挙公開！]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064594/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064594/?rss"/>
+        <updated>2021-08-02T06:28:00.000Z</updated>
+        <summary type="html"><![CDATA[アトラスは、2021年11月11日に発売する『真・女神転生V』（Nintendo Switch）の新着情報を8月2日に公開した。今回は、主人公の同級生や悪魔召喚プログラムを渡す人物、新たな悪魔を一挙紹介。さらにバトルに関わるシステムもお届けする。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サードウェーブ、三菱UFJ銀行&三井住友銀行と100億円シンジケートローンの契約締結]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064585/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064585/?rss"/>
+        <updated>2021-08-02T06:20:00.000Z</updated>
+        <summary type="html"><![CDATA[サードウェーブは三菱UFJ銀行をアレンジャー、三井住友銀行をコアレンジャーとする100億円シンジケートローンの契約を締結した。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia PC USER] エレコム、アナログ接続イヤフォンをUSB経由で使える変換アダプター]]></title>
+        <id>https://www.itmedia.co.jp/pcuser/articles/2108/02/news107.html</id>
+        <link href="https://www.itmedia.co.jp/pcuser/articles/2108/02/news107.html"/>
+        <updated>2021-08-02T06:17:00.000Z</updated>
+        <summary type="html"><![CDATA[エレコムは、手持ちのアナログ接続イヤフォンなどをUSB経由で使えるUSBオーディオ変換アダプターを発売した。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia Mobile] コード決済の満足度はPayPay、利用頻度は楽天ペイがトップ　MMDの調査より]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2108/02/news097.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2108/02/news097.html"/>
+        <updated>2021-08-02T06:15:00.000Z</updated>
+        <summary type="html"><![CDATA[MMD研究所は、8月2日に「2021年7月スマートフォン決済（QRコード）利用動向調査」の結果を発表した。利用頻度が最も高いのは「楽天ペイ」で、6サービスの総合満足度1位は「PayPay」となった。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] LINEに“いいね”風の新機能　スマホアプリ版に「リアクション」追加]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/02/news106.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/02/news106.html"/>
+        <updated>2021-08-02T06:01:00.000Z</updated>
+        <summary type="html"><![CDATA[LINEが、コミュニケーションアプリ「LINE」のスマホアプリ版に新機能「リアクション」を追加した。トーク内のメッセージに「いいね」など6種類のリアクションをつけることができ、スタンプよりも気軽な返事などに活用できるという。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia Mobile] Tマネーの「かざして支払い」、初めての利用で20％還元キャンペーン]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2108/02/news084.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2108/02/news084.html"/>
+        <updated>2021-08-02T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[電子マネー「Tマネー」は「Tマネーかざして支払い はじめて利用キャンペーン」を開催。初めて「Tマネーかざして支払い」へ登録すると200ポイントを付与し、支払いを行うと利用金額の20％をポイントでプレゼントする。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[富士通の10.1型タブレット「arrows Tab EH」が約2万円オフ！　自宅での学習用にも最適。]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064563/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064563/?rss"/>
+        <updated>2021-08-02T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[富士通の直販サイト「富士通 WEB MART」では最新モデルを対象にセールを開催中。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップル新型「MacBook Pro」内蔵カメラがフルHDに？]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064491/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064491/?rss"/>
+        <updated>2021-08-02T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アップルが今年発売する新型MacBook Proは内蔵カメラの解像度がフルHDにアップグレードされるという。著名リーカーがツイートした。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年8月2日　す，すけきよ！？ ── 帰ってきた『技評ねこ部通信』]]></title>
+        <id>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202107/0802</id>
+        <link href="https://gihyo.jp/lifestyle/clip/01/monthly-cat/202107/0802"/>
+        <updated>2021-08-02T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[夏になると見たくなる，横溝正史シリーズ。ねこ部は，「病院坂の首くくりの家」が好きです。]]></summary>
+        <author>
+            <name>gihyo.jp：総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[月～金で毎日17時配信！『シンスメモリーズ 星天の下で』新人声優が送るTwitterミニ番組が本日よりスタート]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064573/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064573/?rss"/>
+        <updated>2021-08-02T05:50:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年8月2日、Nintendo Switch／PlayStation 4用恋愛アドベンチャーゲーム『シンスメモリーズ 星天の下で』の公式Twitterにて、ヒロイン役3名の新人声優によるミニ番組（約2分間）を、月曜～金曜の毎日17時に配信するとMAGES.は発表した。本作は2021年9月16日発売予定。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia PC USER] クリエイター向けフラグシップ「ThinkPad X1 Extreme Gen 4」が日本上陸　直販価格は約39万円（クーポン適用で約27万円）から]]></title>
+        <id>https://www.itmedia.co.jp/pcuser/articles/2108/02/news094.html</id>
+        <link href="https://www.itmedia.co.jp/pcuser/articles/2108/02/news094.html"/>
+        <updated>2021-08-02T05:45:00.000Z</updated>
+        <summary type="html"><![CDATA[LenovoがMWC Barcelona 2021に合わせて発表したパフォーマンス重視のフラグシップThinkPadの新モデルが、日本でも発売された。直販価格は、クーポン適用で約27万円からとなる。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] 著名人の3DCGモデルを作成→キャスティングするサービス　サイバーエージェントが芸能事務所向けに開始]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/02/news102.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/02/news102.html"/>
+        <updated>2021-08-02T05:27:00.000Z</updated>
+        <summary type="html"><![CDATA[サイバーエージェントが、著名人の3DCGモデルを作成し、本人の代わりとしてバーチャル空間上のイベントなどにキャスティングするサービスを始めた。著名人や芸能事務所の利用を見込み、2023年までに3DCGモデル500体の制作を目指す。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] ワクチンを接種できたら「夏休みに旅行したい」は36.4％　コロナ下で旅行している人の割合は？]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2108/02/news100.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2108/02/news100.html"/>
+        <updated>2021-08-02T05:25:00.000Z</updated>
+        <summary type="html"><![CDATA[コロナ禍で外出や都道府県をまたいだ移動を控えるよう政府が呼び掛けている。コロナがまん延してから旅行に行った人の割合は31.5％だった。ワクチン接種が進むと状況は変わるのか。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[横浜ベイエリアをお得に移動しよう！　シーバス「1DAYPASS」と市営交通「みなとぶらりチケット」が一つになった企画乗車券「みなとぶらりシーバスチケット」発売中]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064545/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064545/?rss"/>
+        <updated>2021-08-02T05:15:00.000Z</updated>
+        <summary type="html"><![CDATA[横浜市交通局とポートサービスは、企画乗車券「みなとぶらりシーバスチケット」を発売している。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia Mobile] より“深いカスタマイズ”でKDDIと共同開発　Xiaomiに聞く「Redmi Note 10 JE」の狙い]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2108/02/news091.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2108/02/news091.html"/>
+        <updated>2021-08-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[おサイフケータイに対応するなど、徐々に日本市場向けの独自機能を取り込んでいるXiaomiだが、同社の次の一手として送り出す端末は“日本専用モデル”だった。エントリーモデルながら、ミドルレンジモデルに近い性能を持つ。KDDIとタッグを組み、コストパフォーマンスのいい端末を投入することで、5Gの普及促進を目指す。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia Mobile] Xiaomiの日本専用モデル「Redmi Note 10 JE」がKDDIから　おサイフ＋防水対応で2万円台]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2108/02/news095.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2108/02/news095.html"/>
+        <updated>2021-08-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Xiaomiが8月2日、日本向けの新型5Gスマートフォン「Redmi Note 10 JE」を発表。KDDIがau向けに8月13日に発売、UQ mobile向けには9月上旬以降に発売する。IP68の防水・防塵（じん）やFeliCa（おサイフケータイ）に対応しており、プロセッサはQualcommのSnapdragon 480 5Gを採用している。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シャオミ、2万円台で防水＆FeliCaありの5Gスマホ「Redmi Note 10 JE」をau／UQから発売]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064521/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064521/?rss"/>
+        <updated>2021-08-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[シャオミは2日に発表会を開催。KDDIを通じて、auとUQ mobileブランドでエントリークラスの5Gスマホ「Redmi Note 10 JE XIG02」を発売すると発表した。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ここまでのカスタマイズは初」、日本限定モデル「Redmi Note 10 JE」を投入 するシャオミ]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063892/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063892/?rss"/>
+        <updated>2021-08-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[auとUQ mobileから発売予定のシャオミ「Redmi Note 10 JE」は、シャオミが得意とするコストパフォーマンスに優れた5G対応のエントリースマートフォンだ。モデル名につく「JE」はJapan Editionの略であり、日本向けに開発されたモデルだという。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] Web漫画「ルックバック」、読者の指摘で表現を修正　「チェンソーマン」作者の読み切り　ネットは賛否]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/02/news098.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/02/news098.html"/>
+        <updated>2021-08-02T04:56:00.000Z</updated>
+        <summary type="html"><![CDATA[集英社がWeb漫画「ルックバック」の表現を一部修正した。「読者から不適切な表現があるとの指摘を受けた」といい、統合失調症の症状を思わせる作中の表現などを変更した。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia PC USER] サンワ、ディスプレイ背面に小型機器などを取り付けられる汎用プレート]]></title>
+        <id>https://www.itmedia.co.jp/pcuser/articles/2108/02/news096.html</id>
+        <link href="https://www.itmedia.co.jp/pcuser/articles/2108/02/news096.html"/>
+        <updated>2021-08-02T04:53:00.000Z</updated>
+        <summary type="html"><![CDATA[サンワサプライは、ディスプレイの背面に小型機器などを装着可能にする「VESA取り付けプレート」を発売する。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] ライオンの美白ハミガキ、初月売り上げは想定の7倍]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2108/02/news090.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2108/02/news090.html"/>
+        <updated>2021-08-02T04:40:00.000Z</updated>
+        <summary type="html"><![CDATA[ライオンが2021年3月に発売した美白ハミガキが売れている。発売後3カ月で100万本突破し、初月の売り上げは想定の7倍となった。売り上げ好調の理由は？　なぜオーラルケア市場が伸びているのだろうか？]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[恋愛ADV『シンスメモリーズ 星天の下で』里見英（CV.田所あずささん）が歌うキャラクターソングの試聴ムービーが公開]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064543/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064543/?rss"/>
+        <updated>2021-08-02T04:40:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年7月30日、Nintendo Switch／PlayStation 4用恋愛アドベンチャーゲーム『シンスメモリーズ 星天の下で』の公式サイトにおいて、里見 英（CV.田所あずささん）が歌うキャラクターソング第2弾の試聴ムービーをMAGES.は公開した。本作は2021年9月16日発売予定。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] イギリス人を“English”と呼んではいけない、その理由]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/02/news092.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/02/news092.html"/>
+        <updated>2021-08-02T04:33:00.000Z</updated>
+        <summary type="html"><![CDATA[英国国民がイギリス人とは限らないというお話です。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エンジニア面接のコーディングテストで落とされないための対策]]></title>
+        <id>hatenablog://entry/26006613792068981</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/08/02/133000"/>
+        <updated>2021-08-02T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。谷口です。
+転職活動を始めると、面接でどんな質問をされるのか、どんな答え方をしたらよいのか、調べて対策する人も多いですよね。
+では、コーディングテストについてはどうでしょうか？　ITエンジニアの採用選考では面接だけではなく、オンラインで問題を解いたりその場でコードを書いたりするコーディングテストがよく実施されています。何も対策せずにテストを受けて落ちるのは避けたいところです。
+そこで今回は、ITエンジニアの採用選考において
+コーディングテストとは何か
+どんな対策をとっておくとコーディングテストを通過できるのか
+についてお話しします。
+転職に興味があるエンジニアの方、転職活動中の方の参考になればと思います。
+エンジニアの採用選考におけるコーディングテストって？
+中途エンジニアの採用選考でコードを書くような問題が出題されたりする選考試験がコーディングテストと呼ばれています。（コーディング試験、技術面接などと呼ばれる場合もあります）
+新卒や未経験者と違い、経験者としてエンジニア求人に応募する場合、まず求められるのは開発スキルや知識です。優秀なエンジニアを採用したい企業であれば、選考中にまったくスキルを見ない……なんてことはあり得ません。
+エンジニア経験者向けの求人に応募するのであれば、コーディングテストの対策はほぼ必須と言ってよいでしょう。
+実際によく実施されているコーディングテストの内容
+
+その場でホワイトボードなどにコードを書く
+ペーパーテスト形式
+Web上で解く形式
+などがあります。
+企業はコーディングテストを通して、応募者の「プログラミングやアルゴリズムに関する基礎知識」を見極めようとしています。少し複雑な問題になってくると「論理的に考える力」「プログラミングをするときの考え方」「コードの書き方」なども見られます。
+Web試験ならまだしも、エディタのないホワイ…]]></summary>
+        <author>
+            <name>paiza開発日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テーマは“行きたくなるヨコハマの橋”　Instagramのフォトコンテストが今年も開催]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064534/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064534/?rss"/>
+        <updated>2021-08-02T04:20:00.000Z</updated>
+        <summary type="html"><![CDATA[横浜市は、「『ヨコハマの橋』Instagramフォトコンテスト2021」の開催を発表。8月4日～9月30日まで作品を募集する。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『MELTY BLOOD: TYPE LUMINA』遠野秋葉のキャラクター紹介動画を公開！]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064535/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064535/?rss"/>
+        <updated>2021-08-02T04:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Project LUMINA（ノーツ／アニプレックス／ディライトワークス）は、2021年9月30日発売予定の2D対戦格闘ゲーム『MELTY BLOOD: TYPE LUMINA』のプレイアブルキャラクター「遠野秋葉」のバトルトレーラーを8月2日に公開した。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チケット販売中！　第37回かながわ音楽コンクール入賞者25人が演奏する「クリスタルコンサートvol.21」、青葉区民文化センター・フィリアホールにて]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064528/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064528/?rss"/>
+        <updated>2021-08-02T04:10:00.000Z</updated>
+        <summary type="html"><![CDATA[青葉区民文化センター・フィリアホールでは8月22日、神奈川新聞社主催のコンサート「クリスタルコンサートvol.21」が上演。チケットは8月1日からカンフェティで販売中で、一般2000円、高校生以下1000円。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハイエンドのゲーム体験を実現するインテル(R) NUC 11 エクストリーム・キット]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064618/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064618/?rss"/>
+        <updated>2021-08-02T04:08:44.000Z</updated>
+        <summary type="html"><![CDATA[ハイエンドのゲーム体験を実現するインテル(R) NUC 11 エクストリーム・キット]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新作対戦格闘ゲーム『KOF XV』に参戦する「麻宮アテナ」のキャラクタートレーラーが公開！]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064537/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064537/?rss"/>
+        <updated>2021-08-02T04:05:00.000Z</updated>
+        <summary type="html"><![CDATA[新作対戦格闘ゲーム『THE KING OF FIGHTERS XV』に登場するキャラクター「麻宮アテナ」のトレーラーを、SNKが2021年7月30日に公開した。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[データ共有プラットフォーム「delika」、「GitHub」アカウントのサードパーティ認証機能を追加]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064617/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064617/?rss"/>
+        <updated>2021-08-02T04:00:38.000Z</updated>
+        <summary type="html"><![CDATA[データ共有プラットフォーム「delika」、「GitHub」アカウントのサードパーティ認証機能を追加]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビジネスカンファレンス「Sansan Innovation Project 2021」を開催]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064616/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064616/?rss"/>
+        <updated>2021-08-02T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビジネスカンファレンス「Sansan Innovation Project 2021」を開催]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[元ランサーズCTOの坂口賢司氏が、営業支援におけるSaaSサービス「SalesNow」を展開する株式会社QuickWorkの技術顧問に就任]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064615/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064615/?rss"/>
+        <updated>2021-08-02T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[元ランサーズCTOの坂口賢司氏が、営業支援におけるSaaSサービス「SalesNow」を展開する株式会社QuickWorkの技術顧問に就任]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マウザー、2021年の上半期に過去最高62社のメーカーの取り扱いを開始]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064614/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064614/?rss"/>
+        <updated>2021-08-02T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[マウザー、2021年の上半期に過去最高62社のメーカーの取り扱いを開始]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[木村情報技術　EAファーマへ医療関係者向け AI検索サービス『AIチャットボット』の提供を開始]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064613/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064613/?rss"/>
+        <updated>2021-08-02T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[木村情報技術　EAファーマへ医療関係者向け AI検索サービス『AIチャットボット』の提供を開始]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] お盆休み、「帰省したい」派が「帰省したいと思わない」派を上回る　コロナの影響は？]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2108/02/news081.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2108/02/news081.html"/>
+        <updated>2021-08-02T03:52:00.000Z</updated>
+        <summary type="html"><![CDATA[コロナ禍の影響で、帰省するかどうか悩む人も多いはず。今年のお盆の傾向はどうか。527人に聞いた結果は？]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] 日本年金機構かたるフィッシングに注意　「ネット手続きに情報の更新が必要」などと偽る]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/02/news083.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/02/news083.html"/>
+        <updated>2021-08-02T03:50:00.000Z</updated>
+        <summary type="html"><![CDATA[日本年金機構をかたるフィッシングメールを確認したとして、フィッシング対策協議会が注意を促した。「年金の手続きをネット上で行えるようにする」と偽ってフィッシングサイトに誘導し、個人情報を窃取するという。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia Mobile] ドコモの「Galaxy S21 5G Olympic Games Edition」の店頭販売がスタート　ドコモショップとGalaxy Harajukuで購入可能]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2108/02/news082.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2108/02/news082.html"/>
+        <updated>2021-08-02T03:50:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモがオンラインショップ限定で販売していた東京オリンピックを記念した「Galaxy S21 5G Olympic Games Edition」が、ドコモショップやGalaxy Harajukuで購入できるようになった。同オリンピックに出場する選手に提供される端末とほぼ同じ外観とオリジナルコンテンツをプリインストールしていることが特徴だ。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] 毎日の運動で「ウルトラマン ティガ」を強くする大人向けウェアラブル玩具、バンダイが発売]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/02/news080.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/02/news080.html"/>
+        <updated>2021-08-02T03:44:00.000Z</updated>
+        <summary type="html"><![CDATA[バンダイは毎日の運動によって「ウルトラマン ティガ」が成長するウェアラブル玩具を11月27日に発売する。12月には「仮面ライダー クウガ」も登場する。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] SBI証券のカード積み立て　1カ月で30億円突破]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2108/02/news079.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2108/02/news079.html"/>
+        <updated>2021-08-02T03:29:00.000Z</updated>
+        <summary type="html"><![CDATA[SBI証券は8月2日、三井住友カードを使った投信積立サービス「三井住友カード　つみたて投資」の積立設定額が30億円を突破したことを明らかにした。SBI証券の投信積立設定額433億円の7％に相当する。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia PC USER] MSI、リード最大7000MB/sを実現した高速M.2 NVMe SSD「SPATIUM M480 PCIe 4.0 NVMe M.2」]]></title>
+        <id>https://www.itmedia.co.jp/pcuser/articles/2108/02/news077.html</id>
+        <link href="https://www.itmedia.co.jp/pcuser/articles/2108/02/news077.html"/>
+        <updated>2021-08-02T03:07:00.000Z</updated>
+        <summary type="html"><![CDATA[エムエスアイコンピュータージャパンは、PCIe Gen4接続対応の高速M.2 NVMe SSD「SPATIUM M480 PCIe 4.0 NVMe M.2」を発表した。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia マーケティング] 「日本企業的DX」の神髄（無料eBook）]]></title>
+        <id>https://marketing.itmedia.co.jp/mm/articles/2108/02/news101.html</id>
+        <link href="https://marketing.itmedia.co.jp/mm/articles/2108/02/news101.html"/>
+        <updated>2021-08-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「ITmedia マーケティング」では、気になるマーケティングトレンドをeBookにまとめて不定期でお送りしています。今回のテーマは「日本企業的DX」です。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia Mobile] 「UQ mobile」の5G対応は9月2日から　既存ユーザーでも契約変更可能（条件あり）]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2108/02/news075.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2108/02/news075.html"/>
+        <updated>2021-08-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDIと沖縄セルラー電話の「UQ mobile」ブランドにおける5G通信サービスの提供開始日が9月2日に決定した。ただし、既存ユーザーの5Gプランへの移行には、当面の間SIMカードの交換が必要となる。【訂正】]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia Mobile] auからG'zOne20周年モデル「G'zOne TYPE-XX」が登場　カシオが商品デザインを担当]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2108/02/news071.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2108/02/news071.html"/>
+        <updated>2021-08-02T02:33:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDIは、G'zOneシリーズの20周年記念モデル「G'zOne TYPE-XX」を11月以降、シンプルデザインの4G LTEケータイ「GRATINA KYF42」を8月13日に発売する。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] 日本マイクロソフトだって悩んでいた　一筋縄ではいかぬデジタル人材育成をパーソルと協業で乗り切る！]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2107/30/news162.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2107/30/news162.html"/>
+        <updated>2021-08-02T02:13:00.000Z</updated>
+        <summary type="html"><![CDATA[今は、デジタルシフトに対応できる人材が不足していることもあり、「リスキリングでデジタル人材を育成したい」と考える企業は少なくない。デジタライゼーションが急務とされる中で、企業はどのように社員のリスキリングに対するモチベーションを高め、デジタル人材を育成すればいいのだろうか。日本マイクロソフトとパーソルイノベーションの協業から、リスキリングの課題と解決策を探る。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] UQ mobile、5G対応プランを9月から提供　価格は既存プランから据え置き]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/02/news069.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/02/news069.html"/>
+        <updated>2021-08-02T02:13:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDIが、通信事業のサブブランド「UQ Mobile」で、9月2日から5Gサービスを始めると発表した。月3GBで月額1628円の「くりこしプランS +5G」など3プランを提供する。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] 教育出版のPearson、大学電子教科書のサブスクサービスを開始]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/02/news068.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/02/news068.html"/>
+        <updated>2021-08-02T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[教育出版大手のPearsonが、大学生向けの電子教科書サブスクサービス「Pearson+」を開始した。1500冊以上の電子教科書に月額14.99ドルでアクセスできる。教科書は書き込みも可能で、3台までの端末で利用できる。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia PC USER] Dynabookの働き方可視化ソリューション「Job Canvas」が機能拡充　Teamsのステータスも確認可能に]]></title>
+        <id>https://www.itmedia.co.jp/pcuser/articles/2108/02/news066.html</id>
+        <link href="https://www.itmedia.co.jp/pcuser/articles/2108/02/news066.html"/>
+        <updated>2021-08-02T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dynabookの働き方可視化ソリューション「Job Canvas」がアップデートし、機能が拡充された。Azure Active Directoryによるシングルサインインに対応したことで「Microsoft Teams」のステータスも確認可能になった他、スマホアプリを使った状況把握にも対応した。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia エンタープライズ] ついに1兆円規模を突破、拡大する国内パブリッククラウド市場を待ち受ける3つの課題]]></title>
+        <id>https://www.itmedia.co.jp/enterprise/articles/2108/02/news059.html</id>
+        <link href="https://www.itmedia.co.jp/enterprise/articles/2108/02/news059.html"/>
+        <updated>2021-08-02T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[企業のDX進展に伴い、パブリッククラウド市場が高成長を続けている。ただ、最新の調査によると、ユーザーにとっての課題が浮かび上がってきた。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作図って大変？ AWSシステム構成図生成アプリで作図作業を効率化しよう]]></title>
+        <id>http://codezine.jp/article/detail/14516</id>
+        <link href="http://codezine.jp/article/detail/14516"/>
+        <updated>2021-08-02T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本連載では、DX（デジタルトランスフォーメーション）、その中でも特に業務効率化をテーマに、プロトアウトスタジオの生徒や関係者が日々の生活や業務で発生している課題を見直し、技術を活用しながら解決していく方法をご紹介していきます。第7回となる本記事は、作図作業を効率化すべく作成した「AWSシステム構成図生成アプリ」（以後、図生成アプリ）を紹介します。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] コロナ禍、ジム退会での“違約金”　発生した9割超から不満の声]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2108/02/news063.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2108/02/news063.html"/>
+        <updated>2021-08-02T01:50:00.000Z</updated>
+        <summary type="html"><![CDATA[ジムの契約トラブルに関する実態調査。契約を解約する際に解約金は発生したか聞いたところ、解約金が発生した人は約半数。その9割は納得がいかないと答えた。理由は？]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コンビニの年賀状印刷、宛名書きはしてくれる? ハガキの持ち込みは?]]></title>
         <id>https://news.mynavi.jp/article/20210802-1911206/index.html</id>
@@ -84,6 +1316,15 @@
         <summary type="html"><![CDATA[7月30日～8月1日に放送された『東京2020オリンピック』主な番組視聴率は、以下の通り。]]></summary>
         <author>
             <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia News] Apple TVアプリ、Amazon Prime VideoやABEMAなど7社のサービスに対応]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/02/news064.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/02/news064.html"/>
+        <updated>2021-08-02T01:25:00.000Z</updated>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
         </author>
     </entry>
     <entry>
@@ -208,6 +1449,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] 夏休みと年末年始の「旅行先検索ランキング」　日本人が気になっているエリアは？]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2108/02/news076.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2108/02/news076.html"/>
+        <updated>2021-08-02T00:55:00.000Z</updated>
+        <summary type="html"><![CDATA[エクスペディアを運営するベックストラベルジャパンは、夏季休暇と年末年始休暇に検索されている旅行先を調査した。1位はどこか？]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[小児予防接種の手続きがオンラインでできる母子手帳アプリ「母子モ」]]></title>
         <id>https://ascii.jp/elem/000/004/064/4064472/?rss</id>
         <link href="https://ascii.jp/elem/000/004/064/4064472/?rss"/>
@@ -223,6 +1474,16 @@
         <link href="https://www.itmedia.co.jp/news/articles/2108/02/news062.html"/>
         <updated>2021-08-02T00:28:00.000Z</updated>
         <summary type="html"><![CDATA[ジャック・ドーシー氏率いるモバイル決済企業Squareが決済サービスのAfterpayを買収する。総額290億ドル（約3兆1822億円）。Afterpayは無利息で分割払いできるサービスで、Squareはこの機能を送金アプリに統合する計画だ。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] 高知県の「住みここちランキング2021」発表　「香美市」や「高知市」を抑えて1位になったのは？]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2108/02/news061.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2108/02/news061.html"/>
+        <updated>2021-08-02T00:27:00.000Z</updated>
+        <summary type="html"><![CDATA[大東建託は高知県に住む成人男女が対象の居住満足度調査を行い、その結果を発表した。香美市や高知市を抑えて1位になった自治体は？]]></summary>
         <author>
             <name>ITmedia 総合記事一覧</name>
         </author>
