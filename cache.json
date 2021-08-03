@@ -12,6 +12,24 @@
       "siteUrl": "https://www.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/pcuser/articles/2108/03/news156.html",
+          "author": null,
+          "description": "AMDがZen 3アーキテクチャを採用するAPU（GPU統合型CPU）を8月6日19時に発売する。その実力はいかほどのものか、先行してレビューする。",
+          "link": "https://www.itmedia.co.jp/pcuser/articles/2108/03/news156.html",
+          "publishedOn": "2021-08-03T13:00:00.000Z",
+          "wordCount": 592,
+          "title": "[ITmedia PC USER] 8月6日19時発売！　Zen 3採用APU「Ryzen 7 5700G」「Ryzen 5 5600G」の実力を先行レビュー"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/03/news155.html",
+          "author": null,
+          "description": "YouTuberのHIKAKINさんが「ヒカキン、今後はVTuberとして活動して行きます。」と題した動画を投稿した。YouTubeチャンネル登録者数1000万人を目指すための取り組みの一つという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/03/news155.html",
+          "publishedOn": "2021-08-03T13:00:00.000Z",
+          "wordCount": 148,
+          "title": "[ITmedia News] ヒカキンがVTuberデビュー　チャンネル登録者数1000万人目指す"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2108/03/news153.html",
           "author": null,
           "description": "ルイ・ヴィトンがゲームアプリ「LOUIS THE GAME」（iOS、Android）を4日に公開すると発表した。",
@@ -4266,6 +4284,42 @@
       "feedUrl": "https://ascii.jp/rss.xml",
       "siteUrl": "https://ascii.jp/1/",
       "articles": [
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064499/?rss",
+          "author": null,
+          "description": "セブンアールジャパンは8月4日、パソコンショップSEVENにて「2021/8/4 24時間限定セール」を開催する。AMD Ryzen 9 5900XとGeforce RTX 3080 Tiを搭載した「ZEFT R35Y」が4万5000円オフなど全10商品を特別価格で販売する。",
+          "link": "https://ascii.jp/elem/000/004/064/4064499/?rss",
+          "publishedOn": "2021-08-03T15:00:00.000Z",
+          "wordCount": 246,
+          "title": "AMD Ryzen 9 5900X＋Geforce RTX 3080 Ti搭載「ZEFT R35Y」が4万5000円オフ"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064768/?rss",
+          "author": null,
+          "description": "AMDは2021年8月6日午後7時より、「Ryzen 7 5700G」および「Ryzen 5 5600G」の2モデルを「リテールパッケージ版」として販売する。今回は簡単ではあるが内蔵GPUの性能にフォーカスしつつ検証してみた。",
+          "link": "https://ascii.jp/elem/000/004/064/4064768/?rss",
+          "publishedOn": "2021-08-03T13:00:00.000Z",
+          "wordCount": 363,
+          "title": "Zen 3世代のAPU「Ryzen 7 5700G」「Ryzen 5 5600G」はPCパーツ高騰時代の救世主なのか？"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064700/?rss",
+          "author": null,
+          "description": "アスキーストアでは、組み合わせてカラフルにライティングできるブロック式スマートLEDライト（6個入り)を25％オフの価格で販売中。",
+          "link": "https://ascii.jp/elem/000/004/064/4064700/?rss",
+          "publishedOn": "2021-08-03T13:00:00.000Z",
+          "wordCount": 361,
+          "title": "組み合わせてカラフルにライティングできるブロック式スマートLEDライト（6個入り)が25％オフ！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064580/?rss",
+          "author": null,
+          "description": "富士通の直販サイト「富士通 WEB MART」では最新モデルを対象にセールを開催中。",
+          "link": "https://ascii.jp/elem/000/004/064/4064580/?rss",
+          "publishedOn": "2021-08-03T13:00:00.000Z",
+          "wordCount": 218,
+          "title": "Core i3搭載で10万7738円！　富士通の軽量設計13.3型ノートPC「LIFEBOOK WU2/E3」がお買い得"
+        },
         {
           "id": "https://ascii.jp/elem/000/004/064/4064712/?rss",
           "author": null,
@@ -9904,20 +9958,6 @@
             "type": "image/jpeg",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/26006613782549489",
-          "author": null,
-          "description": "こんにちは。倉内です。\nこれからITエンジニアを目指そうという方の中には、学校で情報系を専攻した方もいれば、そうでない方もいらっしゃると思います。\nプログラミングは、向き不向きもありますが、基本の習得からサービスやアプリの開発までその気があればWebの学習教材や書籍、スクールに通うなどの方法で十分習得することができます。\nただ、業務で開発をする場合、コードさえ書ければよいというわけではなく、それ以外にも実務で必須のテクニックがあります。特に未経験からエンジニアになると最初はそのあたりが分からず苦労することも多いようです。\nそこで今回は、エンジニアとして開発をおこなうにあたって、覚えておくべき基本的なテクニックのうちいくつかをお伝えしたいと思います。\nエンジニアを目指す人向け・開発の必須知識6選\nコーディングの規則について知る\nあとから読んでも理解できるコメントを残す\nエラーメッセージに慣れる\nコマンド実行を嫌がらない\n適切にログを出力して検証などに役立てる\n欲しい結果にたどり着くための検索力をつける\nなぜ業務ではそういった知識が必要になるのか\nチームで開発する\n開発規模の違い\n影響範囲の違い\nまとめ\nエンジニアを目指す人向け・開発の必須知識6選\nコーディングの規則について知る\n学習のためにプログラミング問題を解いたり、趣味でひとりで開発したりといったときにはとりあえず動くコードであればいいかもしれません。\nただし業務での開発は多くの場合チームでおこないます。自分が書いたコードを他の人がメンテナンスしたり、逆に他の人が担当した機能に手をいれるために影響範囲を調べたりすることもあるでしょう。業務ではそういったことも意識してコードを書く必要があります。\nそこで、保守性や品質を高めるためにプロジェクトで共通して守るべきコーディングのルールをまとめたものが「コーディング規約」です。コ…",
-          "link": "https://paiza.hatenablog.com/entry/2021/07/05/130000",
-          "publishedOn": "2021-07-05T04:00:00.000Z",
-          "wordCount": 300,
-          "title": "「コードが書ければいい」だけじゃない！エンジニアを目指す人向け基礎テクニック",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210703/20210703024921.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
         }
       ]
     },
@@ -9926,6 +9966,294 @@
       "feedUrl": "https://news.mynavi.jp/rss/index",
       "siteUrl": "https://news.mynavi.jp/",
       "articles": [
+        {
+          "id": "https://news.mynavi.jp/article/20210804-1938305/index.html",
+          "author": null,
+          "description": "スマートフォン向けリズム＆アドベンチャーゲーム『アルゴナビス from BanG Dream! AAside』にて「夏のBURRRRN!!!」が追加された。",
+          "link": "https://news.mynavi.jp/article/20210804-1938305/index.html",
+          "publishedOn": "2021-08-03T15:00:00.000Z",
+          "wordCount": 350,
+          "title": "『アルゴナビス from BanG Dream! AAside』にて「夏のBURRRRN!!!」「お祭りBURRRRN！」追加"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210804-1938387/index.html",
+          "author": null,
+          "description": "本日2021年8月4日(水)にリリースされる、声優・鬼頭明里の1stミニアルバム『Kaleidoscope』に収録される、TVアニメ『出会って5秒でバトル』のOPテーマ「No Continue」のEnglish ver.が各音楽配信サイトで配信開始。鬼頭明里オフィシャルYouTubeチャンネルにてMVが公開された。",
+          "link": "https://news.mynavi.jp/article/20210804-1938387/index.html",
+          "publishedOn": "2021-08-03T15:00:00.000Z",
+          "wordCount": 343,
+          "title": "声優・鬼頭明里、「No Continue」English ver. 配信スタート＆MVを公開"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210804-rocketpunch/index.html",
+          "author": null,
+          "description": "元AKB48の高橋朱里(ジュリ)が所属する韓国の6人組ガールズグループ・Rocket Punch(ロケットパンチ)が、日本デビューミニアルバム『Bubble Up！』を8月4日にリリース。メンバー6人(ジュリ、ヨンヒ、スユン、ユンギョン、ソヒ、ダヒョン)がインタビューに応じ、日本デビューへの思いを語ってくれた。",
+          "link": "https://news.mynavi.jp/article/20210804-rocketpunch/index.html",
+          "publishedOn": "2021-08-03T15:00:00.000Z",
+          "wordCount": 352,
+          "title": "Rocket Punchが日本上陸! 元AKB48高橋朱里「成長した姿を見せたい」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210804-1938401/index.html",
+          "author": null,
+          "description": "ゆでたまごの人気作品『闘将!!拉麵男(たたかえ ラーメンマン)』が復活。32年ぶりの完全新作が集英社「グランドジャンプ」18号(8月18日発売／特別定価420円・税込)に、GJ創刊10周年読切連弾祭・第11弾として掲載されることが明らかとなった。",
+          "link": "https://news.mynavi.jp/article/20210804-1938401/index.html",
+          "publishedOn": "2021-08-03T15:00:00.000Z",
+          "wordCount": 309,
+          "title": "ゆでたまご『闘将!!拉麵男』、32年ぶりの完全新作で復活！GJ18号に登場"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210804-1938448/index.html",
+          "author": null,
+          "description": "今日8月4日は、「箸の日」や「橋の日」。「ビヤホールの日」でもあるそうです。いつかまた大空の下でワイワイ楽しくビールを飲みたいです……！ また、世界中で人気のあるファッションブランド「ルイ・ヴィトン」の生みの親、・・・",
+          "link": "https://news.mynavi.jp/article/20210804-1938448/index.html",
+          "publishedOn": "2021-08-03T15:00:00.000Z",
+          "wordCount": 295,
+          "title": "【水田わさびに日野聡も！】8月4日がお誕生日の声優さんは？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210804-1938443/index.html",
+          "author": null,
+          "description": "西田征史・久保忠佳・三宮宏太原作によるTVアニメ「テスラノート」の放送開始時期が10月に決定。併せてキービジュアル、追加キャストが明らかになった。",
+          "link": "https://news.mynavi.jp/article/20210804-1938443/index.html",
+          "publishedOn": "2021-08-03T15:00:00.000Z",
+          "wordCount": 300,
+          "title": "TVアニメ「テスラノート」放送は10月、追加キャストに中井和哉・伊藤静ら"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210804-1938445/index.html",
+          "author": null,
+          "description": "葦原大介原作による舞台「ワールドトリガー the Stage」の第3弾キャストが発表された。",
+          "link": "https://news.mynavi.jp/article/20210804-1938445/index.html",
+          "publishedOn": "2021-08-03T15:00:00.000Z",
+          "wordCount": 316,
+          "title": "舞台「ワールドトリガー」に吉川大貴・奥野翼・宮尾颯ら追加、メインビジュアルも"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210804-1938444/index.html",
+          "author": null,
+          "description": "許斐剛原作によるアニメ「新テニスの王子様」のYouTube公式チャンネルで、特別番組「超特大号 ハッピーサマーバレンタイン2021 SP」の生配信が決定。「ハッピーサマーバレンタインデー」にあたる8月14日13時より、3部構成で届けられる。",
+          "link": "https://news.mynavi.jp/article/20210804-1938444/index.html",
+          "publishedOn": "2021-08-03T15:00:00.000Z",
+          "wordCount": 342,
+          "title": "「テニスの王子様」“サマバレ”に特別番組の生配信決定！許斐剛・皆川純子らが出演"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210804-1938446/index.html",
+          "author": null,
+          "description": "「DAYS」安田剛士の短期集中新連載「PAUSE -ポーズ-」が、本日8月4日発売の週刊少年マガジン36・37合併号（講談社）にてスタートした。",
+          "link": "https://news.mynavi.jp/article/20210804-1938446/index.html",
+          "publishedOn": "2021-08-03T15:00:00.000Z",
+          "wordCount": 295,
+          "title": "「DAYS」安田剛士の短期集中新連載が週マガで、新作ラブコメ読み切り5作品も"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210804-1938442/index.html",
+          "author": null,
+          "description": "ゆでたまご「闘将!!拉麵男（たたかえ!!らーめんまん）」の新作読み切りが、8月18日に発売されるグランドジャンプ18号（集英社）に掲載される。",
+          "link": "https://news.mynavi.jp/article/20210804-1938442/index.html",
+          "publishedOn": "2021-08-03T15:00:00.000Z",
+          "wordCount": 288,
+          "title": "「闘将!!拉麵男」が読切で復活！「キン肉マン」ラーメンマン描くスピンオフ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210804-1938441/index.html",
+          "author": null,
+          "description": "龍幸伸「ダンダダン」の1巻が、本日8月4日に発売された。",
+          "link": "https://news.mynavi.jp/article/20210804-1938441/index.html",
+          "publishedOn": "2021-08-03T15:00:00.000Z",
+          "wordCount": 287,
+          "title": "幽霊肯定派の女子高生と怪奇現象オタクの少年描く、「ダンダダン」1巻発売"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210803-1938471/index.html",
+          "author": null,
+          "description": "日本サッカー協会（JFA）の田島幸三会長が、3日に行われた東京オリンピック準決勝のU－24日本代表対U－24スペイン代表戦を振り返った。\n　試合は序盤からボールを握るスペインと、粘り強く守りながらチ",
+          "link": "https://news.mynavi.jp/article/20210803-1938471/index.html",
+          "publishedOn": "2021-08-03T14:57:47.000Z",
+          "wordCount": 296,
+          "title": "死力を尽くすもスペインに惜敗…JFA田嶋会長「今日の試合は必ず意味のあるものに」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210803-1938447/index.html",
+          "author": null,
+          "description": "TVアニメ「ストライク・ザ・ブラッドIV」に登場する雪菜のグッズが当たるオンラインくじが、くじ引き堂で8月10日12時から31日11時59分まで販売される。価格は1回税込715円。",
+          "link": "https://news.mynavi.jp/article/20210803-1938447/index.html",
+          "publishedOn": "2021-08-03T14:40:00.000Z",
+          "wordCount": 291,
+          "title": "ご飯にする…？お風呂にする…？雪菜とドキドキ新婚生活「ストブラ」くじ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210803-1938431/index.html",
+          "author": null,
+          "description": "ニューカッスルは3日、FW武藤嘉紀との契約を双方合意の上で解除したとクラブ公式サイトで発表した。\n　現在29歳の武藤は、2015年夏にFC東京からマインツへと完全移籍。同クラブでは公式戦通算72試合",
+          "link": "https://news.mynavi.jp/article/20210803-1938431/index.html",
+          "publishedOn": "2021-08-03T14:39:15.000Z",
+          "wordCount": 297,
+          "title": "FW武藤嘉紀、ニューカッスルと双方合意で契約解除…3年在籍で28試合2ゴール"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210803-1938304/index.html",
+          "author": null,
+          "description": "スマートフォン向けリズム＆アドベンチャーゲーム『アルゴナビス from BanG Dream! AAside』にてゲーム内イベント「Live Royal Fes 1st Round 本戦」を開催中。",
+          "link": "https://news.mynavi.jp/article/20210803-1938304/index.html",
+          "publishedOn": "2021-08-03T14:30:00.000Z",
+          "wordCount": 386,
+          "title": "『アルゴナビス from BanG Dream! AAside』ゲーム内イベント「Live Royal Fes 1st Round 本戦」開催"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210803-1938432/index.html",
+          "author": null,
+          "description": "U－24日本代表MF久保建英が、3日に行われた東京オリンピック男子サッカー準決勝のU－24スペイン代表戦を振り返った。\n　試合は序盤からボールを握るスペインと、粘り強く守りながらチャンスをうかがう日",
+          "link": "https://news.mynavi.jp/article/20210803-1938432/index.html",
+          "publishedOn": "2021-08-03T14:13:47.000Z",
+          "wordCount": 298,
+          "title": "久保建英、スペインに惜敗の悔しさ露わ「出すこと全部やって負けたので…」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210803-1938433/index.html",
+          "author": null,
+          "description": "東京オリンピック男子サッカー競技・準決勝が3日に行われ、U－24日本代表はU－24スペイン代表に延長戦の末に0－1で敗れた。\n　試合後、チームを率いる森保一監督は「粘り強く戦いながらも攻撃、得点のチ",
+          "link": "https://news.mynavi.jp/article/20210803-1938433/index.html",
+          "publishedOn": "2021-08-03T14:10:32.000Z",
+          "wordCount": 295,
+          "title": "決勝に届かず…森保監督「よく戦ってくれた」　銅メダルへ「準備は簡単ではないが反発心を持って」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210803-1938434/index.html",
+          "author": null,
+          "description": "東京オリンピック男子サッカー競技・準決勝が3日に行われ、U－24日本代表はU－24スペイン代表に延長戦の末に0－1で敗れた。\n　試合後のインタビューに応じたキャプテンの吉田麻也は、一瞬、言葉に詰まり",
+          "link": "https://news.mynavi.jp/article/20210803-1938434/index.html",
+          "publishedOn": "2021-08-03T13:57:03.000Z",
+          "wordCount": 295,
+          "title": "惜しくも決勝進出ならず…吉田麻也、メダルをかけた3位決定戦は「気持ちが強いほうが勝つ」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210803-1938411/index.html",
+          "author": null,
+          "description": "◆ 投げては本田が5回無失点と好投\n\n　オリックスは3日に行われたエキシビションマッチで阪神と対戦。若い力が投打に存在感を示したが、試合は2－2の引き分けに終わった。\n\n　オリックスはこの日に…",
+          "link": "https://news.mynavi.jp/article/20210803-1938411/index.html",
+          "publishedOn": "2021-08-03T13:51:27.000Z",
+          "wordCount": 305,
+          "title": "オリックスのルーキー来田涼斗が藤浪から2点適時二塁打！中嶋監督「しっかり対応できていた」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210803-1938420/index.html",
+          "author": null,
+          "description": "サンタンデイブとストームジーによる「Clash」のMVで、アストンマーティンとのコラボレーションが実現した。実際のアクションシーンは、シルバーストーンの施設で撮影。MVでは、2人のラップスターがアストンマーティンDBSの走りを楽しみ、その後・・・",
+          "link": "https://news.mynavi.jp/article/20210803-1938420/index.html",
+          "publishedOn": "2021-08-03T13:39:00.000Z",
+          "wordCount": 304,
+          "title": "サンタンデイブ&ストームジー、MVでアストンマーティンとのコラボ実現"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210803-1938406/index.html",
+          "author": null,
+          "description": "東京オリンピック男子サッカー競技・準決勝が3日に行われ、U－24日本代表とU－24スペイン代表が対戦した。\n　6月17日にキリンチャレンジカップ2021で対戦した際は1－1のドロー。スペインは199",
+          "link": "https://news.mynavi.jp/article/20210803-1938406/index.html",
+          "publishedOn": "2021-08-03T13:34:36.000Z",
+          "wordCount": 330,
+          "title": "日本、猛攻耐えきれず延長戦でスペインに敗れる…銅かけてメキシコと再戦へ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210803-1938296/index.html",
+          "author": null,
+          "description": "スマートフォン向けリズムゲーム『D4DJ Groovy Mix』にてイベント＆ガチャ「D4 FES. -Started New World-」が開催中。",
+          "link": "https://news.mynavi.jp/article/20210803-1938296/index.html",
+          "publishedOn": "2021-08-03T13:30:00.000Z",
+          "wordCount": 362,
+          "title": "『D4DJ Groovy Mix』イベント＆ガチャ「D4 FES. -Started New World-」が開催"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210803-1938373/index.html",
+          "author": null,
+          "description": "お笑いコンビ・おかずクラブのオカリナが、2日に放送されたテレビ朝日系バラエティ番組『しくじり先生 俺みたいになるな!!』(毎週月曜24:15～)で、「趣味にお金を使いすぎて将来をしくじらないための授業」をテーマに講師を務めた。",
+          "link": "https://news.mynavi.jp/article/20210803-1938373/index.html",
+          "publishedOn": "2021-08-03T13:25:19.000Z",
+          "wordCount": 330,
+          "title": "オカリナ、趣味に300万使うも後悔ナシ『おっさんずラブ』映画73回鑑賞"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210803-1938380/index.html",
+          "author": null,
+          "description": "「good!アフタヌーン」(講談社)にて連載中の人気コミック『うちの師匠はしっぽがない』がTVアニメ化されることが決定。ティザーPVが公開され、まめだ役をM・A・O、大黒亭文狐役を山村響が担当することが発表された。",
+          "link": "https://news.mynavi.jp/article/20210803-1938380/index.html",
+          "publishedOn": "2021-08-03T13:15:00.000Z",
+          "wordCount": 322,
+          "title": "『うちの師匠はしっぽがない』、TVアニメ化決定！ティザーPV＆キャスト公開"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210803-1938421/index.html",
+          "author": null,
+          "description": "BABYMETALが2021年10月10日（日）、結成10周年イヤーのグランドフィナーレをもって「LEGEND=ライブ」を封印することを明らかにした。去年の10月10日より、ベストアルバム『10 BABYMETAL YEARS』、BABYM・・・",
+          "link": "https://news.mynavi.jp/article/20210803-1938421/index.html",
+          "publishedOn": "2021-08-03T13:12:00.000Z",
+          "wordCount": 363,
+          "title": "BABYMETAL、10周年イヤーグランドフィナーレをもって「LEGEND」封印へ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210803-1938395/index.html",
+          "author": null,
+          "description": "今日の占い「12星座ランキング」を発表！ ラジオ発のエンタメニュース＆コラム「TOKYO FM＋」がお届けする、毎日運勢占い「12星座別ランキング＆ワンポイントアドバイス」。2021年（令和3年）8月4日（水）のあなたの運勢を、東京・池袋占い館セレーネ所属・占い師の真龍人（マリユドゥ）さんが占います。今日の第1位は天秤座（てんびん座）！ あなたの星座は何位……？",
+          "link": "https://news.mynavi.jp/article/20210803-1938395/index.html",
+          "publishedOn": "2021-08-03T13:10:00.000Z",
+          "wordCount": 350,
+          "title": "★今日の運勢★2021年8月4日（水）12星座占いランキング第1位は天秤座（てんびん座）！ あなたの星座は何位…!?"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210803-1938382/index.html",
+          "author": null,
+          "description": "東京五輪・敗者復活第1ラウンド\n○ ドミニカ共和国 7x－ 6 イスラエル ●\n＜8月3日　横浜スタジアム＞\n\n　東京オリンピック（五輪）野球は3日、横浜スタジアムでノックアウトステージの敗者…",
+          "link": "https://news.mynavi.jp/article/20210803-1938382/index.html",
+          "publishedOn": "2021-08-03T13:06:01.000Z",
+          "wordCount": 312,
+          "title": "ドミニカ共和国が逆転サヨナラ勝ち　バティスタV打でアメリカへ挑戦権"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210803-1938212/index.html",
+          "author": null,
+          "description": "今年6月にオンラインで開催されたCOMPUTEXの基調講演の中で、AMDはリテール向けにもRyzen 5000G Desktopを出荷する事を発表したが、いよいよその出荷準備が整った。そんなわけでまずはその性能をご紹介したい。",
+          "link": "https://news.mynavi.jp/article/20210803-1938212/index.html",
+          "publishedOn": "2021-08-03T13:00:15.000Z",
+          "wordCount": 801,
+          "title": "Ryzen 7 5700GとRyzen 5 5600Gを試す - 待望のRyzen 5000G Desktop！ 全方位テストで実力を測る"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210803-1936796/index.html",
+          "author": null,
+          "description": "グラビアアイドルの笹岡郁未が、最新イメージDVD『可憐坂』(発売中 4,400円税込 発売元:竹書房)をリリースした。",
+          "link": "https://news.mynavi.jp/article/20210803-1936796/index.html",
+          "publishedOn": "2021-08-03T13:00:00.000Z",
+          "wordCount": 324,
+          "title": "You Tubeで人気! 笹岡郁未、透明感溢れる白い肌を水着姿で披露"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210803-1938280/index.html",
+          "author": null,
+          "description": "ゲームアプリ『アサルトリリィ Last Bullet』にてハーフアニバーサリー記念プレゼントキャンペーン第2弾がスタートしている。",
+          "link": "https://news.mynavi.jp/article/20210803-1938280/index.html",
+          "publishedOn": "2021-08-03T13:00:00.000Z",
+          "wordCount": 344,
+          "title": "『アサルトリリィ Last Bullet』ハーフアニバーサリー記念プレゼントキャンペーン第2弾開催"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210803-1938396/index.html",
+          "author": null,
+          "description": "スピリチュアリストの江原啓之が、現代社会でさまざまな悩みに直面している人たちに温かい“ことば”を届けるTOKYO FMの番組「Dr.Recella presents江原啓之 おと語り」。今回は、再びお金を貸してしまったことを気に病む私は心が狭いのか……と悩む相談者からのメッセージを紹介。江原が“ことば”を届けました。",
+          "link": "https://news.mynavi.jp/article/20210803-1938396/index.html",
+          "publishedOn": "2021-08-03T13:00:00.000Z",
+          "wordCount": 344,
+          "title": "友人に「570円返して」と言うのは心が狭い!? 金銭問題の悩みに江原啓之の回答は？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210803-1938374/index.html",
+          "author": null,
+          "description": "◆ 韓国はサイドスローのコ・ヨンピョ\n\n　東京オリンピック（五輪）の日本代表は3日、翌４日に行われる準決勝の韓国に山本由伸投手（オリックス）が先発することを発表した。\n\n　山本は開幕戦となった…",
+          "link": "https://news.mynavi.jp/article/20210803-1938374/index.html",
+          "publishedOn": "2021-08-03T12:53:43.000Z",
+          "wordCount": 300,
+          "title": "東京五輪準決勝の日韓戦に山本由伸が中6日で先発"
+        },
         {
           "id": "https://news.mynavi.jp/article/20210803-casio/index.html",
           "author": null,
@@ -9970,6 +10298,15 @@
           "publishedOn": "2021-08-03T12:32:00.000Z",
           "wordCount": 291,
           "title": "「すばらしきこのせかい」くじ、ネクたちとにゃんタンの描き下ろしポスターなど"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210803-1938376/index.html",
+          "author": null,
+          "description": "ご長寿人気アニメ『ちびまる子ちゃん』と女性に向けたライフスタイルストア「ITS’DEMO（以下、イッツデモ）」による初のコラボレーションが決定！ 3年4組のみんながオリエンタルな雰囲気が漂うお花柄の素敵なグッズになって登場する。・・・",
+          "link": "https://news.mynavi.jp/article/20210803-1938376/index.html",
+          "publishedOn": "2021-08-03T12:30:00.000Z",
+          "wordCount": 296,
+          "title": "初コラボ！ちびまる子ちゃん×ITS’DEMOオリエンタルなお花をどうぞ♪"
         },
         {
           "id": "https://news.mynavi.jp/article/20210803-1938279/index.html",
