@@ -12,6 +12,24 @@
       "siteUrl": "https://www.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/enterprise/articles/2108/06/news055.html",
+          "author": null,
+          "description": "Microsoftはついに「Internet Explorer」（IE）のサポートを終了する。IEの代役として、今度はどのWebブラウザを使えばよいのか。最適な移行先や移行方法を選択するためのヒントを説明する。",
+          "link": "https://www.itmedia.co.jp/enterprise/articles/2108/06/news055.html",
+          "publishedOn": "2021-08-05T20:00:00.000Z",
+          "wordCount": 128,
+          "title": "[ITmedia エンタープライズ] Internet Explorerが終わる日　代役ブラウザの本命は"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/06/news023.html",
+          "author": null,
+          "description": "今年4月、春華堂が浜松市内にオープンした複合施設「SWEETS BANK」は、コロナ禍にもかかわらず連日のようににぎわいを見せている。ユニークな外観などに目が行きがちだが、この施設には同社の並々ならぬ思いが込められている。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/06/news023.html",
+          "publishedOn": "2021-08-05T20:00:00.000Z",
+          "wordCount": 124,
+          "title": "[ITmedia ビジネスオンライン] 50億円を投じてでも、新施設で「うなぎパイ」の思いを春華堂が再現したかった理由"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2108/05/news128.html",
           "author": null,
           "description": "Googleは米国などで販売しているNestブランドのホームカメラとドアホンの新モデルを発表した。ようやく日本でも発売する。屋外用ホームカメラとドアホンの価格は2万3900円、屋内用ホームカメラは1万2300円。",
@@ -12604,20 +12622,6 @@
             "type": "image/jpeg",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/26006613784123348",
-          "author": null,
-          "description": "どうも、まさとらん（@0310lan）です！\n今回は、GitHubのリポジトリをWebベースのRSSリーダーに変えることができるユニークなツールをご紹介します。\n専門的な知識は一切不要で、マークダウンファイルに好きなフィードを追加していくだけですぐに自分だけのRSSリーダーを作って管理できるようになります。\nすべて無料で利用可能なので、ご興味ある方はぜひ参考にしてみてください！\n【 osmos::feed 】\n\n■「osmos::feed」の使い方\nそれでは、「osmos::feed」をどのように使えばいいのか詳しく見ていきましょう！\n基本的な使い方としては、公式のリポジトリにテンプレートが公開されているので、これを自分のGitHubリポジトリとしてコピーするところから始めます。\nテンプレートは以下のURLからアクセスできるようになっています。\n\n＜テンプレートURL＞\nhttps://github.com/osmoscraft/osmosfeed-template\n\n\n【Use this template】ボタンをクリックしてください。\n\n\nリポジトリの作成画面が表示されるので、好きなリポジトリ名を設定してから画面下部にある緑色のボタンをクリックします。\n\n\nこれで、自分のGitHubリポジトリとしてテンプレートがコピーされました。\n\nテンプレートにはデフォルトでいくつかのRSSがすでに登録されているので、まずはこの状態でRSSリーダーとして機能するかを確認してみましょう。\n\n【Settings】タブをクリックしてください。\n\n\n「Pages」の項目をクリックしてGitHub Pagesの設定画面を開きます。\n\n\n【Source】の項目でブランチを選択するのですが、リストから「gh-pages」を選んでから「Save」ボタンをクリックしてください。\n\n\n数秒ほど待ってから…",
-          "link": "https://paiza.hatenablog.com/entry/2021/07/07/150000",
-          "publishedOn": "2021-07-07T06:00:00.000Z",
-          "wordCount": 296,
-          "title": "簡単すぎる！GitHubを自分だけのRSSリーダーに変える「osmos:feed」を使ってみた！",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20210707/20210707103439.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
         }
       ]
     },
@@ -12626,6 +12630,96 @@
       "feedUrl": "https://news.mynavi.jp/rss/index",
       "siteUrl": "https://news.mynavi.jp/",
       "articles": [
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1940105/index.html",
+          "author": null,
+          "description": "フリーアナウンサーの徳光和夫が、10日に放送されるテレビ朝日系トーク番組『徹子の部屋』(毎週月～金曜13:00～)に出演する。",
+          "link": "https://news.mynavi.jp/article/20210806-1940105/index.html",
+          "publishedOn": "2021-08-05T20:00:00.000Z",
+          "wordCount": 315,
+          "title": "徳光和夫、妻が同じ話を1日に何回もする症状…根気強く向き合う"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1940183/index.html",
+          "author": null,
+          "description": "KAT-TUNの亀梨和也が主演を務めるNHKの土曜ドラマ『正義の天秤』(9月25日スタート、総合 毎週土曜21:00～ 全5回)の新キャストが6日に発表され、奈緒、北山宏光(Kis-My-Ft2)、大政絢、佐戸井けん太の出演が明らかになった。",
+          "link": "https://news.mynavi.jp/article/20210806-1940183/index.html",
+          "publishedOn": "2021-08-05T20:00:00.000Z",
+          "wordCount": 338,
+          "title": "北山宏光、NHKドラマ初出演　亀梨主演『正義の天秤』で元ニートの弁護士役"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1940202/index.html",
+          "author": null,
+          "description": "きょう8月6日の『東京2020オリンピック』中継番組のテレビ放送スケジュールは、以下の通り。",
+          "link": "https://news.mynavi.jp/article/20210806-1940202/index.html",
+          "publishedOn": "2021-08-05T20:00:00.000Z",
+          "wordCount": 392,
+          "title": "『東京2020オリンピック』8月6日テレビ放送スケジュール／サッカー男子3位決定戦など"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1940285/index.html",
+          "author": null,
+          "description": "→「推しの王子様」画像ギャラリーへ【関連記事】「推しの王子様」第1話レビュー【関連記事】「推しの王子様」第2話レビュー【関連記事】「推しの王子様」第3話レビュー比嘉愛未主演「推しの王子様」が2021年",
+          "link": "https://news.mynavi.jp/article/20210806-1940285/index.html",
+          "publishedOn": "2021-08-05T19:43:00.000Z",
+          "wordCount": 312,
+          "title": "「推しの王子様」第4話レビュー：今回の“推しプリ”は神回決定か?!　「すべてのセリフが尊い」「共感しかない！」と超話題！（※ストーリーネタバレあり）"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1940286/index.html",
+          "author": null,
+          "description": "マンチェスター・Cは5日、アストン・ヴィラからイングランド代表MFジャック・グリーリッシュを完全移籍で獲得した。クラブ公式サイトで発表している。\n　グリーリッシュとマンチェスター・Cの契約期間は20",
+          "link": "https://news.mynavi.jp/article/20210806-1940286/index.html",
+          "publishedOn": "2021-08-05T19:06:12.000Z",
+          "wordCount": 301,
+          "title": "マンC、グリーリッシュ獲得を発表！6年契約＆背番号「10」　英国史上最高額で移籍"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1939848/index.html",
+          "author": null,
+          "description": "嵐の二宮和也がイメージキャラクターを務める、ガンホー・オンライン・エンターテイメントの“パズドラ”こと「パズル＆ドラゴンズ」の新CM「パズドラ党／初当選」編、「パズドラ党／選挙勝利中継」編(各15秒、30秒)が14日から全国で放送される。",
+          "link": "https://news.mynavi.jp/article/20210806-1939848/index.html",
+          "publishedOn": "2021-08-05T19:00:00.000Z",
+          "wordCount": 329,
+          "title": "二宮和也、“党首”としての野望明かす「最悪、うちのYouTubeで…」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1939941/index.html",
+          "author": null,
+          "description": "女優の小芝風花が、7日より放送されるタイトー「タイトーオンラインクレーン」の新CM「タイクレやってみた!」編、「タイクレやってみた! (ブラウザ)」編、「おうちでタイクレ!」編に出演する。",
+          "link": "https://news.mynavi.jp/article/20210806-1939941/index.html",
+          "publishedOn": "2021-08-05T19:00:00.000Z",
+          "wordCount": 321,
+          "title": "小芝風花、クレーンゲーム景品ゲットで満面の笑み「楽しかったです! 」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1940262/index.html",
+          "author": null,
+          "description": "セルティックに所属する日本代表FW古橋亨梧が、5日に行われたヨーロッパリーグ（EL）予選3回戦のヤブロネツ戦で移籍後初ゴールを記録した。\n　古橋はスコティッシュ・プレミアシップ（スコットランド1部）",
+          "link": "https://news.mynavi.jp/article/20210806-1940262/index.html",
+          "publishedOn": "2021-08-05T18:40:02.000Z",
+          "wordCount": 300,
+          "title": "セルティック移籍の古橋亨梧が初先発初ゴール！　らしさ全開の抜け出しで冷静に沈め勝利に貢献"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1940261/index.html",
+          "author": null,
+          "description": "バルセロナは6日、アルゼンチン代表FWリオネル・メッシが同クラブを退団することを発表した。\n　メッシは2021年6月30日でバルセロナとの契約が満了し、無所属の状態が続いていた。クラブ公式サイトによ",
+          "link": "https://news.mynavi.jp/article/20210806-1940261/index.html",
+          "publishedOn": "2021-08-05T18:30:20.000Z",
+          "wordCount": 299,
+          "title": "バルセロナ、メッシの退団を発表…経済的制約で新契約締結が不可能に"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1940263/index.html",
+          "author": null,
+          "description": "ブレーメンに所属する日本代表FW大迫勇也にヴィッセル神戸移籍の可能性が浮上しているようだ。ドイツ紙『ビルト』が伝えている。\n　現在31歳の大迫は鹿島アントラーズ、1860ミュンヘン、ケルンと渡り歩き",
+          "link": "https://news.mynavi.jp/article/20210806-1940263/index.html",
+          "publishedOn": "2021-08-05T17:40:52.000Z",
+          "wordCount": 295,
+          "title": "ブレーメンFW大迫勇也に移籍の可能性が浮上…神戸が興味と現地報道"
+        },
         {
           "id": "https://news.mynavi.jp/article/20210806-1940219/index.html",
           "author": null,
