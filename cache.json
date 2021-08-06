@@ -12,6 +12,15 @@
       "siteUrl": "https://www.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/pcuser/articles/2108/06/news155.html",
+          "author": null,
+          "description": "AMDの新世代ミドルレンジGPU「Radeon RX 6600 XT」を搭載するグラフィックスカードが間もなく登場する。今回、BIOSTAR製のグラフィックスカードを試す機会を得たので、まずは外観からチェックしていこうと思う。",
+          "link": "https://www.itmedia.co.jp/pcuser/articles/2108/06/news155.html",
+          "publishedOn": "2021-08-06T13:00:00.000Z",
+          "wordCount": 598,
+          "title": "[ITmedia PC USER] 大きさは？　補助電源は？　新世代ミドルレンジGPU「Radeon RX 6600 XT」搭載グラボをチェック！"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2108/06/news152.html",
           "author": null,
           "description": "8月5日午後2時ごろから約10分間、東京都練馬区を中心に発生した大規模停電の原因が、1日経過した6日現在も明らかになっておらず、「調査中」のままになっている。",
@@ -6291,6 +6300,60 @@
       "feedUrl": "https://ascii.jp/rss.xml",
       "siteUrl": "https://ascii.jp/1/",
       "articles": [
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065364/?rss",
+          "author": null,
+          "description": "AMDのZen 3アーキテクチャーを採用したAPU「Ryzen 5000G」シリーズの販売が6日（金）19時よりスタートした。",
+          "link": "https://ascii.jp/elem/000/004/065/4065364/?rss",
+          "publishedOn": "2021-08-06T16:05:00.000Z",
+          "wordCount": 289,
+          "title": "VGA機能を内蔵する「Ryzen 5000G」シリーズが6日19時に販売解禁"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065270/?rss",
+          "author": null,
+          "description": "コミック配信サービス「まんが王国」の、7月30日〜8月5日の週間男性ランキング。",
+          "link": "https://ascii.jp/elem/000/004/065/4065270/?rss",
+          "publishedOn": "2021-08-06T15:00:00.000Z",
+          "wordCount": 338,
+          "title": "「はじめの一歩」「静かなるドン」など名作は配信でも大人気！ まんが王国ランキング（男性）（7月30日〜8月5日）"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064716/?rss",
+          "author": null,
+          "description": "セブンアールジャパンは8月7日、パソコンショップSEVENにて「2021/8/7 24時間限定セール」を開催する。AMD Ryzen 9 5950XとGeforce RTX 3070 Tiを搭載した「ZEFT R37Y」が4万5000円オフなど、全10商品を特別価格で販売する。",
+          "link": "https://ascii.jp/elem/000/004/064/4064716/?rss",
+          "publishedOn": "2021-08-06T15:00:00.000Z",
+          "wordCount": 252,
+          "title": "AMD Ryzen 9 5950X＋Geforce RTX 3070 Ti搭載「ZEFT R37Y」が4万5000円オフ"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064982/?rss",
+          "author": null,
+          "description": "アスキーストアでは、さらに改良され使いやすくなった「Qurra 冷風扇 ヒヤミスト2」を6980円で販売中。",
+          "link": "https://ascii.jp/elem/000/004/064/4064982/?rss",
+          "publishedOn": "2021-08-06T13:00:00.000Z",
+          "wordCount": 445,
+          "title": "軽くてコンパクト、どこででも涼しい！ 超音波式冷風扇「ヒヤミスト2」"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064897/?rss",
+          "author": null,
+          "description": "デルは、New XPS 15を値引きして販売している。",
+          "link": "https://ascii.jp/elem/000/004/064/4064897/?rss",
+          "publishedOn": "2021-08-06T13:00:00.000Z",
+          "wordCount": 212,
+          "title": "デル「New XPS 15」が期間限定価格、Core i7＋512GB SSD搭載で27万円台！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064583/?rss",
+          "author": null,
+          "description": "富士通の直販サイト「富士通 WEB MART」では最新モデルを対象にセールを開催中。",
+          "link": "https://ascii.jp/elem/000/004/064/4064583/?rss",
+          "publishedOn": "2021-08-06T13:00:00.000Z",
+          "wordCount": 217,
+          "title": "富士通の軽量13.3型ノートPCが、Core i3＋4GBメモリー＋128GB SSD搭載で10万円台！"
+        },
         {
           "id": "https://ascii.jp/elem/000/004/064/4064902/?rss",
           "author": null,
@@ -14085,6 +14148,177 @@
       "siteUrl": "https://news.mynavi.jp/",
       "articles": [
         {
+          "id": "https://news.mynavi.jp/article/20210807-1941084/index.html",
+          "author": null,
+          "description": "ユヴェントスは6日、アタランタがアルゼンチン代表DFクリスティアン・ロメロの買い取りオプションを行使したことを発表した。これでロメロのトッテナム移籍が間近となったようだ。\n　現在23歳のロメロは20",
+          "link": "https://news.mynavi.jp/article/20210807-1941084/index.html",
+          "publishedOn": "2021-08-06T15:09:29.000Z",
+          "wordCount": 294,
+          "title": "アタランタがDFロメロの買取オプション行使、ユーヴェ発表…トッテナム移籍へ加速"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/win10tips-639/index.html",
+          "author": null,
+          "description": "Windows 10をインストールしたPCのコンピューター名は、既定で「DESKTOP-○○」となる。個人のPCと会社から貸与されたPCなど、複数のPCを使う際は名前を変更した方がわかりやすい。",
+          "link": "https://news.mynavi.jp/article/win10tips-639/index.html",
+          "publishedOn": "2021-08-06T15:00:00.000Z",
+          "wordCount": 435,
+          "title": "Windows 10ミニTips 第639回 「既定のコンピューター名」のわかりにくさを解消する"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210807-1940766/index.html",
+          "author": null,
+          "description": "東京メトロは7日、半蔵門線の新型車両18000系を同日から運行開始すると発表した。約40年にわたり活躍してきた8000系に代わって導入される新型車両18000系は、「伝統と新しさが交じり合う街に更なる活力を」をコンセプトにデザインされた。",
+          "link": "https://news.mynavi.jp/article/20210807-1940766/index.html",
+          "publishedOn": "2021-08-06T15:00:00.000Z",
+          "wordCount": 341,
+          "title": "東京メトロ半蔵門線新型車両18000系、8/7デビュー! 8000系置換えへ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210807-1940767/index.html",
+          "author": null,
+          "description": "11日より放送されるアコムの新CMに先駆け、ティザームービー「侍ビッグ3 『天下を取りたい若者たち』編」が7日に公開。歴史上の偉人である「信長」「秀吉」「家康」に扮した謎の3人組が登場する。",
+          "link": "https://news.mynavi.jp/article/20210807-1940767/index.html",
+          "publishedOn": "2021-08-06T15:00:00.000Z",
+          "wordCount": 318,
+          "title": "信長・秀吉・家康を演じる“謎の3人組”は誰? ヒントは目元に声、後ろ姿"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210807-1941064/index.html",
+          "author": null,
+          "description": "今日8月7日は「バナナの日」。7月27日はスイカの日でしたが、今日はバナナ。「バ（8）ナナ（7）」と読む語呂合わせからきているそうです。ちなみにバナナ1本のカロリーは86㎉でした…！ また、今日は世界で最も有名な女スパイとされ・・・",
+          "link": "https://news.mynavi.jp/article/20210807-1941064/index.html",
+          "publishedOn": "2021-08-06T15:00:00.000Z",
+          "wordCount": 298,
+          "title": "【サンジ役の平田広明さんも！】8月7日がお誕生日の声優さんは？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1941063/index.html",
+          "author": null,
+          "description": "Hey! Say! JUMPの中島裕翔が、6日放送のTBS系トーク番組『A-Studio+』(毎週金曜23:00～)に出演。グループメンバーである山田涼介とのセンター交代劇で生じた葛藤などを語った。",
+          "link": "https://news.mynavi.jp/article/20210806-1941063/index.html",
+          "publishedOn": "2021-08-06T14:57:04.000Z",
+          "wordCount": 343,
+          "title": "Hey! Say! JUMP中島裕翔「心がズタズタに」山田涼介とのセンター交代劇語る"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1941059/index.html",
+          "author": null,
+          "description": "6日、東京オリンピック女子サッカー決勝のスウェーデン女子代表対カナダ女子代表が行われた。\n　直前に時間・会場が変更となり、横浜国際総合競技場を舞台として行われたファイナル。その対戦カードは、前回のリ",
+          "link": "https://news.mynavi.jp/article/20210806-1941059/index.html",
+          "publishedOn": "2021-08-06T14:49:11.000Z",
+          "wordCount": 306,
+          "title": "カナダが史上初の金メダル獲得！…PK戦にもつれる死闘でスウェーデンを下す"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1940869/index.html",
+          "author": null,
+          "description": "楽器を持たないパンクバンド・BiSHが、6日に放送された日本テレビ系音楽番組『MUSIC BLOOD』(毎週金曜23:00～)に出演した。",
+          "link": "https://news.mynavi.jp/article/20210806-1940869/index.html",
+          "publishedOn": "2021-08-06T14:30:00.000Z",
+          "wordCount": 322,
+          "title": "田中圭、BiSHハシヤスメの熱弁に「うれしいですうれしいです…(笑)」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1941051/index.html",
+          "author": null,
+          "description": "カヅホ原作によるアニメ「キルミーベイベー」をモチーフにしたTシャツ、パーカー、AirPodsケースが、通販サイト・AMNIBUSで発売される。",
+          "link": "https://news.mynavi.jp/article/20210806-1941051/index.html",
+          "publishedOn": "2021-08-06T14:19:00.000Z",
+          "wordCount": 287,
+          "title": "ほんとのきもちはひみつだよ「キルミーベイベー」EDダンスをモチーフにしたTシャツ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1941047/index.html",
+          "author": null,
+          "description": "◆ オリックス　0 － 1　阪神（エキシビションマッチ／京セラドーム大阪）\n\n　オリックスは6日、京セラドーム大阪で阪神とエキシビションマッチを実施。\n\n　公式戦再開を1週間後に控えたこの日の…",
+          "link": "https://news.mynavi.jp/article/20210806-1941047/index.html",
+          "publishedOn": "2021-08-06T14:10:38.000Z",
+          "wordCount": 328,
+          "title": "迫る後半戦開幕へ、オリ・宮城が決意新た「大事な場面でもっと厳しく、もっと良いボールを」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1941043/index.html",
+          "author": null,
+          "description": "栗田あぐり「外面男子の清水くん」の1巻が、本日8月6日に発売された。",
+          "link": "https://news.mynavi.jp/article/20210806-1941043/index.html",
+          "publishedOn": "2021-08-06T14:09:00.000Z",
+          "wordCount": 287,
+          "title": "裏の顔もやっぱり優しい…？猫被りな人気者を描く「外面男子の清水くん」1巻"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/kouki-19/index.html",
+          "author": null,
+          "description": "週末の夜遅くに掲載している「今週のデジタル編集部」。普段の誌面からちょっとそれまして、編集後記をお送りします。",
+          "link": "https://news.mynavi.jp/article/kouki-19/index.html",
+          "publishedOn": "2021-08-06T14:00:00.000Z",
+          "wordCount": 374,
+          "title": "今週のデジタル編集部 第19回 夏はエアコンがこわれるし、洗濯機もこわれる"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1941038/index.html",
+          "author": null,
+          "description": "ニャロメロンが別冊少年チャンピオン（秋田書店）で連載中の「マウントセレブ金田さん」1巻が、本日8月6日に発売された。",
+          "link": "https://news.mynavi.jp/article/20210806-1941038/index.html",
+          "publishedOn": "2021-08-06T13:50:00.000Z",
+          "wordCount": 288,
+          "title": "ポンコツお嬢様ギャグ「マウントセレブ金田さん」1巻発売ですわ～！桜井のりおも推薦"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1941039/index.html",
+          "author": null,
+          "description": "細川智栄子あんど芙～みん原作によるミュージカル「王家の紋章」が、去る8月5日に東京・帝国劇場で開幕。8月4日、本日6日には公開ゲネプロが行われた。",
+          "link": "https://news.mynavi.jp/article/20210806-1941039/index.html",
+          "publishedOn": "2021-08-06T13:40:00.000Z",
+          "wordCount": 302,
+          "title": "浦井健治・海宝直人ら出演、3度目のミュージカル「王家の紋章」が開幕"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1941029/index.html",
+          "author": null,
+          "description": "ブレーメンは6日、日本代表FW大迫勇也の移籍についてドイツ国外のクラブと交渉をしていることを報告した。\n　クラブ公式Twitterは、「クラブはオオサコの移籍について国外クラブと交渉中です。選手は現",
+          "link": "https://news.mynavi.jp/article/20210806-1941029/index.html",
+          "publishedOn": "2021-08-06T13:39:30.000Z",
+          "wordCount": 293,
+          "title": "大迫勇也が「国外クラブ」との移籍交渉で離脱、ブレーメンが発表…神戸加入間近か"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1941024/index.html",
+          "author": null,
+          "description": "ユノイチカ「夜明けの唄」の1巻が、本日8月6日に発売された。",
+          "link": "https://news.mynavi.jp/article/20210806-1941024/index.html",
+          "publishedOn": "2021-08-06T13:22:00.000Z",
+          "wordCount": 289,
+          "title": "治癒の力を持つ従者×短命の守り人を描くファンタジーBL「夜明けの唄」単行本化"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1941020/index.html",
+          "author": null,
+          "description": "皆さんから寄せられた家計の悩みにお答えする、その名も「マネープランクリニック」。今回の相談者は、未婚の母である娘、孫と3人暮らしの46歳のパート女性。娘は病気のため仕事を休みがちで収入が不安定。生活費…",
+          "link": "https://news.mynavi.jp/article/20210806-1941020/index.html",
+          "publishedOn": "2021-08-06T13:20:00.000Z",
+          "wordCount": 335,
+          "title": "46歳パートで娘と孫と3人暮らし、娘は病気で貯蓄ゼロ…"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1941025/index.html",
+          "author": null,
+          "description": "今日の占い「12星座ランキング」を発表！ ラジオ発のエンタメニュース＆コラム「TOKYO FM＋」がお届けする、毎日運勢占い「12星座別ランキング＆ワンポイントアドバイス」。2021年（令和3年）8月7日（土）のあなたの運勢を、東京・池袋占い館セレーネ所属・占い師の水森太陽（みずもり・たいよう）さんが占います。今日の第1位は蠍座（さそり座）！ あなたの星座は何位……？",
+          "link": "https://news.mynavi.jp/article/20210806-1941025/index.html",
+          "publishedOn": "2021-08-06T13:20:00.000Z",
+          "wordCount": 347,
+          "title": "★今日の運勢★2021年8月7日（土）12星座占いランキング第1位は蠍座（さそり座）！ あなたの星座は何位…!?"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1941018/index.html",
+          "author": null,
+          "description": "芝浦晴海「私の花、偽りの庭」1巻が、本日8月6日に発売された。",
+          "link": "https://news.mynavi.jp/article/20210806-1941018/index.html",
+          "publishedOn": "2021-08-06T13:07:00.000Z",
+          "wordCount": 287,
+          "title": "鈴蘭が必要とされるとき、それは…花女を巡るファンタジー史劇「私の花、偽りの庭」"
+        },
+        {
           "id": "https://news.mynavi.jp/article/20210806-1940557/index.html",
           "author": null,
           "description": "既報の通り、8月11日よりRadeon RX 6600 XTが発売開始されるが、それに先立って評価用ボードが届いたので、まずはちょっとご紹介したい。",
@@ -14112,6 +14346,33 @@
           "title": "アニメ「ドールズフロントライン」2022年放送、第1弾PV＆キービジュアル公開"
         },
         {
+          "id": "https://news.mynavi.jp/article/20210806-1941014/index.html",
+          "author": null,
+          "description": "全国劇場にて大ヒット公開の『セイバー ＋ ゼンカイジャー スーパーヒーロー戦記』そして映画「仮面ライダーリバイス」のアクション映像が解禁された。解禁された特別映像では、スーパーヒーローの“最強の敵”【",
+          "link": "https://news.mynavi.jp/article/20210806-1941014/index.html",
+          "publishedOn": "2021-08-06T12:56:00.000Z",
+          "wordCount": 294,
+          "title": "『スーパーヒーロー戦記』『仮面ライダーリバイス』ド派手に暴れるアクション映像解禁！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1941008/index.html",
+          "author": null,
+          "description": "結都せと原作、北沢きょうキャラクター原案による星森スズ「落ちこぼれ王女と黒の番犬」1巻が、本日8月6日に発売された。",
+          "link": "https://news.mynavi.jp/article/20210806-1941008/index.html",
+          "publishedOn": "2021-08-06T12:51:00.000Z",
+          "wordCount": 289,
+          "title": "契約対象を間違えてしまい…気弱王女とドS軍人描く「落ちこぼれ王女と黒の番犬」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1941010/index.html",
+          "author": null,
+          "description": "TOKYO FMをはじめとするJFN全国38局フルネットで放送中のラジオドラマ番組「NISSAN あ、安部礼司～BEYOND THE AVERAGE～」（毎週日曜17:00～17:55放送）8月1日（日）の放送では、真夏の特別編「おじさんだってキュン♡ 真夏の胸キュン研究室」と題して、胸がキュンキュンするようなエピソードを紹介しました。\n\nまた、番組の後半では、安部礼司の新プロジェクト「イマツボデータバンク」と安部礼司公式ツイッターの連動企画「ビタサマな思い出＆夏ソング」が発表されました。",
+          "link": "https://news.mynavi.jp/article/20210806-1941010/index.html",
+          "publishedOn": "2021-08-06T12:50:00.000Z",
+          "wordCount": 382,
+          "title": "失恋、失敗、後悔…「ほろ苦い思い出」はありますか？ ラジオドラマ「安部礼司」でエピソード＆リクエスト大募集！"
+        },
+        {
           "id": "https://news.mynavi.jp/article/20210806-1940999/index.html",
           "author": null,
           "description": "あなたが貧しくなりやすい人かどうかを判定するクイズを出したいと思います。ちょっと下世話な例ですが、おそらく多くの人が知っていると思いますので、あえて使わせていただきました。以前、ある女性タレントと、男…",
@@ -14119,6 +14380,15 @@
           "publishedOn": "2021-08-06T12:40:00.000Z",
           "wordCount": 311,
           "title": "怒りっぽい人が金持ちになれない理由とは"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1941019/index.html",
+          "author": null,
+          "description": "Nasが14作目となる新作アルバム『King’s Disease II』を2021年8月6日にリリースした。グラミー賞受賞アルバム『King’s Disease』の続編で、自身が主宰するMass Appeal Rec・・・",
+          "link": "https://news.mynavi.jp/article/20210806-1941019/index.html",
+          "publishedOn": "2021-08-06T12:31:00.000Z",
+          "wordCount": 387,
+          "title": "NAS、エミネムやローリン・ヒルら迎えたアルバム『キングス・ディジーズII』リリース"
         },
         {
           "id": "https://news.mynavi.jp/article/20210806-1940991/index.html",
