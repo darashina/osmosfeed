@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://darashina.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-07T16:57:41.548Z</updated>
+    <updated>2021-08-07T20:35:00.313Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://darashina.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://darashina.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[男性育休「取得しにくいと思う」が89% - 取得率が低い理由は?]]></title>
+        <id>https://news.mynavi.jp/article/20210808-1939917/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210808-1939917/index.html"/>
+        <updated>2021-08-07T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ビースタイル ホールディングスが運営する調査機関「しゅふJOB総研」は8月4日、「男性の育休取得」に関する調査結果を発表した。同調査は7月14日～27日、女性701名を対象にインターネットで実施した。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『東京2020オリンピック』最終日テレビ放送スケジュール／女子バスケ決勝・閉会式など]]></title>
+        <id>https://news.mynavi.jp/article/20210808-1941707/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210808-1941707/index.html"/>
+        <updated>2021-08-07T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[きょう8月8日の『東京2020オリンピック』最終日中継番組のテレビ放送スケジュールは、以下の通り。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レスターが50年ぶりコミュニティ・シールド制覇！　イヘアナチョ古巣弾でマンC撃破]]></title>
+        <id>https://news.mynavi.jp/article/20210808-1941781/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210808-1941781/index.html"/>
+        <updated>2021-08-07T18:08:33.000Z</updated>
+        <summary type="html"><![CDATA[コミュニティ・シールドが7日に行われ、マンチェスター・Cとレスターが対戦した。
+　マンチェスター・Cは2020－21シーズンのプレミアリーグを制し、2年ぶり12回目の出場。2年ぶり7度目の優勝を目指]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リード最大7300MB/secの高速SSDがSeagateからデビュー]]></title>
         <id>https://ascii.jp/elem/000/004/065/4065382/?rss</id>
