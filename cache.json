@@ -6418,6 +6418,78 @@
       "siteUrl": "https://ascii.jp/1/",
       "articles": [
         {
+          "id": "https://ascii.jp/elem/000/004/065/4065382/?rss",
+          "author": null,
+          "description": "SeagateからNVMe M.2対応SSDの新モデル「FireCuda 530」シリーズが発売された。ラインナップは容量500GBと1TBの2モデル。",
+          "link": "https://ascii.jp/elem/000/004/065/4065382/?rss",
+          "publishedOn": "2021-08-07T16:39:00.000Z",
+          "wordCount": 264,
+          "title": "リード最大7300MB/secの高速SSDがSeagateからデビュー"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065381/?rss",
+          "author": null,
+          "description": "BIOSTARから、初のDDR4メモリー「RGB DDR4 GAMING X」シリーズが発売された。",
+          "link": "https://ascii.jp/elem/000/004/065/4065381/?rss",
+          "publishedOn": "2021-08-07T15:53:00.000Z",
+          "wordCount": 524,
+          "title": "BIOSTAR初のDDR4メモリー「RGB DDR4 GAMING X」が発売"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065380/?rss",
+          "author": null,
+          "description": "玄人志向から、オリジナルVGAクーラーを採用するLite Hash Rate版のGeForce RTX 3070搭載ビデオカード「GG-RTX3070-E8GB/OC/DF/LHR」が発売された。",
+          "link": "https://ascii.jp/elem/000/004/065/4065380/?rss",
+          "publishedOn": "2021-08-07T15:19:00.000Z",
+          "wordCount": 534,
+          "title": "254mmの短い基板を採用する玄人志向のLHR版RTX 3070"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064827/?rss",
+          "author": null,
+          "description": "セブンアールジャパンは8月8日、パソコンショップSEVENにて「2021/8/8 24時間限定セール」を開催。インテルCore i7-11700KとGeforce RTX 3090を搭載する「ZEFT G18C」が4万8000円オフに。",
+          "link": "https://ascii.jp/elem/000/004/064/4064827/?rss",
+          "publishedOn": "2021-08-07T15:00:00.000Z",
+          "wordCount": 236,
+          "title": "インテルCore i7-11700KとGeforce RTX 3090を搭載する「ZEFT G18C」が4万8000円オフ！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065379/?rss",
+          "author": null,
+          "description": "MSIから、オリジナルVGAクーラーを採用したLite Hash Rate版のGeForce RTX 3080搭載ビデオカード「GeForce RTX 3080 GAMING Z TRIO 10G LHR」が発売された。",
+          "link": "https://ascii.jp/elem/000/004/065/4065379/?rss",
+          "publishedOn": "2021-08-07T14:41:00.000Z",
+          "wordCount": 566,
+          "title": "3連大型VGAクーラー採用のLHR版GeForce RTX 3080がMSIから"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065015/?rss",
+          "author": null,
+          "description": "アスキーストアでは自由に組み合わせてカラフルに光らせることがきるスマートLEDライト「Cololight PRO Kit（3個入り）」を31％オフで販売中。",
+          "link": "https://ascii.jp/elem/000/004/065/4065015/?rss",
+          "publishedOn": "2021-08-07T13:00:00.000Z",
+          "wordCount": 360,
+          "title": "自分だけのオリジナルライトを楽しめるブロック式スマートLEDライト「Cololight PRO Kit(3個入り)」"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064898/?rss",
+          "author": null,
+          "description": "デルは、New XPS 15を値引きして販売している。",
+          "link": "https://ascii.jp/elem/000/004/064/4064898/?rss",
+          "publishedOn": "2021-08-07T13:00:00.000Z",
+          "wordCount": 214,
+          "title": "Core i7＋512GB SSD搭載で27万円台！　デル「New XPS 15」が期間限定価格"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064584/?rss",
+          "author": null,
+          "description": "富士通の直販サイト「富士通 WEB MART」では最新モデルを対象にセールを開催中。",
+          "link": "https://ascii.jp/elem/000/004/064/4064584/?rss",
+          "publishedOn": "2021-08-07T13:00:00.000Z",
+          "wordCount": 217,
+          "title": "Core i3＋4GBメモリー＋128GB SSD搭載、富士通の軽量13.3型ノートPCが10万円台！"
+        },
+        {
           "id": "https://ascii.jp/elem/000/004/065/4065013/?rss",
           "author": null,
           "description": "アスキーストアでは、耳を塞がないのでさまざまな用途に使いやすい骨伝導イヤホン「ActiBone」を販売中。",
@@ -14278,15 +14350,6 @@
           "publishedOn": "2021-07-12T06:00:00.000Z",
           "wordCount": 348,
           "title": "2021年7月12日　新宿の巨大じゃないみけこなど ── 帰ってきた『技評ねこ部通信』"
-        },
-        {
-          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202107/09",
-          "author": "吉田史",
-          "description": "最近Linux Kernelにマージされた，AMD Sensor Fusion HubのドライバがUbuntuのOEMカーネルにマージされる見込みです。",
-          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202107/09",
-          "publishedOn": "2021-07-09T04:12:00.000Z",
-          "wordCount": 436,
-          "title": "2021年7月9日号　AMD Sensor Fusion Hubの最新ドライバ，zstdベースのアーカイブ ── Ubuntu Weekly Topics"
         }
       ]
     },
@@ -14476,20 +14539,6 @@
             "type": "image/jpeg",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/26006613784111724",
-          "author": null,
-          "description": "こんにちは。谷口です。\n今の自分の仕事について「不満がある」「この仕事についたことを後悔している」「転職したい」と考えている人は多いでしょう。\n特にエンジニアの場合、スキルのある優秀な方々からも\nエンジニアリングだけをしていたいので会社にマネジメント業務を求められるのが嫌\nインフラエンジニアになったが、本当はもっと開発寄りの仕事がしたい\nのようなご相談をよくお受けします。\nエンジニアが自分にとって満足度の高い仕事を得るにはどうしたらよいのでしょうか。\n優秀なエンジニアだからこそ感じる不満\n例えば、最初にあげた「エンジニアリングだけをしていたいので会社にマネジメント業務を求められるのが嫌」というよくある悩みを抱えている人について考えてみます。\nこうした悩みを抱える方々は、それなりに開発もマネジメントもできる優秀な方々が多くいらっしゃいます。\nプログラミングや開発業務が好きでエンジニアになったけど、数年たって会社からマネジメント業務を求められるようになった。マネジメントもチームにとって必要だからやってはいるしできなくはないけど、好きではない…。自分はやっぱり技術が好きだし開発がしたい…。けどマネジメントしないと会社から評価されないし、開発だけが続けられるキャリアパスもないし…。\n新卒から数年たったエンジニア、それも技術が好きで得意な、優秀なエンジニアならではのお悩みです。\n不満を解消して満足できる仕事を見つけるには\n前述のお悩みを抱えたエンジニアが、不満を解消するには以下のような方法があります。\n今すぐ開発に専念できそうな企業に転職する\n\n会社から求められる仕事内容や評価体制、キャリアパスなどに不満があるのであれば、自分の希望に近しい企業を探して、転職すればすぐにでも不満を解消できるでしょう。\nただ、ここで注意すべきことは以下の二点です。\n得意＝やりたいことではない、働きやすさ…",
-          "link": "https://paiza.hatenablog.com/entry/2021/07/09/130000",
-          "publishedOn": "2021-07-09T04:00:00.000Z",
-          "wordCount": 253,
-          "title": "優秀だけど今の仕事が嫌いなエンジニアたちはどうしたらいいんだろう",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20190722/20190722235426.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
         }
       ]
     },
@@ -14498,6 +14547,168 @@
       "feedUrl": "https://news.mynavi.jp/rss/index",
       "siteUrl": "https://news.mynavi.jp/",
       "articles": [
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1941725/index.html",
+          "author": null,
+          "description": "◆ 大会MVPは山田哲人！\n\n　WBSC（野球ソフトボール連盟）は7日、野球日本代表・侍ジャパンの優勝で幕を閉じた東京オリンピックの『ベストチーム』を発表。日本代表からは山本由伸投手（オリックス）…",
+          "link": "https://news.mynavi.jp/article/20210808-1941725/index.html",
+          "publishedOn": "2021-08-07T15:25:58.000Z",
+          "wordCount": 331,
+          "title": "五輪野球『ベストチーム』が発表！ 侍ジャパンからは山本由伸ら3選手"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1941735/index.html",
+          "author": null,
+          "description": "チェルシーは、インテルに所属するベルギー代表FWロメル・ルカクの獲得でクラブ間合意に達したようだ。7日、イギリスメディア『アスレティック』やイタリアメディア『スカイスポーツ』が報じた。\n　報道による",
+          "link": "https://news.mynavi.jp/article/20210808-1941735/index.html",
+          "publishedOn": "2021-08-07T15:20:01.000Z",
+          "wordCount": 297,
+          "title": "チェルシー、ルカク獲得でインテルと合意か…クラブ史上最高額で7年ぶり復帰へ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1941714/index.html",
+          "author": null,
+          "description": "今日8月8日は、「そろばんの日」に「ヒゲの日」、「歯並びの日」に「タコの日」などなど、記念日が目白押しの日です！ 8が並ぶと色々な語呂合わせが生まれるのですね。また、今日は「ティラノサウルス・レックス（暴君竜の王）」の名付け親、アメリカの古・・・",
+          "link": "https://news.mynavi.jp/article/20210808-1941714/index.html",
+          "publishedOn": "2021-08-07T15:00:00.000Z",
+          "wordCount": 296,
+          "title": "【今日は誰のお誕生日？】8月8日がお誕生日の声優さんは？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1941713/index.html",
+          "author": null,
+          "description": "春場ねぎ「五等分の花嫁」が、本日8月8日の1日限定でマガジンポケットにて5巻分無料公開される。",
+          "link": "https://news.mynavi.jp/article/20210808-1941713/index.html",
+          "publishedOn": "2021-08-07T15:00:00.000Z",
+          "wordCount": 288,
+          "title": "8月8日は“五等分の花嫁記念日”、5巻分がマガジンポケットで1日限定無料公開"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210807-1941736/index.html",
+          "author": null,
+          "description": "アーセナルは7日、ガーナ代表MFトーマス・パルティら3選手に関するメディカルレポートを公式サイトで発表した。\n　トーマスは1日に行われたプレシーズンマッチのチェルシー戦に先発出場したものの、タックル",
+          "link": "https://news.mynavi.jp/article/20210807-1941736/index.html",
+          "publishedOn": "2021-08-07T14:57:44.000Z",
+          "wordCount": 294,
+          "title": "アーセナルのMFトーマスが約3週間離脱…チェルシー戦、マンC戦は欠場か"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210807-1941702/index.html",
+          "author": null,
+          "description": "声優、そしてアーティストとして活躍する水樹奈々が、2021年10月27日(水)に41枚目のシングル「Get up! Shout!」をリリースすることが決定した。",
+          "link": "https://news.mynavi.jp/article/20210807-1941702/index.html",
+          "publishedOn": "2021-08-07T14:45:00.000Z",
+          "wordCount": 324,
+          "title": "水樹奈々、「Get up! Shout!」を10/27リリース！『SHAMAN KING』第2弾OP曲"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210807-1941708/index.html",
+          "author": null,
+          "description": "マンチェスター・Uは7日、イングランド代表MFジェシー・リンガードの新型コロナウイルス陽性を公式サイトで発表した。\n　リンガードは、7日に行われたプレシーズンマッチのエヴァートン戦前の検査で新型コロ",
+          "link": "https://news.mynavi.jp/article/20210807-1941708/index.html",
+          "publishedOn": "2021-08-07T14:37:18.000Z",
+          "wordCount": 294,
+          "title": "プレシーズンで好調維持も…マンU、リンガードの新型コロナ陽性を発表"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210807-1941703/index.html",
+          "author": null,
+          "description": "東京五輪・決勝戦\n○ 日本 2 － 0 アメリカ ●\n＜8月7日　横浜スタジアム＞\n\n　東京オリンピック（五輪）野球の決勝戦が7日、横浜スタジアムで行われ、野球日本代表・侍ジャパンがアメリカを…",
+          "link": "https://news.mynavi.jp/article/20210807-1941703/index.html",
+          "publishedOn": "2021-08-07T14:35:05.000Z",
+          "wordCount": 326,
+          "title": "東京五輪MVPは侍ジャパン山田哲人　準決勝V打など打率.350、7打点、3盗塁"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210807-1941698/index.html",
+          "author": null,
+          "description": "『宇崎ちゃんは遊びたい！』のTVアニメ第2期が2022年に放送されることが決定。スペシャルビジュアルが公開された。",
+          "link": "https://news.mynavi.jp/article/20210807-1941698/index.html",
+          "publishedOn": "2021-08-07T14:30:00.000Z",
+          "wordCount": 308,
+          "title": "TVアニメ『宇崎ちゃんは遊びたい！』第2期は2022年放送！SPビジュアル公開"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210807-1941689/index.html",
+          "author": null,
+          "description": "東京五輪・決勝戦\n○ 日本 2 － 0 アメリカ ●\n＜8月7日　横浜スタジアム＞\n\n　東京オリンピック（五輪）野球の決勝戦が7日、横浜スタジアムで行われ、野球日本代表・侍ジャパンがアメリカを…",
+          "link": "https://news.mynavi.jp/article/20210807-1941689/index.html",
+          "publishedOn": "2021-08-07T14:05:46.000Z",
+          "wordCount": 323,
+          "title": "日本一丸で掴んだ涙の金！ 侍ジャパン・稲葉監督「みんなで掴んだ勝利」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210807-1941709/index.html",
+          "author": null,
+          "description": "東京オリンピック男子サッカー決勝が7日に行われ、U－24ブラジル代表とU－24スペイン代表が対戦した。\n　2016年リオ大会王者のブラジルは2大会連続2度目、スペインは1992年バルセロナ大会以来2",
+          "link": "https://news.mynavi.jp/article/20210807-1941709/index.html",
+          "publishedOn": "2021-08-07T14:04:37.000Z",
+          "wordCount": 333,
+          "title": "ブラジルが五輪2連覇！　延長戦にマルコムが値千金の決勝点、スペインとの激闘制す"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210807-1940947/index.html",
+          "author": null,
+          "description": "アイドルグループ・Kis-My-Ft2の藤ヶ谷太輔がパーソナリティを務めるニッポン放送のラジオ番組『藤ヶ谷太輔 Peaceful Days』の14日(22:30～)放送に、キスマイメンバー全員がスペシャルゲストとして出演することが分かった。",
+          "link": "https://news.mynavi.jp/article/20210807-1940947/index.html",
+          "publishedOn": "2021-08-07T14:00:00.000Z",
+          "wordCount": 328,
+          "title": "キスマイ、全員で『藤ヶ谷太輔 Peaceful Days』出演　ピースフルな1曲選ぶ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210807-1941684/index.html",
+          "author": null,
+          "description": "東京五輪・決勝戦\n○ 日本 2 － 0 アメリカ ●\n＜8月7日　横浜スタジアム＞\n\n　東京オリンピック（五輪）野球の決勝戦が7日、横浜スタジアムで行われ、野球日本代表・侍ジャパンがアメリカを…",
+          "link": "https://news.mynavi.jp/article/20210807-1941684/index.html",
+          "publishedOn": "2021-08-07T13:55:42.000Z",
+          "wordCount": 321,
+          "title": "侍ジャパン・坂本勇人「感無量です」チーム一丸で重圧乗り越え金メダル"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210807-1941685/index.html",
+          "author": null,
+          "description": "今日の占い「12星座ランキング」を発表！ ラジオ発のエンタメニュース＆コラム「TOKYO FM＋」がお届けする、毎日運勢占い「12星座別ランキング＆ワンポイントアドバイス」。2021年（令和3年）8月8日（日）のあなたの運勢を、東京・池袋占い館セレーネ所属・占い師の夏目みやび（なつめ・みやび）さんが占います。今日の第1位は射手座（いて座）！ あなたの星座は何位……？",
+          "link": "https://news.mynavi.jp/article/20210807-1941685/index.html",
+          "publishedOn": "2021-08-07T13:30:00.000Z",
+          "wordCount": 350,
+          "title": "★今日の運勢★2021年8月8日（日）12星座占いランキング第1位は射手座（いて座）！ あなたの星座は何位…!?"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210807-1941672/index.html",
+          "author": null,
+          "description": "武井宏之原作によるTVアニメ「SHAMAN KING」の新たなオープニングテーマが、水樹奈々「Get up! Shout!」であると明らかになった。",
+          "link": "https://news.mynavi.jp/article/20210807-1941672/index.html",
+          "publishedOn": "2021-08-07T13:29:00.000Z",
+          "wordCount": 297,
+          "title": "「SHAMAN KING」新オープニングテーマは水樹奈々が担当！10月下旬の放送回より"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210807-1941659/index.html",
+          "author": null,
+          "description": "東京五輪・決勝戦\n○ 日本 2 － 0 アメリカ ●\n＜8月7日　横浜スタジアム＞\n\n　東京オリンピック（五輪）野球の決勝戦が7日、横浜スタジアムで行われ、野球日本代表・侍ジャパンがアメリカを…",
+          "link": "https://news.mynavi.jp/article/20210807-1941659/index.html",
+          "publishedOn": "2021-08-07T13:00:08.000Z",
+          "wordCount": 320,
+          "title": "侍ジャパンが悲願の金メダル！米との決勝戦を完封リレーで制す"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210806-1939598/index.html",
+          "author": null,
+          "description": "グラビアアイドルの林田百加が、最新イメージDVD＆ブルーレイ『百加日記』(ともに発売中 DVD:4,400円税込 ブルーレイ:5,500円税込 発売元:竹書房)をリリースした。",
+          "link": "https://news.mynavi.jp/article/20210806-1939598/index.html",
+          "publishedOn": "2021-08-07T13:00:00.000Z",
+          "wordCount": 318,
+          "title": "林田百加、際どいハイレグ水着で美脚をアピール"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210807-1941668/index.html",
+          "author": null,
+          "description": "アニメ「Fate/Grand Order -終局特異点 冠位時間神殿ソロモン-」の公開記念舞台挨拶が本日8月7日に東京・新宿バルト9に行われ、藤丸立香役の島崎信長、マシュ・キリエライト役の高橋李依、フォウ役の川澄綾子、ロマニ・アーキマン役の鈴村健一、レオナルド・ダ・ヴィンチ役の坂本真綾が登壇した。",
+          "link": "https://news.mynavi.jp/article/20210807-1941668/index.html",
+          "publishedOn": "2021-08-07T13:00:00.000Z",
+          "wordCount": 303,
+          "title": "「FGOソロモン」ロマニに高橋李依「ありがとうって言いたい」と涙"
+        },
         {
           "id": "https://news.mynavi.jp/article/20210807-1941658/index.html",
           "author": null,
@@ -14524,6 +14735,15 @@
           "publishedOn": "2021-08-07T12:40:00.000Z",
           "wordCount": 336,
           "title": "「東京五輪」あなたが印象に残っている選手は？ ユージ＆吉田明世が1週間をプレイバック"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210807-1941677/index.html",
+          "author": null,
+          "description": "横浜FCは7日、トップチームに所属する選手1名が新型コロナウイルスの陽性判定を受けたとクラブ公式サイトで発表した。\n　当該選手は8月1日、家族に陽性者が発生し、同日実施の抗原定性検査およびPCR検査",
+          "link": "https://news.mynavi.jp/article/20210807-1941677/index.html",
+          "publishedOn": "2021-08-07T12:33:07.000Z",
+          "wordCount": 295,
+          "title": "横浜FC、新たに選手1名のコロナ陽性を発表…濃厚接触疑いで1日から自主隔離"
         },
         {
           "id": "https://news.mynavi.jp/article/20210807-1941647/index.html",
