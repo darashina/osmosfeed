@@ -2,10 +2,634 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://darashina.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T20:35:41.320Z</updated>
+    <updated>2021-08-07T01:30:20.405Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://darashina.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://darashina.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「天丼てんや」おうち飯を彩る『夏の天ぷら盛り合わせ』を爆食してきた!]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1926922/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1926922/index.html"/>
+        <updated>2021-08-07T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[夏のランチを充実させてくれる商品を発見。天ぷらチェーン店でおなじみの「天丼 てんや」が期間限定で販売している「有頭海老の天ぷら盛り合わせ」と「10種類の精進揚げ」です。実食していきましょう!]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南谷有美の"ワーケーション"な毎日 第54回 宿泊費・滞在費が無料! 青森市のワーケーション体験モニターとは?]]></title>
+        <id>https://news.mynavi.jp/article/nanyayumi-54/index.html</id>
+        <link href="https://news.mynavi.jp/article/nanyayumi-54/index.html"/>
+        <updated>2021-08-07T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[決まった住所を持たず、日本中を旅しながら生活しているカメラマンの南谷有美(なんや・ゆみ)さん。ほぼ毎日が"ワーケーション"という暮らしの様子を隔週でご紹介していきます。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[税理士・行政書士・司法書士が解説! 『家族に頼らない おひとりさまの終活』]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1938881/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1938881/index.html"/>
+        <updated>2021-08-07T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ビジネス教育出版社はこのほど、書籍『家族に頼らない おひとりさまの終活?あなたの尊厳を託しませんか』を発売した。著者は税理士・行政書士の奥田周年氏、行政書士の黒澤史津乃氏、司法書士の太田垣章子氏。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京都鉄道博物館にクル144形・クモル145形が来た! 2021年度で引退へ]]></title>
+        <id>https://news.mynavi.jp/article/20210807-144151451015/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-144151451015/index.html"/>
+        <updated>2021-08-07T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[京都鉄道博物館は8月6～18日、今年度に引退するJR西日本所属の配給車クル144形・クモル145形の特別展示を実施する。展示初日の8月6日に報道公開が行われ、クル144形・クモル145形の入線シーンをはじめ、運転台や荷台などが公開された。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天地無用とは? 荷物を送る際などに間違われやすい運送用語]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1928370/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1928370/index.html"/>
+        <updated>2021-08-07T01:27:24.000Z</updated>
+        <summary type="html"><![CDATA[天地無用は荷物の上下を逆にしてはいけないという意味です。上下を逆さまにしてよいと本来の意味と異なる使われ方をすることがあります。正しく荷物を取り扱うために、今回は天地無用の意味や使い方を解説します。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] セガ池袋GiGO、9月20日閉館　大型ゲームセンターの歴史に幕]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2108/07/news025.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2108/07/news025.html"/>
+        <updated>2021-08-07T01:20:00.000Z</updated>
+        <summary type="html"><![CDATA[「セガ池袋GiGO」は施設の賃貸借契約満了およびビルのリニューアルのため、9月20日に閉館する。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【気をつけて!】現役僧侶が「墓参りは2人以上で行ってほしい」と呼びかける理由とは? - 「熱中症になりかけた」「笑えない」と注意の声も]]></title>
+        <id>https://news.mynavi.jp/article/20210807-wadai7/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-wadai7/index.html"/>
+        <updated>2021-08-07T01:05:39.000Z</updated>
+        <summary type="html"><![CDATA[まもなくお盆休み。お盆には先祖の墓参りをする予定の方も多いのではないでしょうか。お盆を目前にして、「夏の墓参り」の危険性に警鐘を鳴らす、カレー坊主＠吉田武士(@curry_boz)さんのツイートが大きな反響を呼んでいます。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京2020オリンピック日本代表オフィシャルウェアのレプリカモデル発売]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1938949/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1938949/index.html"/>
+        <updated>2021-08-07T01:00:40.000Z</updated>
+        <summary type="html"><![CDATA[アシックスは8月8日から、数量限定で受注生産する東京2020オリンピック競技大会出場の日本代表選手団が着用するオフィシャルスポーツウェア「ポディウムジャケット」特別仕様レプリカモデルの販売を、アシックスオンラインストアで受け付ける。期間は23日まで。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] ワークマン、「一般靴」カテゴリーが100億円規模に　新たに高はっ水・防水シューズ発売]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2108/07/news009.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2108/07/news009.html"/>
+        <updated>2021-08-07T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ワークマンが販売する「アクティブ ハイクシューズ」（1900円）が好調だ。2020年に販売を開始し、年間で50万足を売り上げた。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ペン入力可能な5G対応の12.4型Androidタブレット「Galaxy Tab S7 FE 5G」がアキバに入荷！]]></title>
+        <id>https://ascii.jp/elem/000/004/065/4065368/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/065/4065368/?rss"/>
+        <updated>2021-08-07T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スタイラスペンによる手書き入力に対応した、サムスン電子の12.4型タブレット「Galaxy Tab S7 FE 5G（SM-T736）」がイオシス アキバ中央通店に入荷。店頭価格8万6800円で販売されている。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marshallブランド初の完全ワイヤレスイヤホン「Mode II」発売！]]></title>
+        <id>https://ascii.jp/elem/000/004/065/4065367/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/065/4065367/?rss"/>
+        <updated>2021-08-07T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Marshallブランドから、初の完全ワイヤレスイヤホン「Mode II」が発売。e☆イヤホン 秋葉原店本館にて2万680円で販売されている。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夏涼しく冬温かい！ USB駆動のファン＆ヒーター内蔵の低反発シートクッション]]></title>
+        <id>https://ascii.jp/elem/000/004/065/4065366/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/065/4065366/?rss"/>
+        <updated>2021-08-07T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[冷却ファンとヒーター機能を内蔵したシートクッション「ファン＆ヒーター美姿勢低反発クッション」がサンコーから発売。サンコーレアモノショップにて4980円で販売されている。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【おうち縁日】コロナ禍でも夏祭り気分! 親子で楽しむアイデアに「やってみたい!」の声 – 準備のコツを聞いてみた]]></title>
+        <id>https://news.mynavi.jp/article/20210807-wadai6/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-wadai6/index.html"/>
+        <updated>2021-08-07T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[コロナ禍になって二年目の夏。夏祭りや花火大会に関しては、まだまだ自粛ムードですが、子どもたちに夏祭りの楽しさを味わわせてあげたい! と思っている人も多いのではないでしょうか。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TVアニメ『半妖の夜叉姫』弐の章、キービジュアル＆PVほか最新情報を公開]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941220/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941220/index.html"/>
+        <updated>2021-08-07T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[読売テレビ・日本テレビ系にて2021年10月から放送開始となるTVアニメ『半妖の夜叉姫』弐の章より、キービジュアルやPV、エンディングテーマアーティスト、新キャラクター情報などが公開された。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[山下大輝・鳥海浩輔・福島潤が『弱虫ペダル』の舞台を巡る番組が放送！]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941292/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941292/index.html"/>
+        <updated>2021-08-07T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アニメ専門チャンネル「カートゥーン ネットワーク」を運営するターナージャパンは、夏の特別企画として、劇場公開版『弱虫ペダル』5作品を8月9日から5日連続で放送。合わせて、『弱虫ペダル』出演声優が作品に縁のある地を旅する特別番組「声優聖地めぐ・・・]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヤッホーブルーイング、ECサイト「よなよなの里」をリニューアル ビールのサブスク強化、「ecbeing」を導入]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941293/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941293/index.html"/>
+        <updated>2021-08-07T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヤッホーブルーイングはこのほど、ECサイト「よなよなの里 | よなよなエール公式通販」（よなよなの里）を刷新した。ECサイト構築パッケージ「ecbeing（イーシービーイング）」と国産CMS「SiteMiraiZ（サイトミライズ）」を導入。・・・]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[野球の侍ジャパンが悲願の金メダルに挑む！東京オリンピック主なライブ配信（8月7日）]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941297/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941297/index.html"/>
+        <updated>2021-08-07T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[東京2020オリンピックは、大会15日目。球技の決勝が続々と行われ、野球では開催国の侍ジャパンが、悲願の金メダルをかけ、母国アメリカとの決勝に臨む。日本は森下暢仁の先発登板が有力視されており、5回2…]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[滝沢カレン、NEWS・小山慶一郎＆加藤シゲアキと恋愛トークが炸裂！]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941284/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941284/index.html"/>
+        <updated>2021-08-07T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[滝沢カレンが、8月13日・20日に放送されるNEWSの小山慶一郎と加藤シゲアキによるバラエティ『NEWSの全力!!メイキング』（TBS系、毎週金曜24:50～）に出演。小山＆加藤と共に、アウトドア料…]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「椿事(ちんじ)」と「珍事」の違いとは? 例文を使ってくわしく解説]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1925818/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1925818/index.html"/>
+        <updated>2021-08-07T00:05:00.000Z</updated>
+        <summary type="html"><![CDATA[椿事(ちんじ)は「思いがけなく起こった重大な出来事」という意味の言葉です。「珍事」と混同しやすいので、それぞれの意味を理解して正しく使い分けられるようにしましょう。本記事では「椿事」の意味や語源、「珍事」との違いについて解説します。また、由来や例文、類語も紹介します。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] ドコモ「ahamo」180万件突破、povoとLINEMOに“一歩リード”　通信全体では減収]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2108/06/news157.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2108/06/news157.html"/>
+        <updated>2021-08-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ドコモが2022年第1四半期の連結業績を発表した。ahamo契約数は180万件を突破したものの、通信全体の収入は減少。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マツダ ロードスターRF　車中泊が無理ならテントがあるじゃない]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064452/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064452/?rss"/>
+        <updated>2021-08-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[マツダ ロードスターRFは車中泊には向いていない。ちょっと休憩したいときにはどうするか、それならテントを積めばいいのではないか？]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【お見事】お散歩中の3匹の柴犬。リードがどんどん絡まり合う様子が「産業革命」 - 「見事に編み上がっていく」「お上手!!」「ワン業革命」と話題に]]></title>
+        <id>https://news.mynavi.jp/article/20210807-wadai/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-wadai/index.html"/>
+        <updated>2021-08-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[三つ編みが上手く編めないという方へ。こちらのお手本をご覧ください。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TVアニメ『ドールズフロントライン』、2022年放送！第1弾KV＆PVを公開]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941235/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941235/index.html"/>
+        <updated>2021-08-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年1月にアニメ化が発表された『ドールズフロントライン』が、2022年に放送＆全世界配信開始となることが決定。本編の1シーンを彷彿とさせる第1弾KV、さらには作品の世界観とAR小隊のキャラクターにフォーカスを当てたPVが公開された。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北欧デザインブランドkippisとコリラックマがスペシャルコラボ♪]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941267/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941267/index.html"/>
+        <updated>2021-08-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サンエックスは、2021年8月19日（木）より北欧デザインのライフスタイルブランド「kippis（キッピス）」とコリラックマのコラボレーションアイテムを発売することを発表した。「kippis（R）」のブランド名は、フィンランド語で「乾杯」の・・・]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高杉真宙演じる理生、酒井若菜“上司”に「バンドやってるんでしょ？」と聞かれ…]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941271/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941271/index.html"/>
+        <updated>2021-08-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[高杉真宙が主演を務める『ホメられたい僕の妄想ごはん』（テレビ大阪、毎週土曜24:56～／BSテレ東・BSテレ東4K、毎週土曜24:00～）の第5話が、 8月7日に放送される。  同ドラマは、ゲスの極…]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メッシのPSG入りが急加速！…ネイマールらの後押しも受け2年契約での加入を決意か]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941265/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941265/index.html"/>
+        <updated>2021-08-06T23:55:34.000Z</updated>
+        <summary type="html"><![CDATA[バルセロナを退団したアルゼンチン代表FWリオネル・メッシは、パリ・サンジェルマン（PSG）へ加入することで合意に近づいているようだ。6日、イタリアメディア『スカイスポーツ』やイギリス紙『ガーディアン]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDDIエボルバ、「わかさ生活」にビジュアルIVR提供 電話、メール、アプリ、チャットの問い合わせチャネル集約]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941261/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941261/index.html"/>
+        <updated>2021-08-06T23:46:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDIエボルバは8月1日、「ブルーベリーアイ」で知られるわかさ生活に、問い合せチャネルを集約したビジュアルIVR「VisualMenu」を導入し、スマートフォンから簡単にお得・お役立ち情報の確認や問合せができる「わかさナビ」の提供を開始し・・・]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高速道路の渋滞情報、何km以上でルート変更する?]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1940586/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1940586/index.html"/>
+        <updated>2021-08-06T23:23:01.000Z</updated>
+        <summary type="html"><![CDATA[ホンダアクセスは8月5日、「家族での長距離ドライブに関する調査2021」の結果を発表した。同調査は7月2日～7日、 自家用車を運転することがある20歳～59歳の男女ドライバー1,000人(男性500人、女性500人)を対象に、インターネットで実施した。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年金生活に入るなら、マイナンバーカードは作っておいたほうがいい？]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941245/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941245/index.html"/>
+        <updated>2021-08-06T23:10:00.000Z</updated>
+        <summary type="html"><![CDATA[老後のお金や生活費が足りるのか不安ですよね。老後生活の収入の柱になるのが「老齢年金」ですが、年金制度にまつわることは、難しい用語が多くて、ますます不安になってしまう人もいるのではないでしょうか。そんな…]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夏に負けない体! 夏野菜たっぷり「南蛮漬け」を食べよう]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1938904/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1938904/index.html"/>
+        <updated>2021-08-06T23:00:53.000Z</updated>
+        <summary type="html"><![CDATA[夏の日差しが厳しいこの時期、今が旬の夏野菜がおいしい季節です。太陽の光をいっぱい浴びて育った夏野菜には、おいしさや栄養が詰まっていて、夏を元気に乗り切るために欠かせない食材です。8月31日は「野菜の日」です。今回は美容や健康にも嬉しい夏野菜料理をご紹介しましょう。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[予選から激戦必至！ メダル獲得を目指す５人制サッカー日本代表]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941257/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941257/index.html"/>
+        <updated>2021-08-06T23:00:28.000Z</updated>
+        <summary type="html"><![CDATA[2004年アテネ大会からパラリンピック競技として採用されている５人制サッカー（ブラインドサッカー）。東京2020パラリンピックでは、日本は開催国枠での出場となり、初めてパラリンピックの舞台を踏む。日本代表のメンバーや、予選で対戦する各国の特徴について紹介する。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2年連続の二冠王に期待！巨人・岡本の前半戦を振り返る]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941244/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941244/index.html"/>
+        <updated>2021-08-06T23:00:03.000Z</updated>
+        <summary type="html"><![CDATA[巨人の岡本和真はリーグトップの27本塁打、80打点をマークし、後半戦も本塁打、打点の量産に期待がかかる。
+
+　前半戦の岡本をニッポン放送ショウアップナイター解説陣はどう見ていたのだろうかーー。…]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia Mobile] ソフトバンクとドコモの決算を振り返る　ahamoやLINEMOなど新料金の影響は？]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2108/07/news022.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2108/07/news022.html"/>
+        <updated>2021-08-06T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクは8月4日、ドコモは8月6日に第1四半期の決算を発表した。業績自体は好調ながら、どちらも2月、3月以降の料金値下げや新料金プランの導入が響き、通信料収入は減収に見舞われている。一方で、ソフトバンクとドコモを比較すると、中身には少々違いがある。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] 発売前に目標の5倍も！　パナの電動工具が売れに売れている理由]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2108/07/news018.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2108/07/news018.html"/>
+        <updated>2021-08-06T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[パナソニック ライフソリューションズ社の電動工具が売れている。新ブランド「エグゼナ」を立ち上げて、フラッグシップモデル「Pシリーズ」を発売したところ、販売目標を大きく上回る結果に。売れている理由を取材したところ……。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サラダ、ラーメン、人気店の味も! 「グルメ自販機」続々登場]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1921114/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1921114/index.html"/>
+        <updated>2021-08-06T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[自販機といえば飲料を販売しているイメージが強いが、フライドポテトなどのホットスナック、アイスクリームなど、食品の自販機も根強い人気。特に最近では、人気の飲食店の味を自宅でそのまま味わえるもの、新鮮な野菜が食べられるサラダなど、「こんなものが買えるのか！？」と驚くような自販機が続々と登場している。東京都内を中心に設置されているグルメな自販機を紹介しよう。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ラウール、バスケのシュートをクールに決めるも裏では喜び爆発で「可愛いな!」]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1940929/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1940929/index.html"/>
+        <updated>2021-08-06T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アイドルグループ・Snow Manのラウールが主演を務める映画『ハニーレモンソーダ』(7月9日公開)の場面写真が7日、公開された。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[松本穂香、中川大志の許嫁役!?「悪い子じゃないんだろうなと思います」]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1940971/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1940971/index.html"/>
+        <updated>2021-08-06T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[女優の松本穂香が、読売テレビ・日本テレビ系ドラマ『ボクの殺意が恋をした』(毎週日曜22:30～)に、15日放送の第6話から出演する。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[あの駅には何がある? 第41回 国際空港で変貌したやきものの里 - 常滑駅(名鉄常滑線・空港線)]]></title>
+        <id>https://news.mynavi.jp/article/inquiry-41/index.html</id>
+        <link href="https://news.mynavi.jp/article/inquiry-41/index.html"/>
+        <updated>2021-08-06T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[常滑駅は1913(大正3)年に開設。2005(平成17)年に中部国際空港がオープンすると、終着駅だった常滑駅から中部国際空港駅まで延伸し、空港線が開業した。常滑は平安時代から良質な陶土・陶石が採掘される地として知られ、窯業が盛んだった。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『ハイキュー!!』Tシャツで烏野バレー部の一員に♪]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941240/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941240/index.html"/>
+        <updated>2021-08-06T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[リアライズは、8月6日（金）〜8月19日（木）までの期間中、アニメ・漫画専門ECサイトであるAnimo（アニモ）で『ハイキュー‼︎』の新商品の予約販売を開始した。『ハイキュー‼︎』は『週刊少年ジャンプ』（集英社刊）にて連載された、シリーズ累・・・]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モダンクラシックの雄、フェラーリ 575Mとアストンマーティン ヴァンキッシュSを乗り比べ！【前編】]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941246/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941246/index.html"/>
+        <updated>2021-08-06T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[伝統的なアストンマーティンの最後でもあり、新しいアストンマーティン時代の幕開けでもあるヴァンキッシュ。フェラーリの優れたマニュアルトランスミッションを搭載したグランツーリスモ、575M。この２台を乗り比べてみよう。V12をフロントに搭載した・・・]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年の夏休み「7連休以上ある」が28%、予定は?]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1939924/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1939924/index.html"/>
+        <updated>2021-08-06T22:45:56.000Z</updated>
+        <summary type="html"><![CDATA[日本トレンドリサーチは8月2日、「2021年の夏」に関する調査結果を発表した。同調査は7月9日～12日、現在仕事をしている男女1,679人を対象にインターネットで実施した。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「現在の仕事に満足」が7割、満足に感じているポイントは?]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1939914/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1939914/index.html"/>
+        <updated>2021-08-06T22:39:53.000Z</updated>
+        <summary type="html"><![CDATA[マイボイスコムは8月4日、「就業意識」に関する調査結果を発表した。同調査は7月1日～5日、全国の男女1万110名を対象に、インターネットで実施した。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIGAスクール構想、小学生への配布端末は何? - 保護者「わからない」も3割]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1939910/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1939910/index.html"/>
+        <updated>2021-08-06T22:31:24.000Z</updated>
+        <summary type="html"><![CDATA[小学館が運営する育児メディア「HugKum」は8月4日、日本エイサーと共同で、「GIGAスクール構想の学校配布端末」に関する調査結果を発表した。同調査は7月7日～14日、小学生の子どもを持つ保護者1,096人に、インターネットで実施した。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] 西武鉄道の駅ナカ・コンビニ「トモニ―」に、初の「無人レジ」導入]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2108/07/news024.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2108/07/news024.html"/>
+        <updated>2021-08-06T22:17:00.000Z</updated>
+        <summary type="html"><![CDATA[TOUCH TO GOは、無人決済システムを西武鉄道の駅ナカ・コンビニ「トモニー中井駅店」に8月13日から導入すると発表した。店舗出口付近の決済エリアに立つとタッチパネルに購入商品と合計金額が表示され、スピーディーに買い物ができる。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[梶裕貴『ボイス2』に登場「かなり心を消耗しながらお芝居しました」]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1940891/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1940891/index.html"/>
+        <updated>2021-08-06T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[声優の梶裕貴が、14日に放送される日本テレビ系ドラマ『ボイスII 110 緊急指令室』(毎週土曜22:00～)の第5話に出演する。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岩崎大昇“大成”、新部員の那須雄登“雄亮”と事件の真相を探る]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941214/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941214/index.html"/>
+        <updated>2021-08-06T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[美 少年（ジャニーズJr.）が学園を守るヒーローに変身する『ザ・ハイスクール ヒーローズ』（テレビ朝日系、毎週土曜23:30～）の第2話が、8月7日に放送される。  テレビ朝日×ジェイ・ストーム×東…]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHKの子供向けSDGs番組でアニメ「アオとキイ」放送、神木隆之介＆二階堂ふみが声優に]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941210/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941210/index.html"/>
+        <updated>2021-08-06T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NHKの子供向け番組「ひろがれ！いろとりどり」のマスコットキャラクター、水の妖精・アオと光の妖精・キイが登場するアニメ「アオとキイ」の放送が決定。アオ役を神木隆之介、キイ役を二階堂ふみ、イロトリドリ役を千葉繁が演じ、8月11日から13日にかけて毎日9時にNHK Eテレにてオンエアされる。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鈴木亮平“喜多見”ら、18人の小学生が山中で失踪する謎の事件に立ち向かう]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941215/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941215/index.html"/>
+        <updated>2021-08-06T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[鈴木亮平が主演を務める日曜劇場『TOKYO MER～走る緊急救命室～』（TBS系、毎週日曜21:00～）の第6話が、8月8日に放送される。  最新の医療機器とオペ室を搭載した大型車両（ERカー）で、…]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「スマホでマンション購入を」 日鉄興和が日本初のストア開設]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941226/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941226/index.html"/>
+        <updated>2021-08-06T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「いつでも、どこでもマンションが買える世界を実現していく」と話すのは、日鉄興和不動産常務の猪狩甲隆氏。 ７月16日、日鉄興和はマンション購入の検討から、申し込み手続きまでが24時間、３６５日可能になるオンラインストア「ｓｕｍｕｎｅ ｆｏｒ ・・・]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米国初、ニューヨーク市で屋内施設利用時のワクチン証明が義務化]]></title>
+        <id>https://ascii.jp/elem/000/004/065/4065369/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/065/4065369/?rss"/>
+        <updated>2021-08-06T21:55:18.000Z</updated>
+        <summary type="html"><![CDATA[ニューヨーク市は、各種屋内施設を利用する際には新型コロナワクチン接種証明を義務付けると発表した。9月13日以降、バーやレストラン、ジムなどを利用する際には、ワクチンを少なくとも1回接種した証明を提示する必要がある。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リング上で火炎を噴射！ 30年前に存在した地上波NG超過激プロレス団体「W★ING」とは？]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941216/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941216/index.html"/>
+        <updated>2021-08-06T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[「★といえば……」。8月3日にFUNKY MONKEY BABY’Sのファンキー加藤が投稿した、そんな書き出しからはじまるツイートが彼のファンを困惑させる一方で、一部のプロレスマニアをニヤニヤさせている。【写真】超レア！ 時代も感じさせるW・・・]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【8月7日・今日の運勢】12星座占いランキング(総合運・恋愛運・金運・仕事運・健康運)]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1939757/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1939757/index.html"/>
+        <updated>2021-08-06T21:23:14.000Z</updated>
+        <summary type="html"><![CDATA[今日は2021年8月7日。マイナビニュースが毎日「星座占い」をお届けします。各星座の総合・恋愛・金運・仕事運・健康運におけるランキングとラッキーアイテムを紹介。何かの参考になれば幸いです。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高校の修学旅行で撮影した写真に写った1台「少年の頃からの憧れのクルマでした」｜1960年式 ＆ 1961年式 プリンス ニュースカイライン デラックス　Vol.3]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941193/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941193/index.html"/>
+        <updated>2021-08-06T21:05:00.000Z</updated>
+        <summary type="html"><![CDATA[【1960年式 ＆ 1961年式 プリンス ニュースカイライン デラックス Vol.3】【2】から続く さて、本記事では【Vol.1】のタイトルカットをご覧いただいてもお分かりのとおり、色違いの初代スカイラインを2台紹介する。オーナーは本誌・・・]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京都市営地下鉄烏丸線の新型車両、釘隠し＆吊手にも伝統素材・技法]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1940990/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1940990/index.html"/>
+        <updated>2021-08-06T21:04:48.000Z</updated>
+        <summary type="html"><![CDATA[京都市交通局は来春の営業運転開始をめざす地下鉄烏丸線新型車両の外観・内装において、京都の伝統産業素材・技法を活用する。このほど活用事例の第2弾として、車内の釘隠しと吊手のデザインが公開された。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia PC USER] 「宣言じゃなくて感染者数で」――アキバの客足が鈍る]]></title>
+        <id>https://www.itmedia.co.jp/pcuser/articles/2108/07/news020.html</id>
+        <link href="https://www.itmedia.co.jp/pcuser/articles/2108/07/news020.html"/>
+        <updated>2021-08-06T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[炎天下のアキバは、普段の夏休み期間よりも人通りが少ないように感じた。PCパーツショップでも「確かに客足が鈍っています」とのコメントをいくつも聞いた。変化が起きている。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新條由芽、藤井直樹へ思いを寄せるが…『ハイヒロ』“緑色”の恋の行方は]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1940858/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1940858/index.html"/>
+        <updated>2021-08-06T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[きょう7日放送のジャニーズJr./美 少年主演テレビ朝日系ドラマ『ザ・ハイスクール ヒーローズ』(毎週土曜23:00～)第2話では、女優の新條由芽演じる三島純加と藤井直樹演じる森村直哉の恋模様を描く。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『キラメイジャー』新條由芽が『ザ・ハイスクール ヒーローズ』に出演、グリーン戦士に恋心]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941033/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941033/index.html"/>
+        <updated>2021-08-06T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ジャニーズJr.の美 少年が本格的な戦隊ヒーローに初挑戦する『ザ・ハイスクール ヒーローズ』8月7日放送の第２話に、『魔進戦隊キラメイジャー』でキラメイグリーン/速見瀬奈を演じた新條由芽が出演することが発表された。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xperiaで恐竜博をライブ配信！ 「レイン」と「スタン」を迫力の独自アングルで楽しむ]]></title>
+        <id>https://news.mynavi.jp/article/20210807-Xperia/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-Xperia/index.html"/>
+        <updated>2021-08-06T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[子どもたちの夏休みも真っ只中になりました。いま、自宅にいながらにして恐竜博を堪能できるオンラインツアー『Xperia “True Remote EXperience” powered by au』が開催されているのをご存知でしょうか。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gmailから乗り換えるならコレ！ 普段使いにぴったりなWebメールサービス3選]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941101/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941101/index.html"/>
+        <updated>2021-08-06T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[多くのユーザが使用しているGmailだが、著名なサービスゆえ攻撃の対象となったり、偽装に使われやすいのも事実。今回はGmailの代替になりうる、Webメールサービスを3つ紹介する。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTS所属事務所「HYBE」の大躍進！ ジャスティン・ビーバー擁する企業買収、Webサービス「Weverse」会員数1億人規模の見通し！]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941189/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941189/index.html"/>
+        <updated>2021-08-06T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[モデル・タレントとして活躍するユージと、フリーアナウンサーの吉田明世がパーソナリティをつとめるTOKYO FMの番組「ONE MORNING」。この記事では、7月26日（月）～7月30日（金）の放送から、ニュースを象徴する1つの数字にスポットを当てるコーナー「SUZUKI TODAY’S KEY NUMBER」で取り上げたトピックを紹介します。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[くっきー！「消費者金融に走ったよ（笑）」麒麟・川島＆田村のせいで“無一文”に!? 当時のエピソードを披露]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941191/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941191/index.html"/>
+        <updated>2021-08-06T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[お笑いコンビ・麒麟の川島明がパーソナリティをつとめるTOKYO FMの番組「SUBARU Wonderful Journey 土曜日のエウレカ」。「あなたの心を、ここではないどこかへ」をテーマに、ゲストの「ココロが動く（＝エウレカ）思い入れのある場所」へと案内していきます。7月31日（土）放送のお客様は、お笑いコンビ・野生爆弾 くっきー！さん。ここでは、2人のブレイク前のエピソードを披露しました。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊豆大島のハワイ化計画？ 建築家・半田悠人が抱く大きな夢とは？]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941192/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941192/index.html"/>
+        <updated>2021-08-06T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日曜日の昼下がり、静かな通りに佇む一軒の店「your time」に集うお客様たち。カウンター越しには、それぞれの個性あふれる物語が聞こえてきます。パーソナリティのチャンカワイがお届けするTOKYO FMの番組「ヱビスビール presents Color Your Time」。
+
+7月25日（日）、8月1日（日）のゲストは、建築家の半田悠人（はんだ・ゆうと）さん。自分時間「my time」にまつわる物語をひも解いていきます。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[夫・妻をなんて呼ぶ? 「お父さん」「お母さん」が減少傾向に]]></title>
         <id>https://news.mynavi.jp/article/20210807-1938513/index.html</id>
