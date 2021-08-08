@@ -14773,6 +14773,24 @@
       "siteUrl": "https://news.mynavi.jp/",
       "articles": [
         {
+          "id": "https://news.mynavi.jp/article/20210809-1941496/index.html",
+          "author": null,
+          "description": "女優の波瑠が主演するフジテレビ系月9ドラマ『ナイト・ドクター』(毎週月曜21:00～)の第6話が放送される。",
+          "link": "https://news.mynavi.jp/article/20210809-1941496/index.html",
+          "publishedOn": "2021-08-08T20:00:00.000Z",
+          "wordCount": 317,
+          "title": "美月(波瑠)の体に異変が…『ナイト・ドクター』第6話"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942390/index.html",
+          "author": null,
+          "description": "Microsoftは現地時間2021年8月6日、Visual Studio Code用拡張機能「Python バージョン2021.8.1105858891」をリリースした旨を公式ブログで報告した。",
+          "link": "https://news.mynavi.jp/article/20210809-1942390/index.html",
+          "publishedOn": "2021-08-08T18:29:30.000Z",
+          "wordCount": 314,
+          "title": "Jupyter Notebook標準サポートが正式版にVisual Studio Code用拡張機能「Python」"
+        },
+        {
           "id": "https://news.mynavi.jp/article/20210809-1942359/index.html",
           "author": null,
           "description": "セルティックに所属する日本代表FW古橋亨梧が、8日に行われたスコティッシュ・プレミアシップ（スコットランド1部）第2節のダンディーFC戦でハットトリックを達成。アンジェ・ポステコグルー新監督率いるチ",
