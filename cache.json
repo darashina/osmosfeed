@@ -12,6 +12,15 @@
       "siteUrl": "https://www.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/08/news034.html",
+          "author": null,
+          "description": "中京テレビは往年のまんが大喜利番組「お笑いマンガ道場」を復活させた。しかしYouTubeで配信した動画は5分に満たず、視聴者は困惑した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/08/news034.html",
+          "publishedOn": "2021-08-08T09:07:00.000Z",
+          "wordCount": 144,
+          "title": "[ITmedia News] 「お笑いマンガ道場」27年ぶり復活も動画は5分に満たず　視聴者困惑「えっ、もう終わり？」"
+        },
+        {
           "id": "https://www.itmedia.co.jp/business/articles/2108/08/news016.html",
           "author": null,
           "description": "上司または部下に対して、「こうしてくれたらいいのに」「なぜこうしてくれないのか」といった“モヤモヤ”を感じている人は、どのくらいいるのだろうか。20～40代のビジネスパーソンに聞いた。",
@@ -6453,6 +6462,33 @@
       "feedUrl": "https://ascii.jp/rss.xml",
       "siteUrl": "https://ascii.jp/1/",
       "articles": [
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064903/?rss",
+          "author": null,
+          "description": "デルは、15.6型のゲーミングノートパソコン「Dell G5 15」がお得に購入できるキャンペーンを実施中。",
+          "link": "https://ascii.jp/elem/000/004/064/4064903/?rss",
+          "publishedOn": "2021-08-08T12:00:00.000Z",
+          "wordCount": 207,
+          "title": "デルのゲーミングPC「Dell G5 15」が、Core i7とRTX 3050搭載で15万円台！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065186/?rss",
+          "author": null,
+          "description": "アスキーストアでは、軽量コンパクトなEMS「Renex 2」を5720円で販売中。",
+          "link": "https://ascii.jp/elem/000/004/065/4065186/?rss",
+          "publishedOn": "2021-08-08T11:00:00.000Z",
+          "wordCount": 345,
+          "title": "仕事や家事をしながらヘッドフォン感覚のリラクゼーションギア"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065016/?rss",
+          "author": null,
+          "description": "アスキーストアでは、USB Type-Cポートからケーブル不要でApple Watchを充電できる「Maco Go USB-C Apple Watch 磁気充電ドック」を3680円で販売中。",
+          "link": "https://ascii.jp/elem/000/004/065/4065016/?rss",
+          "publishedOn": "2021-08-08T09:00:00.000Z",
+          "wordCount": 426,
+          "title": "Apple Watchをいつでもどこでも充電！ コインサイズの超小型磁気充電ドック"
+        },
         {
           "id": "https://ascii.jp/elem/000/004/065/4065389/?rss",
           "author": null,
@@ -14709,6 +14745,339 @@
       "feedUrl": "https://news.mynavi.jp/rss/index",
       "siteUrl": "https://news.mynavi.jp/",
       "articles": [
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942268/index.html",
+          "author": null,
+          "description": "「老後に必要なのは1億円」「老後までに1億円貯めよう」というフレーズを聞いたことはないでしょうか。雑誌などでもよく特集が組まれています。1億円貯めるには、運用利回りを無視した単純計算をすると、毎月21…",
+          "link": "https://news.mynavi.jp/article/20210808-1942268/index.html",
+          "publishedOn": "2021-08-08T12:40:00.000Z",
+          "wordCount": 311,
+          "title": "「老後までに1億円貯めなきゃいけない」は本当か？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942264/index.html",
+          "author": null,
+          "description": "TVアニメ「ヴィジュアルプリズン」のオープニングテーマとエンディングテーマの情報が公開に。追加キャストとして杉田智和の出演も明らかとなった。",
+          "link": "https://news.mynavi.jp/article/20210808-1942264/index.html",
+          "publishedOn": "2021-08-08T12:30:00.000Z",
+          "wordCount": 309,
+          "title": "「ヴィジュアルプリズン」劇中ユニットが歌うОP＆ED情報公開、杉田智和はマスコットに"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942260/index.html",
+          "author": null,
+          "description": "老後のお金や生活費が足りるのか不安ですよね。老後生活の収入の柱になるのが「老齢年金」ですが、年金制度にまつわることは、難しい用語が多くて、ますます不安になってしまう人もいるのではないでしょうか。そんな…",
+          "link": "https://news.mynavi.jp/article/20210808-1942260/index.html",
+          "publishedOn": "2021-08-08T12:20:00.000Z",
+          "wordCount": 311,
+          "title": "独身で年収300万円の人が、将来もらえる年金額はいくら？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942259/index.html",
+          "author": null,
+          "description": "○ DeNA 5x － 4 オリックス ●\n＜エキシビションマッチ・京セラD大阪＞\n\n　オリックスは8日、京セラドーム大阪でのエキシビションマッチでDeNAと対戦。先攻と後攻を入れ替えて行われた…",
+          "link": "https://news.mynavi.jp/article/20210808-1942259/index.html",
+          "publishedOn": "2021-08-08T12:19:46.000Z",
+          "wordCount": 322,
+          "title": "オリックス・中嶋監督「やったらアカンこと」山﨑福の9回二死から被弾に苦言"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942247/index.html",
+          "author": null,
+          "description": "はるき悦巳「じゃりン子チエ」と「パインアメ」がコラボレート。特製ブックカバーが当たるキャンペーンが実施されている。",
+          "link": "https://news.mynavi.jp/article/20210808-1942247/index.html",
+          "publishedOn": "2021-08-08T11:34:00.000Z",
+          "wordCount": 289,
+          "title": "はるき悦巳が24年ぶりに「じゃりン子チエ」描き下ろし、「パインアメ」とのコラボで"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942236/index.html",
+          "author": null,
+          "description": "自分のこだわりで持っているモノはよいのですが、何となく持っていたり、手元に置いていたりするモノは、貧乏神を引き寄せてしまうこともあるので注意が必要です。 昔よく使っていたけど今は使わないモノや、壊れて…",
+          "link": "https://news.mynavi.jp/article/20210808-1942236/index.html",
+          "publishedOn": "2021-08-08T11:30:00.000Z",
+          "wordCount": 311,
+          "title": "要注意！家の中にあると貧乏神が寄ってくるモノとは"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942229/index.html",
+          "author": null,
+          "description": "バルセロナを退団するアルゼンチン代表FWリオネル・メッシが、8日に記者会見を実施。メディアからの質問に応じた。\n　メッシは2021年6月30日をもってバルセロナとの契約が満了。再契約に向けて両者は合",
+          "link": "https://news.mynavi.jp/article/20210808-1942229/index.html",
+          "publishedOn": "2021-08-08T11:19:06.000Z",
+          "wordCount": 299,
+          "title": "バルサ退団のメッシ、PSG移籍の可能性を認めるも…「まだ何も決まっていない」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942230/index.html",
+          "author": null,
+          "description": "6日にユヴェントスからアタランタへの期限付き移籍が発表されたトルコ代表DFメリフ・デミラルが、新シーズンへの意気込みを語った。同日付けでイタリアメディア『Football ITALIA』が伝えている",
+          "link": "https://news.mynavi.jp/article/20210808-1942230/index.html",
+          "publishedOn": "2021-08-08T11:11:48.000Z",
+          "wordCount": 293,
+          "title": "アタランタ加入のデミラル、移籍の要因は指揮官の存在「ここなら自分を向上させられると」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942221/index.html",
+          "author": null,
+          "description": "講談社のコミック誌『ヤングマガジン』のWebサイト「ヤンマガWeb」グラビアが、 2日～8日にわたって公開された。",
+          "link": "https://news.mynavi.jp/article/20210808-1942221/index.html",
+          "publishedOn": "2021-08-08T11:01:29.000Z",
+          "wordCount": 325,
+          "title": "口でユニフォームをめくり美谷間、Yシャツでバスタブ…グラビア11連発"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942161/index.html",
+          "author": null,
+          "description": "ダンス＆ボーカルグループ・三代目 J SOUL BROTHERS From EXILE TRIBEが出演する『三代目 J SOUL BROTHERS マーダーミステリー ライブリハ殺人事件』が、ABEMAで21日よりスタートする。このほどメンバーが取材に応じ、収録の感想を語った。",
+          "link": "https://news.mynavi.jp/article/20210808-1942161/index.html",
+          "publishedOn": "2021-08-08T11:00:00.000Z",
+          "wordCount": 355,
+          "title": "三代目JSB、駆け引き上手なメンバーで意見一致! 山下健二郎は魚相手なら「得意」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942222/index.html",
+          "author": null,
+          "description": "人気YouTuber（ユーチューバー）の物販EC参入が相次いでいる。動画制作者（クリエイター）の増加により、広告収入の拡大が厳しくなる中、発信力を生かせる新たな収益源として物販ＥＣに注目が集まっている。HIKAKIN（ヒカキン）や、はじめし・・・",
+          "link": "https://news.mynavi.jp/article/20210808-1942222/index.html",
+          "publishedOn": "2021-08-08T10:53:00.000Z",
+          "wordCount": 302,
+          "title": "「オリラジ」中田敦彦がアパレルブランド『カール フォン リンネ』発売 YouTuberの物販過熱！ヒカルやHIKAKINも展開"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942231/index.html",
+          "author": null,
+          "description": "バルセロナを退団するアルゼンチン代表FWリオネル・メッシが、8日に記者会見を実施。スピーチで現在の心境を吐露した。\n　メッシは2021年6月30日をもってバルセロナとの契約が満了。再契約に向けて両者",
+          "link": "https://news.mynavi.jp/article/20210808-1942231/index.html",
+          "publishedOn": "2021-08-08T10:35:12.000Z",
+          "wordCount": 297,
+          "title": "メッシ、バルサ退団会見で涙止まらず「すべてを捧げてきた」…将来的な復帰希望も明言"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942209/index.html",
+          "author": null,
+          "description": "お金を貯めたいときには、短期間と決めて、「超節約」をするという手があります。私も投資のタネ銭を貯めようと思った時、年俸制の会社だったため、給料はなかなか上がりませんでした。しかも副業禁止。そこで、私は…",
+          "link": "https://news.mynavi.jp/article/20210808-1942209/index.html",
+          "publishedOn": "2021-08-08T10:30:00.000Z",
+          "wordCount": 321,
+          "title": "100万円を早く貯めたい人のために！超節約生活にトライ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942200/index.html",
+          "author": null,
+          "description": "ミランに所属するベルギー代表MFアレクシス・サレマーカーズがチームメイトについて語った。7日付けでスペイン紙『マルカ』が伝えている。\n　現在22歳のサレマーカーズは2020年1月にアンデルレヒトから",
+          "link": "https://news.mynavi.jp/article/20210808-1942200/index.html",
+          "publishedOn": "2021-08-08T10:01:06.000Z",
+          "wordCount": 292,
+          "title": "ミランMFサレマーカーズ、百戦錬磨のイブラ&#038;ジルーに言及「彼らは勝ち方を教えてくれる」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942196/index.html",
+          "author": null,
+          "description": "有吉弘行がパーソナリティをつとめるラジオ生放送番組「有吉弘行のSUNDAY NIGHT DREAMER」。8月1日（日）の放送は、アシスタントにデンジャラスの安田和博を迎えお送りしました。",
+          "link": "https://news.mynavi.jp/article/20210808-1942196/index.html",
+          "publishedOn": "2021-08-08T10:00:00.000Z",
+          "wordCount": 319,
+          "title": "有吉、もう中学生が披露したネタ「世界一長いルパンのタイトル」「DJぬーべー」に腹筋崩壊!?"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942195/index.html",
+          "author": null,
+          "description": "「ヒプノシスマイク -Division Rap Battle-」初の3DCGライブ「ヒプノシスマイク-Division Rap Battle- 3DCG LIVE“HYPED-UP 01”」が開催されることが決定した。",
+          "link": "https://news.mynavi.jp/article/20210808-1942195/index.html",
+          "publishedOn": "2021-08-08T10:00:00.000Z",
+          "wordCount": 323,
+          "title": "ヒプノシスマイク初の3DCGライブ「HYPED-UP 01」が開催決定"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/ipad-for-work-34/index.html",
+          "author": null,
+          "description": "インターネットで情報収集していると、日本語以外の文献を読まなければならないことも多い。また、仕事によっては英語でコミュニケーションをとらなければならないこともあるだろう。そこで、今回はiPadで「Google 翻訳」と「DeepL翻訳」を使うコツを紹介しよう。",
+          "link": "https://news.mynavi.jp/article/ipad-for-work-34/index.html",
+          "publishedOn": "2021-08-08T09:55:41.000Z",
+          "wordCount": 390,
+          "title": "iPadは仕事でどこまで使えるか？ 第34回 iPadで翻訳アプリ「Google 翻訳」と「DeepL翻訳」を使いこなそう"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1940506/index.html",
+          "author": null,
+          "description": "瑞起は8月5日、Nintendo Switch版『電車でGO!! はしろう山手線』に対応する「電車でGO!! 専用ワンハンドルコントローラー」を発売した。家庭用として発売された同ゲームをマスコンで遊びたいとのファンの思いに応えるため、開発された。",
+          "link": "https://news.mynavi.jp/article/20210808-1940506/index.html",
+          "publishedOn": "2021-08-08T09:46:01.000Z",
+          "wordCount": 348,
+          "title": "『電車でGO!! はしろう山手線』をマスコンで遊べる商品発売 - 瑞起"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942183/index.html",
+          "author": null,
+          "description": "毎年、1月半ば過ぎに、総務省が「年平均の全国消費者物価指数（生鮮食品含む総合指数）」を公表します。2020年の平均物価指数は、2021年1月に公表されました。これを踏まえて、2021年度の国民年金額…",
+          "link": "https://news.mynavi.jp/article/20210808-1942183/index.html",
+          "publishedOn": "2021-08-08T09:30:00.000Z",
+          "wordCount": 312,
+          "title": "年金額は徐々に減少…老後資金を枯渇させないためには？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942150/index.html",
+          "author": null,
+          "description": "コスプレイヤー火将ロシエルが8月5日、自身のTwitterを更新し美バストちらりなセクシーショットを披露した。",
+          "link": "https://news.mynavi.jp/article/20210808-1942150/index.html",
+          "publishedOn": "2021-08-08T09:30:00.000Z",
+          "wordCount": 311,
+          "title": "「いまどうしてる?」コスプレイヤー火将ロシエルがセクシー問いかけショット披露"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942187/index.html",
+          "author": null,
+          "description": "藤子不二雄(A)原作によるアニメ「笑ゥせぇるすまん」の公式YouTubeチャンネルが開設。125話にわたるエピソードが期間限定で無料配信される。",
+          "link": "https://news.mynavi.jp/article/20210808-1942187/index.html",
+          "publishedOn": "2021-08-08T09:30:00.000Z",
+          "wordCount": 289,
+          "title": "アニメ「笑ゥせぇるすまん」100話以上無料配信、「怪物くん」など藤子(A)作品続々"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1940470/index.html",
+          "author": null,
+          "description": "テレビ大阪は8月15日まで、インターネット上での鉄道イベント「おウチで鉄道博 2021」を開催している。今年1月に開催し、好評を博した「鉄道博オンラインイベント」の第2弾となる。",
+          "link": "https://news.mynavi.jp/article/20210808-1940470/index.html",
+          "publishedOn": "2021-08-08T09:17:47.000Z",
+          "wordCount": 349,
+          "title": "「おウチで鉄道博」オンライン開催、限定グッズ販売も - 8/15まで"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942201/index.html",
+          "author": null,
+          "description": "ジュピラー・プロ・リーグ（ベルギー1部）のシント・トロイデンは8日、サガン鳥栖に所属するFW林大地の完全移籍でクラブ間合意に達した。8日、両クラブの公式サイトで発表されている。\n　林は今後、現地での",
+          "link": "https://news.mynavi.jp/article/20210808-1942201/index.html",
+          "publishedOn": "2021-08-08T09:10:49.000Z",
+          "wordCount": 301,
+          "title": "鳥栖FW林大地、シント・トロイデンへの完全移籍でクラブ間合意！　東京五輪5試合出場"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1938698/index.html",
+          "author": null,
+          "description": "デアゴスティーニ･ジャパンは9月7日、JR全路線を網羅するDVD付きマガジン「JR全路線 DVDコレクション」を発売する。現存する車両だけでなく、廃止された列車や走行シーンまで、貴重な映像を収録したDVDと詳細な解説を載せたマガジンで紹介する。",
+          "link": "https://news.mynavi.jp/article/20210808-1938698/index.html",
+          "publishedOn": "2021-08-08T09:03:02.000Z",
+          "wordCount": 349,
+          "title": "デアゴスティーニ「JR全路線 DVDコレクション」9月発売 - 全100号"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942182/index.html",
+          "author": null,
+          "description": "初の理系出身（東大工学部卒）長官の中島淳一（１９８５年旧大蔵省）が率いる金融庁の新体制が始動した。「切れ者の理論家」「温厚で人当たりがいい」（有力ＯＢ）と庁内評も上々だ。 ただ、地銀再編やコロナ禍で打撃を受けた地方企業の再生を始め重要課題が・・・",
+          "link": "https://news.mynavi.jp/article/20210808-1942182/index.html",
+          "publishedOn": "2021-08-08T09:00:00.000Z",
+          "wordCount": 271,
+          "title": "【金融庁】初の理系出身長官　政権との「間合い」が課題"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942168/index.html",
+          "author": null,
+          "description": "ホットトイズの「テレビ・マスターピース」シリーズにて、『ホワット・イフ…？』より、ゾンビハンター・スパイディが発表された。全世界に衝撃と感動を巻き起こした映画『アベンジャーズ／エンドゲーム』（2019年）を始め、破格のメガヒッ・・・",
+          "link": "https://news.mynavi.jp/article/20210808-1942168/index.html",
+          "publishedOn": "2021-08-08T09:00:00.000Z",
+          "wordCount": 298,
+          "title": "『ホワット・イフ…？』ゾンビハンター・スパイディが早くも立体化！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942169/index.html",
+          "author": null,
+          "description": "2020年1月設立で、CBD製品の輸入・販売などを行うチラクシーは2021年2月、CBDをコーヒーに配合した「CBDコーヒー」を発売した。同社が2020年8月に発売した喫煙具「CBDベイプ」との相乗効果で売り上げを拡大させている。CBDコー・・・",
+          "link": "https://news.mynavi.jp/article/20210808-1942169/index.html",
+          "publishedOn": "2021-08-08T09:00:00.000Z",
+          "wordCount": 262,
+          "title": "「CHILLAXY」、『CBD』のコーヒーと喫煙具で相乗効果 リアルイベントからECに送客"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942149/index.html",
+          "author": null,
+          "description": "アニメ『ジョジョの奇妙な冒険 ストーンオーシャン』が、2021年12月よりNetflixにて全世界独占先行配信、2022年1月よりTOKYO MX、MBS、BS11にて放送開始となることが決定。キービジュアルやPV、メインスタッフ＆キャスト情報が公開された。",
+          "link": "https://news.mynavi.jp/article/20210808-1942149/index.html",
+          "publishedOn": "2021-08-08T09:00:00.000Z",
+          "wordCount": 381,
+          "title": "アニメ『ジョジョの奇妙な冒険 ストーンオーシャン』、キービジュアル＆PV"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942147/index.html",
+          "author": null,
+          "description": "コスプレイヤー宮本彩希が8月5日、自身のTwitterを更新しホロライブ・ときのそらの水着コスプレを披露した。",
+          "link": "https://news.mynavi.jp/article/20210808-1942147/index.html",
+          "publishedOn": "2021-08-08T09:00:00.000Z",
+          "wordCount": 319,
+          "title": "コスプレイヤー宮本彩希がときのそら水着コスで美バスト全開"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942165/index.html",
+          "author": null,
+          "description": "TVアニメ『リアデイルの大地にて』の放送開始が2022年1月に決定。PV第1弾＆キービジュアル第2弾、キャラクター情報第1弾が公開された。",
+          "link": "https://news.mynavi.jp/article/20210808-1942165/index.html",
+          "publishedOn": "2021-08-08T09:00:00.000Z",
+          "wordCount": 342,
+          "title": "TVアニメ『リアデイルの大地にて』、PV＆KV、メインキャスト情報を公開"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942175/index.html",
+          "author": null,
+          "description": "【1968年式 日産 ブルーバード クーペ1800 SSS Vol.3】【2】から続く「レースも本気で出るけど、ストリートも走りたい」との願いから、ルックスにもコダワリは多い。マーシャルのヘッドライト、輸出仕様のドアミラーとフロントレンズ、・・・",
+          "link": "https://news.mynavi.jp/article/20210808-1942175/index.html",
+          "publishedOn": "2021-08-08T09:00:00.000Z",
+          "wordCount": 377,
+          "title": "「レースも本気で出るけど、ストリートも走りたい」点火システムも2系統｜1968年式 日産 ブルーバード クーペ1800 SSS 　Vol.3"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942166/index.html",
+          "author": null,
+          "description": "水木しげる「ゲゲゲの鬼太郎」の舞台化が決定。2022年夏に東京・明治座で上演される。",
+          "link": "https://news.mynavi.jp/article/20210808-1942166/index.html",
+          "publishedOn": "2021-08-08T09:00:00.000Z",
+          "wordCount": 296,
+          "title": "水木しげる「ゲゲゲの鬼太郎」が来夏舞台化、怪しげな目玉のビジュアル解禁"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942167/index.html",
+          "author": null,
+          "description": "オーバーエイジ（OA）として東京オリンピックに参加し金メダルを獲得したDFダニエウ・アウヴェスは、キャリア通算43個目のタイトル獲得を達成した。7日付けでスペイン紙『マルカ』が伝えている。\n　同日に",
+          "link": "https://news.mynavi.jp/article/20210808-1942167/index.html",
+          "publishedOn": "2021-08-08T08:47:08.000Z",
+          "wordCount": 294,
+          "title": "金メダル獲得の38歳D・アウヴェス、キャリア通算タイトルは43個目…指揮官も称賛"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942160/index.html",
+          "author": null,
+          "description": "テレビ東京の新ドラマ『うきわ ―友達以上、不倫未満―』(8月9日スタート 毎週月曜23:06〜)のオンライン会見が行われ、門脇麦、森山直太朗、風間太樹監督が取材に応じた。",
+          "link": "https://news.mynavi.jp/article/20210808-1942160/index.html",
+          "publishedOn": "2021-08-08T08:44:34.000Z",
+          "wordCount": 322,
+          "title": "門脇麦、森山直太朗と「とにかく距離をおこう」ツボすぎるためにあえて心開かず"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942156/index.html",
+          "author": null,
+          "description": "日本ハム 4 － 4 巨人\n＜エキシビションマッチ・函館＞\n\n　日本ハムの大田泰示外野手（31）が8日、巨人とのエキシビションマッチに「6番・右翼」で先発フル出場。この日も2本の二塁打でマルチ安…",
+          "link": "https://news.mynavi.jp/article/20210808-1942156/index.html",
+          "publishedOn": "2021-08-08T08:38:15.000Z",
+          "wordCount": 304,
+          "title": "日本ハム・大田、古巣相手に二塁打2本　逆襲の後半戦へ長打力アピール"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942173/index.html",
+          "author": null,
+          "description": "SNS上の広告に登場し、「謎の美女」として一気に注目を集めた上田操。2019年には『週刊プレイボーイ』でグラビアデビューを果たし、女優として映画のメインキャストを務めるなど活躍を続けている。そんな上田の初となる紙媒体写真集『#上田操のいる生・・・",
+          "link": "https://news.mynavi.jp/article/20210808-1942173/index.html",
+          "publishedOn": "2021-08-08T08:31:00.000Z",
+          "wordCount": 311,
+          "title": "「自分のことが好きになりたい」今話題の美女・上田操、ボディメイクの原点を語る"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210808-1942174/index.html",
+          "author": null,
+          "description": "SNS上の広告に登場し、「謎の美女」として一気に注目を集めた上田操。2019年には『週刊プレイボーイ』でグラビアデビューを果たし、女優として映画のメインキャストを務めるなど活躍を続けている。そんな上田の初となる紙媒体写真集『#上田操のいる生・・・",
+          "link": "https://news.mynavi.jp/article/20210808-1942174/index.html",
+          "publishedOn": "2021-08-08T08:30:00.000Z",
+          "wordCount": 311,
+          "title": "腕立て腹筋は1日120回、SNSで話題の美女・上田操のストイックすぎる半生"
+        },
         {
           "id": "https://news.mynavi.jp/article/20210808-1942139/index.html",
           "author": null,
