@@ -12,6 +12,24 @@
       "siteUrl": "https://www.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/pcuser/articles/2108/09/news032.html",
+          "author": null,
+          "description": "現行最新世代のRyzen 5000シリーズと同じ、Zen 3アーキテクチャを採用したAPU「Ryzen 5000G」シリーズが登場。キーボードのベースキットや60cm長のPCIe 4.0ライザーカードなど、自作の幅を広げるアイテムも目立っている。",
+          "link": "https://www.itmedia.co.jp/pcuser/articles/2108/09/news032.html",
+          "publishedOn": "2021-08-09T10:10:00.000Z",
+          "wordCount": 553,
+          "title": "[ITmedia PC USER] Zen 3世代のAPU「Ryzen 5000G」が登場！"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/09/news033.html",
+          "author": null,
+          "description": "2回目となった東京五輪では、各国の選手を陰ながら支えた選手村の食事が好評だったが、前回の1964年東京五輪でも、選手をもてなし英気を養ってもらおうと、料理人たちが腕を振るっていた。そんな前回大会の選手村の味が今……。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/09/news033.html",
+          "publishedOn": "2021-08-09T09:51:00.000Z",
+          "wordCount": 123,
+          "title": "[ITmedia ビジネスオンライン] 1964年東京五輪　「選手村の味」　帝国ホテルで再び"
+        },
+        {
           "id": "https://www.itmedia.co.jp/business/articles/2108/09/news007.html",
           "author": null,
           "description": "コバルトの問題が難問過ぎるので、今注目を集めているのが、従来のハイコバルト系リチウムイオン電池に代わる方式だ。最も早く話題になったのがリン酸鉄電池である。ついでナトリウム電池、そしてニッケル水素のバイポーラ型電池。長らく次期エースと目されている全固体電池もある。",
@@ -6499,6 +6517,24 @@
       "siteUrl": "https://ascii.jp/1/",
       "articles": [
         {
+          "id": "https://ascii.jp/elem/000/004/065/4065112/?rss",
+          "author": null,
+          "description": "3段階＋SOS（点滅）の調光モードを搭載するLEDライト付きモバイルバッテリー「ASSIKE ヒカルソラ ソーラーモバイルバッテリーランタン 3R-SRP02」販売中。価格は5990円。",
+          "link": "https://ascii.jp/elem/000/004/065/4065112/?rss",
+          "publishedOn": "2021-08-09T11:00:00.000Z",
+          "wordCount": 354,
+          "title": "アウトドアや災害時に大活躍！　SOSモードも搭載するLEDライト付きモバイルバッテリー"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065193/?rss",
+          "author": null,
+          "description": "アスキーストアでは、耳を塞がないのでさまざまな用途に使いやすい骨伝導イヤホン「ActiBone」を販売中。",
+          "link": "https://ascii.jp/elem/000/004/065/4065193/?rss",
+          "publishedOn": "2021-08-09T09:00:00.000Z",
+          "wordCount": 340,
+          "title": "最大5時間の長時間音楽再生！ 骨伝導イヤホン「ActiBone」"
+        },
+        {
           "id": "https://ascii.jp/elem/000/004/065/4065207/?rss",
           "author": null,
           "description": "やよい軒は8月17日～26日、テイクアウト「おうち定食」の4商品を期間限定で100円引きの特別価格で販売する。",
@@ -6506,6 +6542,15 @@
           "publishedOn": "2021-08-09T07:30:00.000Z",
           "wordCount": 352,
           "title": "やよい軒テイクアウト100円引き！ 8月第2弾は「木須肉と鶏チリ」など対象"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065394/?rss",
+          "author": null,
+          "description": "ヘッドマウントディスプレイ（HMD）市場ーテクノロジー別（AR、VR）、アプリケーション別（消費者、商業、企業・産業など）、製品別、コンポーネント別、接続性別、および地域別ー世界的な予測2030年",
+          "link": "https://ascii.jp/elem/000/004/065/4065394/?rss",
+          "publishedOn": "2021-08-09T07:19:04.000Z",
+          "wordCount": 550,
+          "title": "ヘッドマウントディスプレイ（HMD）市場ーテクノロジー別（AR、VR）、アプリケーション別（消費者、商業、企業・産業など）、製品別、コンポーネント別、接続性別、および地域別ー世界的な予測2030年"
         },
         {
           "id": "https://ascii.jp/elem/000/004/065/4065393/?rss",
@@ -14953,6 +14998,312 @@
       "siteUrl": "https://news.mynavi.jp/",
       "articles": [
         {
+          "id": "https://news.mynavi.jp/article/20210809-1942867/index.html",
+          "author": null,
+          "description": "時給で単純労働をしてくれる人がいるからこそ、世の中の便利なサービスが受けられることも事実です。しかし、世の中に何事かを成したいと思うなら、時給でお金がもらえるラクな仕事から真っ先に足を洗ったほうがよい…",
+          "link": "https://news.mynavi.jp/article/20210809-1942867/index.html",
+          "publishedOn": "2021-08-09T12:40:00.000Z",
+          "wordCount": 304,
+          "title": "「時給や月給で働く人」が貧困化する理由"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942865/index.html",
+          "author": null,
+          "description": "9日、明治安田生命J1リーグ第23節が各地で行われた。\n　東京オリンピック開催による中断期間を経て、約1ヶ月ぶりに本格再開となったJ1。各クラブで選手の補強も敢行されており、いよいよシーズン終盤の優",
+          "link": "https://news.mynavi.jp/article/20210809-1942865/index.html",
+          "publishedOn": "2021-08-09T12:29:39.000Z",
+          "wordCount": 414,
+          "title": "J1が本格再開！　横浜FCが今季初の連勝…川崎Fは無敗記録を維持／J1第23節"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942858/index.html",
+          "author": null,
+          "description": "国家公務員の定年年齢を65歳に引き上げることが2021年6月に決まりました。現在の60歳を2023年度から2年ごとに1歳ずつ上げていき、2031年度に65歳定年となります。地方公務員もこれに準じます。…",
+          "link": "https://news.mynavi.jp/article/20210809-1942858/index.html",
+          "publishedOn": "2021-08-09T12:20:00.000Z",
+          "wordCount": 323,
+          "title": "国家公務員の「老後」って？ 定年後も働いている人の収入はどれくらい？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942855/index.html",
+          "author": null,
+          "description": "映画『かぐや様は告らせたい ～天才たちの恋愛頭脳戦～ ファイナル』(8月20日公開)の公開直前イベントが9日に都内で行われ、平野紫耀(King ＆ Prince)、橋本環奈が登場した。",
+          "link": "https://news.mynavi.jp/article/20210809-1942855/index.html",
+          "publishedOn": "2021-08-09T12:17:59.000Z",
+          "wordCount": 321,
+          "title": "橋本環奈、イベントの段取りまで考慮「大人になりすぎ!」高校生には的確アドバイス"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942857/index.html",
+          "author": null,
+          "description": "○ 広島 8 － 2 ソフトバンク ●\n＜エキシビションマッチ・マツダスタジアム＞\n\n　広島がソフトバンクとのエキシビションマッチに快勝。13日に再開するシーズン後半戦を前に、期待の若手が状態の…",
+          "link": "https://news.mynavi.jp/article/20210809-1942857/index.html",
+          "publishedOn": "2021-08-09T12:14:53.000Z",
+          "wordCount": 312,
+          "title": "広島、若手躍動で鷹に快勝　大道6回1失点、小園3安打2打点＆林豪快弾！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942866/index.html",
+          "author": null,
+          "description": "9日に明治安田生命J1リーグ第23節が行われ、大分トリニータと川崎フロンターレが対戦した。\n　現在J2降格圏内の18位につける大分と、首位を走る川崎Fの対戦。現在、川崎は27戦無敗とJ1記録を更新中",
+          "link": "https://news.mynavi.jp/article/20210809-1942866/index.html",
+          "publishedOn": "2021-08-09T11:55:40.000Z",
+          "wordCount": 312,
+          "title": "川崎F、アウェイ大分戦に快勝で28戦無敗！　L・ダミアン&#038;遠野弾で昨季のリベンジ果たす"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942841/index.html",
+          "author": null,
+          "description": "映画「ハウルの動く城」のハウルの部屋をイメージした新商品「Howl’s Sleeping room」シリーズが、Donguri Closetより8月26日に発売される。",
+          "link": "https://news.mynavi.jp/article/20210809-1942841/index.html",
+          "publishedOn": "2021-08-09T11:42:00.000Z",
+          "wordCount": 294,
+          "title": "「ハウルの動く城」ハウルの部屋をイメージした布団カバー、巾着、トートバッグなど"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942830/index.html",
+          "author": null,
+          "description": "この記事では、Twitterのアイコン（プロフィール画像）に使える画像を提供する無料素材サイトを紹介します。いずれも著作権クレジットの記載が不要な画像素材を扱っているので、安心して利用できます。",
+          "link": "https://news.mynavi.jp/article/20210809-1942830/index.html",
+          "publishedOn": "2021-08-09T11:41:39.000Z",
+          "wordCount": 498,
+          "title": "Twitterのアイコンに使える、無料素材サイト12選 - 著作権クレジット不要"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942831/index.html",
+          "author": null,
+          "description": "貧乏体質を改善する心との向き合い方について解説します。「貧乏体質には3大原則があります」というのは、心理カウンセラーの石原加受子さん。その3つとは「罪悪感」「争うこと」「我慢すること」だといいます。こ…",
+          "link": "https://news.mynavi.jp/article/20210809-1942831/index.html",
+          "publishedOn": "2021-08-09T11:30:00.000Z",
+          "wordCount": 310,
+          "title": "お金持ちになれない「貧乏体質の3大原則」とは？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942842/index.html",
+          "author": null,
+          "description": "木村拓哉が親交のあるゲストを迎え、人生をしなやかに生きていく様や、ゲストの秘めた魅力や強さに迫るTOKYO FMの番組「木村拓哉 Flow supported by GYAO!」。8月のゲストには、モデルでタレントの“みちょぱ”こと池田美優さんが登場。8月1日（日）の放送では、みちょぱさんがギャルに憧れたきっかけや、ギャル遍歴を語りました。また、“パラパラ”トークでは、「SMAP×SMAP」のなかで木村が演じたキャラクター、“バッキー木村”の誕生秘話も……!?",
+          "link": "https://news.mynavi.jp/article/20210809-1942842/index.html",
+          "publishedOn": "2021-08-09T11:30:00.000Z",
+          "wordCount": 326,
+          "title": "木村拓哉「パラパラは何気にムズイ」みちょぱの“ギャル遍歴”トークで、“バッキー木村”誕生秘話を明かす"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942821/index.html",
+          "author": null,
+          "description": "○ オリックス 11 － 2 DeNA ●\n＜エキシビションマッチ・京セラD大阪＞\n\n　オリックスは9日、京セラドーム大阪でのエキシビションマッチでDeNAと対戦。3-1の2点リードで迎えた8回…",
+          "link": "https://news.mynavi.jp/article/20210809-1942821/index.html",
+          "publishedOn": "2021-08-09T11:09:16.000Z",
+          "wordCount": 323,
+          "title": "オリックスはエキシビ快勝締め　中嶋監督が総括「いろんな見方できた」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942835/index.html",
+          "author": null,
+          "description": "9日に明治安田生命J1リーグ第23節が行われ、ヴィッセル神戸と柏レイソルが対戦した。\n　中断期間にセルティックへFW古橋亨梧を放出しながらも、FW武藤嘉紀やFW大迫勇也の獲得を決めた現在3位の神戸。",
+          "link": "https://news.mynavi.jp/article/20210809-1942835/index.html",
+          "publishedOn": "2021-08-09T11:03:58.000Z",
+          "wordCount": 318,
+          "title": "柏、後半ATの劇的ゴールでリーグ戦2連勝！　3位神戸は8試合ぶりの黒星"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942713/index.html",
+          "author": null,
+          "description": "俳優の竜星涼が主演を務める、テレビ東京の新サタドラ枠『家、ついて行ってイイですか?』(8月14日スタート 毎週土曜23:25～)のゲストが9日、明らかになった。",
+          "link": "https://news.mynavi.jp/article/20210809-1942713/index.html",
+          "publishedOn": "2021-08-09T11:00:00.000Z",
+          "wordCount": 357,
+          "title": "ドラマ版『家、ついて-』、岡田龍太郎・伊藤あさひ・小野塚勇人らゲスト出演"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942836/index.html",
+          "author": null,
+          "description": "9日に明治安田生命J1第23節が行われ、清水エスパルスと横浜F・マリノスが対戦した。\n　1ヶ月以上ぶりの公式戦を迎えた清水と、3日の第6節ガンバ大阪戦でケヴィン・マスカット監督の下で初勝利となる7連",
+          "link": "https://news.mynavi.jp/article/20210809-1942836/index.html",
+          "publishedOn": "2021-08-09T10:59:45.000Z",
+          "wordCount": 317,
+          "title": "清水、途中出場MF西澤の同点弾で勝ち点1を獲得…横浜FMの連勝は7でストップ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942810/index.html",
+          "author": null,
+          "description": "映画『かぐや様は告らせたい ～天才たちの恋愛頭脳戦～ ファイナル』(8月20日公開)の公開直前イベントが9日に都内で行われ、平野紫耀(King ＆ Prince)、橋本環奈が登場した。",
+          "link": "https://news.mynavi.jp/article/20210809-1942810/index.html",
+          "publishedOn": "2021-08-09T10:53:16.000Z",
+          "wordCount": 332,
+          "title": "平野紫耀＆橋本環奈、アクリル板越しに2人でハート! 意外な「非常口大好き」告白も"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942804/index.html",
+          "author": null,
+          "description": "◆ 白球つれづれ2021～第32回・悲願の金メダル\n\n　東京オリンピック（五輪）における野球の日本代表チームがついに世界の頂点に立った。\n\n　1984年のロサンゼルス五輪で金メダルを獲得してい…",
+          "link": "https://news.mynavi.jp/article/20210809-1942804/index.html",
+          "publishedOn": "2021-08-09T10:32:35.000Z",
+          "wordCount": 319,
+          "title": "金メダル奪取！侍ジャパン・稲葉監督の人間力野球【白球つれづれ】"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942811/index.html",
+          "author": null,
+          "description": "芥見下々原作によるTVアニメ「呪術廻戦」の伏黒恵、五条悟、宿儺のネックレスがムービックより2022年1月21日に発売される。",
+          "link": "https://news.mynavi.jp/article/20210809-1942811/index.html",
+          "publishedOn": "2021-08-09T10:32:00.000Z",
+          "wordCount": 289,
+          "title": "「呪術廻戦」伏黒恵、五条悟、宿儺の領域展開をイメージしたネックレス"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942802/index.html",
+          "author": null,
+          "description": "9日に予定されていた明治安田生命J2リーグ第24節ツエーゲン金沢対V･ファーレン長崎戦が試合中止となった。\n　試合は『石川県西部緑地公園陸上競技場』にて、19時からのキックオフを予定していた。しかし",
+          "link": "https://news.mynavi.jp/article/20210809-1942802/index.html",
+          "publishedOn": "2021-08-09T10:30:12.000Z",
+          "wordCount": 293,
+          "title": "J2第24節金沢vs長崎、激しい風雨のため試合中止に…代替日は未定"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942798/index.html",
+          "author": null,
+          "description": "以前、自分の見聞を広げることが貧困からの脱出の第一歩と書きました。過度な節約をやめて外にでるべきだと。それが収入UPの道へと通じると思うからです。しかし、この記事では逆説的にはなりますが、それでも限り…",
+          "link": "https://news.mynavi.jp/article/20210809-1942798/index.html",
+          "publishedOn": "2021-08-09T10:30:00.000Z",
+          "wordCount": 313,
+          "title": "まずは貯金30万円！貧困女子から脱出する3つの鉄則"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942803/index.html",
+          "author": null,
+          "description": "バルセロナに所属するアルゼンチン代表FWセルヒオ・アグエロは、シーズン序盤戦を欠場するようだ。9日、スペイン紙『アス』が報じた。\n　アグエロは右足ふくらはぎの負傷のため、8日に行われたジョアン・ガン",
+          "link": "https://news.mynavi.jp/article/20210809-1942803/index.html",
+          "publishedOn": "2021-08-09T10:17:01.000Z",
+          "wordCount": 295,
+          "title": "バルサ新加入のFWアグエロ、ふくらはぎの腱断裂か…約10週間の離脱へ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942789/index.html",
+          "author": null,
+          "description": "【セド・グロ vs クラウン Vol.1】頂点の宿命を背負ったライバル 日本のモータリゼーションを発展させてきたクラウン。その対抗馬としてつねに先進性を追求したセドリックとグロリア。最高のパーソナルサルーンという頂点に立つことを宿命づけられ・・・",
+          "link": "https://news.mynavi.jp/article/20210809-1942789/index.html",
+          "publishedOn": "2021-08-09T10:00:00.000Z",
+          "wordCount": 365,
+          "title": "【1979年-1987年】6代に渡りモデルチェンジサイクルが重なったライバル｜セド・グロ vs クラウン　Vol.1"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942777/index.html",
+          "author": null,
+          "description": "歌手でタレントのファーストサマーウイカが9日、東京・六本木で行われた映画『ザ・スーサイド・スクワッド “極“悪党、集結』(8月13日公開)のジャパンプレミア試写会に山寺宏一、宮野真守とともに出席。真っ赤な ハーレイ・クインのコスプレを披露して会場を魅了した。",
+          "link": "https://news.mynavi.jp/article/20210809-1942777/index.html",
+          "publishedOn": "2021-08-09T09:57:17.000Z",
+          "wordCount": 324,
+          "title": "ファーストサマーウイカ、胸元ざっくり ハーレイ・クインのコスプレ披露"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942781/index.html",
+          "author": null,
+          "description": "声優・山寺宏一が9日、東京・六本木で行われた映画『ザ・スーサイド・スクワッド “極“悪党、集結』(8月13日公開)のジャパンプレミア試写会に宮野真守、ファーストサマーウイカとともに出席。あけすけトークで会場を盛り上げた。",
+          "link": "https://news.mynavi.jp/article/20210809-1942781/index.html",
+          "publishedOn": "2021-08-09T09:47:37.000Z",
+          "wordCount": 325,
+          "title": "山寺宏一、結婚後初イベントでハッスル　宮野真守に鋭いツッコミも"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942773/index.html",
+          "author": null,
+          "description": "老後のお金や生活費が足りるのか不安ですよね。老後生活の収入の柱になるのが「老齢年金」ですが、年金制度にまつわることは、難しい用語が多くて、ますます不安になってしまう人もいるのではないでしょうか。そんな…",
+          "link": "https://news.mynavi.jp/article/20210809-1942773/index.html",
+          "publishedOn": "2021-08-09T09:30:00.000Z",
+          "wordCount": 306,
+          "title": "年金を一部分だけ繰上げ受給することもできるの？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942771/index.html",
+          "author": null,
+          "description": "下田麻美が第1子となる男児の出産を自身のブログで報告した。",
+          "link": "https://news.mynavi.jp/article/20210809-1942771/index.html",
+          "publishedOn": "2021-08-09T09:21:00.000Z",
+          "wordCount": 289,
+          "title": "下田麻美が第1子となる男児を出産「感謝の気持ちでいっぱいです…！」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1941488/index.html",
+          "author": null,
+          "description": "アイドルグループ・ジャニーズWESTの濱田崇裕が主演する日本テレビのドラマ『武士スタント逢坂くん!』(毎週月曜24:59～)の第3話が、きょう9日に放送される。",
+          "link": "https://news.mynavi.jp/article/20210809-1941488/index.html",
+          "publishedOn": "2021-08-09T09:00:00.000Z",
+          "wordCount": 320,
+          "title": "濱田崇裕「挙動不信感が出ているので注目してほしい」『逢坂くん』"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942530/index.html",
+          "author": null,
+          "description": "映像配信サービスのdTVが9日、野球映画に関するアンケート結果を発表した。",
+          "link": "https://news.mynavi.jp/article/20210809-1942530/index.html",
+          "publishedOn": "2021-08-09T09:00:00.000Z",
+          "wordCount": 340,
+          "title": "甲子園の熱闘に負けない野球映画は? 断トツの人気は『ROOKIES -卒業-』"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942659/index.html",
+          "author": null,
+          "description": "Kis-My-Ft2の藤ヶ谷太輔が、7日に放送されたラジオ番組『藤ヶ谷太輔 Peaceful Days』(ニッポン放送/毎週土曜22:30～23:00)に出演。デビュー10周年を迎えるにあたり、10年の変化や今後について赤裸々に語った。",
+          "link": "https://news.mynavi.jp/article/20210809-1942659/index.html",
+          "publishedOn": "2021-08-09T09:00:00.000Z",
+          "wordCount": 322,
+          "title": "藤ヶ谷太輔、俳優業で悩んだ過去「本当に大変で」「何年かかったかな…」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942758/index.html",
+          "author": null,
+          "description": "2021年7月8日（木）より放送中のTVアニメ『白い砂のアクアトープ』の第6話あらすじ＆先行場面カットが公開された。TVアニメ『白い砂のアクアトープ』はP.A.WORKS完全新作オリジナルアニメーション。本作の舞台となるのは、沖縄県南城市に・・・",
+          "link": "https://news.mynavi.jp/article/20210809-1942758/index.html",
+          "publishedOn": "2021-08-09T09:00:00.000Z",
+          "wordCount": 301,
+          "title": "『白い砂のアクアトープ』第6話 がまがま水族館の新たな名物作り！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942770/index.html",
+          "author": null,
+          "description": "麻生太郎財務相兼金融担当相は７月16日の閣議後会見で、新型コロナウイルス対策として酒類提供停止要請に応じない飲食店をめぐる政策の混乱について釈明に追われた。麻生氏は「一般的な感染症対策を呼びかけるという認識が事務方で共有されていた。そこは問・・・",
+          "link": "https://news.mynavi.jp/article/20210809-1942770/index.html",
+          "publishedOn": "2021-08-09T09:00:00.000Z",
+          "wordCount": 262,
+          "title": "【財務省】「酒類提供停止要請」問題で釈明に追われた麻生大臣"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-sumikkorapit/index.html",
+          "author": null,
+          "description": "南海電気鉄道は8月7日から、「すみっコぐらしラッピングラピート」の運行を開始。運行初日に難波駅で車両がお披露目された。人気キャラクター「すみっコぐらし」のラッピング電車ということもあり、親子連れや女性の見学者も多かった。",
+          "link": "https://news.mynavi.jp/article/20210809-sumikkorapit/index.html",
+          "publishedOn": "2021-08-09T08:45:19.000Z",
+          "wordCount": 362,
+          "title": "南海電鉄「すみっコぐらしラッピングラピート」より涼しげな車両に"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942772/index.html",
+          "author": null,
+          "description": "アルゼンチン代表FWリオネル・メッシの退団にショックを受けるバルセロナのファンが、フランス代表DFサミュエル・ユムティティら同クラブの複数選手にブーイングを浴びせた。9日、スペイン紙『マルカ』が伝え",
+          "link": "https://news.mynavi.jp/article/20210809-1942772/index.html",
+          "publishedOn": "2021-08-09T08:41:21.000Z",
+          "wordCount": 294,
+          "title": "メッシ退団のバルサ、ファンの矛先は高給選手へ…ユムティティらにブーイング"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942754/index.html",
+          "author": null,
+          "description": "TVアニメ「魔女の旅々」に登場するサヤ、アムネシアのぬいぐるみが、12月10日にムービックより発売される。",
+          "link": "https://news.mynavi.jp/article/20210809-1942754/index.html",
+          "publishedOn": "2021-08-09T08:39:00.000Z",
+          "wordCount": 288,
+          "title": "アニメ「魔女の旅々」サヤとアムネシアが“だるぐるみ”に、サヤの帽子は着脱可"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942759/index.html",
+          "author": null,
+          "description": "串カツ田中は8月6日、 ECサイト「串カツ田中オンラインショップ」において、「串カツ田中秘伝のソース」の限定販売を開始した。これまで門外不出だったソースの初の販売となる。また、店舗でも販売している「激辛ソース」と「たこ焼きソース」の取り扱い・・・",
+          "link": "https://news.mynavi.jp/article/20210809-1942759/index.html",
+          "publishedOn": "2021-08-09T08:30:00.000Z",
+          "wordCount": 268,
+          "title": "串カツ田中、門外不出の「串カツ田中秘伝のソース」発売 顧客の声に応え、ECサイト限定で販売"
+        },
+        {
           "id": "https://news.mynavi.jp/article/byplayer-73/index.html",
           "author": null,
           "description": "幼少期から熱血ドラマオタクというライター、エッセイストの小林久乃が、テレビドラマでキラッと光る\"脇役＝バイプレイヤー\"にフィーチャーしていく連載『バイプレイヤーの泉』。第73回はタレントの岸優太さん(King & Prince)について。現在『ナイト・ドクター』(フジテレビ系)に出演中の岸さん。バラエティ番組で見せてくれるポンコツキャラは完全封印、俳優・岸優太として挑んでいるステージは月9枠。CDデビュー以来、初のテレビドラマ出演が人気の放送帯とは、令和のトップアイドルなのだと改めて思う。そんな彼が見せてくれる演技についてつらつらと。",
@@ -14996,6 +15347,15 @@
           "publishedOn": "2021-08-09T08:01:52.000Z",
           "wordCount": 370,
           "title": "オウルテック、1本で2種類のペン先を持つ静電式の鉛筆型タッチペン"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942813/index.html",
+          "author": null,
+          "description": "声優・歌手として活躍する水樹奈々がパーソナリティをつとめるTOKYO FMの番組「水樹奈々のMの世界」。8月2日（月）の放送では、リスナーのちょっぴりピンキーなエピソードを紹介するコーナー「キャノンボール水樹のミズガメッシュナイト!!!」をお届け。今回から新テーマがスタートです。",
+          "link": "https://news.mynavi.jp/article/20210809-1942813/index.html",
+          "publishedOn": "2021-08-09T08:00:00.000Z",
+          "wordCount": 334,
+          "title": "水樹奈々「刺激が欲しくて…」TikTokのカップル動画で“若者の生態”を勉強中!?"
         },
         {
           "id": "https://news.mynavi.jp/article/20210809-1942655/index.html",
