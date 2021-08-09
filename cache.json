@@ -12,6 +12,24 @@
       "siteUrl": "https://www.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/09/news007.html",
+          "author": null,
+          "description": "コバルトの問題が難問過ぎるので、今注目を集めているのが、従来のハイコバルト系リチウムイオン電池に代わる方式だ。最も早く話題になったのがリン酸鉄電池である。ついでナトリウム電池、そしてニッケル水素のバイポーラ型電池。長らく次期エースと目されている全固体電池もある。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/09/news007.html",
+          "publishedOn": "2021-08-09T01:50:00.000Z",
+          "wordCount": 129,
+          "title": "[ITmedia ビジネスオンライン] レアメタル戦争の背景　EVの行く手に待ち受ける試練（中編）"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/09/news003.html",
+          "author": null,
+          "description": "ビズヒッツは、手取り25万円の男女426人を対象に調査を実施。手取り25万円できついと思うこと、理想の手取り額について聞いた。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/09/news003.html",
+          "publishedOn": "2021-08-09T01:30:00.000Z",
+          "wordCount": 130,
+          "title": "[ITmedia ビジネスオンライン] 「手取り25万円できついと思うこと」ランキング　1位は？"
+        },
+        {
           "id": "https://www.itmedia.co.jp/business/articles/2108/09/news019.html",
           "author": null,
           "description": "2者間のコミュニケーションにおける「伝える／伝わる」の面白いところは、2つの創造を越えねばならないところです。第1に送り手の「発信・表現」という創造があり、第2に受け手の「受信・読解」という創造があります。送り手側のコミュニケーション技術だけが進んでも、受け手の読解力が育たなければ、豊かで厚みのあるコミュニケーションは生じません。",
@@ -6480,6 +6498,87 @@
       "feedUrl": "https://ascii.jp/rss.xml",
       "siteUrl": "https://ascii.jp/1/",
       "articles": [
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065207/?rss",
+          "author": null,
+          "description": "やよい軒は8月17日～26日、テイクアウト「おうち定食」の4商品を期間限定で100円引きの特別価格で販売する。",
+          "link": "https://ascii.jp/elem/000/004/065/4065207/?rss",
+          "publishedOn": "2021-08-09T07:30:00.000Z",
+          "wordCount": 352,
+          "title": "やよい軒テイクアウト100円引き！ 8月第2弾は「木須肉と鶏チリ」など対象"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065393/?rss",
+          "author": null,
+          "description": "見た目のかわいらしさにもこだわった「懐かしのメロンソーダ風ゼリー」がローソンストア100で登場。",
+          "link": "https://ascii.jp/elem/000/004/065/4065393/?rss",
+          "publishedOn": "2021-08-09T07:00:00.000Z",
+          "wordCount": 340,
+          "title": "108円の「懐かしのメロンソーダ風ゼリー」ローソンストアで"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065392/?rss",
+          "author": null,
+          "description": "バンダイ キャンディ事業部は「食べマス ミニオン2021」を8月10日から全国のローソンにて販売開始",
+          "link": "https://ascii.jp/elem/000/004/065/4065392/?rss",
+          "publishedOn": "2021-08-09T06:00:00.000Z",
+          "wordCount": 356,
+          "title": "ミニオンズが可愛い和菓子に！「食べマス ミニオン」ローソンで発売"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065391/?rss",
+          "author": null,
+          "description": "期間中オリジンで販売中の「焙煎スパイスカレー」を通常価格390円（税別）のところ30円引きの360円（税別）で販売。税込388.8円になります",
+          "link": "https://ascii.jp/elem/000/004/065/4065391/?rss",
+          "publishedOn": "2021-08-09T03:45:00.000Z",
+          "wordCount": 342,
+          "title": "オリジンでカツカレーなどお得！「お盆deカレー祭」開催"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065385/?rss",
+          "author": null,
+          "description": "前回はインテルCPUのプロセス、つまり前工程側の話を説明したので、今回は後工程側の話をしよう。",
+          "link": "https://ascii.jp/elem/000/004/065/4065385/?rss",
+          "publishedOn": "2021-08-09T03:00:00.000Z",
+          "wordCount": 610,
+          "title": "3D積層技術Foverosを進化させて集積化と発熱低減を狙う　インテル CPUロードマップ"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065361/?rss",
+          "author": null,
+          "description": "アップルのMac向け次期OS「macOS 12 Monterey」。公開されているパブリックベータから、注目機能をピックアップして紹介する。",
+          "link": "https://ascii.jp/elem/000/004/065/4065361/?rss",
+          "publishedOn": "2021-08-09T03:00:00.000Z",
+          "wordCount": 410,
+          "title": "仕事&エンタメに無双の活躍！macOS Montereyパブリックベータを試す"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065191/?rss",
+          "author": null,
+          "description": "メインポケットを拡張すれば12.9型iPadも収納できるスリングバッグ「niid R1 Sling Bag」販売中。価格は1万9250円。",
+          "link": "https://ascii.jp/elem/000/004/065/4065191/?rss",
+          "publishedOn": "2021-08-09T03:00:00.000Z",
+          "wordCount": 366,
+          "title": "クラウドファンディングで大人気だったバッグ「niid R1 Sling Bag」"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064845/?rss",
+          "author": null,
+          "description": "今回のオスス麺は、東中神駅南口から徒歩3分ほどの「○決（まるひろ）」。15年以上ワンコイン500円の据え置き価格で「中華そば」を提供している。",
+          "link": "https://ascii.jp/elem/000/004/064/4064845/?rss",
+          "publishedOn": "2021-08-09T03:00:00.000Z",
+          "wordCount": 373,
+          "title": "どこか懐かしさを感じる“昔ながらの中華そば”をワンコインで！ ○決（まるひろ）東京・東中神【ZATSUのオスス麺 in 武蔵野・多摩】第66回"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065300/?rss",
+          "author": null,
+          "description": "8月9日～15日に新発売される商品や、おすすめキャンペーンをグルメ情報をアスキーグルメがピックアップ。",
+          "link": "https://ascii.jp/elem/000/004/065/4065300/?rss",
+          "publishedOn": "2021-08-09T02:00:00.000Z",
+          "wordCount": 408,
+          "title": "今週の注目グルメ～松屋「新・牛焼肉定食」、かやらま感謝祭セールなど～（8月9日～15日）"
+        },
         {
           "id": "https://ascii.jp/elem/000/004/065/4065145/?rss",
           "author": null,
@@ -14853,6 +14952,456 @@
       "feedUrl": "https://news.mynavi.jp/rss/index",
       "siteUrl": "https://news.mynavi.jp/",
       "articles": [
+        {
+          "id": "https://news.mynavi.jp/article/byplayer-73/index.html",
+          "author": null,
+          "description": "幼少期から熱血ドラマオタクというライター、エッセイストの小林久乃が、テレビドラマでキラッと光る\"脇役＝バイプレイヤー\"にフィーチャーしていく連載『バイプレイヤーの泉』。第73回はタレントの岸優太さん(King & Prince)について。現在『ナイト・ドクター』(フジテレビ系)に出演中の岸さん。バラエティ番組で見せてくれるポンコツキャラは完全封印、俳優・岸優太として挑んでいるステージは月9枠。CDデビュー以来、初のテレビドラマ出演が人気の放送帯とは、令和のトップアイドルなのだと改めて思う。そんな彼が見せてくれる演技についてつらつらと。",
+          "link": "https://news.mynavi.jp/article/byplayer-73/index.html",
+          "publishedOn": "2021-08-09T08:30:00.000Z",
+          "wordCount": 345,
+          "title": "バイプレイヤーの泉 第73回 『ナイト・ドクター』岸優太、演技でも感じる純度の高さ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942747/index.html",
+          "author": null,
+          "description": "７月29日に横浜市都筑区のグラウンドで、同区の小学生学童チーム、中学野球部、高校野球部の連携事業である「都筑インディペンデントリーグ」の合同練習交流会が行われました。これは同区内の小中高の選手、指導者…",
+          "link": "https://news.mynavi.jp/article/20210809-1942747/index.html",
+          "publishedOn": "2021-08-09T08:12:58.000Z",
+          "wordCount": 331,
+          "title": "野球の底辺拡大、競技者増を目指す「都筑インディペンデントリーグ」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942734/index.html",
+          "author": null,
+          "description": "カシオ計算機の耐衝撃ウオッチ「G-SHOCK」に、8月の新作として「GA-2100」シリーズのバリエーションモデルが登場した。カラーが異なる3モデルをラインナップし、価格はいずれも14,850円。",
+          "link": "https://news.mynavi.jp/article/20210809-1942734/index.html",
+          "publishedOn": "2021-08-09T08:10:16.000Z",
+          "wordCount": 374,
+          "title": "G-SHOCK、八角形ベゼル「GA-2100」にシックなカラーの新作"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942733/index.html",
+          "author": null,
+          "description": "スイスの時計ブランド「ミドー」から、1937年製の「マルチフォート マルチクロノ」を再現した機械式時計「マルチフォート パトリモニー クロノグラフ」が登場している。",
+          "link": "https://news.mynavi.jp/article/20210809-1942733/index.html",
+          "publishedOn": "2021-08-09T08:07:01.000Z",
+          "wordCount": 383,
+          "title": "ミドー、1937年の名作をオマージュした機械式クロノグラフ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942727/index.html",
+          "author": null,
+          "description": "オウルテックから、静電式の鉛筆型タッチペンが発売された。レギュラーサイズ「OWL-TPSE08」とショートサイズ「OWL-TPSE09」に、それぞれマルーン、ブラック、グリーンの3色を用意する。",
+          "link": "https://news.mynavi.jp/article/20210809-1942727/index.html",
+          "publishedOn": "2021-08-09T08:01:52.000Z",
+          "wordCount": 370,
+          "title": "オウルテック、1本で2種類のペン先を持つ静電式の鉛筆型タッチペン"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942655/index.html",
+          "author": null,
+          "description": "V6の井ノ原快彦が、7日に放送されたラジオ番組『V6 Next Generation』(JFN系/毎週土曜21:00～21:55)に出演。懐かしい仲間たちと再会した胸中を語った。",
+          "link": "https://news.mynavi.jp/article/20210809-1942655/index.html",
+          "publishedOn": "2021-08-09T08:00:00.000Z",
+          "wordCount": 315,
+          "title": "井ノ原快彦、仲間たちとの再会にしみじみ「人に会わせてもらってるなぁ」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942740/index.html",
+          "author": null,
+          "description": "スピリチュアリストの江原啓之が、現代社会でさまざまな悩みに直面している人たちに温かい“ことば”を届けるTOKYO FMの番組「Dr.Recella presents江原啓之 おと語り」。今回は、人の“寿命”についての相談を紹介。江原が“ことば”を届けました。",
+          "link": "https://news.mynavi.jp/article/20210809-1942740/index.html",
+          "publishedOn": "2021-08-09T08:00:00.000Z",
+          "wordCount": 356,
+          "title": "生まれる前から「死ぬ日」は決まっているの？ 相談者の疑問に江原啓之が回答"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942741/index.html",
+          "author": null,
+          "description": "“芸能界最強占い師”といわれ、テレビ・ラジオ・雑誌など、さまざまなメディアで活躍中のゲッターズ飯田が贈る、今週しあわせになる、ちょっといい言葉。",
+          "link": "https://news.mynavi.jp/article/20210809-1942741/index.html",
+          "publishedOn": "2021-08-09T08:00:00.000Z",
+          "wordCount": 334,
+          "title": "ゲッターズ飯田「成功者になるためには？」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942728/index.html",
+          "author": null,
+          "description": "現在放送中のTVアニメ『100万の命の上に俺は立っている』第2シーズンのEDテーマ『Subversive』。力強い歌声でアニメの世界観を表現するのは、高槻かなこさん。主題歌に込めた想いや洋楽のように聞こえる秘密、カップリング曲の制作背景など・・・",
+          "link": "https://news.mynavi.jp/article/20210809-1942728/index.html",
+          "publishedOn": "2021-08-09T08:00:00.000Z",
+          "wordCount": 334,
+          "title": "『俺100』のEDに隠された音の秘密。高槻かなこが語る『Subversive』"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942745/index.html",
+          "author": null,
+          "description": "9日に明治安田生命J1リーグ第23節が行われ、北海道コンサドーレ札幌と浦和レッズが対戦した。\n　オリンピックによる中断期間を終えて、約1ヶ月ぶりの再開となったJ1。シーズン途中にFWアンデルソン・ロ",
+          "link": "https://news.mynavi.jp/article/20210809-1942745/index.html",
+          "publishedOn": "2021-08-09T07:55:43.000Z",
+          "wordCount": 315,
+          "title": "札幌、深井&#038;小柏のゴールで3試合ぶり白星！　MF江坂デビューの浦和に競り勝つ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942746/index.html",
+          "author": null,
+          "description": "バルセロナの元スペイン代表DFジェラール・ピケが、アルゼンチン代表FWリオネル・メッシの退団について語った。9日、スペイン紙『アス』が伝えた。\n　2004年からバルセロナのトップチームでプレーし、ク",
+          "link": "https://news.mynavi.jp/article/20210809-1942746/index.html",
+          "publishedOn": "2021-08-09T07:50:31.000Z",
+          "wordCount": 294,
+          "title": "ピケ、メッシ退団で前経営陣に苦言も…「僕らは必ず立ち直ることができる」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942723/index.html",
+          "author": null,
+          "description": "ライブイベント「ヒプノシスマイク-Division Rap Battle- 7thLIVE ＜＜SUMMIT OF DIVISIONS＞＞」が、8月7日、8日の2日間に渡り神奈川・横浜ぴあアリーナMMにて行われた。今回はそのDAY2をレポートする。",
+          "link": "https://news.mynavi.jp/article/20210809-1942723/index.html",
+          "publishedOn": "2021-08-09T07:47:00.000Z",
+          "wordCount": 559,
+          "title": "全ディビジョン総力戦のヒプマイ7thライブ、浅沼晋太郎「この景色、これからも忘れねえよ」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942715/index.html",
+          "author": null,
+          "description": "ミニストップは8月10日より、「ビターチョコモナカ」(198円)を全国のミニストップ店で発売する。",
+          "link": "https://news.mynavi.jp/article/20210809-1942715/index.html",
+          "publishedOn": "2021-08-09T07:33:43.000Z",
+          "wordCount": 328,
+          "title": "ベルギーチョコレートを使った「ビターチョコモナカ」が限定発売"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942719/index.html",
+          "author": null,
+          "description": "モーガンは、アドベンチャーを核とした車、プラスフォーCX-Tを発表した。モーガンのスポーツカーではまだ見たことのない性能を持つこの車は、これまでモーガンの車ではアクセスできなかったルート、風景、目的地の可能性を広げる。モーガン・プラス・フォ・・・",
+          "link": "https://news.mynavi.jp/article/20210809-1942719/index.html",
+          "publishedOn": "2021-08-09T07:30:00.000Z",
+          "wordCount": 323,
+          "title": "8台限定！オフロード用のモーガン、プラスフォーCX-Tが登場"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942729/index.html",
+          "author": null,
+          "description": "リユース（中古品販売）業界向けの各種システム開発・販売を行うワサビは8月18日から20日の3日間、運営事務局を務めるオンラインイベント「リユースフェス2021」を開催する。「みんなのリユース～個人も、企業も、みんなで育てるリユースの未来～」・・・",
+          "link": "https://news.mynavi.jp/article/20210809-1942729/index.html",
+          "publishedOn": "2021-08-09T07:30:00.000Z",
+          "wordCount": 265,
+          "title": "ワサビ、リユース業界のあらゆることを学べる「リユースフェス2021」をオンライン開催"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942708/index.html",
+          "author": null,
+          "description": "インテルが、マンチェスター・Uに所属するフランス代表FWアントニー・マルシャルに関心を示しているようだ。8日、イギリス紙『サン』が伝えている。\n　インテルは現在、ベルギー代表FWロメル・ルカクをチェ",
+          "link": "https://news.mynavi.jp/article/20210809-1942708/index.html",
+          "publishedOn": "2021-08-09T07:01:27.000Z",
+          "wordCount": 294,
+          "title": "ルカク移籍に備えるインテル、マンUのマルシャルをリストアップか"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942695/index.html",
+          "author": null,
+          "description": "Koki,が主演を務める映画『牛首村』の追加キャストが9日、明らかになった。",
+          "link": "https://news.mynavi.jp/article/20210809-1942695/index.html",
+          "publishedOn": "2021-08-09T07:00:00.000Z",
+          "wordCount": 328,
+          "title": "Koki,主演『牛首村』に萩原利久、高橋文哉ら9名! ガチ心霊スポットに「ビビってました」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942709/index.html",
+          "author": null,
+          "description": "ローマはレアル・ソシエダに所属するスウェーデン代表FWアレクサンデル・イサクの獲得に動く可能性があるようだ。8日付けでイタリアメディア『Football ITALIA』が伝えている。\n　現在、ローマ",
+          "link": "https://news.mynavi.jp/article/20210809-1942709/index.html",
+          "publishedOn": "2021-08-09T06:54:16.000Z",
+          "wordCount": 294,
+          "title": "ローマがFWイサク獲得に興味…インテルへ移籍噂のジェコの後釜確保へ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1930656/index.html",
+          "author": null,
+          "description": "M1 Macでは仮想環境でIntel Windowsを使うことが難しいため、Windowsを使う方法としてリモートアクセスがこれまでよりも可能性の高い選択肢になってくるのだ。そこで、MacからWindowsにリモートアクセスして利用する方法を紹介しよう。",
+          "link": "https://news.mynavi.jp/article/20210809-1930656/index.html",
+          "publishedOn": "2021-08-09T06:38:24.000Z",
+          "wordCount": 358,
+          "title": "MacからWindowsにリモートアクセスする方法"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942691/index.html",
+          "author": null,
+          "description": "和久井健原作によるTVアニメ「東京リベンジャーズ」のキャストが出演する特別番組「血のハロウィン前哨戦 東卍vs芭流覇羅アベマSP」が、8月14日20時よりABEMAにて独占生放送される。",
+          "link": "https://news.mynavi.jp/article/20210809-1942691/index.html",
+          "publishedOn": "2021-08-09T06:20:00.000Z",
+          "wordCount": 298,
+          "title": "「東リベ」特別番組“血のハロウィン前哨戦”ABEMAで、新祐樹・林勇・水中雅章ら出演"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942686/index.html",
+          "author": null,
+          "description": "食品のサブスクリプションサービスを提供するオイシックス・ラ・大地は8月5日、EC食品宅配サービス「Oisix」の物流拠点となる「ORD海老名ステーション」の竣工式を行った。稼働開始予定は2021年10月からとなる。生鮮食品のネット購入の一般・・・",
+          "link": "https://news.mynavi.jp/article/20210809-1942686/index.html",
+          "publishedOn": "2021-08-09T06:10:00.000Z",
+          "wordCount": 267,
+          "title": "「Oisix」、旗艦物流拠点「ORD海老名ステーション」竣工 再生エネルギー使用の大型冷蔵物流センター"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942676/index.html",
+          "author": null,
+          "description": "コント日本一を決める大会『キングオブコント』。今年の大会から即席ユニットでの参加が認められ、1回戦、2回戦と例年以上の盛り上がりを見せたが、8月13日から準々決勝がスタートする。",
+          "link": "https://news.mynavi.jp/article/20210809-1942676/index.html",
+          "publishedOn": "2021-08-09T06:06:54.000Z",
+          "wordCount": 348,
+          "title": "『キングオブコント』13日から準々決勝　ニューヨークらファイナリストが登場"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942678/index.html",
+          "author": null,
+          "description": "【1972年式 日産サニー クーペGL Vol.1】 色鮮やかなライムグリーンにオールペイントされたB110クーペ。その美しい仕上がりを見たら、まさかこのクルマが水没車とは想像すらできないだろう。2004年7月に新潟県を襲った集中豪雨。この・・・",
+          "link": "https://news.mynavi.jp/article/20210809-1942678/index.html",
+          "publishedOn": "2021-08-09T06:05:00.000Z",
+          "wordCount": 371,
+          "title": "水没からよみがえったB110クーペ！　TS仕様の激速サニー｜1972年式 日産サニー クーペGL　Vol.1"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942582/index.html",
+          "author": null,
+          "description": "お笑いコンビ・ロンドンブーツ1号2号の田村淳が、あす10日に放送される日本テレビ系バラエティ番組『ザ!世界仰天ニュース』(毎週火曜21:00～)に出演する。",
+          "link": "https://news.mynavi.jp/article/20210809-1942582/index.html",
+          "publishedOn": "2021-08-09T06:00:00.000Z",
+          "wordCount": 316,
+          "title": "中居正広、番組アンケートに一言もエピソードを書かない田村淳を追及"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942584/index.html",
+          "author": null,
+          "description": "モデル・タレントの生見愛瑠が、あす10日に放送される日本テレビ系バラエティ番組『ザ!世界仰天ニュース』(毎週火曜21:00～)に出演する。",
+          "link": "https://news.mynavi.jp/article/20210809-1942584/index.html",
+          "publishedOn": "2021-08-09T06:00:00.000Z",
+          "wordCount": 313,
+          "title": "生見愛瑠、冷凍たこ焼きのソースをケトルで沸かして爆発"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942672/index.html",
+          "author": null,
+          "description": "2021年7月22日より放送開始となったアニメ『平穏世代の韋駄天達』。その第4話の先行カット＆あらすじが到着した。またPC用バカンスゲーム『DEAD OR ALIVE Xtreme Venus Vacation』とのコラボも決定した。アニメ・・・",
+          "link": "https://news.mynavi.jp/article/20210809-1942672/index.html",
+          "publishedOn": "2021-08-09T06:00:00.000Z",
+          "wordCount": 308,
+          "title": "『平穏世代の韋駄天達』第4話、プロンテアを誘いに行こう！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942683/index.html",
+          "author": null,
+          "description": "ドイツ代表MFトニ・クロースが、所属するレアル・マドリードでの新シーズンに向けてインタビューに応じた。8日付けでスペイン紙『マルカ』が伝えている。\n　今夏の移籍市場で、レアル・マドリードはパリ・サン",
+          "link": "https://news.mynavi.jp/article/20210809-1942683/index.html",
+          "publishedOn": "2021-08-09T05:55:39.000Z",
+          "wordCount": 293,
+          "title": "クロース、S・ラモス不在の開幕は「奇妙な気分になるだろう」…新戦力獲得の噂にも言及"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942684/index.html",
+          "author": null,
+          "description": "ヴィッセル神戸は9日、スペイン人FWボージャン・クルキッチが完全移籍で加入することを発表した。\n　現在30歳のボージャンはバルセロナの下部組織出身。17歳の時にトップチームデビューを飾り、同クラブで",
+          "link": "https://news.mynavi.jp/article/20210809-1942684/index.html",
+          "publishedOn": "2021-08-09T05:28:45.000Z",
+          "wordCount": 296,
+          "title": "神戸、元バルサFWボージャンの加入を発表「大きな挑戦が待ち遠しい」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942685/index.html",
+          "author": null,
+          "description": "8日、レアル・マドリードとミランのプレシーズンマッチが行われた。試合は0－0の引き分けに終わっている。\n　ミランではGKマイク・メニャンとFWオリヴィエ・ジルー、レアル・マドリードではDFダヴィド・",
+          "link": "https://news.mynavi.jp/article/20210809-1942685/index.html",
+          "publishedOn": "2021-08-09T05:20:45.000Z",
+          "wordCount": 293,
+          "title": "ベイルがレアルで約1年ぶりの対外試合…ミランとの親善試合はスコアレスドロー"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942643/index.html",
+          "author": null,
+          "description": "嵐の二宮和也が、8日に放送されたラジオ番組『BAY STORM』(bayfm/毎週日曜22:00～22:30)に出演。ベストアルバム『ウラ嵐BEST』の4タイトルおよび『5×20 All the BEST!! 1999-2019 (Special Edition)』が、「オリコン週間デジタルアルバムランキング」(先月26日付)でトップ5を独占したことについて、喜びを語った。",
+          "link": "https://news.mynavi.jp/article/20210809-1942643/index.html",
+          "publishedOn": "2021-08-09T05:15:13.000Z",
+          "wordCount": 333,
+          "title": "二宮和也、嵐が史上初のトップ5独占で「本当に感謝」「みんなも喜んでる」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942651/index.html",
+          "author": null,
+          "description": "堀越耕平原作によるアニメ「僕のヒーローアカデミア」より、緑谷出久・爆豪勝己・麗日お茶子・轟焦凍をイメージしたリュックとレザーウォレットが、PREMICOオンラインショップにて順次販売される。",
+          "link": "https://news.mynavi.jp/article/20210809-1942651/index.html",
+          "publishedOn": "2021-08-09T05:03:00.000Z",
+          "wordCount": 289,
+          "title": "「ヒロアカ」デク、爆豪、お茶子、轟の“個性”を表現したリュック＆レザーウォレット"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1939820/index.html",
+          "author": null,
+          "description": "BookLiveはこのほど、「怖すぎる!おすすめホラーマンガ」アンケートの結果を発表した。調査期間は2021年7月2～4日、調査対象は総合電子書籍ストア「ブックライブ」会員、有効回答は2,188人。",
+          "link": "https://news.mynavi.jp/article/20210809-1939820/index.html",
+          "publishedOn": "2021-08-09T05:00:00.000Z",
+          "wordCount": 332,
+          "title": "お盆休みに読みたい! 「怖すぎる!おすすめホラーマンガ」ランキング発表"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942647/index.html",
+          "author": null,
+          "description": "ミュージシャン、デザイナー、作家、俳優、職人など、異なるフィールドを舞台に活躍する“ふたり”が語らうTOKYO FMの番組「三井ホーム presents キュレーターズ～マイスタイル×ユアスタイル～」。今回のゲストは、芦田多恵さん（ファッションデザイナー）×柄本弾さん（バレエダンサー）。ここでは、「コロナ禍のクリエーション」について語りあいました。",
+          "link": "https://news.mynavi.jp/article/20210809-1942647/index.html",
+          "publishedOn": "2021-08-09T05:00:00.000Z",
+          "wordCount": 327,
+          "title": "芦田多恵×柄本弾「コロナ禍のクリエーション」を語る「偶然の出来事だったけど、ものすごく意味が深かった」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942646/index.html",
+          "author": null,
+          "description": "ロッテは9日、9月23日のソフトバンク戦(ZOZOマリンスタジアム、14:00試合開始)を対象としてWHITEフリースパーカー、BLACKスウェットパーカー、ALL for CHIBAトートバック＆…",
+          "link": "https://news.mynavi.jp/article/20210809-1942646/index.html",
+          "publishedOn": "2021-08-09T04:59:55.000Z",
+          "wordCount": 305,
+          "title": "ロッテ、9月23日のソフトバンク戦でグッズ付きチケット販売"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942645/index.html",
+          "author": null,
+          "description": "東京ヴェルディは9日、MF井出遥也が負傷したことを発表した。\n　発表によると、井出は7月31日に行われたトレーニングマッチで負傷。内転筋付着部損傷と診断され、全治約2カ月となった。\n　現在27歳の井",
+          "link": "https://news.mynavi.jp/article/20210809-1942645/index.html",
+          "publishedOn": "2021-08-09T04:58:23.000Z",
+          "wordCount": 293,
+          "title": "東京VのMF井出遥也がトレーニングマッチで負傷…全治は約2カ月"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942627/index.html",
+          "author": null,
+          "description": "◆ リーグ戦再開が迫るなか離脱\n\n　オリックスは9日、大城滉二選手（28）が「右膝前十字靭帯損傷」と診断を受けたと発表した。\n\n　大城は8日のエキシビションマッチ・DeNA戦（京セラD大阪）で…",
+          "link": "https://news.mynavi.jp/article/20210809-1942627/index.html",
+          "publishedOn": "2021-08-09T04:11:44.000Z",
+          "wordCount": 299,
+          "title": "オリックス・大城滉二が「右膝前十字靭帯損傷」近日中に手術も含めて検討"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942622/index.html",
+          "author": null,
+          "description": "ニューカッスルが、アーセナルに所属するU－21イングランド代表MFジョー・ウィロックの獲得に近づいているようだ。8日、イギリスメディア『BBC』が伝えている。\n　報道によると、ニューカッスルのスティ",
+          "link": "https://news.mynavi.jp/article/20210809-1942622/index.html",
+          "publishedOn": "2021-08-09T04:09:20.000Z",
+          "wordCount": 293,
+          "title": "ニューカッスル、アーセナルMFウィロック獲得で合意か…移籍金は30億円以上"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942612/index.html",
+          "author": null,
+          "description": "16日に放送されるTBS系音楽番組『CDTVライブ! ライブ!』(毎週月曜21:00～)の出演アーティスト11組が9日、発表された。",
+          "link": "https://news.mynavi.jp/article/20210809-1942612/index.html",
+          "publishedOn": "2021-08-09T04:00:00.000Z",
+          "wordCount": 338,
+          "title": "「CDTV夏フェス」第1夜にKis-My-Ft2、SixTONES、JO1、今市隆二ら11組出演"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942617/index.html",
+          "author": null,
+          "description": "吉田博嗣の新連載「アンダースピリット」が、本日8月9日にヤンマガWebにてスタートした。",
+          "link": "https://news.mynavi.jp/article/20210809-1942617/index.html",
+          "publishedOn": "2021-08-09T03:52:00.000Z",
+          "wordCount": 286,
+          "title": "ディストピアSF「やすお」の吉田博嗣、人間以外に転生したい主人公を描く新連載"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942608/index.html",
+          "author": null,
+          "description": "アイドルグループ・SixTONESの田中樹が、きょう9日放送のテレビ朝日系バラエティ番組『帰れマンデー見っけ隊!!』(18:45～※一部地域は19:00～)に出演する。",
+          "link": "https://news.mynavi.jp/article/20210809-1942608/index.html",
+          "publishedOn": "2021-08-09T03:45:09.000Z",
+          "wordCount": 325,
+          "title": "田中樹「俺はやっぱり平野紫耀にはなれない(笑)」過酷ロケで弱気モード"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942623/index.html",
+          "author": null,
+          "description": "トッテナムが、インテルに所属するアルゼンチン代表FWラウタロ・マルティネスに関心を示していることが明らかとなった。8日、イギリス紙『タイムズ』やイギリスメディア『BBC』などが伝えている。\n　新型コ",
+          "link": "https://news.mynavi.jp/article/20210809-1942623/index.html",
+          "publishedOn": "2021-08-09T03:27:43.000Z",
+          "wordCount": 294,
+          "title": "トッテナム、インテルFWラウタロ獲得で合意報道も…代理人は否定"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942600/index.html",
+          "author": null,
+          "description": "皆さんから寄せられた家計の悩みにお答えする、その名も「マネープランクリニック」。今回の相談者は貯蓄がないまま結婚した30代の新婚女性。ファイナンシャル・プランナーの深野康彦さんが担当します。Aさん女性…",
+          "link": "https://news.mynavi.jp/article/20210809-1942600/index.html",
+          "publishedOn": "2021-08-09T03:20:00.000Z",
+          "wordCount": 307,
+          "title": "41歳の夫は結婚前「貯蓄ゼロ」、今も将来が不安です"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942618/index.html",
+          "author": null,
+          "description": "2021年7月7日（水）より放送中のTVアニメ『月が導く異世界道中』の第6話あらすじ＆先行場面カットが到着した。本作はアルファポリスにて刊行中、シリーズ累計発行部数200万部を突破した『月が導く異世界道中』が原作。平凡な高校生だった深澄真は・・・",
+          "link": "https://news.mynavi.jp/article/20210809-1942618/index.html",
+          "publishedOn": "2021-08-09T03:15:00.000Z",
+          "wordCount": 301,
+          "title": "『月が導く異世界道中』第6話 冒険者の初仕事は順調…かと思いきや⁉︎"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/jiryu_hyoryu-157/index.html",
+          "author": null,
+          "description": "アルバイトがバイト先で悪ふざけをして動画をアップする「バイトテロ」が再び相次いだ。",
+          "link": "https://news.mynavi.jp/article/jiryu_hyoryu-157/index.html",
+          "publishedOn": "2021-08-09T03:00:00.000Z",
+          "wordCount": 376,
+          "title": "カレー沢薫の時流漂流 第157回 プラモ転売擁護で大炎上、大人もバイトテロを笑えない"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942587/index.html",
+          "author": null,
+          "description": "2021年7月4日（日）21:00より放送がスタートした、《ゲッターロボ・サーガ》の最終章となるアニメ『ゲッターロボ アーク』。その第7話の先行カット＆あらすじが到着した。『ゲッターロボ アーク』は、『ゲッターロボ』をはじめとする《ゲッター・・・",
+          "link": "https://news.mynavi.jp/article/20210809-1942587/index.html",
+          "publishedOn": "2021-08-09T03:00:00.000Z",
+          "wordCount": 314,
+          "title": "『ゲッターロボ アーク』第7話、味方か!? 黒い真ゲッターの謎"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942588/index.html",
+          "author": null,
+          "description": "楽天グループは8月5日、インターネットショッピングモール「楽天市場」において、敬老の日に向けた特集ページ「楽天市場 敬老の日特集2021」を公開した。世代間で共通の話題となるようなアイテムや、コロナ禍におけるシニア世代のニーズに対応した「ニ・・・",
+          "link": "https://news.mynavi.jp/article/20210809-1942588/index.html",
+          "publishedOn": "2021-08-09T03:00:00.000Z",
+          "wordCount": 270,
+          "title": "楽天、「敬老の日特集2021」公開 コロナ渦に「ニューノーマル」ギフトを提案"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942585/index.html",
+          "author": null,
+          "description": "「宇宙戦艦ヤマト2205 新たなる旅立ち 前章 -TAKE OFF-」の本予告編がYouTubeで公開された。",
+          "link": "https://news.mynavi.jp/article/20210809-1942585/index.html",
+          "publishedOn": "2021-08-09T03:00:00.000Z",
+          "wordCount": 317,
+          "title": "「宇宙戦艦ヤマト2205」本予告編と結城信輝描き下ろしのメインビジュアル公開"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942592/index.html",
+          "author": null,
+          "description": "Kis-My-Ft2・北山宏光が主演を務める『ただ離婚してないだけ』（テレビ東京系、毎週水曜24:00～）が、先日クランクアップを迎えた。  同ドラマは、本田優貴による人気コミック「ただ離婚してない…",
+          "link": "https://news.mynavi.jp/article/20210809-1942592/index.html",
+          "publishedOn": "2021-08-09T03:00:00.000Z",
+          "wordCount": 298,
+          "title": "キスマイ北山宏光、最後は笑顔で！『ただ離婚してないだけ』クランクアップ報告"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942596/index.html",
+          "author": null,
+          "description": "【1983年式 グロリア 4ドア セダン V30E ブロアム Vol.3】【2】から続く そのほか、減衰力を自動調整する超音波電子制御ショックアブソーバーのスーパーソニックサスペンションや、2つのシフトスケジュールを持つ世界初パワー&・・・",
+          "link": "https://news.mynavi.jp/article/20210809-1942596/index.html",
+          "publishedOn": "2021-08-09T03:00:00.000Z",
+          "wordCount": 391,
+          "title": "「比べてください。ライバルと。」カタログでうたわれたシート｜1983年式 グロリア 4ドア セダン V30E ブロアム　Vol.3"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942572/index.html",
+          "author": null,
+          "description": "好きなことをして好きなだけ稼ぐ！ お金の流れを止めずに、常に循環させることでお金は自然に入ってくる！ お金に関するスピリチュアル体験を通して、独自の理論を説く、ベストセラー作家のはづき虹映（こうえい）…",
+          "link": "https://news.mynavi.jp/article/20210809-1942572/index.html",
+          "publishedOn": "2021-08-09T02:30:00.000Z",
+          "wordCount": 308,
+          "title": "最強の金運を手に入れる！財布グレードアップの方法"
+        },
         {
           "id": "https://news.mynavi.jp/article/20210809-1942549/index.html",
           "author": null,
