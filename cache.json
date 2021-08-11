@@ -12,6 +12,33 @@
       "siteUrl": "https://www.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/12/news029.html",
+          "author": null,
+          "description": "働き手の権利の一つ、「無期転換ルール」。一見すると有期雇用より無期雇用の方が恵まれているようにも思えるが、このルールを希望する人は意外に少ない。なぜなのか？",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/12/news029.html",
+          "publishedOn": "2021-08-11T20:00:00.000Z",
+          "wordCount": 130,
+          "title": "[ITmedia ビジネスオンライン] 権利であるはずの「無期雇用への転換」を、多くの有期雇用労働者が希望しないワケ"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/12/news037.html",
+          "author": null,
+          "description": "リクルートの創業者、江副浩正氏の生涯をたどったノンフィクションが売れている。ジャーナリストの大西康之氏が1月に上梓した『起業の天才！　江副浩正　8兆円企業をつくった男』（東洋経済新報社）はすでに5万部を突破した。ヒットの背景を、著者の大西康之氏に聞いた。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/12/news037.html",
+          "publishedOn": "2021-08-11T20:00:00.000Z",
+          "wordCount": 184,
+          "title": "[ITmedia ビジネスオンライン] ノンフィクションで5万部突破　『起業の天才！　江副浩正　8兆円企業をつくった男』著者に聞くヒットの理由"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/12/news031.html",
+          "author": null,
+          "description": "三井不動産は4月、JAXAとの共創プロジェクト「X-NIHONBASHI Global Hub」を日本橋の室町三井ホールで開催した。米航空宇宙局（NASA）やJAXAのほか、米国で宇宙ビジネスに参入している日本企業の関係者がパネリストとして参加。同イベントを取材し、宇宙ビジネスに取り組む背景を三井不動産に聞いた。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/12/news031.html",
+          "publishedOn": "2021-08-11T20:00:00.000Z",
+          "wordCount": 172,
+          "title": "[ITmedia ビジネスオンライン] 三井不動産がJAXAやベンチャー企業と取り組む宇宙ビジネス創出　「宇宙への道は日本橋から続く六つ目の街道」"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2108/11/news144.html",
           "author": null,
           "description": "EXNOAは11日、Nintendo SwitchとPC（DMM GAME PLAYER）に向け新作アクションゲーム「刀剣乱舞無双」を発売すると発表した。",
@@ -17455,15 +17482,6 @@
           "publishedOn": "2021-07-14T00:42:00.000Z",
           "wordCount": 443,
           "title": "第674回　カーネルのクラッシュ情報を解析する ── Ubuntu Weekly Recipe"
-        },
-        {
-          "id": "https://gihyo.jp/news/nr/2021/07/1301",
-          "author": "技術評論社",
-          "description": "グレープシティ株式会社は2021年7月13日，Windows用画像処理コンポーネント「LEADTOOLS」の最新バージョン「LEADTOOLS 21J」を発売した。",
-          "link": "https://gihyo.jp/news/nr/2021/07/1301",
-          "publishedOn": "2021-07-13T05:44:00.000Z",
-          "wordCount": 347,
-          "title": "グレープシティ，Windows用画像処理コンポーネント「LEADTOOLS」の最新版 「LEADTOOLS 21J」を発売，新機能・新環境の追加および製品構成を変更 ── ニュースリリース"
         }
       ]
     },
@@ -17675,6 +17693,69 @@
       "feedUrl": "https://news.mynavi.jp/rss/index",
       "siteUrl": "https://news.mynavi.jp/",
       "articles": [
+        {
+          "id": "https://news.mynavi.jp/article/20210812-1944577/index.html",
+          "author": null,
+          "description": "俳優の西島秀俊が、21年10月期～22年1月期に2クール放送される日本テレビ系ドラマ『真犯人フラグ』(毎週日曜22:30～)に主演することが12日、明らかになった。秋元康氏が企画・原案を務め、『あなたの番です』の制作スタッフが集結するオリジナルミステリーとなる。",
+          "link": "https://news.mynavi.jp/article/20210812-1944577/index.html",
+          "publishedOn": "2021-08-11T20:00:00.000Z",
+          "wordCount": 335,
+          "title": "西島秀俊×宮沢りえ×芳根京子、秋元康ら『あな番』チームで2クールミステリードラマ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210812-1944587/index.html",
+          "author": null,
+          "description": "俳優の八嶋智人が、フジテレビ系月9ドラマ『ラジエーションハウスII～放射線科の診断レポート～』(10月スタート、毎週月曜21:00～)にレギュラー出演することが12日、明らかになった。",
+          "link": "https://news.mynavi.jp/article/20210812-1944587/index.html",
+          "publishedOn": "2021-08-11T20:00:00.000Z",
+          "wordCount": 312,
+          "title": "八嶋智人、『ラジエーションハウスII』で7年ぶり月9レギュラー"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210812-1944209/index.html",
+          "author": null,
+          "description": "アイドルグループ・嵐の最新映像作品『アラフェス2020 at 国立競技場』がDVD1.8万枚、Blu-ray Disc(以下 BD)1.9万枚の合計3.7万枚を売り上げ、発売2週目も「オリコン週間ミュージック DVD・BDランキング」で1位を獲得した(オリコン調べ・集計期間8月2日～8日)。",
+          "link": "https://news.mynavi.jp/article/20210812-1944209/index.html",
+          "publishedOn": "2021-08-11T19:00:00.000Z",
+          "wordCount": 338,
+          "title": "嵐『アラフェス2020 at 国立競技場』、2週連続1位に　累計枚数71.2万枚"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210812-1944084/index.html",
+          "author": null,
+          "description": "女優の綾瀬はるかが出演する、NTTドコモ「home 5G」の新CM「新登場」編が12日より放送される。",
+          "link": "https://news.mynavi.jp/article/20210812-1944084/index.html",
+          "publishedOn": "2021-08-11T19:00:00.000Z",
+          "wordCount": 319,
+          "title": "綾瀬はるか、世界は“見方で変わる”「例えば雨が降っているから…」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210812-1944259/index.html",
+          "author": null,
+          "description": "アイドルグループ・嵐の二宮和也と女優の川口春奈が、ジェーシービーのCMで初共演することが分かった。新CMシリーズ「SCOOP! JCB」第1弾「セキュリティ」編(30秒・15秒)は、12日より全国で放送される。",
+          "link": "https://news.mynavi.jp/article/20210812-1944259/index.html",
+          "publishedOn": "2021-08-11T19:00:00.000Z",
+          "wordCount": 321,
+          "title": "二宮和也、JCB新CMシリーズで編集長に　エース記者役・川口春奈と初共演"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210812-1944678/index.html",
+          "author": null,
+          "description": "マジョルカは11日、レアル・マドリードに所属する日本代表MF久保建英の獲得を発表した。契約は1シーズンのレンタル移籍で、2シーズンぶりの古巣復帰となった。クラブ公式サイトTwitterは「お帰りなさ",
+          "link": "https://news.mynavi.jp/article/20210812-1944678/index.html",
+          "publishedOn": "2021-08-11T17:57:05.000Z",
+          "wordCount": 295,
+          "title": "マジョルカ、久保建英の2季ぶり復帰を正式発表！…レアルから1年のレンタル移籍"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210812-1944679/index.html",
+          "author": null,
+          "description": "アーセナルは、シェフィールド・Uのイングランド代表GKアーロン・ラムズデール獲得に近づいているようだ。イギリス紙『デイリーメール』が伝えている。\n ラムズデールは2020年にボーンマスから古巣シェフ",
+          "link": "https://news.mynavi.jp/article/20210812-1944679/index.html",
+          "publishedOn": "2021-08-11T17:28:30.000Z",
+          "wordCount": 295,
+          "title": "アーセナルがラムズデール獲得に急接近…カラバオ杯欠場で移籍話が再燃"
+        },
         {
           "id": "https://news.mynavi.jp/article/20210812-1944619/index.html",
           "author": null,
