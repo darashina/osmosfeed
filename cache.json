@@ -12,6 +12,15 @@
       "siteUrl": "https://www.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2108/12/news164.html",
+          "author": null,
+          "description": "イオンリテールが、MVNOサービス「イオンモバイル」の料金改定を発表した。2021年10月1日から、音声プランと音声シェアプランの月額料金と音声SIM追加料金を、を現行の440円から220円に値下げする。10月1日から、国内通話料金を現行の30秒あたり22円から11円の半額に値下げし、120分のかけ放題も提供する。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2108/12/news164.html",
+          "publishedOn": "2021-08-12T14:06:00.000Z",
+          "wordCount": 515,
+          "title": "[ITmedia Mobile] イオンモバイルが料金改定　音声／シェア音声を220円値下げで“業界最安級”に　「フルかけ放題」も"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2108/12/news160.html",
           "author": null,
           "description": "ポケモンGOで、8月14日と15日にイーブイが大量発生する「コミュニティ・デイ」イベントが開催されます。ブイズ8種類の進化には期間中だけの変更点があるので注意が必要です。",
@@ -8487,6 +8496,60 @@
       "feedUrl": "https://ascii.jp/rss.xml",
       "siteUrl": "https://ascii.jp/1/",
       "articles": [
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065445/?rss",
+          "author": null,
+          "description": "パソコンショップSEVENは「2021/8/13 24時間限定セール」を開催。インテルCore i9-11900K＋GeForce RTX 3080 Ti搭載の「ZEFT G22P」が通常価格より5万4000円オフ。",
+          "link": "https://ascii.jp/elem/000/004/065/4065445/?rss",
+          "publishedOn": "2021-08-12T15:00:00.000Z",
+          "wordCount": 238,
+          "title": "Core i9-11900K＋GeForce RTX 3080 Ti搭載PCが5万4000円オフ"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065813/?rss",
+          "author": null,
+          "description": "Cygamesは8月12日20時より配信した「ぱかライブTV Vol.8」にて、ゲーム『ウマ娘 プリティーダービー』のアップデート情報や音楽CDの続報など、新情報を多数発表した。",
+          "link": "https://ascii.jp/elem/000/004/065/4065813/?rss",
+          "publishedOn": "2021-08-12T14:10:00.000Z",
+          "wordCount": 699,
+          "title": "『ウマ娘 プリティーダービー』Half Anniversaryキャンペーン情報などを公開！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065687/?rss",
+          "author": null,
+          "description": "デルは、15.6型のゲーミングノートパソコン「Dell G5 15」がお得に購入できるキャンペーンを実施中。",
+          "link": "https://ascii.jp/elem/000/004/065/4065687/?rss",
+          "publishedOn": "2021-08-12T13:00:00.000Z",
+          "wordCount": 207,
+          "title": "デルのゲーミングPC「Dell G5 15」が、Core i7とRTX 3050搭載で16万4324円！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065681/?rss",
+          "author": null,
+          "description": "デルは、New XPS 15を値引きして販売している。",
+          "link": "https://ascii.jp/elem/000/004/065/4065681/?rss",
+          "publishedOn": "2021-08-12T13:00:00.000Z",
+          "wordCount": 208,
+          "title": "デルのノートPC「New XPS 15」が、Core i7＋512GB SSD搭載で27万円台！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065673/?rss",
+          "author": null,
+          "description": "富士通の直販サイト「富士通 WEB MART」では最新モデルを対象にセールを開催中。",
+          "link": "https://ascii.jp/elem/000/004/065/4065673/?rss",
+          "publishedOn": "2021-08-12T13:00:00.000Z",
+          "wordCount": 225,
+          "title": "頑丈設計の富士通10.1型タブレット「arrows Tab EH」が7万3800円！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065579/?rss",
+          "author": null,
+          "description": "アスキーストアでは、コンパクトに折り畳めてスマホやタブレット、ノートPCなどに幅広く使える「超軽量ポータブルマルチPCスタンド」を発売中。",
+          "link": "https://ascii.jp/elem/000/004/065/4065579/?rss",
+          "publishedOn": "2021-08-12T13:00:00.000Z",
+          "wordCount": 356,
+          "title": "コンパクトに折り畳めて携帯便利、スマホ・タブレット・ノートPCなどに幅広く使える「超軽量ポータブルマルチPCスタンド」が4730円"
+        },
         {
           "id": "https://ascii.jp/elem/000/004/065/4065810/?rss",
           "author": null,
@@ -18976,20 +19039,6 @@
             "type": "image/jpeg",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/26006613785602789",
-          "author": null,
-          "description": "こんにちは。谷口です。\n未経験や新卒からエンジニアを目指しているみなさん、エンジニアを目指そうと思ったのはなぜですか？\nプログラミングが好きだから\n自分でサービスを作れるようになりたいから\n手に職をつけたいから\n楽して稼げそうだから\n働きやすそうだから\nなどなど…\nエンジニアになるメリットや、なる前に抱いているイメージは人それぞれかと思います。\nそこで今回は、paizaを運営していてエンジニアの方のお話を聞く中でわかった、ITエンジニアという仕事の楽しいところやメリットなどをお伝えします。\nITエンジニアの楽しいところ\n技術やプログラミングなど好きなことで仕事ができる\nこれは、技術やプログラミングが好きであることが前提になりますが。ただ、もうプログラミングやIT技術が身近になってきたり、エンジニアという職業もかなり一般的になってきた中で、「まったくどんな仕事かわからないけどエンジニアを目指す」とか「パソコンが苦手すぎるけどエンジニアになる」という人はあまりいないと思うので…。\n少なくともITやWebの技術やビジネスに多少は興味があるとか、好きとかいう方だと思います。\n自分の手でプログラミングをして動くものが作れる、仕事としては誰かが使ってくれて喜んでくれるもの、あるいは不便や困りごとを解決できるものを作れるというのはすごく手応えがあり、楽しいことです。\n自分の考えを自分で形にできる\n\nその中でも、エンジニアは「自分の手で考えを形にする」ということができます。自分のアイデアを実現したいとか、ものづくりがしたい人にはぴったりでしょう。\nものづくりと一言でいっても、作るものによっては一人で実現できなかったり、時間がかかる場合もあります。エンジニアの場合、PCがあれば自分の手元でアイデアをすぐに実現したり、動かしたできます。組織の中でチーム開発をすれば、より大きなサービスやアプリを…",
-          "link": "https://paiza.hatenablog.com/entry/2021/07/14/130000",
-          "publishedOn": "2021-07-14T04:00:00.000Z",
-          "wordCount": 251,
-          "title": "ITエンジニアに転職・就職してよかった！この仕事の楽しいところ",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20180717/20180717152719.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
         }
       ]
     },
@@ -18998,6 +19047,177 @@
       "feedUrl": "https://news.mynavi.jp/rss/index",
       "siteUrl": "https://news.mynavi.jp/",
       "articles": [
+        {
+          "id": "https://news.mynavi.jp/article/20210813-1945344/index.html",
+          "author": null,
+          "description": "2021年10月からの放送開始が予定されているTVアニメ『王様ランキング』より、第1弾本 PV＆第1弾キービジュアルが公開。さらに、追加キャストおよびオープニングテーマ情報が解禁となった。",
+          "link": "https://news.mynavi.jp/article/20210813-1945344/index.html",
+          "publishedOn": "2021-08-12T16:15:00.000Z",
+          "wordCount": 362,
+          "title": "TVアニメ『王様ランキング』、第1弾PV＆KV公開！OPテーマはKing Gnuが担当"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210813-1945416/index.html",
+          "author": null,
+          "description": "十日草輔原作によるTVアニメ「王様ランキング」の第1弾本PV、第1弾キービジュアル、追加キャストが発表された。",
+          "link": "https://news.mynavi.jp/article/20210813-1945416/index.html",
+          "publishedOn": "2021-08-12T16:15:00.000Z",
+          "wordCount": 320,
+          "title": "「王様ランキング」第1弾PV＆ビジュ公開！追加キャストに三宅健太、本田貴子、坂本真綾ら"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210813-1945423/index.html",
+          "author": null,
+          "description": "アーセナルのミケル・アルテタ監督がプレミアリーグ開幕節のブレントフォード戦前の会見に臨みさらなる補強を示唆している。\n　昨シーズンを8位で終えたアーセナルは今夏MFサンビ・ロコンガ、DFベン・ホワイ",
+          "link": "https://news.mynavi.jp/article/20210813-1945423/index.html",
+          "publishedOn": "2021-08-12T15:42:55.000Z",
+          "wordCount": 298,
+          "title": "アーセナルがさらなる補強に動く？　アルテタ監督が示唆「まだやるべきことがある」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210813-1945390/index.html",
+          "author": null,
+          "description": "◆ 若手がアピール\n\n　いよいよ13日から後半戦がスタートする。ロッテは前半戦終了時点で、37勝34敗12分の3位。首位・オリックスとのゲーム差は2.5だ。1974年以来となる勝率1位でのリーグ優…",
+          "link": "https://news.mynavi.jp/article/20210813-1945390/index.html",
+          "publishedOn": "2021-08-12T15:00:21.000Z",
+          "wordCount": 309,
+          "title": "いよいよ後半戦がスタート！ロッテ、1974年以来の勝率1位での優勝をつかみ取れ！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/win10tips-641/index.html",
+          "author": null,
+          "description": "Windows 11上で起動したアプリの「最大化」ボタンにマウスオーバーすると、ウィンドウサイズを自動調整するウィンドウが現れる。ちょうど本稿執筆時にWindows 11 Insider Previewが更新されたが、選択できるスナップ機能の数が6種類から4種類に変更されていた。",
+          "link": "https://news.mynavi.jp/article/win10tips-641/index.html",
+          "publishedOn": "2021-08-12T15:00:00.000Z",
+          "wordCount": 472,
+          "title": "Windows 10ミニTips 第641回 Windows 11に備える - スナップ機能は便利？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210813-1945386/index.html",
+          "author": null,
+          "description": "今日8月13日は「左利きの日」。左利きの人も使いやすい道具や仕組みがもっと世に増えるといいですね。また、今日は『鳥』や『サイコ』などを手掛け、サスペンスの神様とも呼ばれたイギリスの映画監督、アルフレッド・ヒッチコックや、キューバ革命を成し遂・・・",
+          "link": "https://news.mynavi.jp/article/20210813-1945386/index.html",
+          "publishedOn": "2021-08-12T15:00:00.000Z",
+          "wordCount": 296,
+          "title": "【今日は誰のお誕生日？】8月13日がお誕生日の声優さんは？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210812-1945398/index.html",
+          "author": null,
+          "description": "インテルは、PSVに所属するオランダ代表DFデンゼル・ダンフリースの獲得に近づいているようだ。12日、イタリアメディア『スカイスポーツ』が報じた。\n　今夏にパリ・サンジェルマン（PSG）へと移籍した",
+          "link": "https://news.mynavi.jp/article/20210812-1945398/index.html",
+          "publishedOn": "2021-08-12T14:51:05.000Z",
+          "wordCount": 294,
+          "title": "インテル、新右SBにダンフリース獲得へ…約16億円＋ボーナスでPSVと合意か"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210812-1945373/index.html",
+          "author": null,
+          "description": "手塚治虫「火の鳥 復活編」とレザーファクトリーブランド・クアトロガッツの財布「小さいふ。」とのコラボモデルが、8月15日20時に販売開始される。",
+          "link": "https://news.mynavi.jp/article/20210812-1945373/index.html",
+          "publishedOn": "2021-08-12T14:24:00.000Z",
+          "wordCount": 290,
+          "title": "「火の鳥」×「小さいふ。」第2弾、“ザッザッザッ”と行進するロビタたちをデザイン"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210812-1945364/index.html",
+          "author": null,
+          "description": "北海道大学(北大)とファインセラミックスセンターは8月11日、磁場を可視化できる特殊な電子顕微鏡であるホログラフィー電子顕微鏡を用いて、隕石の「磁鉄鉱ナノ粒子」の残留磁化をナノメートルスケールの詳細さで読み解く新手法を提唱したことを発表した。",
+          "link": "https://news.mynavi.jp/article/20210812-1945364/index.html",
+          "publishedOn": "2021-08-12T14:20:41.000Z",
+          "wordCount": 312,
+          "title": "木星は太陽系誕生後の数百万年程度で形成された可能性、北大などが解析"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210812-1945365/index.html",
+          "author": null,
+          "description": "リヴァプールのユルゲン・クロップ監督が、今夏の移籍市場について言及した。イギリス紙『デイリーメール』が伝えている。\n　昨シーズン、プレミアリーグを争ったマンチェスター・Cはイングランド代表MFジャッ",
+          "link": "https://news.mynavi.jp/article/20210812-1945365/index.html",
+          "publishedOn": "2021-08-12T14:09:03.000Z",
+          "wordCount": 299,
+          "title": "リヴァプールの移籍市場はもう終了？　クロップ監督「これ以上加えるのは意味がない」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210812-1945356/index.html",
+          "author": null,
+          "description": "琉球大学などは、新型コロナウイルス感染症(COVID-19)に関連する遺伝子群123個を約6万個の候補の中からAIで特定し、さらに、それらの遺伝子の発現を上流で制御する転写因子をバイオインフォマティクスの知識を活用して特定したと発表した。",
+          "link": "https://news.mynavi.jp/article/20210812-1945356/index.html",
+          "publishedOn": "2021-08-12T14:00:11.000Z",
+          "wordCount": 292,
+          "title": "琉球大など、新型コロナ関連遺伝子とその転写因子をAIなどを活用して特定"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210812-1945367/index.html",
+          "author": null,
+          "description": "今日の占い「12星座ランキング」を発表！ ラジオ発のエンタメニュース＆コラム「TOKYO FM＋」がお届けする、毎日運勢占い「12星座別ランキング＆ワンポイントアドバイス」。2021年（令和3年）8月13日（金）のあなたの運勢を、東京・池袋占い館セレーネ所属・占い師の玉木佑和（たまき・ゆな）さんが占います。今日の第1位は水瓶座（みずがめ座）！ あなたの星座は何位……？",
+          "link": "https://news.mynavi.jp/article/20210812-1945367/index.html",
+          "publishedOn": "2021-08-12T14:00:00.000Z",
+          "wordCount": 345,
+          "title": "★今日の運勢★2021年8月13日（金）12星座占いランキング第1位は水瓶座（みずがめ座）！ あなたの星座は何位…!?"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210812-1945366/index.html",
+          "author": null,
+          "description": "Jリーグは12日、6月20日に行われた2021明治安田生命J1リーグ第18節浦和レッズvs湘南ベルマーレにおけるエントリー不備事案について、試合を担当したマッチコミッショナー（以下MC）に対する処分",
+          "link": "https://news.mynavi.jp/article/20210812-1945366/index.html",
+          "publishedOn": "2021-08-12T13:55:54.000Z",
+          "wordCount": 305,
+          "title": "浦和vs湘南のエントリー不備、担当マッチコミッショナーに処分…Jリーグ発表"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210812-1945352/index.html",
+          "author": null,
+          "description": "にくまん子の単行本「いつも憂き世にこめのめし」が、本日8月12日にKADOKAWAより刊行された。",
+          "link": "https://news.mynavi.jp/article/20210812-1945352/index.html",
+          "publishedOn": "2021-08-12T13:48:00.000Z",
+          "wordCount": 286,
+          "title": "恋人との同棲生活をリアルに描く「いつも憂き世にこめのめし」書籍化、描き下ろしも"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210812-1944215/index.html",
+          "author": null,
+          "description": "グラビアアイドルの愛萌なのが、最新イメージDVD『なのゆにばーす』(発売中 4,180円税込 発売元:ラインコミュニケーションズ)をリリースした。",
+          "link": "https://news.mynavi.jp/article/20210812-1944215/index.html",
+          "publishedOn": "2021-08-12T13:00:00.000Z",
+          "wordCount": 314,
+          "title": "軟体巨乳の新星・愛萌なの、キュートな妹役も兄との禁断行為に興奮度も倍増"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210812-1945118/index.html",
+          "author": null,
+          "description": "俳優の小池徹平が、来週19日放送のテレビ朝日系ドラマ『緊急取調室』(毎週木曜21:00～)第5話にメインゲストとして出演することが12日、分かった。",
+          "link": "https://news.mynavi.jp/article/20210812-1945118/index.html",
+          "publishedOn": "2021-08-12T13:00:00.000Z",
+          "wordCount": 313,
+          "title": "小池徹平、天海祐希との芝居合戦に「バチバチやれて気持ちよかった」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210812-1945320/index.html",
+          "author": null,
+          "description": "Kis-My-Ft2が、11日に放送されたラジオ特番『Kis-My-Ft2 デビュー10周年記念! キスマイRadio 超拡大版 SP～Everybody キスマイ Go!～』(文化放送)に出演。2時間半にわたる生放送で、デビュー10周年を迎えた瞬間を振り返ったほか、11年目に向けて意気込みを語った。",
+          "link": "https://news.mynavi.jp/article/20210812-1945320/index.html",
+          "publishedOn": "2021-08-12T13:00:00.000Z",
+          "wordCount": 327,
+          "title": "Kis-My-Ft2、11年目に向けて「見たことがない景色をファンの子と一緒に」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210812-1945336/index.html",
+          "author": null,
+          "description": "■増當竜也連載「ニューシネマ・アナリティクス」SHORT【関連記事】『ドント・ブリーズ2』| まさかの続編は予想の斜め上か？はたまた定石か？邸宅に押し入った3人の若き泥棒たちに壮絶過剰の域を越えた暴力",
+          "link": "https://news.mynavi.jp/article/20210812-1945336/index.html",
+          "publishedOn": "2021-08-12T13:00:00.000Z",
+          "wordCount": 300,
+          "title": "『ドント・ブリーズ２』レビュー：最凶の盲目老人、再び！今度は何と少女の壮絶奪還劇！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210812-1945331/index.html",
+          "author": null,
+          "description": "ジョンソンともゆきの単行本「ゆかいなまんが」が、本日8月12日に発売された。",
+          "link": "https://news.mynavi.jp/article/20210812-1945331/index.html",
+          "publishedOn": "2021-08-12T12:59:00.000Z",
+          "wordCount": 286,
+          "title": "ジョンソンともゆきのお気に入りが詰まった「ゆかいなまんが」描き下ろし30本も収録"
+        },
         {
           "id": "https://news.mynavi.jp/article/20210812-1945321/index.html",
           "author": null,
@@ -19024,6 +19244,15 @@
           "publishedOn": "2021-08-12T12:31:53.000Z",
           "wordCount": 318,
           "title": "出川哲朗、山之内すずのコメント力に驚き「作家さんついてる!?」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210812-1945332/index.html",
+          "author": null,
+          "description": "エンスカイから『11ぴきのねこ』の絵本の名場面が入ったグラスが発売となり、ヴィレヴァンオンラインでも予約開始となった。『11ぴきのねこ』は馬場のぼる作の絵本シリーズ。 “とらねこ大将” ひきいる11ぴきのねこたちの愉・・・",
+          "link": "https://news.mynavi.jp/article/20210812-1945332/index.html",
+          "publishedOn": "2021-08-12T12:30:00.000Z",
+          "wordCount": 298,
+          "title": "『11ぴきのねこ』絵本の名場面が入ったグラスに癒される♪"
         },
         {
           "id": "https://news.mynavi.jp/article/20210812-1945306/index.html",
@@ -19060,6 +19289,15 @@
           "publishedOn": "2021-08-12T12:17:00.000Z",
           "wordCount": 290,
           "title": "荒廃した終末世界、時を戻す銃を手に入れた男はどう生きる？ピッコマで新連載"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210812-1945337/index.html",
+          "author": null,
+          "description": "国際サッカー連盟（FIFA）は12日、最新のFIFAランキングを発表した。\n　5月27日に発表されたFIFAランキングはポイントの対象となる試合がウクライナ対バーレーンの1試合のみだったため、バーレ",
+          "link": "https://news.mynavi.jp/article/20210812-1945337/index.html",
+          "publishedOn": "2021-08-12T12:16:50.000Z",
+          "wordCount": 353,
+          "title": "EURO王者イタリアにコパ王者アルゼンチン…大幅変動のFIFAランク発表、日本は24位に浮上"
         },
         {
           "id": "https://news.mynavi.jp/article/20210812-1945310/index.html",
