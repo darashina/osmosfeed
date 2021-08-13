@@ -2,10 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://darashina.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-13T16:58:43.007Z</updated>
+    <updated>2021-08-13T20:36:24.997Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://darashina.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://darashina.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[吉高由里子、初の社長役「精一杯演じたい」 TBS金曜ドラマ初主演]]></title>
+        <id>https://news.mynavi.jp/article/20210814-1946254/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210814-1946254/index.html"/>
+        <updated>2021-08-13T20:19:39.000Z</updated>
+        <summary type="html"><![CDATA[女優の吉高由里子が、10月スタートのTBS金曜ドラマ『最愛』(毎週金曜22:00～)で主演を務めることが13日、明らかになった。TBS金曜ドラマ初主演で、初の社長役を演じる。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ITmedia ビジネスオンライン] 東京ディズニーランド・ディズニーシーの両方に行ったことがある高校生は約6割　やりたいこと1位は？]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2108/14/news016.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2108/14/news016.html"/>
+        <updated>2021-08-13T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[LINEリサーチは、全国の高校生を対象に「東京ディズニーランド・東京ディズニーシー」について調査した。今までに東京ディズニーランドやシーに行ったことのある回数、行った目的、やりたいことを聞き、男女別に比較した。]]></summary>
+        <author>
+            <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[野々村真、妻と誓い合った夢「いい年を重ねて、初老になった時に…」]]></title>
+        <id>https://news.mynavi.jp/article/20210814-1946036/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210814-1946036/index.html"/>
+        <updated>2021-08-13T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[タレントの野々村真が、きょう14日に放送されるBS日テレのバラエティ番組『おぎやはぎの愛車遍歴 NO CAR, NO LIFE』(毎週土曜21:00～)に出演する。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生田斗真のドキュメンタリー配信決定　新作歌舞伎に挑む姿と尾上松也との友情に迫る]]></title>
+        <id>https://news.mynavi.jp/article/20210814-1946246/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210814-1946246/index.html"/>
+        <updated>2021-08-13T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[俳優・生田斗真が新作歌舞伎に挑戦する姿を追うNetflixドキュメンタリー映画『生田斗真ドキュメンタリー ～挑む～（仮）』が、2022年春にNetflixにて配信されることが決定した。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【柏vs川崎Fプレビュー】同カードの連敗ストップに挑む柏…中軸2人抜けるも盤石の強さを見せる川崎F]]></title>
+        <id>https://news.mynavi.jp/article/20210814-1946224/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210814-1946224/index.html"/>
+        <updated>2021-08-13T18:34:55.000Z</updated>
+        <summary type="html"><![CDATA[◆■柏レイソル　中断期間の成果を発揮して白星続くも、負傷者の多さが気がかり
+
+【プラス材料】
+　前節のヴィッセル神戸戦は中断前の鹿島アントラーズ戦同様、「堅い守備から良い攻撃に出ていく」という中断期間]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レスターがサウサンプトンからDFヴェスターゴーアを獲得「とても幸せだし興奮している」]]></title>
+        <id>https://news.mynavi.jp/article/20210814-1946204/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210814-1946204/index.html"/>
+        <updated>2021-08-13T17:49:04.000Z</updated>
+        <summary type="html"><![CDATA[レスターは13日、サウサンプトンからデンマーク代表DFヤニク・ヴェスターゴーアを獲得したと発表した。なお、契約は2024年までとなる。
+ 
+　現在29歳のヴェスターゴーアは、2018年7月にボルシア]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【浦和vs鳥栖プレビュー】上位チーム撃破で浮上を目論む浦和…好調の鳥栖は指揮官の復帰を白星で飾れるか]]></title>
+        <id>https://news.mynavi.jp/article/20210814-1946205/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210814-1946205/index.html"/>
+        <updated>2021-08-13T17:20:09.000Z</updated>
+        <summary type="html"><![CDATA[◆■浦和レッズ　パフォーマンス面に不安あり。新戦力は状況を好転させられるか
+
+【プラス材料】
+　東京五輪による中断が明けてのホーム初戦は、前回対戦で完敗とも言える内容だったサガン鳥栖が相手と、決して楽]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ケインが練習復帰…ヌーノ監督はマンC戦での起用にも言及「土曜のセッションを見て決断」]]></title>
         <id>https://news.mynavi.jp/article/20210814-1946181/index.html</id>
