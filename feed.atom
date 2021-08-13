@@ -2,10 +2,317 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://darashina.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-13T12:55:53.552Z</updated>
+    <updated>2021-08-13T16:58:43.007Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://darashina.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://darashina.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ケインが練習復帰…ヌーノ監督はマンC戦での起用にも言及「土曜のセッションを見て決断」]]></title>
+        <id>https://news.mynavi.jp/article/20210814-1946181/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210814-1946181/index.html"/>
+        <updated>2021-08-13T16:33:50.000Z</updated>
+        <summary type="html"><![CDATA[トッテナムのイングランド代表FWハリー・ケインがトレーニングに復帰したようだ。起用も含めヌーノ・エスピリト・サント監督がコメントしている。イギリスメディア『スカイスポーツ』が伝えている。
+　ケインは]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【仙台vs横浜FCプレビュー】J1での対決はすべてドロー決着…生き残りをかけた6ポイントゲームを制するのは!?]]></title>
+        <id>https://news.mynavi.jp/article/20210814-1946182/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210814-1946182/index.html"/>
+        <updated>2021-08-13T16:07:51.000Z</updated>
+        <summary type="html"><![CDATA[◆■ベガルタ仙台　不動の守護神＆進境著しいルーキートリオの活躍に期待
+
+【プラス材料】
+　まだ18位と苦しい状況にはあるが、しぶとく守れるだけの守備力を身につけているのはプラス材料だ。前節のセレッソ大]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【札幌vsFC東京プレビュー】得意のホーム戦で連勝を狙う札幌…FC東京は相性悪い敵地で9年ぶりの白星なるか]]></title>
+        <id>https://news.mynavi.jp/article/20210814-1946160/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210814-1946160/index.html"/>
+        <updated>2021-08-13T15:21:16.000Z</updated>
+        <summary type="html"><![CDATA[◆■北海道コンサドーレ札幌　アクセント役不在でもパフォーマンスを維持できるか
+
+【プラス材料】
+　前節の浦和レッズ戦ではハイパフォーマンスを見せた。前後半通じて厳しいプレスをかけ続け、相手のパスワーク]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[千葉雄大、宮城の夏休みに切ない思い出　好きなドラマ最終回まで見れず]]></title>
+        <id>https://news.mynavi.jp/article/20210814-1946048/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210814-1946048/index.html"/>
+        <updated>2021-08-13T15:20:00.000Z</updated>
+        <summary type="html"><![CDATA[3人組バンドのAwesome City Clubが、13日に放送された日本テレビ系音楽番組『MUSIC BLOOD』(23:50～)に出演した。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「聖者無双」など、なろう／転生／異世界ものが大躍進、まんが王国ランキング（男性）（8月6日〜8月12日）]]></title>
+        <id>https://ascii.jp/elem/000/004/065/4065864/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/065/4065864/?rss"/>
+        <updated>2021-08-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[コミック配信サービス「まんが王国」の、8月6日〜8月12日の週間男性ランキング。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 5 5600X＋Radeon RX 6800XT搭載PCが通常価格から4万円オフ]]></title>
+        <id>https://ascii.jp/elem/000/004/065/4065451/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/065/4065451/?rss"/>
+        <updated>2021-08-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[パソコンショップSEVENにて「2021/8/14 24時間限定セール」を開催。AMD Ryzen 5 5600X＋Radeon RX 6800XT搭載の「ZEFT RR05Q」が4万円オフ。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10ミニTips 第642回 番外編：マルチGPU環境でNetflixを視聴できない]]></title>
+        <id>https://news.mynavi.jp/article/win10tips-642/index.html</id>
+        <link href="https://news.mynavi.jp/article/win10tips-642/index.html"/>
+        <updated>2021-08-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筆者はCanaryチャネルのMicrosoft Edgeをメインブラウザー、安定版Microsoft EdgeをRadikoやYouTubeなどの視聴用ブラウザーとして使っている。だが、ここ半年ほど悩まされてきたのが、Netflixのエラーコード「D7361-1253」だった。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[透明感のある完全ワイヤレス「Nothing ear(1)」、発売日を変更　優先販売も実施]]></title>
+        <id>https://news.mynavi.jp/article/20210814-1946141/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210814-1946141/index.html"/>
+        <updated>2021-08-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[透明感のあるデザインを採用した異色の完全ワイヤレスイヤホン「Nothing ear(1)」、日本での発売日が8月27日に変更になりました。確実に入手したい人に向け、メールアドレスの登録で参加できる優先販売を実施します。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【今日は誰のお誕生日？】8月14日がお誕生日の声優さんは？]]></title>
+        <id>https://news.mynavi.jp/article/20210814-1946143/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210814-1946143/index.html"/>
+        <updated>2021-08-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今日8月14日は「裸足の記念日」。「8（は）1（だ）4（し）」という語呂合わせにちなんで制定されたそうです。たまには裸足になって、土の上に立ってみるのもいいかもしれませんね。また、今日は『シートン動物記』で有名なイギリスの博物学者で作家のア・・・]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テーマはお盆！怪獣8号、SPY×FAMILYなどジャンプ＋作品の番外編・イラスト公開]]></title>
+        <id>https://news.mynavi.jp/article/20210814-1946142/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210814-1946142/index.html"/>
+        <updated>2021-08-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[お盆をテーマにした特別企画が、本日8月14日より少年ジャンプ＋のアプリと特設サイトで展開されている。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エヴァートン、開幕節を前にハメスら5選手が隔離…リチャーリソンは出場可能]]></title>
+        <id>https://news.mynavi.jp/article/20210813-1946161/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210813-1946161/index.html"/>
+        <updated>2021-08-13T14:57:45.000Z</updated>
+        <summary type="html"><![CDATA[エヴァートンのトップチームに所属する5選手が、新型コロナウイルス感染症の隔離措置により、新シーズンの開幕戦を欠場するようだ。13日、イギリスメディア『アスレティック』や同『BBC』が伝えた。
+　エヴ]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[長友佑都にジェノアが関心…吉田麻也とのダービーマッチ実現なるか]]></title>
+        <id>https://news.mynavi.jp/article/20210813-1946162/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210813-1946162/index.html"/>
+        <updated>2021-08-13T14:33:53.000Z</updated>
+        <summary type="html"><![CDATA[日本代表DF長友佑都の獲得に、ジェノアが関心を示しているようだ。13日、イタリアメディア『スカイスポーツ』が報じた。
+　報道によると、ジェノアは長友との契約締結に向けて交渉を行なっている模様。加入が]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[松本人志「おれ泣いてもうた」子供時代の愛犬エピソード語る]]></title>
+        <id>https://news.mynavi.jp/article/20210813-1946115/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210813-1946115/index.html"/>
+        <updated>2021-08-13T14:17:22.000Z</updated>
+        <summary type="html"><![CDATA[ダウンタウンの松本人志が、13日放送のフジテレビ系バラエティ番組『人志松本の酒のツマミになる話』(毎週金曜21:58～)に出演。不覚にも泣いてしまった子供時代の愛犬エピソードを語った。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジェノアがFWパンデフと契約延長…EUROにも参戦した北マケドニアの大ベテラン]]></title>
+        <id>https://news.mynavi.jp/article/20210813-1946128/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210813-1946128/index.html"/>
+        <updated>2021-08-13T14:12:45.000Z</updated>
+        <summary type="html"><![CDATA[ジェノアは13日、元北マケドニア代表FWゴラン・パンデフとの契約を延長したと発表した。新契約は2022年6月末までの1年間となる。
+　パンデフは1983年生まれの38歳。FKベラシツァでプロデビュー]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽天・岸があわやノーヒッターの快投！炭谷との元西武バッテリーで古巣打線を翻弄]]></title>
+        <id>https://news.mynavi.jp/article/20210813-1946121/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210813-1946121/index.html"/>
+        <updated>2021-08-13T14:01:37.000Z</updated>
+        <summary type="html"><![CDATA[● 西武 0 － 5 楽天 ○
+＜13回戦・メットライフドーム＞
+
+　楽天の岸孝之が13日に行われた西武戦に先発し、8回一死までノーヒットの快投を披露。炭谷銀仁朗との元西武バッテリーで古巣を翻弄…]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斎藤工、『漂着者』視聴者の考察動画に驚き「鋭い人が…」]]></title>
+        <id>https://news.mynavi.jp/article/20210813-1946106/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210813-1946106/index.html"/>
+        <updated>2021-08-13T13:59:08.000Z</updated>
+        <summary type="html"><![CDATA[俳優の斎藤工、白石麻衣、戸塚純貴が13日、テレビ朝日系ドラマ『漂着者』(毎週金曜23:15～※一部地域を除く)のインスタライブに登場した。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リーズ、若き守護神メリエと26年夏まで契約延長！　昨季は11試合で完封]]></title>
+        <id>https://news.mynavi.jp/article/20210813-1946129/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210813-1946129/index.html"/>
+        <updated>2021-08-13T13:46:40.000Z</updated>
+        <summary type="html"><![CDATA[リーズは13日、U－21フランス代表GKイラン・メリエとの契約を2026年6月30日まで延長したことを発表した。
+　2000年3月2日生まれのメリエは、ロリアンの下部組織出身。2019年夏に同クラブ]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[元祖HomePodが11,000円引き！　auがオーディオ関連のセール]]></title>
+        <id>https://news.mynavi.jp/article/20210813-1946092/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210813-1946092/index.html"/>
+        <updated>2021-08-13T13:27:47.000Z</updated>
+        <summary type="html"><![CDATA[KDDI（au）が、オーディオ関連製品を対象としたセール「au Online Shop オーディオ関連商品サマーセール2021」の第2弾を実施しています。アップルの高音質スピーカー「HomePod」を11,000円引きで購入できるのが目玉です。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オリックス・宮城が6回2失点の粘投でリーグ最速10勝目！「ラオウさんに勇気もらった」]]></title>
+        <id>https://news.mynavi.jp/article/20210813-1946101/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210813-1946101/index.html"/>
+        <updated>2021-08-13T13:25:05.000Z</updated>
+        <summary type="html"><![CDATA[● ロッテ 3 － 6 オリックス ○
+＜14回戦・ZOZOマリン＞
+
+　オリックスの宮城大弥が13日、自身初となるZOZOマリンでのロッテ戦に先発し、6回途中2失点の粘投でリーグトップの10勝…]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[60歳間近で貯蓄1000万円のみ。次男は就職に失敗…]]></title>
+        <id>https://news.mynavi.jp/article/20210813-1946096/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210813-1946096/index.html"/>
+        <updated>2021-08-13T13:20:00.000Z</updated>
+        <summary type="html"><![CDATA[皆さんから寄せられた家計の悩みにお答えする、その名も「マネープランクリニック」。今回の相談者は、次男の方が大学留年をして、老後まで心配になってきた50代の主婦の方。家計コンサルタントの八ツ井慶子さんが…]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「プリンセスコネクト！Re:Dive」第2期は来年1月から、PVやキャストなど公開]]></title>
+        <id>https://news.mynavi.jp/article/20210813-1946093/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210813-1946093/index.html"/>
+        <updated>2021-08-13T13:16:00.000Z</updated>
+        <summary type="html"><![CDATA[TVアニメ「プリンセスコネクト！Re:Dive Season 2」のキービジュアルや第1弾PV、キャストおよびスタッフが解禁。また放送開始時期が2022年1月になることも発表された。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アーセナル、オーバメヤン＆ラカゼットが開幕節欠場か…ともに体調不良と報道]]></title>
+        <id>https://news.mynavi.jp/article/20210813-1946094/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210813-1946094/index.html"/>
+        <updated>2021-08-13T13:15:21.000Z</updated>
+        <summary type="html"><![CDATA[アーセナルは、新シーズンの開幕戦でガボン代表FWピエール・エメリク・オーバメヤンとフランス代表FWアレクサンドル・ラカゼットを欠くことになりそうだ。13日、イギリスメディア『アスレティック』が報じた]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斎藤工、生配信で白石麻衣宛のコメント読む「まいちゃん一生すきぴ…」]]></title>
+        <id>https://news.mynavi.jp/article/20210813-1946088/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210813-1946088/index.html"/>
+        <updated>2021-08-13T13:15:13.000Z</updated>
+        <summary type="html"><![CDATA[俳優の斎藤工、白石麻衣、戸塚純貴が13日、テレビ朝日系ドラマ『漂着者』(毎週金曜23:15～※一部地域を除く)のインスタライブに登場した。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[★今日の運勢★2021年8月14日（土）12星座占いランキング第1位は蠍座（さそり座）！ あなたの星座は何位…!?]]></title>
+        <id>https://news.mynavi.jp/article/20210813-1946097/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210813-1946097/index.html"/>
+        <updated>2021-08-13T13:10:00.000Z</updated>
+        <summary type="html"><![CDATA[今日の占い「12星座ランキング」を発表！ ラジオ発のエンタメニュース＆コラム「TOKYO FM＋」がお届けする、毎日運勢占い「12星座別ランキング＆ワンポイントアドバイス」。2021年（令和3年）8月14日（土）のあなたの運勢を、東京・池袋占い館セレーネ代表・占い師の水森太陽（みずもり・たいよう）さんが占います。今日の第1位は蠍座（さそり座）！ あなたの星座は何位……？]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デルのゲーミングPC「Dell G5 15」がRTX 3050搭載で16万4324円！]]></title>
+        <id>https://ascii.jp/elem/000/004/065/4065688/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/065/4065688/?rss"/>
+        <updated>2021-08-13T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[デルは、15.6型のゲーミングノートパソコン「Dell G5 15」がお得に購入できるキャンペーンを実施中。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デルのノートPC「New XPS 15」　直販サイトで17%オフで販売中！]]></title>
+        <id>https://ascii.jp/elem/000/004/065/4065682/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/065/4065682/?rss"/>
+        <updated>2021-08-13T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[デルは、New XPS 15を値引きして販売している。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[頑丈設計の富士通10.1型タブレット「arrows Tab EH」が7万3800円！]]></title>
+        <id>https://ascii.jp/elem/000/004/065/4065674/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/065/4065674/?rss"/>
+        <updated>2021-08-13T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[富士通の直販サイト「富士通 WEB MART」では最新モデルを対象にセールを開催中。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クルマ以外もお任せあれ！ プロ仕様&ハイパワー空気入れ]]></title>
+        <id>https://ascii.jp/elem/000/004/065/4065601/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/065/4065601/?rss"/>
+        <updated>2021-08-13T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アスキーストアでは、スタイリッシュデザインの電動空気入れ「PONPRO ポンプロ 3R-IFL01」を5990円で販売中。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[軟体F乳・渡邉音宇、夜のベッドでは大人の女性に変ぼう]]></title>
+        <id>https://news.mynavi.jp/article/20210813-1944228/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210813-1944228/index.html"/>
+        <updated>2021-08-13T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[グラビアアイドルの渡邉音宇が、最新イメージDVD『ねねと、ひとなつ』(発売中 4,180円税込 発売元:apricot)をリリースした。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 10の印刷問題解決する更新プログラム、別の問題を引き起こし中]]></title>
         <id>https://news.mynavi.jp/article/20210813-1945647/index.html</id>
@@ -37,6 +344,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[究極のコラボが実現！ アクションゲーム『刀剣乱舞無双』発売決定！]]></title>
+        <id>https://news.mynavi.jp/article/20210813-1946084/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210813-1946084/index.html"/>
+        <updated>2021-08-13T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[EXNOAが運営するDMM GAMESは2021年8月11日（水）、Nintendo SwitchPC（DMM GAME PLAYER版）向けアクションゲーム『刀剣乱舞無双』を発売することを発表した。『刀剣乱舞-ONLINE-』は、歴史に名・・・]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[柏木由紀「まさか私が…」難病手術から復帰、入院中の心境を語る]]></title>
         <id>https://news.mynavi.jp/article/20210813-1946074/index.html</id>
         <link href="https://news.mynavi.jp/article/20210813-1946074/index.html"/>
@@ -44,6 +361,17 @@
         <summary type="html"><![CDATA[女優・すみれと、双子タレント・広海が美のスペシャリストをゲストに招いて「わたしをHAPPYにする美容」をテーマに、ビューティートークを展開するTOKYO FMの番組「KOSÉ Find My Beauty powered by @cosme TOKYO」。東京・原宿にある日本最大級のコスメ・美容のテーマパーク「＠cosme TOKYO」のスタジオから、ゲストのメソッドやルーティン、最新の美容トレンドなどを発信します。8月のゲストは、AKB48の柏木由紀さんです。
 
 今年6月に国指定の難病「脊髄空洞症」の治療のため手術を受けた柏木さん。8月1日（日）の放送では、入院前後の心境を語りました。]]></summary>
+        <author>
+            <name>マイナビニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ローマがレスターのイヘアナチョに関心…アブラハム逃しに備えリストアップ]]></title>
+        <id>https://news.mynavi.jp/article/20210813-1946095/index.html</id>
+        <link href="https://news.mynavi.jp/article/20210813-1946095/index.html"/>
+        <updated>2021-08-13T12:25:14.000Z</updated>
+        <summary type="html"><![CDATA[ローマはレスターに所属するナイジェリア代表FWケレチ・イヘアナチョに関心を示しているようだ。イギリスメディア『スカイスポーツ』が伝えている。
+　ローマは今夏、チェルシーからイングランド代表FWタミー]]></summary>
         <author>
             <name>マイナビニュース</name>
         </author>
@@ -644,6 +972,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TTArtisan(銘匠光学)からNikon Z-fc対応の3つ単焦点レンズ発売]]></title>
+        <id>https://ascii.jp/elem/000/004/065/4065903/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/065/4065903/?rss"/>
+        <updated>2021-08-13T09:48:43.000Z</updated>
+        <summary type="html"><![CDATA[TTArtisan(銘匠光学)からNikon Z-fc対応の3つ単焦点レンズ発売]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[ITmedia Mobile] ＋Style、9軸加速度センサー搭載でスイング分析するゴルフシミュレーターを販売開始]]></title>
         <id>https://www.itmedia.co.jp/mobile/articles/2108/13/news121.html</id>
         <link href="https://www.itmedia.co.jp/mobile/articles/2108/13/news121.html"/>
@@ -671,6 +1009,56 @@
         <summary type="html"><![CDATA[トレンダーズが、小説家とイラストレーターのマッチングサービス「たいあっぷ」の提供をスタート。Webマーケティング事業を手掛ける同社にとって異例のサービスだが、「ライトノベル好きの新入社員の熱烈アピール」によって新規事業化を決めたという。]]></summary>
         <author>
             <name>ITmedia 総合記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ノーリツ、リアルタイムデータを活用した迅速な対応を目指してDomoを導入]]></title>
+        <id>https://ascii.jp/elem/000/004/065/4065902/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/065/4065902/?rss"/>
+        <updated>2021-08-13T09:05:13.000Z</updated>
+        <summary type="html"><![CDATA[ノーリツ、リアルタイムデータを活用した迅速な対応を目指してDomoを導入]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夏休みはプロイラストレーターの生線画を塗ろう！　デジタル塗り絵コンテスト「塗りマス！」第十七回を開催]]></title>
+        <id>https://ascii.jp/elem/000/004/065/4065901/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/065/4065901/?rss"/>
+        <updated>2021-08-13T09:00:42.000Z</updated>
+        <summary type="html"><![CDATA[夏休みはプロイラストレーターの生線画を塗ろう！　デジタル塗り絵コンテスト「塗りマス！」第十七回を開催]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[動画編集用素材サイトWondershare Filmstockに、ランキング動画作成に最適なエフェクト素材が新登場]]></title>
+        <id>https://ascii.jp/elem/000/004/065/4065900/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/065/4065900/?rss"/>
+        <updated>2021-08-13T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[動画編集用素材サイトWondershare Filmstockに、ランキング動画作成に最適なエフェクト素材が新登場]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プライベートLTEの市場規模、2028年に85億720万米ドル到達予測]]></title>
+        <id>https://ascii.jp/elem/000/004/065/4065899/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/065/4065899/?rss"/>
+        <updated>2021-08-13T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[プライベートLTEの市場規模、2028年に85億720万米ドル到達予測]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【新商品】ヘアカット初心者のパパやママも失敗知らず]]></title>
+        <id>https://ascii.jp/elem/000/004/065/4065898/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/065/4065898/?rss"/>
+        <updated>2021-08-13T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【新商品】ヘアカット初心者のパパやママも失敗知らず]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
         </author>
     </entry>
     <entry>
