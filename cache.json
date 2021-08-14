@@ -12,6 +12,24 @@
       "siteUrl": "https://www.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/14/news018.html",
+          "author": null,
+          "description": "Twitter上で、お湯を注いだのに質量が減るコーヒーの動画が話題になった。動画内で使われた電子はかりを作ったタニタに、その原因を聞いてみた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/14/news018.html",
+          "publishedOn": "2021-08-14T02:00:00.000Z",
+          "wordCount": 147,
+          "title": "[ITmedia News] 怪奇現象？　お湯を注ぐと質量が“減る”コーヒーの謎　電子はかりメーカーに理由を聞いた"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/06/news135.html",
+          "author": null,
+          "description": "フェンシングの剣の軌跡を可視化する技術が東京五輪で注目された。AIと4Kカメラを用いることで軌跡が映画「スターウォーズ」に登場する武器「ライトセーバー」のように光り輝くのだ。約5年間に渡る開発秘話を制作チームに聞いた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/06/news135.html",
+          "publishedOn": "2021-08-14T02:00:00.000Z",
+          "wordCount": 157,
+          "title": "[ITmedia News] フェンシング剣の軌跡、AIと4Kカメラで捕まえた　“ライトセーバー”みたいな可視化技術、約5年間の開発秘話"
+        },
+        {
           "id": "https://www.itmedia.co.jp/business/articles/2108/14/news023.html",
           "author": null,
           "description": "メルカリは、知名度は低いが地元で愛されている日本各地のお土産を応援するプロジェクト「インディーズ土産全国デビューへの道」を展開し、オンライン上で投票キャンペーンを実施した。",
@@ -9217,6 +9235,105 @@
       "siteUrl": "https://ascii.jp/1/",
       "articles": [
         {
+          "id": "https://ascii.jp/elem/000/004/065/4065842/?rss",
+          "author": null,
+          "description": "味の素冷凍食品は8月8日、「ザ★」シリーズ第四弾として「ザ★ハンバーグ」を発売。",
+          "link": "https://ascii.jp/elem/000/004/065/4065842/?rss",
+          "publishedOn": "2021-08-14T07:30:00.000Z",
+          "wordCount": 332,
+          "title": "牛100％、にんにくがきいた「ザ★ハンバーグ」味の素冷凍食品から"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065909/?rss",
+          "author": null,
+          "description": "ローソンでは「でからあげクン レッド 辛さ×2倍味」「Lチキ　カミソリレッドソース味」を8月17日から発売",
+          "link": "https://ascii.jp/elem/000/004/065/4065909/?rss",
+          "publishedOn": "2021-08-14T06:30:00.000Z",
+          "wordCount": 355,
+          "title": "ローソンに辛～いからあげクン、Lチキ！「でからあげクンレッド 辛さ×2倍味」など"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065808/?rss",
+          "author": null,
+          "description": "「スーパー耐久シリーズ2021 Powered by Hankook」の第4戦が7月31日～8月1日にオートポリスで行なわれ、冨林勇佑選手が乗る39号車「エアバスターWinmax RC350 TWS」は、見事ST-3クラス優勝を飾った。",
+          "link": "https://ascii.jp/elem/000/004/065/4065808/?rss",
+          "publishedOn": "2021-08-14T06:00:00.000Z",
+          "wordCount": 541,
+          "title": "スーパー耐久第4戦でASCII.jpも応援する39号車がついにクラス優勝！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065907/?rss",
+          "author": null,
+          "description": "ASUS「TUF Gaming」シリーズから、GeForce RTX 1660 Ti搭載ビデオカード「TUF-GTX1660TI-6G-EVO-GAMING」が発売された。",
+          "link": "https://ascii.jp/elem/000/004/065/4065907/?rss",
+          "publishedOn": "2021-08-14T04:00:00.000Z",
+          "wordCount": 522,
+          "title": "ASUS「TUF Gaming」シリーズからGeForce RTX 1660 Tiが登場"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065906/?rss",
+          "author": null,
+          "description": "ELSAから、オリジナルVGAクーラーを採用するGeForce RTX 3070 Ti搭載ビデオカード「ELSA GeForce RTX 3070 Ti ERAZOR」（型番：GD3070T-8GEREZ）が発売された。",
+          "link": "https://ascii.jp/elem/000/004/065/4065906/?rss",
+          "publishedOn": "2021-08-14T04:00:00.000Z",
+          "wordCount": 537,
+          "title": "2スロット厚で3連ファンのGeForce RTX 3070 TiがELSAから"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065857/?rss",
+          "author": null,
+          "description": "予算20万円で、PCを好みのカラーで彩って楽しむ要素を追加した魅せる系ゲーミングPCの構成を、パソコンショップ アークで考えてもらった。",
+          "link": "https://ascii.jp/elem/000/004/065/4065857/?rss",
+          "publishedOn": "2021-08-14T04:00:00.000Z",
+          "wordCount": 631,
+          "title": "【今月の自作PCレシピ】20万円で組む！フルHD＠60fpsプレイを楽しむ魅せるゲーミングPC"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065606/?rss",
+          "author": null,
+          "description": "メインポケットを拡張すれば12.9型iPadも収納できるスリングバッグ「niid R1 Sling Bag」販売中。価格は1万9250円。",
+          "link": "https://ascii.jp/elem/000/004/065/4065606/?rss",
+          "publishedOn": "2021-08-14T03:00:00.000Z",
+          "wordCount": 389,
+          "title": "濡れた傘の収納もOK！ クラウドファンディングで大人気だったスリングバッグ"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065516/?rss",
+          "author": null,
+          "description": "ソニーの完全ワイヤレスイヤフォン「WF-1000XM4」が6月25日に発売されてから、いまだ通販サイトの多くでは品切れが続いています。今回は本製品を手にできていない方のために、前モデル「WF-1000XM3」との徹底比較レビューをお届けいたします。",
+          "link": "https://ascii.jp/elem/000/004/065/4065516/?rss",
+          "publishedOn": "2021-08-14T03:00:00.000Z",
+          "wordCount": 554,
+          "title": "品切れ中のソニーの完全ワイヤレスイヤフォン「WF-1000XM4」を前モデルと徹底比較"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065061/?rss",
+          "author": null,
+          "description": "今回レビューするのはMINIのスポーツモデルの「ジョン・クーパー・ワークス」とオープンモデルの「MINIコンバーチブル」です。唄って乗れるアイドル、寺坂ゆみが乗り比べます。",
+          "link": "https://ascii.jp/elem/000/004/065/4065061/?rss",
+          "publishedOn": "2021-08-14T03:00:00.000Z",
+          "wordCount": 633,
+          "title": "BMW「MINI」の魅力を知るためにジョン・クーパー・ワークスとオープンモデルを乗り比べた"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/063/4063782/?rss",
+          "author": null,
+          "description": "バッファローが販売しているWi-Fi 6対応無線LANルーター「WSR-1800AX4-C/NW」は、実売価格7000円前後と安価ながら、複数台のルーターを繋げて家全体の通信強度を強化できるメッシュネットワークに対応した製品。その使用方法や実行速度を試してみた。",
+          "link": "https://ascii.jp/elem/000/004/063/4063782/?rss",
+          "publishedOn": "2021-08-14T03:00:00.000Z",
+          "wordCount": 550,
+          "title": "EasyMesh対応で1万円以下と高コスパ！バッファロー製Wi-Fi 6ルーターの接続性と速度を計測してみた"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065419/?rss",
+          "author": null,
+          "description": "明星食品は「明星 至極の一杯 コクきつねうどん／コク小海老天そば」を8月23日に発売する。",
+          "link": "https://ascii.jp/elem/000/004/065/4065419/?rss",
+          "publishedOn": "2021-08-14T02:00:00.000Z",
+          "wordCount": 339,
+          "title": "タテ型カップめん｢明星 至極の一杯｣から新しく「うどん／そば」"
+        },
+        {
           "id": "https://ascii.jp/elem/000/004/064/4064798/?rss",
           "author": null,
           "description": "約13年ぶりに、37型プラズマテレビから50型液晶4Kテレビに買い換えてみた。",
@@ -9224,6 +9341,15 @@
           "publishedOn": "2021-08-14T01:00:00.000Z",
           "wordCount": 532,
           "title": "約13年ぶりのテレビ購入、37型プラズマから50型4K液晶に買い換えたら世界が変わった"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065908/?rss",
+          "author": null,
+          "description": "カメレオンの皮膚のように自由自在に変色するロボットを韓国の研究者が開発した。生物にヒントを得たロボットには新たな可能性がある。",
+          "link": "https://ascii.jp/elem/000/004/065/4065908/?rss",
+          "publishedOn": "2021-08-14T00:57:56.000Z",
+          "wordCount": 460,
+          "title": "まるでカメレオン、一瞬で背景に溶け込む人工カモフラージュ・ロボ"
         },
         {
           "id": "https://ascii.jp/limit/group/ida/elem/000/004/064/4064628/?rss",
@@ -20357,6 +20483,447 @@
       "feedUrl": "https://news.mynavi.jp/rss/index",
       "siteUrl": "https://news.mynavi.jp/",
       "articles": [
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1945871/index.html",
+          "author": null,
+          "description": "東武鉄道は、東武スカイツリーラインの東武動物公園駅西口に、地域の人々と来街者が交流する「お買い物とまちづくりの活動拠点」がコンセプトの商業施設を9月16日にオープンすると発表した。",
+          "link": "https://news.mynavi.jp/article/20210814-1945871/index.html",
+          "publishedOn": "2021-08-14T08:35:03.000Z",
+          "wordCount": 338,
+          "title": "東武動物公園駅西口の商業施設、9/16開業 - 「無印良品」など出店"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-yuzukireon/index.html",
+          "author": null,
+          "description": "た元宝塚歌劇団星組トップスターで、現在は主にミュージカルでその実力を発揮している柚希礼音。ソロコンサート『REON JACK4』について、コロナ禍で考えたことなどを直撃すると、一貫して伝わってきたのは「ファンのために」との思いだった。",
+          "link": "https://news.mynavi.jp/article/20210814-yuzukireon/index.html",
+          "publishedOn": "2021-08-14T08:30:00.000Z",
+          "wordCount": 383,
+          "title": "柚希礼音、コロナ禍で考える「ファンのために」『REON JACK 4』満を持してのゲストも"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946159/index.html",
+          "author": null,
+          "description": "ソロコンサート『REON JACK4』開催、柚希礼音さんのサイン入りチェキを1名様にプレゼントします。",
+          "link": "https://news.mynavi.jp/article/20210814-1946159/index.html",
+          "publishedOn": "2021-08-14T08:30:00.000Z",
+          "wordCount": 356,
+          "title": "【プレゼント】ソロコンサート『REON JACK4』開催! 柚希礼音サイン入りチェキ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946610/index.html",
+          "author": null,
+          "description": "◆ 先発・今井は乱調スタートも一気に3アウト記録\n\n　西武が14日、楽天戦（メットライフ）の初回に3年ぶりとなるトリプルプレーを完成させた。\n\n　西武は先発・今井が初回、1番・小深田に死球、2…",
+          "link": "https://news.mynavi.jp/article/20210814-1946610/index.html",
+          "publishedOn": "2021-08-14T08:24:49.000Z",
+          "wordCount": 305,
+          "title": "西武、3年ぶりの三重殺完成　右翼・愛斗が好捕、楽天の走者ふたりが戻れず"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946136/index.html",
+          "author": null,
+          "description": "コスプレイヤー・DJ・声優として活動するつんこが8月6日、自身のTwitterを更新し篠崎こころとのツーショットを披露した。",
+          "link": "https://news.mynavi.jp/article/20210814-1946136/index.html",
+          "publishedOn": "2021-08-14T08:00:00.000Z",
+          "wordCount": 317,
+          "title": "「つんころ～」コスプレイヤーつんこが篠崎こころとのアラビアンツーショ披露"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946580/index.html",
+          "author": null,
+          "description": "お笑いコンビ・平成ノブシコブシの吉村崇が、15日放送のTBS系バラエティ番組『週刊さんまとマツコ』(毎週日曜18:30～19:00)にゲスト出演する。",
+          "link": "https://news.mynavi.jp/article/20210814-1946580/index.html",
+          "publishedOn": "2021-08-14T08:00:00.000Z",
+          "wordCount": 321,
+          "title": "ノブコブ吉村、将来が不安でアルバイト開始!? 衝撃告白にさんま＆マツコ驚き"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946592/index.html",
+          "author": null,
+          "description": "→『孤狼の血 LEVEL2』画像ギャラリーへ■増當竜也連載「ニューシネマ・アナリティクス」2021年8月20日から公開される『孤狼の血LEVEL2』は、2019年に公開されて話題を集めた柚月裕子原作の",
+          "link": "https://news.mynavi.jp/article/20210814-1946592/index.html",
+          "publishedOn": "2021-08-14T08:00:00.000Z",
+          "wordCount": 318,
+          "title": "『孤狼の血 LEVEL2』レビュー：松坂桃李＆鈴木亮平のカメレオン俳優としての魅力が最大限に活かされた快作！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946598/index.html",
+          "author": null,
+          "description": "乃木坂46の賀喜遥香が、TOKYO FMのレギュラー番組に出演。リスナーから届いた『お化け屋敷は平気な人ですか？』という質問に回答しました。",
+          "link": "https://news.mynavi.jp/article/20210814-1946598/index.html",
+          "publishedOn": "2021-08-14T08:00:00.000Z",
+          "wordCount": 332,
+          "title": "乃木坂46・賀喜遥香「柴田柚菜ちゃんは私を振り回す」メンバーの怖いときリアクション"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946597/index.html",
+          "author": null,
+          "description": "豆柴の大群のアイカ・ザ・スパイとハナエモンスターが、TOKYO FMのレギュラー番組に出演。優柔不断だというリスナーのメッセージを紹介し、解決策をアドバイスしました。",
+          "link": "https://news.mynavi.jp/article/20210814-1946597/index.html",
+          "publishedOn": "2021-08-14T08:00:00.000Z",
+          "wordCount": 338,
+          "title": "豆柴の大群「オムライスかハンバーグかで迷ったら…？」優柔不断さんにアドバイス"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946588/index.html",
+          "author": null,
+          "description": "イオンファンタジーは、『ヒプノシスマイク-Division Rap Battle-』のプライズゲーム用景品を、同社が運営するアミューズメント施設「モーリーファンタジー」「PALO」、オンラインクレーンゲーム「モーリーオンライン」限定で202・・・",
+          "link": "https://news.mynavi.jp/article/20210814-1946588/index.html",
+          "publishedOn": "2021-08-14T08:00:00.000Z",
+          "wordCount": 311,
+          "title": "アーイ！ モーリー・PALO限定『ヒプマイ』プライズ8月20日展開"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946599/index.html",
+          "author": null,
+          "description": "サカナクションの山口一郎が、TOKYO FMのレギュラー番組に出演。『劇場版 ルパンの娘』（10月15日公開）の主題歌制作やリリース予定のアルバムについてなど、スタッフと話していた部分を紹介します。",
+          "link": "https://news.mynavi.jp/article/20210814-1946599/index.html",
+          "publishedOn": "2021-08-14T08:00:00.000Z",
+          "wordCount": 351,
+          "title": "サカナクション・山口一郎「劇場版 ルパンの娘」主題歌絶賛制作中 アルバムは11月にリリース?!"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946600/index.html",
+          "author": null,
+          "description": "【1969年式シボレーカマロSS Vol.3】【2】から続く フロントの足回りに関しては、C4コルベットのフロント回りをそっくり移植し、オリジナルの車高調をセット。リアはオリジナルの4リンクとすることで、直進性とシャープなコーナーリング性能・・・",
+          "link": "https://news.mynavi.jp/article/20210814-1946600/index.html",
+          "publishedOn": "2021-08-14T08:00:00.000Z",
+          "wordCount": 359,
+          "title": "コルベットからパーツ移植！　現行モデルを超えるハイスペック!?　間欠ワイパーも装備した69カマロSSR"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946594/index.html",
+          "author": null,
+          "description": "アーセナルのミケル・アルテタ監督に、一部のファンがSNS上で不満を吐露しているようだ。13日、イギリスメディア『フットボールロンドン』が伝えている。\n　13日、昇格組ブレントフォードに0－2で敗れた",
+          "link": "https://news.mynavi.jp/article/20210814-1946594/index.html",
+          "publishedOn": "2021-08-14T07:53:03.000Z",
+          "wordCount": 306,
+          "title": "開幕戦敗戦のアーセナル、アルテタ監督に一部のファンは不満？　SNS上では様々な意見が飛び交う…"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946595/index.html",
+          "author": null,
+          "description": "◆■アビスパ福岡　堅守の復活まであと一歩。課題を克服して白星つかめるか\n\n【プラス材料】\n　リーグ戦5連敗と勝ちきれなかったが、前節はサンフレッチェ広島を相手に土壇場で同点に追いつき、ようやく連敗を止",
+          "link": "https://news.mynavi.jp/article/20210814-1946595/index.html",
+          "publishedOn": "2021-08-14T07:29:05.000Z",
+          "wordCount": 310,
+          "title": "【福岡vsC大阪プレビュー】前回対戦は2－2の引き分け…しばらく勝利から遠ざかっている福岡とC大阪が激突"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946563/index.html",
+          "author": null,
+          "description": "◆ いざ、海賊船ハマスタ号へ\n\n　DeNAは13日、9月21日（火）〜23日（祝・木）に行われる対ヤクルト3連戦を対象にスペシャルイベント『DB海賊団DAY 2021 Supported by n…",
+          "link": "https://news.mynavi.jp/article/20210814-1946563/index.html",
+          "publishedOn": "2021-08-14T07:08:31.000Z",
+          "wordCount": 342,
+          "title": "DeNAの海賊たちが再び！？ 9月ヤクルト3連戦で『DB海賊団DAY』を開催"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946596/index.html",
+          "author": null,
+          "description": "明治安田生命Jリーグは、14日に予定されていたJ2リーグ第25節松本山雅FC vs 京都サンガF.C. (18:00キックオフ／サンプロ アルウィン)とレノファ山口vsツエーゲン金沢（19:00キッ",
+          "link": "https://news.mynavi.jp/article/20210814-1946596/index.html",
+          "publishedOn": "2021-08-14T07:03:47.000Z",
+          "wordCount": 306,
+          "title": "J2第25節松本vs京都と山口vs金沢が中止に…代替開催日は未定"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946107/index.html",
+          "author": null,
+          "description": "コスプレイヤー宮本彩希が8月10日、自身のTwitterを更新し「ドラゴンクエスト×グラニフ」アイテム着用モデルのオフショットを披露した。",
+          "link": "https://news.mynavi.jp/article/20210814-1946107/index.html",
+          "publishedOn": "2021-08-14T07:00:00.000Z",
+          "wordCount": 309,
+          "title": "「パルプンテTシャツがお気に入り」コスプレイヤー宮本彩希が『ドラクエ』シャツ着用"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946562/index.html",
+          "author": null,
+          "description": "King & Prince・岸優太が、 8月15日放送の『ニノさん』（日本テレビ系、毎週日曜10:25～）にゲスト出演する。  8月21日（土）、22日（日）に日本テレビ系で放送される『24時間テレビ44想い～世界は、きっと変わる。』でメインパーソナリティーを務める岸。 昨年放送の『ニノさん』で「自宅で30秒うどんクッキング」を紹介し、尋常でない慌てぶりや、うどんがお椀から飛び出るなどのハプニング映像で二宮和也、菊池風磨（Sexy Zone）らを涙が出るほど笑わせた岸が、今回、新作となる「2分でできる油そば」を披露。そして、今回も爆笑の展開が……!?   また、人気企画「ゲスト接待ダービー」を開催。二宮＆菊池＆ガンバレルーヤ（よしこ、まひる）が考えた、岸が1位になると思うお題を、実際に街の人に聞いてランク付け。「デパートで迷子の子供を助けようとして、逆に迷子になっちゃいそうなのは誰？」「一番ピュアそうなのは誰？」「異性に絶対嘘をつかなそうなのは誰？」「先輩にかわいがられそうなのは誰？」など、リアルな世間のイメージに、気持ちよくなる人、ならない人で真っ二つ！　見事、岸を1位にし、接待を成功させることはできるのか？   さらに、岸がどうしてもやりたいという企画「ジャニーズソング、この『お』は何の曲対決」は、ジャニーズの名曲の「お」という部分だけを聴いて、歌っているグループ名と曲名を当てるというもの。超難問早押しクイズでは、白熱のバトルが繰り広げられる。  そして、芸能人の自宅から押収した私物から持ち主を推理する「芸能人私物捜査官」には、Jr.時代から大活躍、あのジャニーズアーティストが登場。二宮から「後輩かもしれないからタメ口で聞いてみたら？」と促された岸は、私物を手にして「どこで買ったの？」とフランクに尋ねるが、「ん？」という思いがけない返事にタジタジ……。果たして、スタジオに登場するのは誰なのか？  前回の放送では、「Top10ブラックジャック！」を実施。菊池が「嵐になりたかった」と明かす一幕があった。",
+          "link": "https://news.mynavi.jp/article/20210814-1946562/index.html",
+          "publishedOn": "2021-08-14T07:00:00.000Z",
+          "wordCount": 309,
+          "title": "King & Prince岸優太「2分でできる油そば」披露で爆笑の展開に!?"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946555/index.html",
+          "author": null,
+          "description": "シンガーソングライターで俳優の福山雅治がパーソナリティーを務めるTOKYO FMの番組「福のラジオ」。8月14日（土）オンエア回は、この1週間“平和”についてあらためて考えることが多かったという福山が、このオンエアの前々週からNHKで深夜にアンコール放送されていた番組「映像の世紀」が持つ「映像の力」に、多々感じることがあったそうです。",
+          "link": "https://news.mynavi.jp/article/20210814-1946555/index.html",
+          "publishedOn": "2021-08-14T07:00:00.000Z",
+          "wordCount": 313,
+          "title": "福山雅治、「映像の世紀」に見る“人間の業”とは？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946556/index.html",
+          "author": null,
+          "description": "2021年10月10日（日）に開催されるアニメ『テニスの王子様』の放送開始20周年記念イベント「テニプリ 20th Anniversary Event -Future-」のキービジュアルが解禁。さらに、豪華追加ゲストや配信チケットなど追加情・・・",
+          "link": "https://news.mynavi.jp/article/20210814-1946556/index.html",
+          "publishedOn": "2021-08-14T07:00:00.000Z",
+          "wordCount": 309,
+          "title": "『テニプリ』20周年記念イベントKV解禁！ 豪華追加ゲスト情報も"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946553/index.html",
+          "author": null,
+          "description": "許斐剛原作によるアニメ「テニスの王子様」の20周年を記念したイベント「テニプリ 20th Anniversary Event -Future-」のキービジュアルが公開された。",
+          "link": "https://news.mynavi.jp/article/20210814-1946553/index.html",
+          "publishedOn": "2021-08-14T07:00:00.000Z",
+          "wordCount": 317,
+          "title": "アニメ「テニプリ」20周年イベントのKV公開、追加ゲストに永井幸子・新垣樽助・KIMERU"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946528/index.html",
+          "author": null,
+          "description": "【1965年式 トヨタ スポーツ800 Vol.2】【1】から続く 最初のプロトタイプがお披露目されたのは、1962年の「第9回全日本自動車ショー」だ。この時は、「パブリカスポーツ」という名前で展示され、そのスタイルやアイデアに注目が集まっ・・・",
+          "link": "https://news.mynavi.jp/article/20210814-1946528/index.html",
+          "publishedOn": "2021-08-14T06:05:00.000Z",
+          "wordCount": 366,
+          "title": "一般から募集したペットネームを正式名称に｜トヨタ スポーツ800"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946064/index.html",
+          "author": null,
+          "description": "コスプレイヤー篠崎こころが8月8日、自身のTwitterを更新しスノーホワイトカラーのヘアスタイルを披露した。",
+          "link": "https://news.mynavi.jp/article/20210814-1946064/index.html",
+          "publishedOn": "2021-08-14T06:00:00.000Z",
+          "wordCount": 318,
+          "title": "コスプレイヤー篠崎こころがスノーホワイトカラーのヘアスタイル＆美ヘソ披露"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946522/index.html",
+          "author": null,
+          "description": "ぬいぐるみメーカーの内藤デザイン研究所より、海中散歩の新作・貝シリーズがリリース。ヴィレッジヴァンガードオンラインストアで取り扱い開始となった。さらさらシャーベット生地を使用した、触り心地抜群の「ぽちゃまる」シリーズ。この度登場するのは、ち・・・",
+          "link": "https://news.mynavi.jp/article/20210814-1946522/index.html",
+          "publishedOn": "2021-08-14T06:00:00.000Z",
+          "wordCount": 295,
+          "title": "貝好きなあなたへ。サザエやアサリ、貝がふわふわ可愛いぬいぐるみに！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946520/index.html",
+          "author": null,
+          "description": "マンチェスター・Uへの完全移籍が合意に至ったフランス代表DFラファエル・ヴァランだが、まだ移籍が完了した訳ではないようだ。13日、イギリスメディア『マンチェスター・イブニング・ニュース』が伝えている",
+          "link": "https://news.mynavi.jp/article/20210814-1946520/index.html",
+          "publishedOn": "2021-08-14T05:56:47.000Z",
+          "wordCount": 296,
+          "title": "ヴァラン、未だ移籍が完了せず…水曜日の発表予定も後ろ倒しか"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946519/index.html",
+          "author": null,
+          "description": "songbaekの新連載「夫を助けてください」が、本日8月14日にピッコマでスタートした。",
+          "link": "https://news.mynavi.jp/article/20210814-1946519/index.html",
+          "publishedOn": "2021-08-14T05:54:00.000Z",
+          "wordCount": 289,
+          "title": "姑や小姑にどう立ち振る舞う？新婚生活をクエストで攻略するファンタジー新連載"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946515/index.html",
+          "author": null,
+          "description": "Facebookが「Messenger」の音声・ビデオ通話にエンドツーエンドの暗号化（E2EE）機能の提供を開始した。同社によると、音声・ビデオ通話の利用は1日あたり1億5000万件を超えている。",
+          "link": "https://news.mynavi.jp/article/20210814-1946515/index.html",
+          "publishedOn": "2021-08-14T05:51:40.000Z",
+          "wordCount": 376,
+          "title": "Facebook、Messengerの音声・ビデオ通話にエンドツーエンド暗号化のオプション"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946527/index.html",
+          "author": null,
+          "description": "今回紹介するダンヒルの最新フレグランスコレクション「DRIVEN」は、メゾンの持つクラフツマンシップと現代的なデザインが見事に合わさった個性豊かなフレグランスたち。パッと目を引く美しいこのボトルは、ダンヒルのヘリテージである自動車に敬意を表・・・",
+          "link": "https://news.mynavi.jp/article/20210814-1946527/index.html",
+          "publishedOn": "2021-08-14T05:49:00.000Z",
+          "wordCount": 308,
+          "title": "自動車のギアからインスパイアを受けたボトルとは？｜ダンヒルの新作フレグランス"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946521/index.html",
+          "author": null,
+          "description": "◆■鹿島アントラーズ　難しい再開初戦を勝ちきるも、試合内容には改善の余地あり\n\n【プラス材料】\n　東京五輪による中断から再開初戦となった前節の湘南ベルマーレ戦は、DF犬飼智也の2得点で逆転勝ちを収めて",
+          "link": "https://news.mynavi.jp/article/20210814-1946521/index.html",
+          "publishedOn": "2021-08-14T05:42:48.000Z",
+          "wordCount": 314,
+          "title": "【鹿島vs徳島プレビュー】本拠地での久しぶりの試合に燃える鹿島…徳島は4回目の対決で同カード初勝利なるか"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1945590/index.html",
+          "author": null,
+          "description": "米コンピュータ緊急事態対策チーム（US-CERT）は8月12日(米国時間)、Mozilla Thunderbirdにセキュリティ脆弱性が存在すると伝えた。これらセキュリティ脆弱性を悪用されると、攻撃者によって影響を受けたシステムの制御権が乗っ取られる危険性がある。",
+          "link": "https://news.mynavi.jp/article/20210814-1945590/index.html",
+          "publishedOn": "2021-08-14T05:32:52.000Z",
+          "wordCount": 323,
+          "title": "Thunderbirdに脆弱性、アップデートを"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946500/index.html",
+          "author": null,
+          "description": "NTTドコモ、KDDI（au）、ソフトバンク、楽天モバイルの各社は、2021年8月11日からの大雨によって被災した地域の対象者に対する支援措置をアナウンスした。",
+          "link": "https://news.mynavi.jp/article/20210814-1946500/index.html",
+          "publishedOn": "2021-08-14T05:11:58.000Z",
+          "wordCount": 431,
+          "title": "キャリア各社、8月11日からの大雨災害に関する支援措置"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946053/index.html",
+          "author": null,
+          "description": "コスプレイヤー伊織もえが8月7日、自身のTwitterを更新しつんことのツーショットを披露した。",
+          "link": "https://news.mynavi.jp/article/20210814-1946053/index.html",
+          "publishedOn": "2021-08-14T05:00:00.000Z",
+          "wordCount": 315,
+          "title": "「骨格ウェーブ2人」コスプレイヤー伊織もえがつんことの美ボディツーショット披露"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946501/index.html",
+          "author": null,
+          "description": "女優・すみれと、双子タレント・広海が美のスペシャリストをゲストに招いて「わたしをHAPPYにする美容」をテーマに、ビューティートークを展開するTOKYO FMの番組「KOSÉ Find My Beauty powered by @cosme TOKYO」。東京・原宿にある日本最大級のコスメ・美容のテーマパーク「＠cosme TOKYO」のスタジオから、ゲストのメソッドやルーティン、最新の美容トレンドなどを発信します。8月のゲストは、AKB48の柏木由紀さんです。\n\n記念すべき30歳の誕生日となる7月15日（木）に写真集「Experience」（集英社）を発売した柏木さん。8月1日（日）の放送では、その透明感のあるお肌の秘訣、スキンケアのルーティンについて語りました。",
+          "link": "https://news.mynavi.jp/article/20210814-1946501/index.html",
+          "publishedOn": "2021-08-14T05:00:00.000Z",
+          "wordCount": 368,
+          "title": "柏木由紀、美肌の秘訣は？ スキンケアのルーティン、入院中に変化した生活習慣を語る"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946492/index.html",
+          "author": null,
+          "description": "◆ 黒×白のスタイリッシュなデザイン\n\n　ロッテは14日、マリーンズオンラインストア限定で「マリーンズオリジナル自転車」の受注販売をスタートした。\n\n　球団のカラーであるブラックとホワイトでス…",
+          "link": "https://news.mynavi.jp/article/20210814-1946492/index.html",
+          "publishedOn": "2021-08-14T04:47:14.000Z",
+          "wordCount": 319,
+          "title": "ロッテが「オリジナル自転車」を受注販売"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946486/index.html",
+          "author": null,
+          "description": "● エンゼルス 1 － 4 アストロズ ○\n＜現地時間8月13日　エンゼルス・スタジアム＞\n\n　エンゼルスの大谷翔平選手（27）が13日（日本時間14日）、本拠地で行われたアストロズ戦に「1番・…",
+          "link": "https://news.mynavi.jp/article/20210814-1946486/index.html",
+          "publishedOn": "2021-08-14T04:32:14.000Z",
+          "wordCount": 316,
+          "title": "大谷翔平、零敗回避の適時打＆好走塁　4打数1安打1打点、エ軍は再び借金1"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946485/index.html",
+          "author": null,
+          "description": "TVアニメ「東京リベンジャーズ」より、ドラケンこと龍宮寺堅が劇中で着ている服をイメージしたカーディガンが11月26日に発売される。",
+          "link": "https://news.mynavi.jp/article/20210814-1946485/index.html",
+          "publishedOn": "2021-08-14T04:28:00.000Z",
+          "wordCount": 288,
+          "title": "アニメ「東京リベンジャーズ」ドラケンのあの服がカーディガンに、受注生産で登場"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946491/index.html",
+          "author": null,
+          "description": "◆■名古屋グランパス　デビュー戦で存在感示したポーランド代表FWの活躍に期待\n\n【プラス材料】\n　マッシモ・フィッカデンティ監督が指揮を執るチームにおいて、初の3連敗を喫した現状はなかなかに厳しいもの",
+          "link": "https://news.mynavi.jp/article/20210814-1946491/index.html",
+          "publishedOn": "2021-08-14T04:19:51.000Z",
+          "wordCount": 315,
+          "title": "【名古屋vs湘南プレビュー】堅守再構築で嫌な流れを断ちたい名古屋…連敗ストップで降格圏脱出を目指す湘南"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1943349/index.html",
+          "author": null,
+          "description": "シークはこのほど、「【2021年度版】子どもの習い事　満足度調査」の結果を発表した。同調査は7月2日～8日、子どもに習い事を経験させたことのある保護者1,101名を対象に、インターネットで実施した。",
+          "link": "https://news.mynavi.jp/article/20210814-1943349/index.html",
+          "publishedOn": "2021-08-14T04:00:59.000Z",
+          "wordCount": 339,
+          "title": "97%のママが「満足」と答えた子どもの習い事とは？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-wadai/index.html",
+          "author": null,
+          "description": "街で時折見かける双子ちゃん。お揃いの服を着て、双子用ベビーカーに乗せられている姿を見ると、思わず「可愛い〜」という声が漏れてしまうことも。しかし、双子を育てるということは、並大抵のことではないようです。",
+          "link": "https://news.mynavi.jp/article/20210814-wadai/index.html",
+          "publishedOn": "2021-08-14T04:00:04.000Z",
+          "wordCount": 355,
+          "title": "【双子育児】一瞬も気を抜けない双子連れの買い物…危険察知能力が高すぎる母親の姿に「オカンは強し!wwwwwww」「想像を絶しますね!!」と称賛の声"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1945790/index.html",
+          "author": null,
+          "description": "コスプレイヤーの本田夕歩が8月2日、自身のTwitterを更新。ウサギのコスプレを披露した",
+          "link": "https://news.mynavi.jp/article/20210814-1945790/index.html",
+          "publishedOn": "2021-08-14T04:00:00.000Z",
+          "wordCount": 315,
+          "title": "「うさぎぴょん」コスプレイヤー本田夕歩がウサギ姿で制服コス披露"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1945999/index.html",
+          "author": null,
+          "description": "女優の森日菜美が、きょう14日放送のテレビ朝日系ドラマ『ザ・ハイスクール ヒーローズ』(毎週土曜23:00～)の第3話に出演する。",
+          "link": "https://news.mynavi.jp/article/20210814-1945999/index.html",
+          "publishedOn": "2021-08-14T04:00:00.000Z",
+          "wordCount": 323,
+          "title": "森日菜美、『ハイヒロ』出演「『ゼンカイジャー』フリントとは違った姿を」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946474/index.html",
+          "author": null,
+          "description": "吉田美穂がパーソナリティをつとめるTOKYO FMの番組「DUNLOP presents みらい図鑑」。日本の美しい風景、地域で受け継がれる伝統、志を持って活動する人など、100年後の地球に生きる子どもたちへ繋げていきたい“ヒト･モノ･コト”を紹介しています。8月7日（土）の放送では、花火専門店「はなびかん」を運営している山梨県市川三郷町（いちかわみさとちょう）の会社、タチカワ代表の立川靖（たちかわ・やすし）さんに、地元花火メーカーで考案した「市川神明牡丹」についてお話を伺いました。",
+          "link": "https://news.mynavi.jp/article/20210814-1946474/index.html",
+          "publishedOn": "2021-08-14T04:00:00.000Z",
+          "wordCount": 332,
+          "title": "“作り手の感性を後世に伝えていきたい”山梨・市川三郷町が誇る国産の線香花火「市川神明牡丹」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946471/index.html",
+          "author": null,
+          "description": "鈴木亮平が主演を務める日曜劇場『TOKYO MER～走る緊急救命室～』（TBS系、毎週日曜21:00～）の第7話が、8月15日に放送される。  最新の医療機器とオペ室を搭載した大型車両（ERカー）で…",
+          "link": "https://news.mynavi.jp/article/20210814-1946471/index.html",
+          "publishedOn": "2021-08-14T04:00:00.000Z",
+          "wordCount": 299,
+          "title": "鈴木亮平“喜多見”の過去が明らかに?公安刑事が立ちはだかり…"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946470/index.html",
+          "author": null,
+          "description": "清楚がウリのアップアップガールズ（2）が、8月14日放送『有吉反省会』（日本テレビ系、毎週土曜23:30～）に出演する。  有吉弘行が司会を務める同番組では、ゲストの「反省人」たちが過ちを告白＆懺悔…",
+          "link": "https://news.mynavi.jp/article/20210814-1946470/index.html",
+          "publishedOn": "2021-08-14T04:00:00.000Z",
+          "wordCount": 295,
+          "title": "アプガ（2）鍛治島、鼻リコーダー披露も有吉弘行から辛口コメント"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946466/index.html",
+          "author": null,
+          "description": "大人気のため売り切れとなっていた『Among Us』のクルーたちのスクイーズフィギュアが、ヴィレヴァンオンラインにて再販開始となった。『Among Us』は、今世界中で人気を集めている人狼ジャンルのゲーム。パソコン、スマートフォン、Nint・・・",
+          "link": "https://news.mynavi.jp/article/20210814-1946466/index.html",
+          "publishedOn": "2021-08-14T04:00:00.000Z",
+          "wordCount": 301,
+          "title": "『Among Us』クルーのもちもちスクイーズが再販開始！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-wadai5/index.html",
+          "author": null,
+          "description": "猫と一緒に暮らしていると、思いもよらない表情や動きを見せてくれるものです。大分で写真家として活動するerikaさん(@erk_inkc)のお家に暮らす子猫・よつばちゃんは、ちょっと独特な「階段の降り方」をするそう。その様子を撮った動画が、ツイッターで話題になっています。",
+          "link": "https://news.mynavi.jp/article/20210814-wadai5/index.html",
+          "publishedOn": "2021-08-14T03:23:06.000Z",
+          "wordCount": 377,
+          "title": "【そこから!?】癖が強い! 子猫の階段の降り方がかわいすぎると話題に - 「小学校の階段でやった」「最後落ちるのがツボw」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946451/index.html",
+          "author": null,
+          "description": "キャッシュフロー表から住宅のお金に関するアドバイスを行う「住宅のお金診断」。今回の相談は、数年後に3500万円の家の購入を希望されている32歳主婦の方。今の家計で現実的な価格なのか不安があるとのこと…",
+          "link": "https://news.mynavi.jp/article/20210814-1946451/index.html",
+          "publishedOn": "2021-08-14T03:20:00.000Z",
+          "wordCount": 311,
+          "title": "子ども2人、貯蓄400万円。3500万円の住宅購入は可能ですか？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946473/index.html",
+          "author": null,
+          "description": "ポール・スミスとMINIが、1台限りのカスタムメイド車両 \"MINI STRIP\"を世界初披露した。このカスタムメイド車両は、2020年11月に発表されたMINIとポール・スミスとのコラボレーションの成果であり、英国を代表する2つのブランド・・・",
+          "link": "https://news.mynavi.jp/article/20210814-1946473/index.html",
+          "publishedOn": "2021-08-14T03:17:00.000Z",
+          "wordCount": 336,
+          "title": "超シンプル！ポール・スミスが手掛けた「ひねりの利いた」1台限りのミニ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946448/index.html",
+          "author": null,
+          "description": "劇場アニメ「鹿の王 ユナと約束の旅」の本編映像と、miletによる主題歌「One Reason」のコラボPVが到着した。",
+          "link": "https://news.mynavi.jp/article/20210814-1946448/index.html",
+          "publishedOn": "2021-08-14T03:13:00.000Z",
+          "wordCount": 301,
+          "title": "劇場アニメ「鹿の王」miletによる主題歌とのコラボPV、初公開の本編映像も見られる"
+        },
         {
           "id": "https://news.mynavi.jp/article/20210814-1946354/index.html",
           "author": null,
