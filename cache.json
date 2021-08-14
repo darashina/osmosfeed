@@ -9253,6 +9253,69 @@
       "siteUrl": "https://ascii.jp/1/",
       "articles": [
         {
+          "id": "https://ascii.jp/elem/000/004/065/4065913/?rss",
+          "author": null,
+          "description": "CORSAIRから、420mmサイズのラジエーターを採用するオールインワン型水冷ユニット「iCUE H170i ELITE CAPELLIX」が発売された。",
+          "link": "https://ascii.jp/elem/000/004/065/4065913/?rss",
+          "publishedOn": "2021-08-14T15:43:00.000Z",
+          "wordCount": 510,
+          "title": "420mmサイズのオールインワン水冷がCORSAIRから登場"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065912/?rss",
+          "author": null,
+          "description": "JR秋葉原駅駅の電気街口を出てすぐの場所に「セブンイレブン秋葉原電気街口店」が10日（火）よりオープンしている。",
+          "link": "https://ascii.jp/elem/000/004/065/4065912/?rss",
+          "publishedOn": "2021-08-14T15:16:00.000Z",
+          "wordCount": 488,
+          "title": "JR秋葉原駅電気街口すぐの場所にセブンイレブンがオープン"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065545/?rss",
+          "author": null,
+          "description": "パソコンショップSEVENにて「2021/8/15 24時間限定セール」を開催。Core i7-11700KとGeForce RTX 3090を搭載する「ZEFT G18ASX」が5万1000円オフ。",
+          "link": "https://ascii.jp/elem/000/004/065/4065545/?rss",
+          "publishedOn": "2021-08-14T15:00:00.000Z",
+          "wordCount": 237,
+          "title": "Core i7-11700K＋GeForce RTX 3090搭載PCが5万1000円オフ"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065689/?rss",
+          "author": null,
+          "description": "デルは、15.6型のゲーミングノートパソコン「Dell G5 15」がお得に購入できるキャンペーンを実施中。",
+          "link": "https://ascii.jp/elem/000/004/065/4065689/?rss",
+          "publishedOn": "2021-08-14T13:00:00.000Z",
+          "wordCount": 207,
+          "title": "デルのゲーミングPC「Dell G5 15」がCore i7、RTX 3050、16GBメモリー搭載で16万4324円！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065683/?rss",
+          "author": null,
+          "description": "デルは、New XPS 15を値引きして販売している。",
+          "link": "https://ascii.jp/elem/000/004/065/4065683/?rss",
+          "publishedOn": "2021-08-14T13:00:00.000Z",
+          "wordCount": 204,
+          "title": "デルの15.6型ノートPC「New XPS 15」が、直販サイトで27万8447円！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065675/?rss",
+          "author": null,
+          "description": "富士通の直販サイト「富士通 WEB MART」では最新モデルを対象にセールを開催中。",
+          "link": "https://ascii.jp/elem/000/004/065/4065675/?rss",
+          "publishedOn": "2021-08-14T13:00:00.000Z",
+          "wordCount": 225,
+          "title": "頑丈設計でリモート学習にも最適な富士通10.1型タブレット「arrows Tab EH」が7万3800円！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065608/?rss",
+          "author": null,
+          "description": "アスキーストアでは、コンパクトに折り畳めてスマホやタブレット、ノートPCなどに幅広く使える「超軽量ポータブルマルチPCスタンド」を発売中。",
+          "link": "https://ascii.jp/elem/000/004/065/4065608/?rss",
+          "publishedOn": "2021-08-14T13:00:00.000Z",
+          "wordCount": 366,
+          "title": "スマホからパソコンまで対応! 超軽量ポータブルマルチPCスタンド"
+        },
+        {
           "id": "https://ascii.jp/elem/000/004/065/4065838/?rss",
           "author": null,
           "description": "バストは105cm・Hカップ。色白＆むっちりボディーが特徴の紺野 栞さんが、16th DVD「過保護すぎる姉さんと一つ屋根の下」（発売元：エアーコントロール、収録時間：120分、価格：4378円）の発売記念イベントを8月8日、ソフマップAKIBA パソコン・デジタル館で開催した。",
@@ -20515,20 +20578,6 @@
             "type": "image/png",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/26006613787026557",
-          "author": null,
-          "description": "こんにちは。谷口です。\n30代〜40代の方から「今後のキャリアについて悩んでいる」「今までの経験を生かして少し違うキャリアに進みたい」といったご相談を受けることがあります。\n中堅〜ベテランと言える年次になってくると、若手の頃と比べて組織内でのポジションや求められる役割が変わったり増えたりするケースも多く、現職の業務内容やキャリアに不満や不安を感じる方が増えてきます。\nそこで今回は、30代〜40代のエンジニアの方に向けて、今後もエンジニアもしくはその周辺領域で仕事を続ける場合のキャリアの選択肢について解説します。\nエンジニアか周辺領域で仕事を続けるキャリアの選択肢は\nエンジニアを続ける\nエンジニアとして仕事を続ける場合、本当にざっくりわけると専門技術に特化したスペシャリストになるか、ビジネスと技術を総合的に見渡して事業の進め方や組織マネジメントについて考える役割になるか（この中でもメインで担当する分野がわかれていたりします）になります。\nもちろん、企業によって求められる内容は異なりますし、役職名も研究開発・シニアエンジニア、CTO・VPoE・PdMなどさまざまで、組織規模によってはひとつのポジションで複数の役割を担うケースもあります。\n転職するにしても現職を続けるにしても、ここで大事なのは役職名よりも\nそのポジションでどんな役割や業務が求められるのか\nそれは今の自分にとってやりたい&成長できる（ちょっと挑戦が必要な）仕事か\nを企業側とすりあわせておくことです。\n関連記事はこちら\npaiza.hatenablog.com\npaiza.hatenablog.com\n\n上流のSIerに転職する\n小規模なN次請け企業から同様のSIerへの転職を目指す場合、数千人規模の大手企業に入社するのは狭き門ですが、元請けもやっているようなより上流に近いSIer（数百人～1000人前後ほどの規模の…",
-          "link": "https://paiza.hatenablog.com/entry/2021/07/16/130000",
-          "publishedOn": "2021-07-16T04:00:00.000Z",
-          "wordCount": 254,
-          "title": "30代・40代エンジニアのキャリアパスとは？選択肢と求められる能力を解説",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/paiza/20191120/20191120112813.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
         }
       ]
     },
@@ -20537,6 +20586,186 @@
       "feedUrl": "https://news.mynavi.jp/rss/index",
       "siteUrl": "https://news.mynavi.jp/",
       "articles": [
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1946873/index.html",
+          "author": null,
+          "description": "荒木飛呂彦原作によるTVドラマ「岸辺露伴は動かない」の新作となる3エピソードが、12月にNHK総合で放送される。",
+          "link": "https://news.mynavi.jp/article/20210815-1946873/index.html",
+          "publishedOn": "2021-08-14T16:30:00.000Z",
+          "wordCount": 298,
+          "title": "ドラマ「岸辺露伴は動かない」新作3エピソードが12月に放送決定！ゲストに内田理央ら"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1946861/index.html",
+          "author": null,
+          "description": "2021－22シーズンのプレミアリーグ第1節が14日に行われ、チェルシーとクリスタル・パレスが対戦した。\n　昨季のリーグ戦では4位に終わったものの、昨季のチャンピオンズリーグと今夏のUEFAスーパー",
+          "link": "https://news.mynavi.jp/article/20210815-1946861/index.html",
+          "publishedOn": "2021-08-14T15:50:22.000Z",
+          "wordCount": 314,
+          "title": "チェルシー、M・アロンソの鮮やかFK弾など3発完勝！　ヴィエラ初陣のC・パレスは黒星発進"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1946862/index.html",
+          "author": null,
+          "description": "2021－22シーズンのブンデスリーガ開幕節が14日に行われ、MF遠藤渓太とMF原口元気が所属するウニオン・ベルリンは、ホームにレヴァークーゼンを迎えた。\n　原口は先発となり、81分までプレー。ハノ",
+          "link": "https://news.mynavi.jp/article/20210815-1946862/index.html",
+          "publishedOn": "2021-08-14T15:27:33.000Z",
+          "wordCount": 307,
+          "title": "原口元気スタメンのウニオン、レヴァークーゼンと開幕節ドロー…遠藤渓太はベンチ外"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1946860/index.html",
+          "author": null,
+          "description": "2021－22シーズンのブンデスリーガ開幕節が14日に行われ、MF遠藤航とDF伊藤洋輝が所属するシュトゥットガルトは、ホームに昇格組のグロイター・フュルトを迎えた。今季からキャプテンに就任した遠藤は",
+          "link": "https://news.mynavi.jp/article/20210815-1946860/index.html",
+          "publishedOn": "2021-08-14T15:23:47.000Z",
+          "wordCount": 324,
+          "title": "主将・遠藤航が開幕節でゴール！　シュトゥットガルト、昇格組に5発快勝"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/win10tips-643/index.html",
+          "author": null,
+          "description": "Windows 11のクイック設定は、Windows 10のアクションセンターと同等の機能を備える。必要に応じてクイックアクションを選び、ディスプレイの光度やボリュームの調整が可能だ。",
+          "link": "https://news.mynavi.jp/article/win10tips-643/index.html",
+          "publishedOn": "2021-08-14T15:00:00.000Z",
+          "wordCount": 471,
+          "title": "Windows 10ミニTips 第643回 Windows 11に備える - クイック設定に出るアイテムを整える"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1946682/index.html",
+          "author": null,
+          "description": "講談社のコミック誌『ヤングマガジン』のWebサイト「ヤンマガWeb」グラビアが、 9日～15日にわたって公開された。",
+          "link": "https://news.mynavi.jp/article/20210815-1946682/index.html",
+          "publishedOn": "2021-08-14T15:00:00.000Z",
+          "wordCount": 327,
+          "title": "ド迫力のセクシー水着、可愛すぎるビールの売り子…グラビア13連発"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1946827/index.html",
+          "author": null,
+          "description": "許斐剛原作によるアニメ「テニスの王子様」のTVシリーズとOVAが、本日8月15日よりGYAO!で順次無料配信される。",
+          "link": "https://news.mynavi.jp/article/20210815-1946827/index.html",
+          "publishedOn": "2021-08-14T15:00:00.000Z",
+          "wordCount": 390,
+          "title": "「テニスの王子様」TVアニメ全シリーズ＆OVAをGYAO!で無料配信"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1946830/index.html",
+          "author": null,
+          "description": "今日8月15日は「終戦の日」。76年前の今日、ラジオを通して、昭和天皇から国民にポツダム宣言受諾が伝えられました。また、今日は「余の辞書に不可能という文字はない」という言葉でも有名なフランスの革命家で皇帝のナポレオン・ボナパルトが生まれた日・・・",
+          "link": "https://news.mynavi.jp/article/20210815-1946830/index.html",
+          "publishedOn": "2021-08-14T15:00:00.000Z",
+          "wordCount": 292,
+          "title": "【小倉唯さんも！】8月15日がお誕生日の声優さんは？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1946826/index.html",
+          "author": null,
+          "description": "松本夏実「夢色パティシエール」の全話無料公開キャンペーンが、本日8月15日から17日にかけてマンガMeeで開催される。",
+          "link": "https://news.mynavi.jp/article/20210815-1946826/index.html",
+          "publishedOn": "2021-08-14T15:00:00.000Z",
+          "wordCount": 286,
+          "title": "「夢色パティシエール」全話無料公開キャンペーンがマンガMeeで本日から"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946817/index.html",
+          "author": null,
+          "description": "AMATERASは8月13日、アパレルやナイトウェアを展開するライフスタイルブランド「AMATERAS(アマテラス)」よりインナー「DREAMY BRA(ドリーミーブラ)」をシリーズ化し、初の総柄、和花柄タイプをECサイトで発売した。「DR・・・",
+          "link": "https://news.mynavi.jp/article/20210814-1946817/index.html",
+          "publishedOn": "2021-08-14T14:38:00.000Z",
+          "wordCount": 275,
+          "title": "10秒に1個売れた「DREAMY BRA」初の総柄が登場 ライフスタイルブランド「AMATERAS」から"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946794/index.html",
+          "author": null,
+          "description": "新型コロナウイルスの影響で「おうち時間」が増えた昨今、お取り寄せでプチ贅沢をしている人も多いのでは? 全国各地のおいしいものを自宅で楽しめる、お取り寄せグルメ。一番人気があるのは、どこのグルメなのだろうか。そこで今回は、お取り寄せグルメをしたことがあるマイナビニュース会員179名に「今までお取り寄せした中で最もよかった都道府県」を教えてもらった。",
+          "link": "https://news.mynavi.jp/article/20210814-1946794/index.html",
+          "publishedOn": "2021-08-14T14:08:36.000Z",
+          "wordCount": 377,
+          "title": "「お取り寄せグルメ」してよかった都道府県ランキング、1位は?"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946796/index.html",
+          "author": null,
+          "description": "◆ 源田特製グラブでナイスピッチ\n\n　14日にメットライフドームで行われた西武－楽天の一戦。\n\n　夏の大型イベント『ライオンズフェスティバルズ2021』の開催日でもあるこの日は、熱烈なレオ党で…",
+          "link": "https://news.mynavi.jp/article/20210814-1946796/index.html",
+          "publishedOn": "2021-08-14T13:59:06.000Z",
+          "wordCount": 349,
+          "title": "熱烈レオ党ピアニスト・清塚信也さんが始球式に登場！「プロ野球に感謝」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946786/index.html",
+          "author": null,
+          "description": "夏の高校サッカー日本一を決する全国高等学校総合体育大会サッカー競技大会が8月14日、福井県内で開幕を迎えた。昨年はコロナ禍で開催を見送られていた上に、関係者からは無事に開催の日を迎えられたことへの安",
+          "link": "https://news.mynavi.jp/article/20210814-1946786/index.html",
+          "publishedOn": "2021-08-14T13:40:15.000Z",
+          "wordCount": 305,
+          "title": "青森山田、夏の王者へ初戦突破…長崎総科大附をシュート0に　黒田監督は小嶺監督に初勝利で「感慨深い」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946120/index.html",
+          "author": null,
+          "description": "モデルの紺野彩夏、鈴木ゆうか、アイドルグループ・櫻坂46の田村保乃、アンジュルムの佐々木莉佳子が、テレビ朝日系バラエティ番組『あざとくて何が悪いの?』(毎週土曜21:55～)で9月4日から放送される“あざと連ドラ”新シリーズに出演することが14日、発表された。",
+          "link": "https://news.mynavi.jp/article/20210814-1946120/index.html",
+          "publishedOn": "2021-08-14T13:25:00.000Z",
+          "wordCount": 347,
+          "title": "田村保乃・佐々木莉佳子ら「あざと連ドラ」新メンバーに　細田佳央太も"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946787/index.html",
+          "author": null,
+          "description": "2021－22シーズンのプレミアリーグ第1節が14日に行われ、マンチェスター・Uとリーズが対戦した。\n　ライバル関係にあることで知られる両者がトップリーグの開幕節で対戦するのは、1970－71シーズ",
+          "link": "https://news.mynavi.jp/article/20210814-1946787/index.html",
+          "publishedOn": "2021-08-14T13:21:44.000Z",
+          "wordCount": 329,
+          "title": "ブルーノ3得点＆ポグバが4アシスト！　マンU、リーズに5発快勝で白星発進"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946772/index.html",
+          "author": null,
+          "description": "ミニマリスト、という言葉が最近目につくようになりました。最小限主義者と日本語訳がつくこともあるように、できるだけものを持たない生活を送ろうというのがミニマリストです。ミニマリストを実践している人の部屋…",
+          "link": "https://news.mynavi.jp/article/20210814-1946772/index.html",
+          "publishedOn": "2021-08-14T13:20:00.000Z",
+          "wordCount": 304,
+          "title": "モノを手放すと家計はどこまでラクになる？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946777/index.html",
+          "author": null,
+          "description": "今日の占い「12星座ランキング」を発表！ ラジオ発のエンタメニュース＆コラム「TOKYO FM＋」がお届けする、毎日運勢占い「12星座別ランキング＆ワンポイントアドバイス」。2021年（令和3年）8月14日（土）のあなたの運勢を、東京・池袋占い館セレーネ代表・占い師の夏目みやび（なつめ・みやび）さんが占います。今日の第1位は魚座（うお座）！ あなたの星座は何位……？",
+          "link": "https://news.mynavi.jp/article/20210814-1946777/index.html",
+          "publishedOn": "2021-08-14T13:10:00.000Z",
+          "wordCount": 345,
+          "title": "★今日の運勢★2021年8月15日（日）12星座占いランキング第1位は魚座（うお座）！ あなたの星座は何位…!?"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1945038/index.html",
+          "author": null,
+          "description": "グラビアアイドルの紺野栞がこのほど、東京・秋葉原のソフマップで最新イメージDVD『過保護すぎる姉さんと一つ屋根の下』(発売中 4,378円税込 発売元:エアーコントロール)の発売記念イベントを行った。",
+          "link": "https://news.mynavi.jp/article/20210814-1945038/index.html",
+          "publishedOn": "2021-08-14T13:00:00.000Z",
+          "wordCount": 318,
+          "title": "Hカップ紺野栞、大好きな”弟”と過ごすシーンは「生々しい」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946641/index.html",
+          "author": null,
+          "description": "歌手のMISIA、ピアニストの紀平凱成、シンガーソングライターのさだまさしが、日本テレビ系大型特番『24時間テレビ44』(21日18:30～22日20:54)で、チャリティーソングを制作することが、14日に放送された同局系バラエティ番組『1億3000万人のSHOWチャンネル』(毎週土曜21:00～)で発表された。",
+          "link": "https://news.mynavi.jp/article/20210814-1946641/index.html",
+          "publishedOn": "2021-08-14T13:00:00.000Z",
+          "wordCount": 319,
+          "title": "MISIA×紀平凱成×さだまさし『24時間テレビ』チャリティーソング制作"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946771/index.html",
+          "author": null,
+          "description": "斉藤ノヴと夏木マリが立ち上げた 「One of Loveプロジェクト」による「One of Loveプロジェクトリモートライブ2021」が、8月14日（土）24:30～25:25にBSフジでオンエアされる。野田洋次郎、Superfly、Ch・・・",
+          "link": "https://news.mynavi.jp/article/20210814-1946771/index.html",
+          "publishedOn": "2021-08-14T13:00:00.000Z",
+          "wordCount": 348,
+          "title": "夏木マリと斉藤ノヴによるチャリティライブオンエア　野田洋次郎、Superfly、Chara、TOSHI-LOWなど"
+        },
         {
           "id": "https://news.mynavi.jp/article/20210814-1946755/index.html",
           "author": null,
