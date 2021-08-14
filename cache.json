@@ -12,6 +12,105 @@
       "siteUrl": "https://www.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/14/news023.html",
+          "author": null,
+          "description": "メルカリは、知名度は低いが地元で愛されている日本各地のお土産を応援するプロジェクト「インディーズ土産全国デビューへの道」を展開し、オンライン上で投票キャンペーンを実施した。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/14/news023.html",
+          "publishedOn": "2021-08-14T01:00:00.000Z",
+          "wordCount": 130,
+          "title": "[ITmedia ビジネスオンライン] 全国の「インディーズ土産」人気ランキング発表　1位は鳥取県が獲得"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/14/news012.html",
+          "author": null,
+          "description": "クラシエが「ダンベルボディソープ」をMakuakeで先行販売している。その理由を担当者に聞いた。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/14/news012.html",
+          "publishedOn": "2021-08-14T01:00:00.000Z",
+          "wordCount": 133,
+          "title": "[ITmedia ビジネスオンライン] ダンベル？　いえ“ボディソープ”です　クラシエが「ダンベルボディソープ」を先行発売"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/14/news027.html",
+          "author": null,
+          "description": "小中学生や高校生による、オンラインゲームでの課金を巡るトラブルが増加している。国民生活センターの発表によれば、2020年度の相談件数は19年度の約1.5倍に。「『おうち時間』が長引く中、子供が保護者の許可なく課金するトラブルが急増している」という。",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/14/news027.html",
+          "publishedOn": "2021-08-14T01:00:00.000Z",
+          "wordCount": 142,
+          "title": "[ITmedia News] “子供のゲーム課金”トラブルの相談件数が1年で約1.5倍に　国民生活センターが注意喚起　原因は巣ごもり？"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/14/news033.html",
+          "author": null,
+          "description": "富裕層やグループ客をターゲットにした高級一棟貸し旅館「庄屋の里 古民家たなか」が千葉県いすみ市にオープンした。東京駅から車で約1時間30分の場所にあり、1日1組限定で1泊11万円から。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/14/news033.html",
+          "publishedOn": "2021-08-14T00:52:00.000Z",
+          "wordCount": 132,
+          "title": "[ITmedia ビジネスオンライン] 築100年以上の旧邸をリノベ、1日1組限定の高級一棟貸し旅館「古民家たなか」が狙う客層は"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/14/news007.html",
+          "author": null,
+          "description": "アジア・インタラクション・サポートはタイ人に「訪日に関する意識調査」を実施した。コロナ禍でもタイ人は日本旅行の情報を収集したいと考えていることが分かった。タイ人の関心のある情報はなにか。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/14/news007.html",
+          "publishedOn": "2021-08-14T00:00:00.000Z",
+          "wordCount": 135,
+          "title": "[ITmedia ビジネスオンライン] コロナ禍でも、9割のタイ人が「日本旅行の情報を求めている」　知りたい情報3位「グルメ」、2位「宿泊」、1位は？"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/14/news021.html",
+          "author": null,
+          "description": "暑い夏。リュックを背負って「汗ばむなあ」「蒸せる」と感じたことがある人も多いのでは。こうした問題を解決するために、バッグメーカーのエースは「蒸れないリュック」を開発した。どういった機能が搭載されているのかというと……。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/14/news021.html",
+          "publishedOn": "2021-08-13T23:15:00.000Z",
+          "wordCount": 128,
+          "title": "[ITmedia ビジネスオンライン] エースの「背中が蒸れないリュック」は、なぜ売れているのか"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/14/news029.html",
+          "author": null,
+          "description": "「劇場版 鬼滅の刃 無限列車編」のレンタルが8月13日に始まった。しかし対象はDVDのみ。一部ユーザーからブルーレイや動画配信を求める声が上がっている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/14/news029.html",
+          "publishedOn": "2021-08-13T22:00:00.000Z",
+          "wordCount": 157,
+          "title": "[ITmedia News] 劇場版「鬼滅の刃」のDVDレンタル始まる　ネット上ではブルーレイや動画配信を求める声も"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/14/news031.html",
+          "author": null,
+          "description": "ランボルギーニがスーパーカー「カウンタック」の50周年記念モデル「Countach LPI800-4」を限定112台で発売する。ハイブリッドで最高速度は時速355キロ。8.4インチタッチパネルでAppleのCarPlay対応だ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/14/news031.html",
+          "publishedOn": "2021-08-13T21:46:00.000Z",
+          "wordCount": 151,
+          "title": "[ITmedia News] 往年のスーパーカー「ランボルギーニ・カウンタック」がハイブリッドで復活"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2108/14/news030.html",
+          "author": null,
+          "description": "イオンモバイルが10月から料金プランの値下げをするが、それ以上に衝撃的だったのが、端末販売の新戦術だ。イオンリテールは、大手キャリア3社の販売するスマートフォンと、イオンモバイルのSIMカードをセットで販売していく方針。同様の方法で販売を行うMVNOが増えてくると、キャリアとメーカーの在り方に与えるインパクトも大きくなる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2108/14/news030.html",
+          "publishedOn": "2021-08-13T21:00:00.000Z",
+          "wordCount": 509,
+          "title": "[ITmedia Mobile] “キャリア端末”のセット販売を仕掛けるイオンモバイル　SIMロック禁止で変わる端末販売の在り方"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/pcuser/articles/2108/14/news025.html",
+          "author": null,
+          "description": "新GPU「Radeon RX 6600 XT」を搭載したグラフィックスカードが一斉に売り出された。「そこそこ好評」と語るショップが多い中で、一部から警戒の声も聞かれる。",
+          "link": "https://www.itmedia.co.jp/pcuser/articles/2108/14/news025.html",
+          "publishedOn": "2021-08-13T21:00:00.000Z",
+          "wordCount": 537,
+          "title": "[ITmedia PC USER] Radeon RX 6600 XT搭載カードが登場！――「マイニング不安」の声も一部に"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/14/news022.html",
+          "author": null,
+          "description": "「自宅でご飯（白米、玄米などプレーンなもの）を食べる頻度はどの程度か」や「おかずの品数」を調査。ご飯のおともとして1位になったのは納豆だった。自宅の「ご飯」事情はどうなっているのか。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/14/news022.html",
+          "publishedOn": "2021-08-13T21:00:00.000Z",
+          "wordCount": 128,
+          "title": "[ITmedia ビジネスオンライン] 自宅で食べる「ご飯のおとも」1位は納豆　白米や玄米を食べる頻度は？"
+        },
+        {
           "id": "https://www.itmedia.co.jp/business/articles/2108/14/news016.html",
           "author": null,
           "description": "LINEリサーチは、全国の高校生を対象に「東京ディズニーランド・東京ディズニーシー」について調査した。今までに東京ディズニーランドやシーに行ったことのある回数、行った目的、やりたいことを聞き、男女別に比較した。",
@@ -9117,6 +9216,24 @@
       "feedUrl": "https://ascii.jp/rss.xml",
       "siteUrl": "https://ascii.jp/1/",
       "articles": [
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064798/?rss",
+          "author": null,
+          "description": "約13年ぶりに、37型プラズマテレビから50型液晶4Kテレビに買い換えてみた。",
+          "link": "https://ascii.jp/elem/000/004/064/4064798/?rss",
+          "publishedOn": "2021-08-14T01:00:00.000Z",
+          "wordCount": 532,
+          "title": "約13年ぶりのテレビ購入、37型プラズマから50型4K液晶に買い換えたら世界が変わった"
+        },
+        {
+          "id": "https://ascii.jp/limit/group/ida/elem/000/004/064/4064628/?rss",
+          "author": null,
+          "description": "Cubaseでミックスとマスタリングに苦労したので、AIにやってもらうことにした。マスタリングツール「Ozone9 Advanced」、ミキシングツール「Neutron3 Advanced」、ボーカルミックスに特化したツール「Nectar3 Plus」を使ってみる。",
+          "link": "https://ascii.jp/limit/group/ida/elem/000/004/064/4064628/?rss",
+          "publishedOn": "2021-08-14T00:00:00.000Z",
+          "wordCount": 559,
+          "title": "AIに曲のミックスとマスタリングをやってもらった"
+        },
         {
           "id": "https://ascii.jp/elem/000/004/065/4065864/?rss",
           "author": null,
@@ -20240,6 +20357,456 @@
       "feedUrl": "https://news.mynavi.jp/rss/index",
       "siteUrl": "https://news.mynavi.jp/",
       "articles": [
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946354/index.html",
+          "author": null,
+          "description": "お笑いコンビ・メイプル超合金のカズレーザーが8日、公式YouTubeチャンネル『カズレーザーの50点塾』に出演。大好きなプラモデルを部屋に飾らない理由を打ち明けた。",
+          "link": "https://news.mynavi.jp/article/20210814-1946354/index.html",
+          "publishedOn": "2021-08-14T01:30:00.000Z",
+          "wordCount": 311,
+          "title": "カズレーザー、大好きなプラモデルを飾らない理由「欲しい物だとしても…」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1945768/index.html",
+          "author": null,
+          "description": "下膨れのぷっくりした形がユニークなそらまめは、茹でて食べるだけでなく、爽やかな黄緑色が料理の彩りとしても美しく、独特のホクホクした食感も楽しめる豆です。本記事では、そんなそらまめに含まれる栄養成分や効能、カロリー、さらにはおいしく食べるための保存法を紹介します。",
+          "link": "https://news.mynavi.jp/article/20210814-1945768/index.html",
+          "publishedOn": "2021-08-14T01:03:09.000Z",
+          "wordCount": 416,
+          "title": "そらまめの栄養成分や効能とは - カロリーやおいしく食べるための保存法も紹介"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1943550/index.html",
+          "author": null,
+          "description": "学校給食で好きだったあのメニュー。給食の話題になったときに、じつは自分の住む地域限定だったという経験はありませんか? 今回はマイナビ会員の男女1,013名にアンケートを実施。学校給食のご当地メニューについて聞いてみました。",
+          "link": "https://news.mynavi.jp/article/20210814-1943550/index.html",
+          "publishedOn": "2021-08-14T01:00:42.000Z",
+          "wordCount": 398,
+          "title": "あのメニューは地域限定だった? 大人になって知ったご当地給食"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946381/index.html",
+          "author": null,
+          "description": "○ 巨人 4 － 2 中日 ●\n＜15回戦・東京ドーム＞\n\n　13日に放送された『ニッポン放送ショウアップナイター 巨人－中日戦』で解説を務めた川相昌弘氏が、ダブルスチールを失敗した6回の巨人の…",
+          "link": "https://news.mynavi.jp/article/20210814-1946381/index.html",
+          "publishedOn": "2021-08-14T01:00:16.000Z",
+          "wordCount": 306,
+          "title": "川相氏、巨人の重盗失敗に「中日ベンチが読んでいましたね」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-sekitomokazu/index.html",
+          "author": null,
+          "description": "『ドラえもん』骨川スネ夫役から『ふたりはプリキュア』メップル役、『呪術廻戦』パンダ役……デビューから約30年の間に演じたキャラクターは数知れず、常に第一線で活躍し続ける声優の関智一。現在は立て続けに“俳優としての顔”を見せており、『ザ・ハイスクール ヒーローズ』では主人公の父親役、劇中に登場する『秘密戦隊ゴレンジャー』アカレンジャーの声をダブルで担当。声優界のトップオブザトップが今ドラマというフィールドに足を踏み入れる理由とは。この道を志すきっかけとなった『ゴレンジャー』との出会いや共演する美 少年の印象、豊かな人生を謳歌しているそのモットーを聞いた。",
+          "link": "https://news.mynavi.jp/article/20210814-sekitomokazu/index.html",
+          "publishedOn": "2021-08-14T01:00:00.000Z",
+          "wordCount": 353,
+          "title": "関智一、50代前にドラマ本格進出で反響「声優＝“声色変える人”ではない」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946018/index.html",
+          "author": null,
+          "description": "テレビ東京系列で放送中のTVアニメ『ドラゴンクエスト ダイの大冒険』が、2021年10月から放送2年目に突入するが、アニメ放送1周年を記念して、9月12日(日)に『アニメ「ドラゴンクエスト ダイの大冒険」1周年記念ダイ！感謝祭』の開催が決定した。",
+          "link": "https://news.mynavi.jp/article/20210814-1946018/index.html",
+          "publishedOn": "2021-08-14T01:00:00.000Z",
+          "wordCount": 318,
+          "title": "『ドラゴンクエスト ダイの大冒険』、9/12にアニメ1周年記念配信イベント"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946083/index.html",
+          "author": null,
+          "description": "アイドルグループ・King ＆ Princeの岸優太が、あす15日に放送される日本テレビのバラエティ番組『ニノさん』(毎週日曜10:25～)に出演する。",
+          "link": "https://news.mynavi.jp/article/20210814-1946083/index.html",
+          "publishedOn": "2021-08-14T01:00:00.000Z",
+          "wordCount": 333,
+          "title": "King ＆ Prince岸優太、「2分でできる油そば」で爆笑展開"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946376/index.html",
+          "author": null,
+          "description": "2020年10月3日より毎週土曜日朝9時30分から放送中のTVアニメ『ドラゴンクエスト ダイの大冒険』は、2021年10月から放送2年目に突入する。これを記念して2021年9月12日、「アニメ『ドラゴンクエスト ダイの大冒険』1周年記念ダイ・・・",
+          "link": "https://news.mynavi.jp/article/20210814-1946376/index.html",
+          "publishedOn": "2021-08-14T01:00:00.000Z",
+          "wordCount": 302,
+          "title": "『ダイの大冒険』1周年記念ダイ！感謝祭9月12日に開催！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946375/index.html",
+          "author": null,
+          "description": "川辺は、8月11日より、全国の百貨店・専門店ハンカチ売り場やインターモード川辺オンラインショップにて『ドラえもん』のエンボス加工が入った箱入りのBOXマスクの販売を開始した。ドラえもんは藤子・F・不二雄氏によって手掛けられた、言わずと知れた・・・",
+          "link": "https://news.mynavi.jp/article/20210814-1946375/index.html",
+          "publishedOn": "2021-08-14T01:00:00.000Z",
+          "wordCount": 293,
+          "title": "思わず笑顔に♪キュートな『ドラえもん』のBOXマスクが登場"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946119/index.html",
+          "author": null,
+          "description": "音楽グループ・TRFのDJ KOOが出演するテレビ静岡のバラエティ番組『DJ KOOのどうぶつ最KOOOO!!』が、きょう14日(17:00～ ※静岡ローカル)に放送される。",
+          "link": "https://news.mynavi.jp/article/20210814-1946119/index.html",
+          "publishedOn": "2021-08-14T01:00:00.000Z",
+          "wordCount": 333,
+          "title": "DJ KOO、ヘビ逃走騒動で活躍の園長からワニ捕獲術レッスン"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946386/index.html",
+          "author": null,
+          "description": "ザ・クラッシュが『サンディニスタ！』を世に問うてから40年が過ぎた。本作はレコード6面すべてが地雷探査のようであり、バンドの到達点と大麻常用者によるゴミが混在している。今なお議論のタネとなっている大作を、名物ライターのロブ・シェフィールドが・・・",
+          "link": "https://news.mynavi.jp/article/20210814-1946386/index.html",
+          "publishedOn": "2021-08-14T01:00:00.000Z",
+          "wordCount": 402,
+          "title": "ザ・クラッシュ『サンディニスタ！』　散漫かつ過剰な3枚組が大傑作となった理由"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946374/index.html",
+          "author": null,
+          "description": "堀越耕平「僕のヒーローアカデミア」のハリウッド実写版で、佐藤信介が監督を務めると発表された。",
+          "link": "https://news.mynavi.jp/article/20210814-1946374/index.html",
+          "publishedOn": "2021-08-14T00:53:00.000Z",
+          "wordCount": 288,
+          "title": "「僕のヒーローアカデミア」ハリウッド実写版、監督は「キングダム」の佐藤信介"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1945625/index.html",
+          "author": null,
+          "description": "JPCERTコーディネーションセンター（JPCERT/CC）は8月12日、InterNiche (現HCC Embedded)が開発したTCP/IPスタックに複数の脆弱性が存在すると伝えた。これら脆弱性を悪用されると、攻撃者によって遠隔からのコード実行やサービス運用妨害(DoS: Denial of Service)攻撃などを引き起こされるおそれがある。",
+          "link": "https://news.mynavi.jp/article/20210814-1945625/index.html",
+          "publishedOn": "2021-08-14T00:12:55.000Z",
+          "wordCount": 307,
+          "title": "TCP/IPスタックに脆弱性「INFRA:HALT」、多くの制御機器に影響"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946355/index.html",
+          "author": null,
+          "description": "○ 巨人 4 － 2 中日 ●\n＜15回戦・東京ドーム＞\n\n　0－1の5回に三ツ俣大樹がチーム初安打となる安打を放った。\n\n　0－1の5回二死一塁で迎えた第2打席、巨人の先発・山口俊が2ボー…",
+          "link": "https://news.mynavi.jp/article/20210814-1946355/index.html",
+          "publishedOn": "2021-08-14T00:00:57.000Z",
+          "wordCount": 308,
+          "title": "川相氏が安打を評価も…中日・三ツ俣が途中交代"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946342/index.html",
+          "author": null,
+          "description": "○ 巨人 4 － 2 中日 ●\n＜15回戦・東京ドーム＞\n\n　巨人のセカンド・吉川尚輝が、“超美技”を魅せた。\n\n　6月10日のオリックス戦で左手の骨折した吉川は、後半戦の初戦となった13日…",
+          "link": "https://news.mynavi.jp/article/20210814-1946342/index.html",
+          "publishedOn": "2021-08-13T23:30:05.000Z",
+          "wordCount": 306,
+          "title": "巨人・吉川の“超美技”に川相氏「スローイングが非常に強かった」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946359/index.html",
+          "author": null,
+          "description": "日本の音楽の礎となったアーティストに毎月1組ずつスポットを当て、本人や当時の関係者から深く掘り下げた話を引き出していく。2021年7月は松本隆トリビュートアルバム特集。第4週は、7月14日リリースの松本隆トリビュートアルバム『風街に連れてっ・・・",
+          "link": "https://news.mynavi.jp/article/20210814-1946359/index.html",
+          "publishedOn": "2021-08-13T23:18:00.000Z",
+          "wordCount": 413,
+          "title": "松本隆の作品に通底しているもの、トリビュートアルバムを本人と振り返る"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946335/index.html",
+          "author": null,
+          "description": "◆ 終盤に勝ち越すも逃げ切れず\n\n　中日は7回にビシエドの2ランで逆転するも8回に又吉克樹が打ち込まれ逆転負けを喫した。\n\n　中日は先発の柳裕也が初回に先制を許すもその後は粘りのピッチングで無…",
+          "link": "https://news.mynavi.jp/article/20210814-1946335/index.html",
+          "publishedOn": "2021-08-13T23:14:08.000Z",
+          "wordCount": 299,
+          "title": "中日が逃げ切り失敗で痛恨の逆転負け…谷繁氏「ドラゴンズは2－1で勝ちにいくべきだった」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946347/index.html",
+          "author": null,
+          "description": "障がいのある当事者として、独自の視点でパラスポーツやパラアスリートを取材し、その魅力を伝え続けているNHKパラリンピック放送リポーターの３人（後藤佑季リポーター、三上大進リポーター、千葉絵里菜リポーター）。取材を通して感じた選手の魅力、競技の楽しみ方について聞いてみた！",
+          "link": "https://news.mynavi.jp/article/20210814-1946347/index.html",
+          "publishedOn": "2021-08-13T23:03:50.000Z",
+          "wordCount": 336,
+          "title": "ＮＨＫパラリンピック放送リポーターが紹介！　パラアスリートの魅力と競技の見どころ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946330/index.html",
+          "author": null,
+          "description": "○ 巨人 4 － 2 中日 ●\n＜15回戦・東京ドーム＞\n\n　13日に放送された『ニッポン放送ショウアップナイター 巨人－中日戦』で解説を務めた川相昌弘氏が、5回の巨人・小林誠司の打撃について言…",
+          "link": "https://news.mynavi.jp/article/20210814-1946330/index.html",
+          "publishedOn": "2021-08-13T23:00:42.000Z",
+          "wordCount": 307,
+          "title": "川相氏、巨人・小林の第2打席に苦言「状況に応じた打撃を」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1932054/index.html",
+          "author": null,
+          "description": "色物(いろもの)は「主となる演芸のいろどりとなる芸」を意味する言葉です。しかし近年では悪い意味で広く用いられるようになりました。本記事では、「色物」の意味や使い方、英語表現などについて解説します。",
+          "link": "https://news.mynavi.jp/article/20210814-1932054/index.html",
+          "publishedOn": "2021-08-13T23:00:00.000Z",
+          "wordCount": 368,
+          "title": "色物(いろもの)とは - 使い方や「色物扱い」「色物キャラ」の意味も解説"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-pandakuroshio/index.html",
+          "author": null,
+          "description": "筆者は今年7月、「WEST EXPRESS 銀河」紀南コースの報道公開が行われた後、新宮駅から御坊駅まで「くろしお26号」に乗車した。この日は「パンダくろしお Smile アドベンチャートレイン」を使用しての運行だった。",
+          "link": "https://news.mynavi.jp/article/20210814-pandakuroshio/index.html",
+          "publishedOn": "2021-08-13T23:00:00.000Z",
+          "wordCount": 381,
+          "title": "JR西日本「パンダくろしお」新宮駅から乗車 - 白浜駅を境に変化が"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946071/index.html",
+          "author": null,
+          "description": "アイドルグループのKing ＆ Princeが、きょう14日に放送される日本テレビ系バラエティ番組『1億3000万人のSHOWチャンネル』(毎週土曜21:00～)に出演。2つの企画に挑む。",
+          "link": "https://news.mynavi.jp/article/20210814-1946071/index.html",
+          "publishedOn": "2021-08-13T23:00:00.000Z",
+          "wordCount": 334,
+          "title": "King ＆ Prince、「オレが一番選手権」＆ギネス世界記録に挑戦"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946322/index.html",
+          "author": null,
+          "description": "アニメ専門チャンネル「カートゥーン ネットワーク」を運営するターナージャパンは、バッグス・バニーをはじめルーニー・テューンズの仲間たちが登場する最新アニメシリーズ 『ルーニー・テューンズ・カートゥーンズ』を2021年8月15日（日）午後2時・・・",
+          "link": "https://news.mynavi.jp/article/20210814-1946322/index.html",
+          "publishedOn": "2021-08-13T23:00:00.000Z",
+          "wordCount": 321,
+          "title": "『ルーニー・テューンズ・カートゥーンズ』CNで日本初放送！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946323/index.html",
+          "author": null,
+          "description": "ミシンを製造販売するアックスヤマザキが昨年から販売している、「子育てにちょうどいいミシン」の販売台数が1年間で約5万台のヒット商品となった。販売集計期間は、2020年3月27日～2021年3月26日。販売が伸長した要因について、山崎一史社長・・・",
+          "link": "https://news.mynavi.jp/article/20210814-1946323/index.html",
+          "publishedOn": "2021-08-13T23:00:00.000Z",
+          "wordCount": 272,
+          "title": "【コロナ禍の通販ヒット商品】販売数5万台のヒット スマホ見ながら手作りの機能"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946328/index.html",
+          "author": null,
+          "description": "King & Prince（平野紫耀、永瀬廉、高橋海人、岸優太、神宮寺勇太）、MISIAが、8月14日に放送される櫻井翔が局長を務める『1億3000万人のSHOWチャンネル』（日本テレビ系、毎週土曜21:00～）に出演する。  今や1億3000万人がクリエイターで誰でも企画を考え発信しうるこの時代に、芸能人や文化人、アスリート、そして視聴者の「やってみたい」「見てみたい」が詰まった企画をどんどん実行する同番組。この日はほかに、小峠英二（バイきんぐ）、羽鳥慎一が出演する。  8月21日（土）、22日（日）に日本テレビ系で放送される『24時間テレビ44』で、メインパーソナリティーを務めるKing & Princeは、今やりたい2大企画に挑戦する。やりたい企画1つ目は、「開催！オレが一番選手権」。メンバーの中で、いろいろな一番は誰なのか、これを機にハッキリさせたいということで、いろいろな競技で競い合い、誰が一番になるのかを知る「オレが一番選手権」を開催。「走り高跳び」「ヘディング」「50m走」の3種目でガチンコ対決！　さらに、あるメンバー発案の番外編も。「アツアツのゆで卵を誰が一番早く食べられるか」「利き舌」対決では爆笑の展開に!?　真剣ながらも応援しあうメンバーたちの姿をみて、櫻井局長にも笑みが……。  やりたい企画2つ目は、「ギネス世界記録を出したい！」。グループに1つ「ギネス世界記録」を持っていたらカッコいいのでは？　という理由からスタジオで3つのギネス世界記録に挑む！  平野＆神宮寺は「2人1組で、1分間で何回馬跳びができるのか」最多記録に、岸＆高橋は「2人1組で、30秒間に何回ボールをパスできるか」最多記録に、永瀬は「風船200個を釘で割る最速記録」に挑戦することに。各種目共に、全員が大健闘するが、果たしてギネス世界記録は達成できるのか？  また、東京オリンピック開会式での国歌斉唱でも感動を呼び、2023年にはデビュー25周年を迎えるMISIAがバラエティ番組ロケに初登場！　 櫻井とピザトラの旅へ。今回のメイン食材は「メロン」。メロンが大好物だというMISIAは、好きすぎて、キャラクターや曲を制作するほどだという。毎年予約だけで完売してしまうという幻のメロンを使ったピザトラ旅にいざ出発！　メロン収穫現場への移動中の車内では、嵐のあの名曲をMISIAが熱唱する場面も!?　  前回の放送では、指原莉乃＆フワちゃんが、“3歳の歌姫”村方乃々佳ちゃんのバックダンサーを務め、SNS上では「3人ともかわいい！」「癒やされる」といった反響が寄せられた。",
+          "link": "https://news.mynavi.jp/article/20210814-1946328/index.html",
+          "publishedOn": "2021-08-13T23:00:00.000Z",
+          "wordCount": 322,
+          "title": "King & Princeギネス世界記録に挑む！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946327/index.html",
+          "author": null,
+          "description": "高橋海人（King & Prince）が、8月14日放送の『世界一受けたい授業』（日本テレビ系、毎週土曜19:56～）に出演する。  同番組は各界のスペシャリストが“目からウロコ”な授業を展開する新型アカデミック・バラエティ。司会を堺正章（※8月14日放送回はお休み）、くりぃむしちゅー（上田晋也、有田哲平）が務める。ゲストは高橋のほか、堺校長代理の檀れい、佐藤栞里、ぺこぱ（シュウペイ、松陰寺太勇）、桝太一（日本テレビアナウンサー）。  この日のテーマは、「世界的アニメーション映画監督・細田守先生が教える！今、絶対に見てほしい5つのアニメ」「夏秋優先生の今からできる！蚊に刺されない6個の蚊対策」。  公開20日で興行収入40億円突破の大ヒットの映画『竜とそばかすの姫』。原作・脚本・監督の細田先生が登場し、「今、絶対に見てほしい5つのアニメ」と題して、自身が選んだ5作品の優れた演出や驚きのアイデアなど、アニメファンでなくても作品を楽しむことができる“見るべきポイント”を講義する。  さらに自身の作品に秘められた演出上の様々なこだわりも解説。なかでもスタジオが盛り上がったのは、正解者には細田先生直筆のイラスト色紙がもらえるクイズコーナー。細田作品では、主人公の成長を示す象徴としていつも“入道雲”が描かれているが、それに加えて「もうひとつ、必ず作中に登場するものがあるのだが？」というクイズが出題される。  「全作品の公開時期が夏であることにちなんだ演出で……」とヒントが出されるとゲストの高橋は、「わかった！」と興奮気味に解答。すると細田先生も思わず「正解！」と即答してしまい、クイズコーナーは一瞬で終了。イラスト色紙を狙っていた有田が「チャレンジもできなかったんですけど」とぼやく、まさかのハプニングが！  作品のファンだという高橋は、細田に『おおかみこどもの雨と雪』のキャラクター・雪をリクエスト。目の前でイラストを描き上げてもらい、「嬉しい！」と感動しきりの様子だった。  前回は「夏だから知りたい辛ヘルシーの授業」などが放送された。",
+          "link": "https://news.mynavi.jp/article/20210814-1946327/index.html",
+          "publishedOn": "2021-08-13T23:00:00.000Z",
+          "wordCount": 316,
+          "title": "King & Prince高橋、クイズ参加でハプニング発生!?"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946329/index.html",
+          "author": null,
+          "description": "バイエルンに所属するポーランド代表FWロベルト・レヴァンドフスキがブンデスリーガ新記録を樹立した。クラブ公式サイトが13日に伝えている。\n　ブンデスリーガ開幕節が13日に行われ、バイエルンはボルシア",
+          "link": "https://news.mynavi.jp/article/20210814-1946329/index.html",
+          "publishedOn": "2021-08-13T22:53:43.000Z",
+          "wordCount": 294,
+          "title": "レヴァンドフスキがブンデス新記録樹立…7シーズン連続で開幕節ゴール"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946318/index.html",
+          "author": null,
+          "description": "◆ 2年ぶりの出場で先制タイムリー！\n\n　楽天のオコエ瑠偉が2年ぶりとなる1軍の公式戦でタイムリーを放った。\n\n　この試合で7番・右翼で先発出場したオコエは、2回無死二塁の第1打席でフルカウン…",
+          "link": "https://news.mynavi.jp/article/20210814-1946318/index.html",
+          "publishedOn": "2021-08-13T22:44:31.000Z",
+          "wordCount": 311,
+          "title": "楽天のオコエが復活の先制打！　谷繁氏「これを続けていかなければならない」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1945913/index.html",
+          "author": null,
+          "description": "タレントの長嶋一茂とお笑い芸人のヒコロヒーが、きょう14日放送のテレビ朝日系バラエティ番組『ノブナカなんなん?』(毎週土曜 22:25～)に出演する。",
+          "link": "https://news.mynavi.jp/article/20210814-1945913/index.html",
+          "publishedOn": "2021-08-13T22:30:00.000Z",
+          "wordCount": 326,
+          "title": "“ゴミ部屋”最新作、埼玉の一般女性登場「モニターから臭いがする」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946306/index.html",
+          "author": null,
+          "description": "◆ 12球団最速の10勝到達\n\n　ペナントレース再開を首位で迎えたオリックスは、13日のロッテ戦に6－3で勝利。\n\n　今季大ブレイク中の19歳左腕・宮城大弥が、両リーグ最速で2ケタ・10勝目を…",
+          "link": "https://news.mynavi.jp/article/20210814-1946306/index.html",
+          "publishedOn": "2021-08-13T22:14:48.000Z",
+          "wordCount": 311,
+          "title": "オリ・宮城が両リーグ最速の10勝目！谷繁氏が見た「強みと課題」とは…？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946334/index.html",
+          "author": null,
+          "description": "今やスマートフォン（スマホ）は生活の一部といえ、肌身離さず持ち歩いている人も少なくないだろう。あまり目立たない部分だが、じつはストラーダPREMIUM10 CN-F1X10BLDはスマホとの連携が充実。さまざまなエンタメ機能や、実用的な機能・・・",
+          "link": "https://news.mynavi.jp/article/20210814-1946334/index.html",
+          "publishedOn": "2021-08-13T22:10:00.000Z",
+          "wordCount": 366,
+          "title": "パナソニック最新カーナビ「ストラーダ F1Xプレミアム10 CN-F1X10BLD」を使ってみたら……｜iPhoneと接続してエンタメを楽しむ！編｜"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-shiroma_miru/index.html",
+          "author": null,
+          "description": "アイドルグループ・NMB48の“最後の一期生”白間美瑠が、8月15日に大阪城ホールで行われる卒業コンサートで約10年間におよぶアイドル生活に終止符を打つ。卒業後は歌って踊れるソロアーティストに。その道を決意させたのは、IZ*ONEを輩出した韓国でのオーディション番組『PRODUCE 48』で、「歌って踊ることをやり続けることが私の幸せだと確認した」と振り返る。そこで痛感したレベルの差。またターニングポイントについても語ってもらった。",
+          "link": "https://news.mynavi.jp/article/20210814-shiroma_miru/index.html",
+          "publishedOn": "2021-08-13T22:00:00.000Z",
+          "wordCount": 338,
+          "title": "NMB48白間美瑠「歌って踊れるソロアーティストに」 『PRODUCE 48』で夢が確固たるものに"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946298/index.html",
+          "author": null,
+          "description": "唐沢寿明が主演を務める『ボイス2』（日本テレビ系、毎週土曜22:00～）の第5話が、8月14日に放送される。  同ドラマは、2019年7月から放送された『ボイス 110緊急指令室』の第2弾。緊急指令…",
+          "link": "https://news.mynavi.jp/article/20210814-1946298/index.html",
+          "publishedOn": "2021-08-13T22:00:00.000Z",
+          "wordCount": 308,
+          "title": "最凶最悪の真犯人“白塗り野郎” の正体が明らかに！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946299/index.html",
+          "author": null,
+          "description": "竜星涼が主演を務めるサタドラ『ドラマ 「家、ついて行ってイイですか？」』（テレビ東京系、毎週土曜23:25～）が8月14日よりスタート。第1話には、志田未来が取材に応じる女性役で登場する。  終電を…",
+          "link": "https://news.mynavi.jp/article/20210814-1946299/index.html",
+          "publishedOn": "2021-08-13T22:00:00.000Z",
+          "wordCount": 303,
+          "title": "竜星涼演じる玉岡D、ある事情を抱えたカップルのお宅へ…"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946310/index.html",
+          "author": null,
+          "description": "コロナ感染の第５波が来た。高齢者を中心にワクチン接種が進む中での感染拡大である。筆者は、これまでワクチン接種が進めば、感染リスクが低下して社会活動が平常化していくと考えていた。９月中には、２回目の接種率が50％を超えて、社会のムードが明るく・・・",
+          "link": "https://news.mynavi.jp/article/20210814-1946310/index.html",
+          "publishedOn": "2021-08-13T22:00:00.000Z",
+          "wordCount": 267,
+          "title": "【人気エコノミストの提言】コロナ感染第５波、隠れたリスクの再検討"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946297/index.html",
+          "author": null,
+          "description": "先々週に引き続き、サッカー日本代表の長友佑都が、8月14日に放送されるサッカー番組『FOOT×BRAIN』（テレビ東京系、毎週土曜24:20～）にゲスト出演。来年に迫った2022年カタールW杯への思…",
+          "link": "https://news.mynavi.jp/article/20210814-1946297/index.html",
+          "publishedOn": "2021-08-13T22:00:00.000Z",
+          "wordCount": 301,
+          "title": "長友佑都が4度目のW杯出場に対する思いを激白！A代表の強さの秘訣も分析"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946302/index.html",
+          "author": null,
+          "description": "プレミアリーグ開幕節が13日に行われ、ブレントフォードとアーセナルが対戦。アーセナルは0－2で敗れ、45年ぶりに開幕節で昇格組に敗北した模様だ。\n　ホームのブレントフォードはチャンピオンシップ（イン",
+          "link": "https://news.mynavi.jp/article/20210814-1946302/index.html",
+          "publishedOn": "2021-08-13T21:47:53.000Z",
+          "wordCount": 294,
+          "title": "ブレントフォードに敗れたアーセナル…開幕節で昇格組に黒星は45年ぶり"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946289/index.html",
+          "author": null,
+          "description": "◆ 又吉の心を折った一撃\n\n　巨人が13日のペナントレース再開初戦に逆転勝利。\n\n　中日先発・柳裕也の攻略に手こずるも、8回に一挙3点を奪って試合をひっくり返した。\n\n\n　13日に放送さ…",
+          "link": "https://news.mynavi.jp/article/20210814-1946289/index.html",
+          "publishedOn": "2021-08-13T21:44:53.000Z",
+          "wordCount": 301,
+          "title": "首位・阪神と“1差”接近！巨人に勝利を呼び込んだ若林の一撃に斎藤雅樹氏「すごく効いた」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946290/index.html",
+          "author": null,
+          "description": "プロゴルファーの丸山茂樹がパーソナリティをつとめるTOKYO FMの番組「NECネッツエスアイ presents 丸山茂樹 MOVING SATURDAY」。8月7日（土）の放送は、俳優で歌手の上地雄輔（アーティスト名・遊助）さんをゲストに迎え、お届けしました。",
+          "link": "https://news.mynavi.jp/article/20210814-1946290/index.html",
+          "publishedOn": "2021-08-13T21:40:00.000Z",
+          "wordCount": 352,
+          "title": "遊助、マスク越しの客席とも「やり取りできるんだって感じた」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1945880/index.html",
+          "author": null,
+          "description": "女優の橋本環奈が、きょう14日放送のテレビ朝日系バラエティ番組『あざとくて何が悪いの?』(毎週土曜21:55～ ※一部地域除く)に出演する。",
+          "link": "https://news.mynavi.jp/article/20210814-1945880/index.html",
+          "publishedOn": "2021-08-13T21:30:00.000Z",
+          "wordCount": 323,
+          "title": "橋本環奈、“理想の男性”明かすも…山里亮太「ヤバい人なんだね(笑)」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1944247/index.html",
+          "author": null,
+          "description": "今日は2021年8月14日。マイナビニュースが毎日「星座占い」をお届けします。各星座の総合・恋愛・金運・仕事運・健康運におけるランキングとラッキーアイテムを紹介。何かの参考になれば幸いです。",
+          "link": "https://news.mynavi.jp/article/20210814-1944247/index.html",
+          "publishedOn": "2021-08-13T21:23:08.000Z",
+          "wordCount": 465,
+          "title": "【8月14日・今日の運勢】12星座占いランキング(総合運・恋愛運・金運・仕事運・健康運)"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1945936/index.html",
+          "author": null,
+          "description": "Ohuhu(オ フーフー)は8月12日、「昇降式スタンディングデスク」(9,699円)を発売した。また12〜30日の期間、50台限定で半額セールも実施する。",
+          "link": "https://news.mynavi.jp/article/20210814-1945936/index.html",
+          "publishedOn": "2021-08-13T21:13:26.000Z",
+          "wordCount": 324,
+          "title": "自宅の机を「昇降式スタンディングデスク」に変える製品が発売"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1943367/index.html",
+          "author": null,
+          "description": "ワークマンは8月中旬より、「電熱ヒーター付きジャケット」(4,900円)を発売する。",
+          "link": "https://news.mynavi.jp/article/20210814-1943367/index.html",
+          "publishedOn": "2021-08-13T21:10:21.000Z",
+          "wordCount": 326,
+          "title": "世界初!? ワークマンがコートいらずの「ヒーター付き」ジャケット発売"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946276/index.html",
+          "author": null,
+          "description": "【1970年式 日産 スカイライン ハードトップ 2000 GT Vol.3】【2】から続く 当時、ハードトップの赤いクルマを発表直後に買うのは、相当な勇気が必要だったと想像するが、最初のオーナーはどんな人だったのだろうか。 取材時の所有者・・・",
+          "link": "https://news.mynavi.jp/article/20210814-1946276/index.html",
+          "publishedOn": "2021-08-13T21:05:00.000Z",
+          "wordCount": 367,
+          "title": "自動車販売会社の倉庫に長い間置かれていたワンオーナー車のハコスカ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/casualwear40-51/index.html",
+          "author": null,
+          "description": "猛暑を快適にするショートパンツは、誰もが一着は持っているアイテムです。ただ、子どもっぽく見えることを嫌がり、自宅でのみ履く方もいるのではないでしょうか。",
+          "link": "https://news.mynavi.jp/article/casualwear40-51/index.html",
+          "publishedOn": "2021-08-13T21:02:43.000Z",
+          "wordCount": 367,
+          "title": "40男の「NG」な休日服 第51回 ショートパンツを「大人っぽく」合わせる工夫を解説"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946035/index.html",
+          "author": null,
+          "description": "2021年4月から放送開始となったTVアニメ『キングダム』第3シリーズより、第17話「本能型の極み」のあらすじ＆場面カットが公開された。",
+          "link": "https://news.mynavi.jp/article/20210814-1946035/index.html",
+          "publishedOn": "2021-08-13T21:00:00.000Z",
+          "wordCount": 309,
+          "title": "TVアニメ『キングダム』、第17話「本能型の極み」あらすじ＆場面カット公開"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946052/index.html",
+          "author": null,
+          "description": "日本テレビ系ドラマ『ハコヅメ～たたかう!交番女子～』(毎週水曜22:00～)で、18日に放送される第5話の場面写真が公開された。",
+          "link": "https://news.mynavi.jp/article/20210814-1946052/index.html",
+          "publishedOn": "2021-08-13T21:00:00.000Z",
+          "wordCount": 319,
+          "title": "川合(永野芽郁)がイケメン消防士(小関裕太)と人生初デート『ハコヅメ』"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-esim/index.html",
+          "author": null,
+          "description": "最近のiPhoneなどに搭載されている、端末内蔵型のSIM「eSIM」。総務省はそのeSIM利用を一層促進するガイドラインを打ち出しました。eSIMのサービスが増えることで、消費者にはどのような恩恵があるのでしょうか。",
+          "link": "https://news.mynavi.jp/article/20210814-esim/index.html",
+          "publishedOn": "2021-08-13T21:00:00.000Z",
+          "wordCount": 394,
+          "title": "総務省が後押しする「eSIM」とは？ そのメリットと課題を解説"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946274/index.html",
+          "author": null,
+          "description": "モデル・タレントとして活躍するユージと、フリーアナウンサーの吉田明世がパーソナリティをつとめるTOKYO FMの番組「ONE MORNING」。8月9日（月）の放送では、夏休み中のユージに代わり、スポーツジャーナリストの生島淳さんがパーソナリティをつとめました。\n\nこの日は、TOKYO FMの音声サービス「AuDee（オーディー）」と連動したアンケート「AuDee JUDGE」を実施。この日のテーマは「東京オリンピック、やって良かったと思いますか？」。果たして、その結果は……？",
+          "link": "https://news.mynavi.jp/article/20210814-1946274/index.html",
+          "publishedOn": "2021-08-13T21:00:00.000Z",
+          "wordCount": 334,
+          "title": "「東京オリンピック」開催してよかったと思いますか？ アンケート結果を発表！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210814-1946275/index.html",
+          "author": null,
+          "description": "本仮屋ユイカがパーソナリティをつとめるTOKYO FMの番組「三菱地所レジデンスSparkle Life」。8月7日（土）の放送では、いつものスタジオを飛び出して、三菱地所レジデンスが手がける「ザ・パークハウス 府中」レジデンスギャラリーへ。先週に引き続き、タレントの安めぐみさんをゲストに迎えて、コロナ禍でのおうち時間の過ごし方や、夫でお笑いコンビ・Take2の“東MAX”こと東貴博さんとの夫婦関係などについて語りました。",
+          "link": "https://news.mynavi.jp/article/20210814-1946275/index.html",
+          "publishedOn": "2021-08-13T21:00:00.000Z",
+          "wordCount": 329,
+          "title": "安めぐみ「主人には“諦め”というか、期待しないようにした」…その深意は!?"
+        },
         {
           "id": "https://news.mynavi.jp/article/20210814-1946254/index.html",
           "author": null,
