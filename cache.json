@@ -20839,6 +20839,87 @@
       "siteUrl": "https://news.mynavi.jp/",
       "articles": [
         {
+          "id": "https://news.mynavi.jp/article/20210816-1946625/index.html",
+          "author": null,
+          "description": "女優の波瑠が主演するフジテレビ系月9ドラマ『ナイト・ドクター』(毎週月曜21:00～)の第7話が、きょう16日に放送される。",
+          "link": "https://news.mynavi.jp/article/20210816-1946625/index.html",
+          "publishedOn": "2021-08-15T20:00:00.000Z",
+          "wordCount": 314,
+          "title": "『ナイト・ドクター』野呂佳代、合コンで波瑠＆岡崎紗絵より注目浴びる"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947164/index.html",
+          "author": null,
+          "description": "俳優の杉野遥亮が、日本テレビ系ドラマ『恋です! ～ヤンキー君と白杖ガール～』(10月スタート、毎週水曜22:00～)に出演することが16日、明らかになった。杉咲花演じる主人公に思いを寄せるヤンキーを演じる。",
+          "link": "https://news.mynavi.jp/article/20210816-1947164/index.html",
+          "publishedOn": "2021-08-15T20:00:00.000Z",
+          "wordCount": 342,
+          "title": "杉野遥亮、杉咲花に思いを寄せるヤンキー役　顔に傷の特殊メイク"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947667/index.html",
+          "author": null,
+          "description": "うおやま原作によるTVドラマ「恋です！～ヤンキー君と白杖ガール～」の追加キャストが発表された。黒川森生役を杉野遥亮が演じる。",
+          "link": "https://news.mynavi.jp/article/20210816-1947667/index.html",
+          "publishedOn": "2021-08-15T20:00:00.000Z",
+          "wordCount": 316,
+          "title": "ドラマ「恋です！～ヤンキー君と白杖ガール～」ヤンキー・黒川森生役は杉野遥亮"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947668/index.html",
+          "author": null,
+          "description": "ラ・リーガ開幕節が15日に行われ、バルセロナとレアル・ソシエダが対戦した。\n　クラブの象徴だったリオネル・メッシが退団した新生バルセロナは、選手登録が完了したばかりの新加入メンフィス・デパイや、その",
+          "link": "https://news.mynavi.jp/article/20210816-1947668/index.html",
+          "publishedOn": "2021-08-15T19:57:27.000Z",
+          "wordCount": 322,
+          "title": "ペドリ＆デパイら先発の新生バルサ、減給合意のピケが第1号弾…ソシエダに勝利し白星発進"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1944364/index.html",
+          "author": null,
+          "description": "女優の本田翼が出演する、LIFULL「LIFULL HOME’S」の新CM「住まい探しをスムーズに」“住まい探しダンジョン”編と“内見アドベンチャー”編が、16日より放送される。",
+          "link": "https://news.mynavi.jp/article/20210816-1944364/index.html",
+          "publishedOn": "2021-08-15T19:00:00.000Z",
+          "wordCount": 317,
+          "title": "本田翼、理想の家“本田キャッスル”に感動「独創的で素敵です!」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947476/index.html",
+          "author": null,
+          "description": "日本テレビ系大型特番『24時間テレビ44』(21日18:30～22日20:54)で、チャリティー縦軸企画「復興への想いを繋ぐ 募金リレー」が行われることが決定した。",
+          "link": "https://news.mynavi.jp/article/20210816-1947476/index.html",
+          "publishedOn": "2021-08-15T19:00:00.000Z",
+          "wordCount": 331,
+          "title": "『24時間テレビ』今年のランは「募金リレー」 岸優太らが約100kmをつなぐ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947647/index.html",
+          "author": null,
+          "description": "大童澄瞳がキャラクターと美術を担当した、不動産・住宅情報サイトのLIFULL HOME'Sによる新CM「住まい探しをスムーズに」が、本日8月16日より関東エリアほかで順次放送される。",
+          "link": "https://news.mynavi.jp/article/20210816-1947647/index.html",
+          "publishedOn": "2021-08-15T19:00:00.000Z",
+          "wordCount": 306,
+          "title": "大童澄瞳ワールドを本田翼とホームズくんが冒険！LIFULL HOME‘Sの新CM、設定画も公開"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947648/index.html",
+          "author": null,
+          "description": "ブンデスリーガ開幕節が15日に行われ、マインツとライプツィヒが対戦した。マインツは、5月にU－23チームに加入した21歳のFW水多海斗がブンデスリーガ初のベンチ入りを果たしたが、出番はなかった。",
+          "link": "https://news.mynavi.jp/article/20210816-1947648/index.html",
+          "publishedOn": "2021-08-15T18:07:05.000Z",
+          "wordCount": 305,
+          "title": "FW水多海斗がベンチ入り！…11選手隔離のマインツ、強豪ライプツィヒ撃破で白星発進"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947625/index.html",
+          "author": null,
+          "description": "2021－22シーズンのプレミアリーグ第1節が15日に行われ、トッテナムとマンチェスター・Cが対戦した。\n　トッテナムは去就に注目が集まるハリー・ケインやタンギ・エンドンベレ、セルジュ・オーリエらが",
+          "link": "https://news.mynavi.jp/article/20210816-1947625/index.html",
+          "publishedOn": "2021-08-15T17:22:10.000Z",
+          "wordCount": 327,
+          "title": "ヌーノ初陣のスパーズ、ケイン不在も王者マンCに完勝！　ソンの決勝点守り切る"
+        },
+        {
           "id": "https://news.mynavi.jp/article/20210816-1947594/index.html",
           "author": null,
           "description": "ベルギー2部プロキシマス・リーグ開幕節が15日に行われ、FW斉藤光毅が所属するロンメルSKはワースラント・ベフェレンと対戦した。\n　現在20歳の斉藤は、2021年1月に横浜FCからシティ・フットボー",
@@ -21089,6 +21170,15 @@
           "publishedOn": "2021-08-15T11:01:35.000Z",
           "wordCount": 318,
           "title": "西武・渡邉がプロ初先発初勝利！味方打線が涌井を攻略し大量援護"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947672/index.html",
+          "author": null,
+          "description": "第103回全国高等学校野球選手権大会は16日、阪神甲子園球場で第4日を迎える。対戦カード、開始時間を以下の通り。   今シーズンのプロ野球はDAZNで！いつでもどこでも簡単視聴。1ヶ月無料お試し実施中！ &nb…",
+          "link": "https://news.mynavi.jp/article/20210815-1947672/index.html",
+          "publishedOn": "2021-08-15T11:00:31.000Z",
+          "wordCount": 318,
+          "title": "【きょうの甲子園】8月16日の出場校、対戦カードは？＜大会4日目＞"
         },
         {
           "id": "https://news.mynavi.jp/article/20210815-1947423/index.html",
