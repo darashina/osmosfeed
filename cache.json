@@ -9298,6 +9298,42 @@
       "siteUrl": "https://ascii.jp/1/",
       "articles": [
         {
+          "id": "https://ascii.jp/elem/000/004/065/4065789/?rss",
+          "author": null,
+          "description": "アスキーストアでは、車のドリンクホルダーに固定して使うiPad／タブレット用アーム「車載がっちりタブレットカップホルダー」を販売中。",
+          "link": "https://ascii.jp/elem/000/004/065/4065789/?rss",
+          "publishedOn": "2021-08-15T11:00:00.000Z",
+          "wordCount": 362,
+          "title": "ぐらつかない、高さたっぷりアングル自在、車のドリンクホルダーに固定して使うiPad／タブレット用アーム「車載がっちりタブレットカップホルダー」が6280円"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065668/?rss",
+          "author": null,
+          "description": "富士通の直販サイト「富士通 WEB MART」では最新モデルを対象にセールを開催中。",
+          "link": "https://ascii.jp/elem/000/004/065/4065668/?rss",
+          "publishedOn": "2021-08-15T11:00:00.000Z",
+          "wordCount": 223,
+          "title": "15.6型ノートPC「LIFEBOOK AH77/E3」が、Core i7-1165G7搭載で19万円台！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065721/?rss",
+          "author": null,
+          "description": "雨や雪の日はもちろん、寒い日にも使える「完全防水ウイングチップビジネスブーツ」販売中。",
+          "link": "https://ascii.jp/elem/000/004/065/4065721/?rss",
+          "publishedOn": "2021-08-15T09:00:00.000Z",
+          "wordCount": 385,
+          "title": "スーツにピッタリの完全防水ビジネスブーツが22％オフ！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065662/?rss",
+          "author": null,
+          "description": "富士通の直販サイト「富士通 WEB MART」では最新モデルを対象にセールを開催中。",
+          "link": "https://ascii.jp/elem/000/004/065/4065662/?rss",
+          "publishedOn": "2021-08-15T09:00:00.000Z",
+          "wordCount": 215,
+          "title": "富士通の軽量設計13.3型ノートPC「LIFEBOOK WU2/E3」が、直販サイトで25%オフ！"
+        },
+        {
           "id": "https://ascii.jp/elem/000/004/065/4065841/?rss",
           "author": null,
           "description": "ハンドル周りをバラして掃除することにしました。プチ改造に続いてプチレストアです。",
@@ -20749,6 +20785,285 @@
       "siteUrl": "https://news.mynavi.jp/",
       "articles": [
         {
+          "id": "https://news.mynavi.jp/article/20210815-1947193/index.html",
+          "author": null,
+          "description": "歌手の加山雄三が、日本テレビ系大型特番『24時間テレビ44』(21日18:30～22日20:54)で、AI技術を駆使して自分の分身を作り出す企画に挑むことが、15日に放送された同局系バラエティ番組『行列のできる法律相談所』(毎週日曜21:00～)で発表された。",
+          "link": "https://news.mynavi.jp/article/20210815-1947193/index.html",
+          "publishedOn": "2021-08-15T12:54:00.000Z",
+          "wordCount": 319,
+          "title": "加山雄三、AIの分身“バーチャル若大将”が24時間テレビに登場「最高だろ!?」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947449/index.html",
+          "author": null,
+          "description": "俳優の城田優が、TBS系日曜劇場『TOKYO MER～走る緊急救命室～』(毎週日曜21:00～)に、主人公・喜多見（鈴木亮平）の“空白の1年”に関わる世界的テロ組織のメンバー、エリオット・椿役で出演する。15日放送の第7話で初登場した。",
+          "link": "https://news.mynavi.jp/article/20210815-1947449/index.html",
+          "publishedOn": "2021-08-15T12:54:00.000Z",
+          "wordCount": 332,
+          "title": "城田優、世界的テロ組織のメンバー役で『TOKYO MER』出演"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947472/index.html",
+          "author": null,
+          "description": "たとえば学校教育では、テストで良い点を取ることが重視されます。それは、良い学校へ進学するという方向へ向かっています。つまり、学校システムの中に組み込まれているわけで、そのシステムとは、良い点を取ること…",
+          "link": "https://news.mynavi.jp/article/20210815-1947472/index.html",
+          "publishedOn": "2021-08-15T12:40:00.000Z",
+          "wordCount": 304,
+          "title": "金持ちは「お金を生む仕組み」を自分で考える"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947463/index.html",
+          "author": null,
+          "description": "将来もらう公的年金がどれくらいか。知りたいですよね。よく報道されるのが平均やモデルケースの年金額。参考にはなりますが、公的年金の額は1人1人異なります。現役時代にどんな働き方をしていたか、どれくらい収…",
+          "link": "https://news.mynavi.jp/article/20210815-1947463/index.html",
+          "publishedOn": "2021-08-15T12:20:00.000Z",
+          "wordCount": 306,
+          "title": "50歳を境に激変！ねんきん定期便を確認しよう"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947462/index.html",
+          "author": null,
+          "description": "● DeNA 1 － 4 ヤクルト ○\n＜13回戦・新潟＞\n\n　セ・リーグ3位につけるヤクルトが地方開催の後半戦開幕ゲームを白星で飾った。雨天中止の前日からスライド登板で先発した奥川恭伸投手（2…",
+          "link": "https://news.mynavi.jp/article/20210815-1947462/index.html",
+          "publishedOn": "2021-08-15T12:18:05.000Z",
+          "wordCount": 308,
+          "title": "ヤクルト・奥川が7回1失点で5勝目　無四球9K、尻上り快投で4戦連続QS"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947455/index.html",
+          "author": null,
+          "description": "明治安田生命J1リーグ第24節が15日に行われ、アビスパ福岡とセレッソ大阪が対戦した。\n　C大阪は14分、藤田直之が右足アウトサイドを使って左サイドに絶妙のスルーパスを供給。抜け出した奥埜博亮がニア",
+          "link": "https://news.mynavi.jp/article/20210815-1947455/index.html",
+          "publishedOn": "2021-08-15T12:02:08.000Z",
+          "wordCount": 319,
+          "title": "福岡が8戦ぶり白星、後半ATの勝ち越し弾で劇的勝利！　C大阪は11戦未勝利"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1945908/index.html",
+          "author": null,
+          "description": "Microsoftは8月12日(米国時間)、Windows 11開発版の最新版となる「Windows 11 Insider Preview Build 22000.132」の公開を伝えた。今回のバージョンでは、「切り取り＆スケッチ」と「Snipping Tool」が、新たな「Snipping Tool」として統合される。",
+          "link": "https://news.mynavi.jp/article/20210815-1945908/index.html",
+          "publishedOn": "2021-08-15T11:38:35.000Z",
+          "wordCount": 337,
+          "title": "Windows 11開発版、スクリーンショットを「Snipping Tool」に一本化"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947437/index.html",
+          "author": null,
+          "description": "お金運をアップさせる方法とは？ 私が見てきた金運の良い人は、お金とポジティブに付き合っているという特徴があります。金運がいい人の習慣やお金の扱い方などから、「お金運をアップさせる方法」を紹介します。 …",
+          "link": "https://news.mynavi.jp/article/20210815-1947437/index.html",
+          "publishedOn": "2021-08-15T11:30:00.000Z",
+          "wordCount": 312,
+          "title": "金運の良い人はこんな人！お金運をアップさせる習慣5つ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947457/index.html",
+          "author": null,
+          "description": "明治安田生命J1リーグ第24節が15日に行われ、鹿島アントラーズと徳島ヴォルティスが対戦した。\n　試合は開始早々の5分に鹿島が先制する。ペナルティエリア手前で獲得したフリーキックを荒木遼太郎が担当。",
+          "link": "https://news.mynavi.jp/article/20210815-1947457/index.html",
+          "publishedOn": "2021-08-15T11:26:01.000Z",
+          "wordCount": 317,
+          "title": "鹿島が3連勝で3位浮上！　徳島に3発快勝、荒木遼太郎が2得点"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947431/index.html",
+          "author": null,
+          "description": "TVアニメ「CUE!」の放送開始時期が2022年1月に決定。併せて第1弾PVが公開された。",
+          "link": "https://news.mynavi.jp/article/20210815-1947431/index.html",
+          "publishedOn": "2021-08-15T11:04:00.000Z",
+          "wordCount": 312,
+          "title": "TVアニメ「CUE!」2022年1月に放送開始、第1弾PVにメンバーたちのアフレコ姿"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947422/index.html",
+          "author": null,
+          "description": "リヴァプールに所属するオランダ代表DFフィルジル・ファン・ダイクが2021－22シーズンの初戦についてコメントした。14日付けでイギリスメディア『BBC』が伝えている。\n　同日にプレミアリーグ第1節",
+          "link": "https://news.mynavi.jp/article/20210815-1947422/index.html",
+          "publishedOn": "2021-08-15T11:03:13.000Z",
+          "wordCount": 300,
+          "title": "開幕節フル出場のファン・ダイク、約10カ月ぶりの復帰に「良いスタートが切れた」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947426/index.html",
+          "author": null,
+          "description": "○ 西武 10 － 2 楽天 ●\n＜15回戦・メットライフ＞\n\n　西武が大量10得点を奪い後半戦初勝利。高卒3年目右腕の渡邉勇太朗投手（20）がプロ初先発のマウンドで5回1失点と好投し、嬉しいプ…",
+          "link": "https://news.mynavi.jp/article/20210815-1947426/index.html",
+          "publishedOn": "2021-08-15T11:01:35.000Z",
+          "wordCount": 318,
+          "title": "西武・渡邉がプロ初先発初勝利！味方打線が涌井を攻略し大量援護"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947423/index.html",
+          "author": null,
+          "description": "明治安田生命J1リーグ第24節が15日に行われ、名古屋グランパスと湘南ベルマーレが対戦した。\n　3分、湘南は左サイドでのフリーキックから高橋祐紀が浮き球を供給。飛び込んだ杉岡　大暉が頭で合わせたが、",
+          "link": "https://news.mynavi.jp/article/20210815-1947423/index.html",
+          "publishedOn": "2021-08-15T10:55:27.000Z",
+          "wordCount": 312,
+          "title": "キム・ミンテがデビュー戦で値千金の決勝点！　名古屋、湘南下して7戦ぶり白星"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947424/index.html",
+          "author": null,
+          "description": "15日に明治安田生命J1リーグ第24節が行われ、横浜F・マリノスと大分トリニータが対戦した。\n　中2日4連戦の4戦目を迎えた横浜FMは、直近のリーグ戦10試合で負けなし。とはいえ、首位川崎フロンター",
+          "link": "https://news.mynavi.jp/article/20210815-1947424/index.html",
+          "publishedOn": "2021-08-15T10:55:09.000Z",
+          "wordCount": 333,
+          "title": "前田大然がハット達成！　横浜FM、大分に5発快勝でリーグ戦11試合無敗"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947406/index.html",
+          "author": null,
+          "description": "コロナ禍もあって、ますますお金を貯めたい、家計を守りたい、と思っている人もいるのではないでしょうか。皆さんからのちょっとした疑問にオールアバウトの専門家が回答するコーナーです。今回は、家賃に水道代やネ…",
+          "link": "https://news.mynavi.jp/article/20210815-1947406/index.html",
+          "publishedOn": "2021-08-15T10:30:00.000Z",
+          "wordCount": 306,
+          "title": "家賃に水道代やネット代が含まれている物件って、本当にお得なの？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947405/index.html",
+          "author": null,
+          "description": "西武 － 楽天\n＜15回戦・メットライフ＞\n\n　西武の高卒3年目右腕・渡邉勇太朗投手（20）が15日、本拠地での楽天戦にてプロ初先発。5回1失点の好投で、プロ初勝利の権利を持って降板した。…",
+          "link": "https://news.mynavi.jp/article/20210815-1947405/index.html",
+          "publishedOn": "2021-08-15T10:23:45.000Z",
+          "wordCount": 315,
+          "title": "西武・渡邉が5回1失点でプロ初勝利の権利「自分としては合格点」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947122/index.html",
+          "author": null,
+          "description": "TVアニメ『ワールドトリガー 3rdシーズン』が、2021年10月9日(土)よりテレビ朝日系列にて放送開始となることが決定。特報映像が公開された。",
+          "link": "https://news.mynavi.jp/article/20210815-1947122/index.html",
+          "publishedOn": "2021-08-15T10:00:00.000Z",
+          "wordCount": 323,
+          "title": "TVアニメ『ワールドトリガー 3rdシーズン』、10月放送！特報映像を公開"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947389/index.html",
+          "author": null,
+          "description": "『ラブライブ！サンシャイン!!』の渡辺曜役でデビューを果たし、以降も『俺を好きなのはお前だけかよ』のサザンカ役、『ワンダーエッグ・プライオリティ』の川井リカ役を務め、近年はソロアーティストとしても活躍するなど、マルチな才能を輝かせ続ける声優・・・",
+          "link": "https://news.mynavi.jp/article/20210815-1947389/index.html",
+          "publishedOn": "2021-08-15T10:00:00.000Z",
+          "wordCount": 316,
+          "title": "斉藤朱夏おススメ！＜25歳までに観ておきたいアニメ＞3作"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947386/index.html",
+          "author": null,
+          "description": "葦原大介原作によるTVアニメ「ワールドトリガー 3rdシーズン」の放送開始日が10月9日に決定。併せて特報映像が公開されたほか、シリーズ初となる音楽イベントの開催と、生配信イベント第2弾の実施が発表された。",
+          "link": "https://news.mynavi.jp/article/20210815-1947386/index.html",
+          "publishedOn": "2021-08-15T10:00:00.000Z",
+          "wordCount": 325,
+          "title": "「ワールドトリガー」3rdシーズンは10月9日放送開始！特報解禁、初の音楽イベントも"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947400/index.html",
+          "author": null,
+          "description": "有吉弘行がパーソナリティをつとめるラジオ生放送番組「有吉弘行のSUNDAY NIGHT DREAMER」。8月8日（日・祝）の放送は、アシスタントに和賀勇介、松崎克俊（元やさしい雨）を迎え、お送りしました。",
+          "link": "https://news.mynavi.jp/article/20210815-1947400/index.html",
+          "publishedOn": "2021-08-15T10:00:00.000Z",
+          "wordCount": 329,
+          "title": "有吉の持論「交友関係の広い人が主催するパーティーは“罠”がひそんでいる」その理由とは？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947373/index.html",
+          "author": null,
+          "description": "どうしてお金のプロたちは小銭貯金をすすめるのか……。古典的で超アナログな貯蓄方法ですが、小銭貯金には貯まる人になるための大切な要素がいっぱいだから。すぐに小銭貯金を始めなきゃ！と思えてくる「おすすめな…",
+          "link": "https://news.mynavi.jp/article/20210815-1947373/index.html",
+          "publishedOn": "2021-08-15T09:30:00.000Z",
+          "wordCount": 316,
+          "title": "小銭貯金がうまくできない人におすすめな方法"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1944861/index.html",
+          "author": null,
+          "description": "JR四国は、観光列車「伊予灘ものがたり」の車内で松山市の伝統文化や食を楽しめる募集型企画旅行を発売。「伊予灘ものがたり ～プレミアムダイニング～」「伊予灘ものがたり ～プレミアム俳句列車～」の2コースを設定した。",
+          "link": "https://news.mynavi.jp/article/20210815-1944861/index.html",
+          "publishedOn": "2021-08-15T09:27:18.000Z",
+          "wordCount": 328,
+          "title": "JR四国「伊予灘ものがたり」で松山市の伝統文化と食を楽しむツアー"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1945656/index.html",
+          "author": null,
+          "description": "石川県加賀市は、JR北陸本線大聖寺駅再生事業に係る公募型プロポーザルを実施する。大聖寺駅を改修し、まちのにぎわい創出の拠点化をめざす事業で、審査を経て今年10月に契約を締結する予定。2022年3月の完成・供用開始をめざす。",
+          "link": "https://news.mynavi.jp/article/20210815-1945656/index.html",
+          "publishedOn": "2021-08-15T09:14:58.000Z",
+          "wordCount": 324,
+          "title": "JR北陸本線大聖寺駅の改修など、石川県加賀市がプロポーザルで公募"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947387/index.html",
+          "author": null,
+          "description": "エヴァートンのラファエル・ベニテス監督がリーグ戦初戦を終えてコメントした。14日付けでイギリスメディア『スカイスポーツ』が報じている。\n　同日にプレミアリーグ第1節サウサンプトン戦を迎えたエヴァート",
+          "link": "https://news.mynavi.jp/article/20210815-1947387/index.html",
+          "publishedOn": "2021-08-15T09:03:27.000Z",
+          "wordCount": 300,
+          "title": "エヴァートン初戦で勝利…ベニテス監督はファンの力に感謝「最高の光景だった」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1946892/index.html",
+          "author": null,
+          "description": "コスプレイヤー火将ロシエルが8月11日、自身のTwitterを更新し金髪ロングのセクシータイガー姿を披露した。",
+          "link": "https://news.mynavi.jp/article/20210815-1946892/index.html",
+          "publishedOn": "2021-08-15T09:00:00.000Z",
+          "wordCount": 312,
+          "title": "コスプレイヤー火将ロシエルが金髪ロングのセクシータイガー姿を披露"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947309/index.html",
+          "author": null,
+          "description": "V6の坂本昌行が、14日に放送されたラジオ番組『V6 Next Generation』(JFN系/毎週土曜21:00～21:55)に出演。メンバーの長野博と井ノ原快彦から、タレントのモト冬樹に似ていることをツッコまれたエピソードを明かした。",
+          "link": "https://news.mynavi.jp/article/20210815-1947309/index.html",
+          "publishedOn": "2021-08-15T09:00:00.000Z",
+          "wordCount": 318,
+          "title": "V6坂本に長野＆井ノ原「モト冬樹さん!」 本人からも「若い頃の俺そっくり」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947371/index.html",
+          "author": null,
+          "description": "２０１２年の米シリコンバレー移住から９年近くが経ちました。外から日本を見ると、いろいろなことに気づかされます。中でも最も大きな違いは「多様性」に対する考え方です。 例えば、休日。日本では夏休み、年末年始、ゴールデンウィークと全国一律が当たり・・・",
+          "link": "https://news.mynavi.jp/article/20210815-1947371/index.html",
+          "publishedOn": "2021-08-15T09:00:00.000Z",
+          "wordCount": 269,
+          "title": "【ソースネクスト：松田憲幸会長兼ＣＥＯ】米シリコンバレー移住を通じて"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947358/index.html",
+          "author": null,
+          "description": "フリューは、高品質ホビーブランド「F:NEX（フェネクス）」の新商品として、人形の老舗・吉徳とのコラボレーション（以下、コラボ）商品となるTVアニメ『Re:ゼロから始める異世界生活』より、「吉徳×F:NEXラム-日本人形-14ス・・・",
+          "link": "https://news.mynavi.jp/article/20210815-1947358/index.html",
+          "publishedOn": "2021-08-15T09:00:00.000Z",
+          "wordCount": 299,
+          "title": "『Re:ゼロ』ラムが優雅に舞う！ 人形の老舗「吉徳」とハイクオリティコラボ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947363/index.html",
+          "author": null,
+          "description": "【1966年式 ホンダ S800 Vol.1】 旧車オーナーには、自分の思い出のクルマを手に入れたという人が多い。当時カッコよかったクルマ、レースで活躍したクルマ、人生の岐路に出合ったクルマなど、さまざまなシーンで作られた思い出が、そのクル・・・",
+          "link": "https://news.mynavi.jp/article/20210815-1947363/index.html",
+          "publishedOn": "2021-08-15T09:00:00.000Z",
+          "wordCount": 368,
+          "title": "レース屋が造った本格スポーツカー｜1966年式 ホンダ S800　Vol.1"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947356/index.html",
+          "author": null,
+          "description": "夏奈ほの「着せたい上司と、なれない部下」1巻が、本日8月15日にオーバーラップのクリエコミックスから発売された。",
+          "link": "https://news.mynavi.jp/article/20210815-1947356/index.html",
+          "publishedOn": "2021-08-15T08:56:00.000Z",
+          "wordCount": 290,
+          "title": "かわいい服が好きな上司と、似合わないことにコンプレックスを抱く部下のラブコメ1巻"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1944059/index.html",
+          "author": null,
+          "description": "HOYAはこのほど、JR東海の新幹線車内と駅構内の音声に自社の音声合成関連製品ブランド「ReadSpeaker」の音声合成が採用されたと発表した。定例の案内放送と状況に合わせた案内放送を即時に高音質な多言語で行うことができるようになったという。",
+          "link": "https://news.mynavi.jp/article/20210815-1944059/index.html",
+          "publishedOn": "2021-08-15T08:50:13.000Z",
+          "wordCount": 322,
+          "title": "JR東海の新幹線車内・駅構内の音声案内にHOYA「ReadSpeaker」採用"
+        },
+        {
           "id": "https://news.mynavi.jp/article/20210815-1945960/index.html",
           "author": null,
           "description": "Mozillaは先日、Firefoxの最新版となる「Firefox 91」を公開した。このバージョンにはいくつか注目しておきたい機能が追加されている。トータルクッキープロテクションというMozilla独自の技術に基づいた徹底的なクッキー削除機能、Microsoftシングルサインオンへの対応、単純化された印刷機能の復活だ。",
@@ -20756,6 +21071,15 @@
           "publishedOn": "2021-08-15T08:36:56.000Z",
           "wordCount": 311,
           "title": "Firefox 91、インクと紙を節約できる印刷機能復活"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947349/index.html",
+          "author": null,
+          "description": "◆ 3日降り続けていた雨で全面水浸しも…\n\n　2年ぶりの開催となった夏の甲子園。『第103回全国高等学校野球選手権大会』は連日の天候不良で3日連続中止となっていたが、15日は天候の回復を待ち、予定…",
+          "link": "https://news.mynavi.jp/article/20210815-1947349/index.html",
+          "publishedOn": "2021-08-15T08:34:10.000Z",
+          "wordCount": 316,
+          "title": "阪神園芸の“神整備”動画に称賛続々… 甲子園が驚異の水はけで復活"
         },
         {
           "id": "https://news.mynavi.jp/article/20210815-1946887/index.html",
