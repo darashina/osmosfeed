@@ -12,6 +12,24 @@
       "siteUrl": "https://www.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/11/news029.html",
+          "author": null,
+          "description": "大手ゼネコンの清水建設が、ニューノーマル時代の新たなオフィスの在り方を打ち出している。デジタル技術を活用して、リモートワークとコロナ禍に対応した、パフォーマンスの向上につながる「SHIMZ CREATIVE FIELD」（シミズ・クリエイティブ・フィールド）を公開した。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/11/news029.html",
+          "publishedOn": "2021-08-15T05:12:00.000Z",
+          "wordCount": 129,
+          "title": "[ITmedia ビジネスオンライン] 清水建設が仕掛ける「ニューノーマル時代のオフィス」　社員のタグから位置情報を可視化"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/15/news022.html",
+          "author": null,
+          "description": "Twitterが8月11日に実施したボタンやフォントのデザイン変更に、「目が痛くなる」「分かりにくい」などの苦情が殺到。ボタンのコントラストは既に弱める修正を行った。フォローボタンについてはまだだ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/15/news022.html",
+          "publishedOn": "2021-08-15T04:34:00.000Z",
+          "wordCount": 138,
+          "title": "[ITmedia News] Twitter、新デザインは「目が痛い、頭痛がする」という苦情を受け修正　「今後もフィードバックを」"
+        },
+        {
           "id": "https://www.itmedia.co.jp/business/articles/2108/15/news015.html",
           "author": null,
           "description": "先日、ワンルームマンション業界の関係者と話す機会があった。値上がりが続いているにもかかわらず、よく売れているという。彼が言うには「もうあり得ないところまで値段が上がってしまっている」らしい。",
@@ -9279,6 +9297,96 @@
       "feedUrl": "https://ascii.jp/rss.xml",
       "siteUrl": "https://ascii.jp/1/",
       "articles": [
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065841/?rss",
+          "author": null,
+          "description": "ハンドル周りをバラして掃除することにしました。プチ改造に続いてプチレストアです。",
+          "link": "https://ascii.jp/elem/000/004/065/4065841/?rss",
+          "publishedOn": "2021-08-15T08:00:00.000Z",
+          "wordCount": 567,
+          "title": "中古のモトコンポのスイッチボックスをバラしてレストア サビとの戦いでした"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065918/?rss",
+          "author": null,
+          "description": "生ハムを一面に広げ、端から端まで生ハムを味わえる仕立ての洋風寿司。",
+          "link": "https://ascii.jp/elem/000/004/065/4065918/?rss",
+          "publishedOn": "2021-08-15T07:30:00.000Z",
+          "wordCount": 333,
+          "title": "ファミマの洋風仕立て「生ハム寿司」を食べたことある？"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065896/?rss",
+          "author": null,
+          "description": "こんばんは、お酒が好きな記者ナベコです。ワインを「かち割り」や「炭酸割り」にしてみると、キンキンに冷えて夏でも飲みやすいですよ。",
+          "link": "https://ascii.jp/elem/000/004/065/4065896/?rss",
+          "publishedOn": "2021-08-15T07:00:00.000Z",
+          "wordCount": 386,
+          "title": "ワインの「かち割り」「炭酸割り」ってやったことある？ スッキリして飲みやすくなりますよ"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065724/?rss",
+          "author": null,
+          "description": "飲みやすいか飲みにくいか、なかなか判断しにくい味です。おいしくないというよりは、「（特に日本人にとっては）飲み慣れていない」感じがありますね。",
+          "link": "https://ascii.jp/elem/000/004/065/4065724/?rss",
+          "publishedOn": "2021-08-15T07:00:00.000Z",
+          "wordCount": 365,
+          "title": "エナドリ+スポドリ「モンスター スーパーフュエル」日本にはあまりない味"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065917/?rss",
+          "author": null,
+          "description": "東京・品川の下町エリア・荏原中延駅前にあるラーメン店「中華そば 多賀野 (たかの) 」の人気メニューの一つ「ごまの辛いそば」の味わいをカップ麺で再現した商品が登場。",
+          "link": "https://ascii.jp/elem/000/004/065/4065917/?rss",
+          "publishedOn": "2021-08-15T06:30:00.000Z",
+          "wordCount": 349,
+          "title": "日清から、東京・荏原中延の名店「多賀野」を再現したカップラーメン"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065897/?rss",
+          "author": null,
+          "description": "イオンモバイルが10月からの音声SIMの一律月220円値下げとかけ放題オプションの追加を発表。また、ASUSはZenfoneの新製品発表会を予告。小型モデルのZenfone 8でおサイフケータイにも対応する!?",
+          "link": "https://ascii.jp/elem/000/004/065/4065897/?rss",
+          "publishedOn": "2021-08-15T06:00:00.000Z",
+          "wordCount": 1182,
+          "title": "【格安スマホまとめ】イオンモバイル、10月から一律月220円値下げ　FeliCa入りのZenfone 8が間もなく発表!?"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065904/?rss",
+          "author": null,
+          "description": "一昨年にアラフォーにして普通自動二輪（400ccまでのバイク）免許を取得、昨年Honda「CBR250RR」を購入した筆者。バイクに乗るにつれ、大型バイクに乗ってみたいという欲が出てきました。",
+          "link": "https://ascii.jp/elem/000/004/065/4065904/?rss",
+          "publishedOn": "2021-08-15T03:00:00.000Z",
+          "wordCount": 525,
+          "title": "大型バイクに乗りたい！ アラフォーでも大型自動二輪免許を取得できるか挑戦！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065720/?rss",
+          "author": null,
+          "description": "アスキーストアでは、組み合わせてカラフルにライティングできるブロック式スマートLEDライト（6個入り)を25％オフの価格で販売中。",
+          "link": "https://ascii.jp/elem/000/004/065/4065720/?rss",
+          "publishedOn": "2021-08-15T03:00:00.000Z",
+          "wordCount": 383,
+          "title": "本日まで25％オフ！ 音楽とシンクロするスマートLEDライト(6個入り)"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065533/?rss",
+          "author": null,
+          "description": "ウェブ閲覧のオススメが「Vivaldi」というブラウザーだ。大量のウェブページを閲覧するユーザー向けに、2016年にリリースされた。ブラウザーマニアの中では人気を集めているのだが、まだ一般的な知名度は低い。",
+          "link": "https://ascii.jp/elem/000/004/065/4065533/?rss",
+          "publishedOn": "2021-08-15T03:00:00.000Z",
+          "wordCount": 540,
+          "title": "標準機能が充実しているVivaldiブラウザーに乗り換えればウェブ閲覧が超快適になる"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065916/?rss",
+          "author": null,
+          "description": "「ピエール・エルメ　シグネチャー」シリーズの商品。歯切れの良いエクレア皮に、コーヒーゼリーと、なめらかなコーヒーカスタードクリーム、コーヒーホイップクリームを詰めたとのこと",
+          "link": "https://ascii.jp/elem/000/004/065/4065916/?rss",
+          "publishedOn": "2021-08-15T02:45:00.000Z",
+          "wordCount": 344,
+          "title": "セブンイレブン「ピエール・エルメ シグネチャー エクレア カフェ」"
+        },
         {
           "id": "https://ascii.jp/elem/000/004/065/4065911/?rss",
           "author": null,
@@ -20640,6 +20748,456 @@
       "feedUrl": "https://news.mynavi.jp/rss/index",
       "siteUrl": "https://news.mynavi.jp/",
       "articles": [
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1945960/index.html",
+          "author": null,
+          "description": "Mozillaは先日、Firefoxの最新版となる「Firefox 91」を公開した。このバージョンにはいくつか注目しておきたい機能が追加されている。トータルクッキープロテクションというMozilla独自の技術に基づいた徹底的なクッキー削除機能、Microsoftシングルサインオンへの対応、単純化された印刷機能の復活だ。",
+          "link": "https://news.mynavi.jp/article/20210815-1945960/index.html",
+          "publishedOn": "2021-08-15T08:36:56.000Z",
+          "wordCount": 311,
+          "title": "Firefox 91、インクと紙を節約できる印刷機能復活"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1946887/index.html",
+          "author": null,
+          "description": "コスプレイヤー紗雪が8月11日、自身のTwitter＆ファンティアを更新しサキュバス姿を披露した。",
+          "link": "https://news.mynavi.jp/article/20210815-1946887/index.html",
+          "publishedOn": "2021-08-15T08:30:00.000Z",
+          "wordCount": 316,
+          "title": "「サキュバスにどうされたい?」コスプレイヤー紗雪がセクシーすぎるサキュバス姿を披露"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947332/index.html",
+          "author": null,
+          "description": "Twitterでブロックされたら、それまで相手をフォローしていても強制的にフォローが外され、タイムラインに相手のツイートが表示されなくなります。自分がブロックされたか確認するもっとも簡単な方法は、相手のアカウントのプロフィールページにアクセスしてみることです。",
+          "link": "https://news.mynavi.jp/article/20210815-1947332/index.html",
+          "publishedOn": "2021-08-15T08:21:01.000Z",
+          "wordCount": 421,
+          "title": "Twitterで自分がブロックされたか確認する方法"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1946811/index.html",
+          "author": null,
+          "description": "コスプレイヤー・DJ・声優として活動するつんこが8月9日、自身のTwitterを更新し伊織もえとのアラビアンツーショットを披露した。",
+          "link": "https://news.mynavi.jp/article/20210815-1946811/index.html",
+          "publishedOn": "2021-08-15T08:00:00.000Z",
+          "wordCount": 315,
+          "title": "コスプレイヤーつんこが伊織もえとの美ボディツーショット披露"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947301/index.html",
+          "author": null,
+          "description": "嵐の相葉雅紀が、13日深夜に放送されたラジオ番組『嵐・相葉雅紀のレコメン！アラシリミックス』(文化放送/毎週金曜24:00～24:30)に出演。嵐の楽曲をパフォーマンスしたKing ＆ Princeを「かわいかった」と大絶賛した。",
+          "link": "https://news.mynavi.jp/article/20210815-1947301/index.html",
+          "publishedOn": "2021-08-15T08:00:00.000Z",
+          "wordCount": 330,
+          "title": "相葉雅紀、『FNS歌謡祭』のキンプリを絶賛！「乱入すれば…」と後悔も"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947328/index.html",
+          "author": null,
+          "description": "8月11日（水）に発売となった『新クレヨンしんちゃん』最新第11巻。今巻の最大のトピックスは、何といっても父親にしたいアニメキャラクターNO.1に選ばれている野原ひろしの兄・せまし（アニメ未登場）の結婚。表紙にはしんのすけはもちろん、ひろし・・・",
+          "link": "https://news.mynavi.jp/article/20210815-1947328/index.html",
+          "publishedOn": "2021-08-15T08:00:00.000Z",
+          "wordCount": 298,
+          "title": "ひろしの兄・せましが父親に⁉︎ 『新クレヨンしんちゃん』最新刊で新展開"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947327/index.html",
+          "author": null,
+          "description": "○ 巨人 4 － 2 中日 ●\n＜17回戦・東京ドーム＞\n\n　巨人が中日との3連戦に全勝。後半戦3連勝スタートを切り、貯金は今季最多に並ぶ「14」となった。\n\n　巨人は初回、2番・坂本が12…",
+          "link": "https://news.mynavi.jp/article/20210815-1947327/index.html",
+          "publishedOn": "2021-08-15T07:55:45.000Z",
+          "wordCount": 309,
+          "title": "巨人、後半戦3連勝発進で今季最多タイ貯金14　坂本V弾、好救援の今村3勝目"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947335/index.html",
+          "author": null,
+          "description": "プレミアムカーレンタルサービス「ポルシェドライブレンタル」のラインナップに、ポルシェのフル電動スポーツカー「タイカン4S」2台があらたに加わった。「ポルシェドライブレンタル（Porsche Drive Rental）」は、ポルシェ公式のレン・・・",
+          "link": "https://news.mynavi.jp/article/20210815-1947335/index.html",
+          "publishedOn": "2021-08-15T07:47:00.000Z",
+          "wordCount": 312,
+          "title": "タイカン4Sオーナー気分を味わえる｜ポルシェドライブレンタルの新ラインナップ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947322/index.html",
+          "author": null,
+          "description": "津野みぞ子「ひとりで生きるはままならぬ」1巻が、本日8月15日にオーバーラップのクリエコミックスから発売された。",
+          "link": "https://news.mynavi.jp/article/20210815-1947322/index.html",
+          "publishedOn": "2021-08-15T07:37:00.000Z",
+          "wordCount": 292,
+          "title": "シェアハウスに暮らすアラサー独身女性4人を描く「ひとりで生きるはままならぬ」1巻"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947313/index.html",
+          "author": null,
+          "description": "ソフトバンク 0 － 0 日本ハム\n＜17回戦・PayPayドーム＞\n\n　日本ハムは後半戦開幕となった13日の同戦から、3試合連続の無得点。この日はヒットを1本も打てず、6投手による継投ノーヒッ…",
+          "link": "https://news.mynavi.jp/article/20210815-1947313/index.html",
+          "publishedOn": "2021-08-15T07:29:03.000Z",
+          "wordCount": 319,
+          "title": "日本ハム、屈辱の継投ノーヒットノーラン許す　鷹戦は36イニング連続無得点"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947326/index.html",
+          "author": null,
+          "description": "バルセロナに所属するアメリカ代表DFセルジーニョ・デストが、アルゼンチン代表FWリオネル・メッシについて語った。14日付けでスペイン紙『マルカ』が伝えている。\n　15日にレアル・ソシエダとのラ・リー",
+          "link": "https://news.mynavi.jp/article/20210815-1947326/index.html",
+          "publishedOn": "2021-08-15T07:04:05.000Z",
+          "wordCount": 297,
+          "title": "バルサDFデスト、今夏退団のメッシに言及「みんなの心の中には彼がいる」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1946805/index.html",
+          "author": null,
+          "description": "コスプレイヤー伊織もえが8月7日、自身のTwitterを更新し雑誌表紙のオフショットを披露した。",
+          "link": "https://news.mynavi.jp/article/20210815-1946805/index.html",
+          "publishedOn": "2021-08-15T07:00:00.000Z",
+          "wordCount": 321,
+          "title": "「一緒にあったまろ」コスプレイヤー伊織もえが水着オフショット披露"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947292/index.html",
+          "author": null,
+          "description": "ソフトバンク 0 － 0 日本ハム\n＜17回戦・PayPayドーム＞\n\n　ソフトバンクが6投手の継投で、日本ハム打線を無安打無失点に抑えた。しかし、味方打線も沈黙し9回まで無得点。試合はスコアレ…",
+          "link": "https://news.mynavi.jp/article/20210815-1947292/index.html",
+          "publishedOn": "2021-08-15T06:44:20.000Z",
+          "wordCount": 319,
+          "title": "ソフトバンク、継投ノーノ―達成も…得点奪えずドロー、8回はスクイズ失敗"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947280/index.html",
+          "author": null,
+          "description": "ロッテは14日のオリックス戦に4－2で勝利して、ZOZOマリンスタジアム（千葉マリンスタジアム時代からの92年4月7日ダイエー戦から）通算998勝とし、通算1000勝まで残り「2勝」とした。…",
+          "link": "https://news.mynavi.jp/article/20210815-1947280/index.html",
+          "publishedOn": "2021-08-15T06:29:07.000Z",
+          "wordCount": 303,
+          "title": "ロッテ、谷保さんが選んだ「記憶に残る勝利試合」を16時10分頃にマリンビジョンで放映予定"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947132/index.html",
+          "author": null,
+          "description": "お笑いコンビのチョコレートプラネットが、日本テレビ系大型特番『24時間テレビ44』(21日18:30～22日20:54)で、「24秒間テレビ」企画を担当する。",
+          "link": "https://news.mynavi.jp/article/20210815-1947132/index.html",
+          "publishedOn": "2021-08-15T06:15:00.000Z",
+          "wordCount": 314,
+          "title": "チョコプラ、24時間テレビでチャレンジ企画「24秒間テレビ」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947271/index.html",
+          "author": null,
+          "description": "【1965年式 トヨタ スポーツ800 Vol.3】【2】から続く 今回のヨタハチは、1965年式の初期型。1235台生産された中盤あたりの車台番号を持つ1台だ。「1985年7月に、中古車屋さんに『石5』のシングルナンバーのヨタハチが入った・・・",
+          "link": "https://news.mynavi.jp/article/20210815-1947271/index.html",
+          "publishedOn": "2021-08-15T06:05:00.000Z",
+          "wordCount": 364,
+          "title": "1965年式の初期型「レストアに25年くらいかかりました」｜トヨタ スポーツ800"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947275/index.html",
+          "author": null,
+          "description": "雉間ちまこ原作、「映写室のわかばさん」の青山克己作画による新連載「裏切られたので、王妃付き侍女にジョブチェンジ！」が、本日8月15日にマッグガーデンのWebマンガサイト・MAGCOMIでスタートした。",
+          "link": "https://news.mynavi.jp/article/20210815-1947275/index.html",
+          "publishedOn": "2021-08-15T06:05:00.000Z",
+          "wordCount": 289,
+          "title": "婚約者に裏切られた子爵令嬢が、王妃直属の侍女に転身して活躍するMAGCOMI新連載"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1946800/index.html",
+          "author": null,
+          "description": "コスプレイヤーのとみこが8月10日に自身のツイッターを更新し、メイド風水着姿を公開した",
+          "link": "https://news.mynavi.jp/article/20210815-1946800/index.html",
+          "publishedOn": "2021-08-15T06:00:00.000Z",
+          "wordCount": 315,
+          "title": "コスプレイヤーとみこがメイド風水着で豊満バスト＆美ヒップチラ見せ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947276/index.html",
+          "author": null,
+          "description": "山谷花純が、フジテレビが運営する動画配信サービスFODにて10月15日（金）より配信される古川雄大主演のドラマ『私の正しいお兄ちゃん』のヒロインを務めることが決定。さらに、堀井新太、長谷川純、ダンデ…",
+          "link": "https://news.mynavi.jp/article/20210815-1947276/index.html",
+          "publishedOn": "2021-08-15T06:00:00.000Z",
+          "wordCount": 305,
+          "title": "山谷花純、古川雄大主演『私の正しいお兄ちゃん』で初ヒロイン"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947266/index.html",
+          "author": null,
+          "description": "講談社『週刊少年マガジン』にて連載中の『ブルーロック』のアニメ化が決定し、ティザービジュアル、ティザーPV、キャラクタービジュアル＆キャスト情報が解禁となった。『ブルーロック』は、累計発行部数450万部を突破、第45回講談社漫画賞少年部門も・・・",
+          "link": "https://news.mynavi.jp/article/20210815-1947266/index.html",
+          "publishedOn": "2021-08-15T06:00:00.000Z",
+          "wordCount": 298,
+          "title": "『ブルーロック』2022年TVアニメ化！ PVやキャスト解禁！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947281/index.html",
+          "author": null,
+          "description": "山下達郎のライブ映像作品「山下達郎 シアター・ライヴ PERFORMANCE 1984-2012」が9月3日（金）より10日間期間限定で配信プラットフォーム・MUSIC/SLASHにて配信される。",
+          "link": "https://news.mynavi.jp/article/20210815-1947281/index.html",
+          "publishedOn": "2021-08-15T06:00:00.000Z",
+          "wordCount": 316,
+          "title": "「山下達郎 シアター・ライヴ PERFORMANCE 1984-2012」10日間限定で配信ロードショー"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947264/index.html",
+          "author": null,
+          "description": "◆ 母国アメリカで再始動\n\n　ソフトバンクを退団したコリン・レイ投手（31）がミルウォーキー・ブリュワーズとマイナー契約を締結。現地14日付で同球団傘下3Aのナッシュビル・サウンズに配属された。…",
+          "link": "https://news.mynavi.jp/article/20210815-1947264/index.html",
+          "publishedOn": "2021-08-15T05:56:51.000Z",
+          "wordCount": 300,
+          "title": "ソフトバンク退団のレイがブリュワーズとマイナー契約"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947297/index.html",
+          "author": null,
+          "description": "レアル・マドリードのカルロ・アンチェロッティ監督がリーグ戦初戦について語った。15日付けでスペイン紙『マルカ』が伝えている。\n　14日にラ・リーガ第1節でアラベスと対戦したレアル・マドリードは、アウ",
+          "link": "https://news.mynavi.jp/article/20210815-1947297/index.html",
+          "publishedOn": "2021-08-15T05:56:29.000Z",
+          "wordCount": 296,
+          "title": "レアル指揮官、開幕節2得点のベンゼマを称賛「より完全な選手になっている」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947265/index.html",
+          "author": null,
+          "description": "○ マリナーズ 9 － 3 ブルージェイズ ●\n＜現地時間8月14日　Tモバイル・パーク＞\n\n　マリナーズの菊池雄星投手（30）が14日（日本時間15日）、本拠地でのブルージェイズ戦に先発。5回…",
+          "link": "https://news.mynavi.jp/article/20210815-1947265/index.html",
+          "publishedOn": "2021-08-15T05:54:57.000Z",
+          "wordCount": 313,
+          "title": "マリナーズ、逆転勝ちで4連勝＆貯金8　菊池雄星は5回途中3失点で8勝目ならず"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-wadai7/index.html",
+          "author": null,
+          "description": "「桃がきれいに剥けなくても、その分フルーツティーが美味しくなると思えるのも良い点」とツイートで紹介するのは、埼玉県所沢市で「お茶の平岡園」を営むお茶農家・平岡忠仁さん(@hiraokaen)。",
+          "link": "https://news.mynavi.jp/article/20210815-wadai7/index.html",
+          "publishedOn": "2021-08-15T05:41:39.000Z",
+          "wordCount": 364,
+          "title": "【二度美味しい】桃の皮と種で作る、茶農家直伝・寝かせるだけフルーツティーを楽しもう - 「アールグレイで淹れてみました」「写真撮る前に美味しくて全部飲んじゃった」の声も"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947270/index.html",
+          "author": null,
+          "description": "ロシア初の独立時計師として、国際的な独立時計師の組織「AHCI」に所属し、80以上の特許を取得するKonstantin Chaykin(コンスタンチン・チャイキン)氏。彼が自身で立ち上げたンスタンチン・チャイキン・マニュファクチュール（KO・・・",
+          "link": "https://news.mynavi.jp/article/20210815-1947270/index.html",
+          "publishedOn": "2021-08-15T05:38:00.000Z",
+          "wordCount": 314,
+          "title": "世界で１本！火星の重力に対応した、ユニークなダイヤルのトゥールビヨン"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947258/index.html",
+          "author": null,
+          "description": "14日にマンチェスター・Uとのプレミアリーグ開幕戦を戦ったリーズのマルセロ・ビエルサ監督が、クラブ公式サイトで同試合を振り返った。\n　同監督は以下のようなコメントを残している。\n「ボールの奪回と危険",
+          "link": "https://news.mynavi.jp/article/20210815-1947258/index.html",
+          "publishedOn": "2021-08-15T05:08:29.000Z",
+          "wordCount": 300,
+          "title": "リーズのビエルサ監督、開幕戦を振り返る…「ボールの奪回と危険なチャンスの創出に苦戦した」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947259/index.html",
+          "author": null,
+          "description": "リヴァプールのユルゲン・クロップ監督がリーグ戦の初戦を終えてコメントした。14日付けでイギリスメディア『スカイスポーツ』が報じている。\n　同日にプレミアリーグ第1節ノリッジ戦をアウェイで迎えたリヴァ",
+          "link": "https://news.mynavi.jp/article/20210815-1947259/index.html",
+          "publishedOn": "2021-08-15T05:00:22.000Z",
+          "wordCount": 296,
+          "title": "開幕節で3発快勝…クロップ監督は結果に満足感示す「十分な力を発揮した」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1946793/index.html",
+          "author": null,
+          "description": "中国出身のコスプレイヤーのキリコが8月10日に自身のツイッターを更新。メディアミックス作品『ウマ娘 プリティーダービー』より、サイレンススズカのコスプレを披露した",
+          "link": "https://news.mynavi.jp/article/20210815-1946793/index.html",
+          "publishedOn": "2021-08-15T05:00:00.000Z",
+          "wordCount": 321,
+          "title": "「走り続けます!」キリコが『ウマ娘』サイレンススズカのコスプレ披露"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947238/index.html",
+          "author": null,
+          "description": "ロッテは15日、「佐々木朗希投手 地元の大船渡産サンマ弁当」をZOZOマリンスタジアム内にて試合日に販売開始したことを発表した。\n\n　「佐々木朗希投手 地元の大船渡産サンマ弁当」は佐々木朗希投手…",
+          "link": "https://news.mynavi.jp/article/20210815-1947238/index.html",
+          "publishedOn": "2021-08-15T04:57:13.000Z",
+          "wordCount": 313,
+          "title": "ロッテ、「佐々木朗希投手 地元の大船渡産サンマ弁当」を販売開始"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947237/index.html",
+          "author": null,
+          "description": "● エンゼルス 2 － 8 アストロズ ○\n＜現地時間8月14日　エンゼルス・スタジアム＞\n\n　エンゼルスの大谷翔平選手（27）が14日（日本時間15日）、本拠地でのアストロズ戦に「1番・指名打…",
+          "link": "https://news.mynavi.jp/article/20210815-1947237/index.html",
+          "publishedOn": "2021-08-15T04:52:40.000Z",
+          "wordCount": 312,
+          "title": "大谷翔平、球団左打者最多の39号含むマルチも…エンゼルスは逆転負けで借金2"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947236/index.html",
+          "author": null,
+          "description": "イラストレーター・マンガ家として活躍するよむの作品「がんばれ同期ちゃん」のWebアニメ化が決定。よむのTwitterアカウント（@y_o_m_y_o_m）内で発表された。",
+          "link": "https://news.mynavi.jp/article/20210815-1947236/index.html",
+          "publishedOn": "2021-08-15T04:51:00.000Z",
+          "wordCount": 289,
+          "title": "よむ「がんばれ同期ちゃん」Webアニメ化決定、公式Twitterも開設"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947231/index.html",
+          "author": null,
+          "description": "14日、チェルシーのトゥヘル監督が、クラブ公式サイトでクリスタル・パレスとの開幕戦を振り返っている。\n　―フィットネスのレベルはまだ100%では無かったが、監督は選手たちの力強さに喜んだ。\n　「我々",
+          "link": "https://news.mynavi.jp/article/20210815-1947231/index.html",
+          "publishedOn": "2021-08-15T04:28:41.000Z",
+          "wordCount": 304,
+          "title": "トゥヘル監督が開幕戦勝利を振り返る…初ゴールのチャロバ―については「称賛されるに値する」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947282/index.html",
+          "author": null,
+          "description": "Little Glee Monsterが9月22日にミニアルバム「re-union」をリリースする。",
+          "link": "https://news.mynavi.jp/article/20210815-1947282/index.html",
+          "publishedOn": "2021-08-15T04:28:00.000Z",
+          "wordCount": 436,
+          "title": "Little Glee Monster、5人で歌う喜びが詰まったミニアルバム「re-union」発売"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947213/index.html",
+          "author": null,
+          "description": "俳優の鈴木亮平が主演を務めるTBS系日曜劇場『TOKYO MER～走る緊急救命室～』(毎週日曜21:00～)の第7話が、きょう15日に放送される。この第7話から、鈴木演じる主人公・喜多見幸太の“空白の1年”を追う新章のキーパーソン、公安刑事・月島しずか役として稲森いずみが登場する。",
+          "link": "https://news.mynavi.jp/article/20210815-1947213/index.html",
+          "publishedOn": "2021-08-15T04:13:03.000Z",
+          "wordCount": 323,
+          "title": "『TOKYO MER』喜多見の“空白の1年”を追う公安刑事(稲森いずみ)が登場"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-wadai/index.html",
+          "author": null,
+          "description": "「パイパイ」と言いながら歩み寄ってくる我が子。とっても可愛いですよね。卒乳しなければと思っていても、その顔を見るたびについついまたあげてしまうことも……。",
+          "link": "https://news.mynavi.jp/article/20210815-wadai/index.html",
+          "publishedOn": "2021-08-15T04:00:24.000Z",
+          "wordCount": 354,
+          "title": "【切ない】卒乳を言い渡された母乳製造工場。\"乳の中の人たち\"の物語に「切なくて泣けてきましたー」「ホロリです」と感動の声集まる"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1946792/index.html",
+          "author": null,
+          "description": "コスプレイヤーのひなた陽が8月9日に自身のツイッターを更新し、スマートフォン用ゲーム『Fate/Grand Order』より、巴御前のコスプレを披露した",
+          "link": "https://news.mynavi.jp/article/20210815-1946792/index.html",
+          "publishedOn": "2021-08-15T04:00:00.000Z",
+          "wordCount": 320,
+          "title": "「盛れたから見て」ひなた陽が『FGO』巴御前の水着コスプレ披露"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-wadai6/index.html",
+          "author": null,
+          "description": "暑い日が続くものの、外出もままならない今日このごろ。ついゴロゴロしたくなりますが、それは猫も同じようです。しかし、あまりにもふもふ過ぎるあまり「これは猫……なのか……?」と思わず確認したくなる猫が、Twitterで話題になっています。投稿者は「ぽてねのアポロ」さん(@Hachicotton)です。",
+          "link": "https://news.mynavi.jp/article/20210815-wadai6/index.html",
+          "publishedOn": "2021-08-15T04:00:00.000Z",
+          "wordCount": 358,
+          "title": "【これは猫ですか】「モップ…?」二度見せざるを得ないスコティッシュフォールドのヘソ天姿が話題に"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947215/index.html",
+          "author": null,
+          "description": "リアライズは、8月12日（木）〜8月19日（木）までの期間中、アニメ・漫画専門ECサイトであるAnimo（アニモ）で『ハイキュー‼︎』の商品の予約再販を開始した。『ハイキュー‼︎』は『週刊少年ジャンプ』（集英社刊）にて連載された、シリーズ累・・・",
+          "link": "https://news.mynavi.jp/article/20210815-1947215/index.html",
+          "publishedOn": "2021-08-15T04:00:00.000Z",
+          "wordCount": 298,
+          "title": "『ハイキュー!!』日向と影山のシューズをデザインしたTシャツが再販！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947212/index.html",
+          "author": null,
+          "description": "門脇麦主演、森山直太朗共演のドラマ『うきわ―友達以上、不倫未満―』（テレビ東京系、毎週月曜23:06〜）の第2話が8月16日に放送される。  本作は、野村宗弘による漫画「うきわ」を原作としたドラマ。…",
+          "link": "https://news.mynavi.jp/article/20210815-1947212/index.html",
+          "publishedOn": "2021-08-15T04:00:00.000Z",
+          "wordCount": 294,
+          "title": "門脇麦“麻衣子”と森山直太朗“二葉さん”はお互いの秘密を告白し…"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947214/index.html",
+          "author": null,
+          "description": "TOKYO FMの生ワイド番組「News Sapiens（ニュース・サピエンス）」（毎週月曜～木曜 20:00～21:00）。パーソナリティの高橋万里恵（月曜、火曜担当）、手島千尋（水曜、木曜担当）と、各界のフロントランナーによる曜日替わりのコメンテーターが、これまでの「歴史」をヒントに「今、世の中で何が起こっているのか」をひも解いていきます。\n\n8月2日（月）放送の特集は、「会田誠 × 山極壽一対談“愛国とは何か？”」。アフリカで長年ゴリラの研究をおこなってきた山極壽一さんと、常に刺激的な作品作りで世界に衝撃を与え続け、個展「愛国が止まらない」を開催中の芸術家・会田誠さんが、「愛国」と「芸術」、そして「人類の未来」について語り合いました。",
+          "link": "https://news.mynavi.jp/article/20210815-1947214/index.html",
+          "publishedOn": "2021-08-15T04:00:00.000Z",
+          "wordCount": 344,
+          "title": "「なぜ“食”が発想の起点となったのか？」会田誠×山極壽一 “愛国”と“芸術”について語り合う"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947283/index.html",
+          "author": null,
+          "description": "8月21日（土）14:40よりCSテレ朝チャンネル1にて「長渕ファン王決定戦」の第1回と第2回が放送される。",
+          "link": "https://news.mynavi.jp/article/20210815-1947283/index.html",
+          "publishedOn": "2021-08-15T04:00:00.000Z",
+          "wordCount": 325,
+          "title": "長渕剛がカラオケボックスで熱唱！くりぃむ上田が号泣した「長渕ファン王決定戦」一挙放送"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947232/index.html",
+          "author": null,
+          "description": "マンチェスター・Uのオーレ・グンナー・スールシャール監督がリーグ開幕戦を終えてコメントした。14日付けでイギリスメディア『スカイスポーツ』が報じている。\n　同日にプレミアリーグ第1節リーズ戦を迎えた",
+          "link": "https://news.mynavi.jp/article/20210815-1947232/index.html",
+          "publishedOn": "2021-08-15T03:58:43.000Z",
+          "wordCount": 296,
+          "title": "白星発進のスールシャール監督、5得点のチームに「これが真のマンチェスター・Uだ」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947203/index.html",
+          "author": null,
+          "description": "俳優の吉沢亮が主演を務める大河ドラマ『青天を衝け』(NHK総合 毎週日曜20:00～ほか)の第24回「パリの御一新」が、きょう15日に放送される。",
+          "link": "https://news.mynavi.jp/article/20210815-1947203/index.html",
+          "publishedOn": "2021-08-15T03:53:19.000Z",
+          "wordCount": 326,
+          "title": "『青天を衝け』第24回　昭武一行、大政奉還に混乱　篤太夫は新たな決意を…"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947198/index.html",
+          "author": null,
+          "description": "タレントのファーストサマーウイカが、15日に放送されたフジテレビ系トーク番組『ワイドナショー』(毎週日曜10:00～11:15)で、野球解説者・張本勲氏の謝罪コメントについて語った。",
+          "link": "https://news.mynavi.jp/article/20210815-1947198/index.html",
+          "publishedOn": "2021-08-15T03:44:27.000Z",
+          "wordCount": 312,
+          "title": "ウイカ、張本勲氏の謝罪文に疑問「なんで怒られてるのか分かってんのかな?」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947204/index.html",
+          "author": null,
+          "description": "◆ 3Aでは打率.257、10本塁打、32打点\n\n　ドジャース傘下のマイナー、3Aオクラホマシティーの筒香嘉智外野手（29）が14日（日本時間15日）、契約を解除されたとメジャー公式サイトが伝えた…",
+          "link": "https://news.mynavi.jp/article/20210815-1947204/index.html",
+          "publishedOn": "2021-08-15T03:41:01.000Z",
+          "wordCount": 306,
+          "title": "筒香嘉智、ドジャース傘下から自由契約　メジャー2球団で打率.155、0本塁打"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/smartwatch-for-business-21/index.html",
+          "author": null,
+          "description": "ウォーキングは中強度の運動としてはちょっと弱い。しかし、運動の習慣がなかったのなら、ここを出発点に考えてみよう。そしてプラスアルファだ。今回は、「重いものを背負う」効果をスマートウォッチで計測してみよう。",
+          "link": "https://news.mynavi.jp/article/smartwatch-for-business-21/index.html",
+          "publishedOn": "2021-08-15T03:32:50.000Z",
+          "wordCount": 416,
+          "title": "スマートウォッチでデータ分析をしよう 第21回 スマートウォッチで分析、ダンベルを背負って脂肪を燃やす効果"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-teradaakaso/index.html",
+          "author": null,
+          "description": "公開中の映画『妖怪大戦争 ガーディアンズ』主演の寺田心と、共演する赤楚衛二にインタビュー。同じシーンも多かった2人に、役者として互いに感じたことや、撮影の仲良しエピソードについてなど話を聞いた。",
+          "link": "https://news.mynavi.jp/article/20210815-teradaakaso/index.html",
+          "publishedOn": "2021-08-15T03:30:00.000Z",
+          "wordCount": 389,
+          "title": "寺田心の受け答えに、赤楚衛二「僕が小学生の時は…」語彙力の源に好奇心"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1946770/index.html",
+          "author": null,
+          "description": "映画『妖怪大戦争 ガーディアンズ』出演、寺田心さん＆赤楚衛二さんのサイン入りチェキを1名様にプレゼントします。",
+          "link": "https://news.mynavi.jp/article/20210815-1946770/index.html",
+          "publishedOn": "2021-08-15T03:30:00.000Z",
+          "wordCount": 356,
+          "title": "【プレゼント】映画『妖怪大戦争 ガーディアンズ』出演! 寺田心＆赤楚衛二サイン入りチェキ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210815-1947194/index.html",
+          "author": null,
+          "description": "ホラン千秋がパーソナリティをつとめるTOKYO FMの番組「apollostation Drive Discovery PRESS」。番組では、“ラジオの中の編集部”を舞台にホランが編集長、リスナーが番組専属特派員となり、全国の食べ物やさまざまな場所にスポットを当て、日本の魅力を再発見していきます。\n\n8月15日（日）の放送では、前回に引き続き、かき氷専門店「氷舎mamatoko（ママトコ）」の店主で、“かき氷の女王”こと原田麻子さんが登場。おすすめのかき氷専門店を教えてもらいました。",
+          "link": "https://news.mynavi.jp/article/20210815-1947194/index.html",
+          "publishedOn": "2021-08-15T03:30:00.000Z",
+          "wordCount": 329,
+          "title": "「撮影時間は10秒以内！」“かき氷専門店”でのNG行為とは？“かき氷の女王”が熱弁！"
+        },
         {
           "id": "https://news.mynavi.jp/article/20210815-1947135/index.html",
           "author": null,
