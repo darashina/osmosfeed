@@ -12,6 +12,177 @@
       "siteUrl": "https://www.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/16/news057.html",
+          "author": null,
+          "description": "Payment Technology（東京都文京区）は8月13日、法人向け後払いサービス「1 month delay payment（β版）」の申し込み社数が、サービス開始より3カ月で150社を突破したと発表した。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/16/news057.html",
+          "publishedOn": "2021-08-16T00:53:00.000Z",
+          "wordCount": 150,
+          "title": "[ITmedia ビジネスオンライン] クレカで法人費用を後払いする「1 month delay payment（β版）」　3カ月で申込社数150社を突破"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/16/news059.html",
+          "author": null,
+          "description": "内閣府が16日発表した4～6月期の国内総生産（GDP、季節調整済み）速報値は、物価変動の影響を除く実質で前期比0.3％増で、2四半期ぶりのプラス成長となった。このペースが1年続いた場合の年率換算は1.3％増。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/16/news059.html",
+          "publishedOn": "2021-08-16T00:43:00.000Z",
+          "wordCount": 138,
+          "title": "[ITmedia ビジネスオンライン] 4～6月期GDP、2期ぶりプラス成長　年1.3％増"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/16/news058.html",
+          "author": null,
+          "description": "ジェイアール東日本都市開発は8月13日、無人販売サービス「EKIPICK MART」（エキピックマート）の実証実験を実施すると発表した。8月16日から9月30日まで、「シャポー本八幡」（JR総武線本八幡駅直結）で実施する。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/16/news058.html",
+          "publishedOn": "2021-08-16T00:42:00.000Z",
+          "wordCount": 136,
+          "title": "[ITmedia ビジネスオンライン] JR東日本都市開発、PayPayで払える無人自販機「EKIPICK MART」実証実験"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/16/news056.html",
+          "author": null,
+          "description": "ポケットチェンジ（東京都港区）は8月13日、郵送型外貨交換サービス「エアポケットチェンジ」のキャンペーンを開始したと発表した。期間限定で、外貨を電子マネーに交換する。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/16/news056.html",
+          "publishedOn": "2021-08-16T00:40:00.000Z",
+          "wordCount": 139,
+          "title": "[ITmedia ビジネスオンライン] ポケットチェンジ、外貨を郵送して電子マネーに交換「エアポケットチェンジ」　キャンペーン開始"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/16/news037.html",
+          "author": null,
+          "description": "東京商工リサーチの調査によると、レストランを運営する上場主要11社の2021年3月末時点の店舗数は8322店で、20年12月末から3カ月間で115店減少したことが分かった。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/16/news037.html",
+          "publishedOn": "2021-08-16T00:20:00.000Z",
+          "wordCount": 127,
+          "title": "[ITmedia ビジネスオンライン] ファミレス運営11社の店舗数、コロナ禍で793店減少　「都心部の見直しは避けられない」"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/16/news053.html",
+          "author": null,
+          "description": "Facebookがメッセージサービス「Facebook Messenger」の音声および動画チャットもE2EE（エンドツーエンド暗号化）できるようにするテストを開始した。テキストメッセージは既に可能だ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/16/news053.html",
+          "publishedOn": "2021-08-16T00:06:00.000Z",
+          "wordCount": 146,
+          "title": "[ITmedia News] Facebook、Messengerの音声と動画チャットもE2EEにするテスト開始"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/16/news052.html",
+          "author": null,
+          "description": "Ransomeware as a Service（サービスとしてのランサムウェア）ビジネス集団は幾つもあるが、元をたどるとそう多くはない。",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/16/news052.html",
+          "publishedOn": "2021-08-15T23:32:00.000Z",
+          "wordCount": 145,
+          "title": "[ITmedia News] ランサムウェアも生存戦略　「DarkSide」は「BlackMatter」に？　現れては消えるサバイバル術"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/enterprise/articles/2108/12/news008.html",
+          "author": null,
+          "description": "DX推進に不可欠とされるの「プロセスマイニング」は実際にどのように役立つのでしょうか。BPM、BPI、BPRといったDXと密接な関係がある主要なビジネス手法との関連性を踏まえつつ、プロセスマイニングの効用について解説します。",
+          "link": "https://www.itmedia.co.jp/enterprise/articles/2108/12/news008.html",
+          "publishedOn": "2021-08-15T23:30:00.000Z",
+          "wordCount": 163,
+          "title": "[ITmedia エンタープライズ] プロセスマイニングとは何か　主要ツールの整理、DX推進の切り札として注目される理由"
+        },
+        {
+          "id": "https://mag.executive.itmedia.co.jp/executive/articles/2108/16/news051.html",
+          "author": null,
+          "description": "新型コロナウイルスの感染拡大が続くなか、家電メーカー各社は空気清浄機の販売を強化している。独自技術の性能を高めた新製品を投入し、増産体制も構築。国内外で攻勢を強める。",
+          "link": "https://mag.executive.itmedia.co.jp/executive/articles/2108/16/news051.html",
+          "publishedOn": "2021-08-15T23:21:00.000Z",
+          "wordCount": 320,
+          "title": "[ITmedia エグゼクティブ] パナは新工場  ダイキンは増産　家電各社、空気清浄機に注力"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/16/news022.html",
+          "author": null,
+          "description": "毎日一緒に働くからこそ、若者社員との埋められない世代間ギャップ、そして価値観の差にイライラ……なんて“オジサン社員”はいないだろうか？　「何を考えているのやら」「どうして言われたことができないんだ？」と嘆いてばかりでは心のスキマは埋められない。では一体、どうすればいいのか？　オジサン社員と若者社員が成長し合える関係性を探る。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/16/news022.html",
+          "publishedOn": "2021-08-15T23:00:00.000Z",
+          "wordCount": 126,
+          "title": "[ITmedia ビジネスオンライン] 「これだから若者は」じゃ進展せず　オジサン社員と若者社員、心のスキマを埋めるには？"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/16/news036.html",
+          "author": null,
+          "description": "NTT東日本が、コンピューターゲームの腕前を競う「eスポーツ」イベントの運営支援サービスを企業向けに販売することが分かった。コロナ禍で社員向けのレクリエーションができなくなった企業から代わりに、eスポーツイベントを開催したいと相談を受ける機会が増加。イベントの司会派遣や通信環境整備などを一括で提供する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/16/news036.html",
+          "publishedOn": "2021-08-15T22:00:00.000Z",
+          "wordCount": 132,
+          "title": "[ITmedia News] eスポーツ大会運営を外販　NTT東が福利厚生向け"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/enterprise/articles/2108/16/news038.html",
+          "author": null,
+          "description": "トーマツとSAS Institute Japanは、金融機関が貸出先の信用を評価するためのツールの開発とその導入に向けたサービスを開始する。金融機関向けにそれぞれリスク評価ツールを提供してきた両社のノウハウを組み合わせた。",
+          "link": "https://www.itmedia.co.jp/enterprise/articles/2108/16/news038.html",
+          "publishedOn": "2021-08-15T22:00:00.000Z",
+          "wordCount": 132,
+          "title": "[ITmedia エンタープライズ] データで気候変動やパンデミックの影響も判定　SASとトーマツが金融機関向けの信用評価ツールを発表"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/16/news047.html",
+          "author": null,
+          "description": "15日で終戦から76年。戦争体験者らは高齢化し、記憶の継承は年々難しくなっている。元軍人や遺族つくる戦友会でも同じだ。「史実を知ることが平和につながる」と、SNSで肉声や記憶を伝える組織も出てきた。活動が功を奏し、会員数を伸ばした戦友会もある。",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/16/news047.html",
+          "publishedOn": "2021-08-15T22:00:00.000Z",
+          "wordCount": 137,
+          "title": "[ITmedia News] SNSでつなぐ特攻の記憶　「肉声伝える使命」"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/enterprise/articles/2108/13/news098.html",
+          "author": null,
+          "description": "Microsoftの調査によって、請求書をテーマにしたフィッシング攻撃キャンペーンのサイバー攻撃者が、平均37日ごとに難読化と暗号化メカニズムの変更を実施していることが判明した。「過去にない」その手口とは。",
+          "link": "https://www.itmedia.co.jp/enterprise/articles/2108/13/news098.html",
+          "publishedOn": "2021-08-15T22:00:00.000Z",
+          "wordCount": 190,
+          "title": "[ITmedia エンタープライズ] 37日ごとに難読化と暗号化メカニズムを変更　Microsoftがサイバー攻撃者の検出回避の手口を公表"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/16/news044.html",
+          "author": null,
+          "description": "純エンジン車であれば、エンジン始動時にはキュルルルとセルモーターが回る音の後にブルンッとエンジンが目覚める燃焼音と共に身震いのような振動が伝わってくるものだが、ハイブリッド車にはそれがない。それはなぜなのか？",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/16/news044.html",
+          "publishedOn": "2021-08-15T22:00:00.000Z",
+          "wordCount": 124,
+          "title": "[ITmedia ビジネスオンライン] なぜハイブリッド車のエンジン始動はブルルンと揺れないのか"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/16/news046.html",
+          "author": null,
+          "description": "携帯3社が3月に開始したオンライン専用の割安プランで、NTTドコモと他2社で明暗が分かれている。いち早く発表したドコモの契約件数が180万超の一方、KDDIやソフトバンクはドコモほど契約が増えておらず、割安のプランのため、収益悪化要因にもなっているようだ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/16/news046.html",
+          "publishedOn": "2021-08-15T22:00:00.000Z",
+          "wordCount": 134,
+          "title": "[ITmedia News] 携帯大手新プラン　ドコモ快走も他社は伸びず　大容量移行がカギに"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/16/news002.html",
+          "author": null,
+          "description": "電気炊飯器市場でトップシェアを誇る象印マホービンは、2018年に100周年を迎えた。高級炊飯器のヒットとインバウンド需要に押され、10年ごろから右肩上がりで売り上げを伸ばしたが、16年をピークに減少。そこへコロナ禍が発生した。この長引く苦境をどう乗り越えるのか。取締役の宇和政男氏に話を聞いた。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/16/news002.html",
+          "publishedOn": "2021-08-15T22:00:00.000Z",
+          "wordCount": 136,
+          "title": "[ITmedia ビジネスオンライン] プロダクトアウトの罠にハマった「象印」のリカバリー戦略"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/16/news019.html",
+          "author": null,
+          "description": "退職勧奨とは、会社が雇用する従業員に退職するよう促すことをいいます。退職勧奨を行う上で、あらかじめ決めておくべきことを解説します。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/16/news019.html",
+          "publishedOn": "2021-08-15T22:00:00.000Z",
+          "wordCount": 132,
+          "title": "[ITmedia ビジネスオンライン] 退職勧奨で決めるべきこと　誰を対象にするのか、対象にしてはいけないのか"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2108/16/news010.html",
+          "author": null,
+          "description": "若手や女性を積極的に採用したところ、「残業はしない」「キャリアアップを望まない」という社員が増え、半期の評価ごとに成長を求める評価制度とのミスマッチが起きている──こんな時、人事はどうしたらいいのだろうか？　人事コンサルタントが解説する。",
+          "link": "https://www.itmedia.co.jp/business/articles/2108/16/news010.html",
+          "publishedOn": "2021-08-15T21:00:00.000Z",
+          "wordCount": 126,
+          "title": "[ITmedia ビジネスオンライン] 「残業しない」「キャリアアップを望まない」社員が増加、人事制度を作り変えるべきでしょうか？"
+        },
+        {
           "id": "https://www.itmedia.co.jp/business/articles/2108/11/news029.html",
           "author": null,
           "description": "大手ゼネコンの清水建設が、ニューノーマル時代の新たなオフィスの在り方を打ち出している。デジタル技術を活用して、リモートワークとコロナ禍に対応した、パフォーマンスの向上につながる「SHIMZ CREATIVE FIELD」（シミズ・クリエイティブ・フィールド）を公開した。",
@@ -9297,6 +9468,159 @@
       "feedUrl": "https://ascii.jp/rss.xml",
       "siteUrl": "https://ascii.jp/1/",
       "articles": [
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065926/?rss",
+          "author": null,
+          "description": "ベトナムで医療DX事業を展開するメドリングは、ベトナムにて開発をしていたクラウド型診療支援システム「MEDi」のベータ版を完成させたと発表。先行リリースを9月1日より利用希望のあった医療施設にて開始する。",
+          "link": "https://ascii.jp/elem/000/004/065/4065926/?rss",
+          "publishedOn": "2021-08-16T01:00:00.000Z",
+          "wordCount": 508,
+          "title": "メドリング、電子カルテ機能搭載の「MEDi」をベトナムの医療施設で順次導入開始"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065930/?rss",
+          "author": null,
+          "description": "KINCHAKUは次世代決済プラットフォーム「stera」のアプリマーケットプレイス 「stera market」にて「KINCHAKUアプリ」を提供開始",
+          "link": "https://ascii.jp/elem/000/004/065/4065930/?rss",
+          "publishedOn": "2021-08-16T00:00:00.000Z",
+          "wordCount": 568,
+          "title": "KINCHAKUは次世代決済プラットフォーム「stera」のアプリマーケットプレイス 「stera market」にて「KINCHAKUアプリ」を提供開始"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065929/?rss",
+          "author": null,
+          "description": "エコバックス、 8/17～8/19「Amazonタイムセール祭り」に参加！自動ゴミ収集機能付きの「DEEBOT N8+ 」を含め、人気ロボット掃除機が25%OFF！",
+          "link": "https://ascii.jp/elem/000/004/065/4065929/?rss",
+          "publishedOn": "2021-08-16T00:00:00.000Z",
+          "wordCount": 556,
+          "title": "エコバックス、 8/17～8/19「Amazonタイムセール祭り」に参加！自動ゴミ収集機能付きの「DEEBOT N8+ 」を含め、人気ロボット掃除機が25%OFF！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065910/?rss",
+          "author": null,
+          "description": "キャリア決算解説。各社ともに料金値下げの影響があらわれた。非通信部門を含む今後の動向が注目だ。",
+          "link": "https://ascii.jp/elem/000/004/065/4065910/?rss",
+          "publishedOn": "2021-08-16T00:00:00.000Z",
+          "wordCount": 533,
+          "title": "「携帯値下げ」がキャリア各社を直撃"
+        },
+        {
+          "id": "https://ascii.jp/limit/group/ida/elem/000/004/065/4065870/?rss",
+          "author": null,
+          "description": "日本円換算で約660億円（約6億米ドル）にのぼる仮想通貨（暗号資産）が、ハッキングの被害にあった。ハッキングを受けたのは、DeFi（分散型金融）プラットフォームを提供するPoly Networkだ。",
+          "link": "https://ascii.jp/limit/group/ida/elem/000/004/065/4065870/?rss",
+          "publishedOn": "2021-08-16T00:00:00.000Z",
+          "wordCount": 494,
+          "title": "660億円の仮想通貨が流出　被害にあったDeFiプラットフォームとは"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065534/?rss",
+          "author": null,
+          "description": "本連載は、マイクロソフトの「Microsoft 365」に含まれるSaaS型デスクトップ＆ウェブアプリケーション（以下、アプリ）「Microsoft 365 Apps（Office 365）」について、仕事の生産性を高める便利機能や新機能、チームコラボレーションを促進する使い方などのTipsを紹介する。今回はMicrosoft Teamsのアップデートと背景にあるハイブリッドワークに注目した。",
+          "link": "https://ascii.jp/elem/000/004/065/4065534/?rss",
+          "publishedOn": "2021-08-16T00:00:00.000Z",
+          "wordCount": 512,
+          "title": "ハイブリッドワークを実現するMicrosoft Teamsの新機能"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065693/?rss",
+          "author": null,
+          "description": "日本HPの公式オンラインストアでは、「モニターセットでお買い得キャンペーン」を実施中だ。",
+          "link": "https://ascii.jp/elem/000/004/065/4065693/?rss",
+          "publishedOn": "2021-08-15T23:00:00.000Z",
+          "wordCount": 187,
+          "title": "デスクトップPC&23.8型モニターセットが5万2580円！　日本HP公式通販がキャンペーン"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065919/?rss",
+          "author": null,
+          "description": "セブン-イレブンが「黒ごまと豆乳ブラマンジェパフェ」を発売。プチ贅沢な和洋折衷スイーツ。",
+          "link": "https://ascii.jp/elem/000/004/065/4065919/?rss",
+          "publishedOn": "2021-08-15T22:30:00.000Z",
+          "wordCount": 332,
+          "title": "セブンイレブンに豪華な和洋折衷スイーツ「黒ごまと豆乳ブラマンジェパフェ」"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065928/?rss",
+          "author": null,
+          "description": "業界最安値！無料勤怠管理システム「IEYASU」にICカードリーダー【ACSセキュアBluetooth(R)NFCリーダー】が対応！総務省型式認定！",
+          "link": "https://ascii.jp/elem/000/004/065/4065928/?rss",
+          "publishedOn": "2021-08-15T22:00:00.000Z",
+          "wordCount": 545,
+          "title": "業界最安値！無料勤怠管理システム「IEYASU」にICカードリーダー【ACSセキュアBluetooth(R)NFCリーダー】が対応！総務省型式認定！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065921/?rss",
+          "author": null,
+          "description": "ASCII YouTubeチャンネルの「LOVE九州」放送。第6弾のお題は宮崎。アウトドア、絶景、パワスポ、グルメなど、さまざまな視点で宮崎の魅力を語り尽くす90分です！",
+          "link": "https://ascii.jp/elem/000/004/065/4065921/?rss",
+          "publishedOn": "2021-08-15T22:00:00.000Z",
+          "wordCount": 372,
+          "title": "【宮崎牛・キャビア、名酒などプレゼント】宮崎の良いところ30個教えますスペシャル！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065160/?rss",
+          "author": null,
+          "description": "ちまたで話題のおいしいグルメ情報を生放送でご紹介します。お昼ご飯を召し上がりながらどうぞ！",
+          "link": "https://ascii.jp/elem/000/004/065/4065160/?rss",
+          "publishedOn": "2021-08-15T22:00:00.000Z",
+          "wordCount": 414,
+          "title": "「アスキーグルメNEWS」生放送（2021年8月20日号）"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065153/?rss",
+          "author": null,
+          "description": "Radeon RX 6600 XTのパフォーマンスチェック 木曜20:00から放送スタート！",
+          "link": "https://ascii.jp/elem/000/004/065/4065153/?rss",
+          "publishedOn": "2021-08-15T22:00:00.000Z",
+          "wordCount": 463,
+          "title": "自作PCトーク『ジサトラKTU』生放送 ～Radeon RX 6600 XTのパフォーマンスチェック～"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065148/?rss",
+          "author": null,
+          "description": "MCつばさと、ASCIIブランド総編集長こばQ、ASCII.jp副編集長オカモトが1週間の記事をふりかえる『今週のASCII.jp注目ニュース ベスト5』。雑談成分多めでゆるふわっと生放送します。お楽しみに！",
+          "link": "https://ascii.jp/elem/000/004/065/4065148/?rss",
+          "publishedOn": "2021-08-15T22:00:00.000Z",
+          "wordCount": 403,
+          "title": "『今週のASCII.jp注目ニュース』生放送（2021年8/7～8/20ぶん）"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065114/?rss",
+          "author": null,
+          "description": "2021年8月18日（水）17時30分から生放送。8/20に開業30周年を迎えるヨコハマ グランド インターコンチネンタル ホテル。さまざまな取組は時代を先取っている事多数！　そんなインターコンの魅力をゲストを迎えて語ります！",
+          "link": "https://ascii.jp/elem/000/004/065/4065114/?rss",
+          "publishedOn": "2021-08-15T22:00:00.000Z",
+          "wordCount": 397,
+          "title": "イカスミパンやヴィーガンメニューを初導入するなど、時代の先端を行っている!? 祝30周年♪ ヨコハマ グランド インターコンチネンタル ホテル：LOVE横浜#17"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065109/?rss",
+          "author": null,
+          "description": "8月16日（月）20時から生放送。今回は UQ／ワイモバ／楽天／格安SIMなど話題の料金プラン比較をお届けします！",
+          "link": "https://ascii.jp/elem/000/004/065/4065109/?rss",
+          "publishedOn": "2021-08-15T22:00:00.000Z",
+          "wordCount": 430,
+          "title": "スマホ料金はここまで安い！ UQ／ワイモバ／楽天／格安SIM、話題のプラン比較の巻：スマホ総研定例会190"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065927/?rss",
+          "author": null,
+          "description": "高性能ウェブカメラ『Coolpo AI Huddle PANA』が約15%オフ！Amazonにて7日間のタイムセールが実施 | 8月22日まで",
+          "link": "https://ascii.jp/elem/000/004/065/4065927/?rss",
+          "publishedOn": "2021-08-15T21:30:00.000Z",
+          "wordCount": 560,
+          "title": "高性能ウェブカメラ『Coolpo AI Huddle PANA』が約15%オフ！Amazonにて7日間のタイムセールが実施 | 8月22日まで"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065872/?rss",
+          "author": null,
+          "description": "いつ・どこで起きるかわからない地震や水害。シンク代表取締役社長の篠田大輔氏に、防災とスポーツの組み合わせに込めた想いや可能性についてうかがった。",
+          "link": "https://ascii.jp/elem/000/004/065/4065872/?rss",
+          "publishedOn": "2021-08-15T21:00:00.000Z",
+          "wordCount": 450,
+          "title": "地震、水害にスポーツで災害対策を――防災スポーツ篠田氏に聞く"
+        },
         {
           "id": "https://ascii.jp/elem/000/004/065/4065817/?rss",
           "author": null,
@@ -19430,6 +19754,15 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/14666",
+          "author": null,
+          "description": "転職プラットフォーム「ビズリーチ」といったHR Tech領域をはじめ、産業のデジタルトランスフォーメーション（DX）を推進するさまざまな事業を展開するVisional。本連載では、デザインフィロソフィー「We DESIGN it.」を掲げるVISIONAL DESIGNのメンバーが、組織づくりについて実例を交えながら紹介します。第4回は、Visional独自の「デザイナーJD」の具体的な活用例を紹介します。",
+          "link": "http://codezine.jp/article/detail/14666",
+          "publishedOn": "2021-08-15T23:00:00.000Z",
+          "wordCount": 251,
+          "title": "育成やマネジメントに一貫性をもたらすために ―― Visional独自の「デザイナーJD」活用事例を紹介"
+        },
+        {
           "id": "http://codezine.jp/article/detail/14643",
           "author": null,
           "description": "ソフトウェアのテスト・品質向上支援に関するサービスを提供するバルテスは、グループ会社であるバルテス・モバイルテクノロジー（以下、VMT）と、無料Webセミナー「今話題の『Flutter』や『Monaca』それぞれの特徴とは！」を8月31日に共催する。事前登録制で、定員は100名。",
@@ -20838,6 +21171,393 @@
       "feedUrl": "https://news.mynavi.jp/rss/index",
       "siteUrl": "https://news.mynavi.jp/",
       "articles": [
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947810/index.html",
+          "author": null,
+          "description": "コーセーのコスメデコルテから、新作ルージュ『コスメデコルテ ルージュ デコルテ』が登場！ 5質感51色の中から運命の1本がきっと見つかるはず。でもたくさんありすぎてどれを選べばいいのか分からない…そん...",
+          "link": "https://news.mynavi.jp/article/20210816-1947810/index.html",
+          "publishedOn": "2021-08-16T01:30:46.000Z",
+          "wordCount": 370,
+          "title": "【コスメデコルテ新作】5質感51色から選べる『コスメデコルテ ルージュ デコルテ』で運命の1本に出会おう…！"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210811-1938947/index.html",
+          "author": null,
+          "description": "30代で保険について改めて考えている人も多いでしょう。結婚や出産などライフステージの変化もその要因の一つです。今回は30代の方が検討するのにおすすめの保険について解説します。",
+          "link": "https://news.mynavi.jp/article/20210811-1938947/index.html",
+          "publishedOn": "2021-08-16T01:30:00.000Z",
+          "wordCount": 350,
+          "title": "30代に必要な保険、不要な保険とは?"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947798/index.html",
+          "author": null,
+          "description": "巨人のビエイラが抜群の安定感を誇る。現在5月3日の広島戦から25試合連続無失点中で、開幕直後の不安定さが全くなくなった。今では巨人の守護神に君臨する。\n\n　圧巻だったのは後半戦初戦となった13日…",
+          "link": "https://news.mynavi.jp/article/20210816-1947798/index.html",
+          "publishedOn": "2021-08-16T01:00:28.000Z",
+          "wordCount": 298,
+          "title": "川相氏が『大魔神・佐々木氏のようになっていく可能性がある』と話した守護神は？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/kyaraben-3/index.html",
+          "author": null,
+          "description": "こんにちは。お弁当講師の刑部菜穂子です。今回は、美味しくてボリュームもあり、お値段もお手頃なコスパ最強食材の『ちくわ』を使ったキャラ弁をご紹介します。",
+          "link": "https://news.mynavi.jp/article/kyaraben-3/index.html",
+          "publishedOn": "2021-08-16T01:00:23.000Z",
+          "wordCount": 490,
+          "title": "失敗しない簡単キャラ弁レシピ 第3回 コスパ最強食材の「ちくわ」で簡単キャラ弁! 7つのアイディアレシピ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-keisukekoide/index.html",
+          "author": null,
+          "description": "昨年8月に日本での活動再開を発表した俳優の小出恵介(37)が、配信中のABEMAオリジナルドラマ『酒癖50』(毎週木曜22:00～、全6話)で主演として4年ぶりのドラマ出演を果たした。米ニューヨークで演技について学んできた約2年半を注ぎ込んだ本作。メガホンをとった小林勇貴監督(30)は、小出の座長としての振る舞いに感謝しているという。小出の魅力や撮影の裏話について小林監督に話を聞いた。",
+          "link": "https://news.mynavi.jp/article/20210816-keisukekoide/index.html",
+          "publishedOn": "2021-08-16T01:00:00.000Z",
+          "wordCount": 334,
+          "title": "小出恵介、4年ぶりドラマで真実味のある演技　小林勇貴監督が語る魅力と座長ぶり"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947804/index.html",
+          "author": null,
+          "description": "プレミアリーグ第1節が13日から15日にかけて各地で行われた。\n　13日に行われたオープニングマッチでは、プレミアリーグ創設以降クラブ初の昇格を果たしたブレントフォードとアーセナルが対戦。22分にセ",
+          "link": "https://news.mynavi.jp/article/20210816-1947804/index.html",
+          "publishedOn": "2021-08-16T00:56:09.000Z",
+          "wordCount": 404,
+          "title": "マンU、チェルシーが快勝…王者マンCやアーセナルが黒星スタート／プレミア第1節"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947789/index.html",
+          "author": null,
+          "description": "○ エンゼルス 3 － 1 アストロズ ●\n＜現地時間8月15日　エンゼルス・スタジアム＞\n\n　エンゼルスの大谷翔平選手（27）が15日（日本時間16日）、本拠地でのアストロズ戦に「1番・指名打…",
+          "link": "https://news.mynavi.jp/article/20210816-1947789/index.html",
+          "publishedOn": "2021-08-16T00:45:11.000Z",
+          "wordCount": 310,
+          "title": "大谷翔平が2戦連続マルチ＆好走塁を披露！チームは新人左腕のメジャー初勝利で連敗ストップ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947805/index.html",
+          "author": null,
+          "description": "バルセロナの元スペイン代表DFジェラール・ピケは、勝利したレアル・ソシエダ戦を終えてコメントした。15日、スペイン紙『マルカ』が報じている。\n　バルセロナは15日、ラ・リーガ開幕戦でレアル・ソシエダ",
+          "link": "https://news.mynavi.jp/article/20210816-1947805/index.html",
+          "publishedOn": "2021-08-16T00:38:45.000Z",
+          "wordCount": 297,
+          "title": "ピケ、減俸の承諾は自分だけではないと告白「主将全員がクラブが求めることに快く…」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/mynumber-122/index.html",
+          "author": null,
+          "description": "今回は、電子帳簿保存法改正により、「電子取引」で電子データでの保存が義務化されたことによる事業者への影響と対策について考えてみます。",
+          "link": "https://news.mynavi.jp/article/mynumber-122/index.html",
+          "publishedOn": "2021-08-16T00:01:34.000Z",
+          "wordCount": 408,
+          "title": "中小企業にとってのマイナンバー制度とは? 第122回 電子帳簿保存法改正 「電子取引」改正への対応が課題に"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947753/index.html",
+          "author": null,
+          "description": "老後のお金や生活費が足りるのか不安ですよね。老後生活の収入の柱になるのが「老齢年金」ですが、年金制度にまつわることは、難しい用語が多くて、ますます不安になってしまう人もいるのではないでしょうか。そんな…",
+          "link": "https://news.mynavi.jp/article/20210816-1947753/index.html",
+          "publishedOn": "2021-08-15T23:10:00.000Z",
+          "wordCount": 308,
+          "title": "年金制度の「マクロ経済スライド」について、教えてください"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947759/index.html",
+          "author": null,
+          "description": "ラジオ発のエンタメニュース＆コラム「TOKYO FM＋」がお届けする今週の占い「12星座別ランキング＆ワンポイントアドバイス」。2021年（令和3年）今週（2021年8月16日～22日）1週間の運勢を、東京・池袋占い館セレーネ所属の占い師・真龍人（マリユドゥ）さんが占います。今週の占い運勢ランキング1位は蟹座（かに座）！ あなたの星座は何位……!?",
+          "link": "https://news.mynavi.jp/article/20210816-1947759/index.html",
+          "publishedOn": "2021-08-15T23:10:00.000Z",
+          "wordCount": 340,
+          "title": "★週間占い★「12星座占い」今週の運勢ランキング1位は蟹座（かに座）！ あなたの星座は何位!?（2021年8月16日～22日）"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947754/index.html",
+          "author": null,
+          "description": "F-PACE SVRは、化石燃料のみを駆動力とする大型SUVで、非常に速く、5リッターが轟音を響かせるという、絶滅危惧種のひとつだ。ジャガーというよりは、サーベルタイガーのような存在であり、まもなく完全に絶滅してしまうので、今のうちに楽しん・・・",
+          "link": "https://news.mynavi.jp/article/20210816-1947754/index.html",
+          "publishedOn": "2021-08-15T23:06:00.000Z",
+          "wordCount": 329,
+          "title": "もしかして絶滅危惧種！？ダイナミックなジャガーF-PACE SVRの醍醐味を知る"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947758/index.html",
+          "author": null,
+          "description": "ラ・リーガ開幕節が15日に行われ、セルタとアトレティコ・マドリードが対戦した。\n　リーガ連覇を目指すアトレティコは、開幕戦でセルタの本拠地に乗り込んで敵地で対戦。この試合では3バックを採用し、マルコ",
+          "link": "https://news.mynavi.jp/article/20210816-1947758/index.html",
+          "publishedOn": "2021-08-15T23:02:39.000Z",
+          "wordCount": 313,
+          "title": "A・コレアが快心の2ゴール！…苦しんだアトレティコ、セルタを下して白星発進"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1946614/index.html",
+          "author": null,
+          "description": "俳優の櫻井海音が、きょう16日に放送されるフジテレビ系バラエティ番組『痛快TV スカッとジャパン』(毎週月曜20:00～)のショートドラマに初登場する。",
+          "link": "https://news.mynavi.jp/article/20210816-1946614/index.html",
+          "publishedOn": "2021-08-15T23:00:00.000Z",
+          "wordCount": 318,
+          "title": "櫻井海音『スカッとジャパン』初登場　ずぶぬれの高校生に"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947576/index.html",
+          "author": null,
+          "description": "2021年8月15日(日)に「TACHIKAWA STAGE GARDEN(立川ステージガーデン)」にて行われたCUE! 2nd Party「Sing about everything」にて、TVアニメ『CUE!』の放送時期と第1弾PVが公開された。",
+          "link": "https://news.mynavi.jp/article/20210816-1947576/index.html",
+          "publishedOn": "2021-08-15T23:00:00.000Z",
+          "wordCount": 321,
+          "title": "TVアニメ『CUE!』、2022年1月より放送開始！第1弾PVを公開"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947743/index.html",
+          "author": null,
+          "description": "◆ 復帰戦2失点「良くはない」\n\n　オリックスは15日、ほっともっと神戸で阪神とのウエスタン・リーグ公式戦を開催。試合は序盤の一発攻勢で阪神に軍配が上がったが、右肘痛から復帰した山岡泰輔、「3番・…",
+          "link": "https://news.mynavi.jp/article/20210816-1947743/index.html",
+          "publishedOn": "2021-08-15T22:44:12.000Z",
+          "wordCount": 316,
+          "title": "オリックス・山岡と中川圭が二軍戦で復帰　新助っ人ラベロも初出場"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947739/index.html",
+          "author": null,
+          "description": "Amazon、Apple、Googleらが参画するスマートホームの相互運用規格「Matter」の認証プログラムの開始が2022年に延期された。参加希望企業の増加とコロナ禍の影響でSDK開発に遅れが生じた。",
+          "link": "https://news.mynavi.jp/article/20210816-1947739/index.html",
+          "publishedOn": "2021-08-15T22:35:48.000Z",
+          "wordCount": 356,
+          "title": "スマートホーム相互運用規格「Matter」、対応製品の認証2022年にずれ込み"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947564/index.html",
+          "author": null,
+          "description": "声優、そしてアーティストとして活躍する石原夏織が、7枚目のシングルとなる「Starcast」を2021年11月24日(水)にリリースすることが決定した。",
+          "link": "https://news.mynavi.jp/article/20210816-1947564/index.html",
+          "publishedOn": "2021-08-15T22:30:00.000Z",
+          "wordCount": 329,
+          "title": "声優・石原夏織、最新シングル「Starcast」を11/24発売！作詞はやなぎなぎ"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947556/index.html",
+          "author": null,
+          "description": "2021年10月からの放送開始が予定されているTVアニメ『異世界食堂２』より、エンディングテーマ情報および第2期の新規キャラクター情報が公開された。",
+          "link": "https://news.mynavi.jp/article/20210816-1947556/index.html",
+          "publishedOn": "2021-08-15T22:30:00.000Z",
+          "wordCount": 317,
+          "title": "TVアニメ『異世界食堂２』、東山奈央がEDテーマとヒルダ役を担当"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947735/index.html",
+          "author": null,
+          "description": "◆ 超低空ライナーがそのままスタンドへ\n\n　ロッテの高卒3年目・山口航輝が驚愕の一発を放った。\n\n　オリックスに1点のリードを許して迎えた5回裏、ロッテは一死一塁の場面で山口を代打で起用。1ボ…",
+          "link": "https://news.mynavi.jp/article/20210816-1947735/index.html",
+          "publishedOn": "2021-08-15T22:29:34.000Z",
+          "wordCount": 313,
+          "title": "ロッテ・山口航輝の一発に解説陣も驚愕「ブーマー以来」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947728/index.html",
+          "author": null,
+          "description": "◆ 真中氏「もう監督は打つ手が…」\n\n　日本ハムは後半戦開幕となった13日から、対ソフトバンク3試合連続の無得点。この日はヒットを1本も打てず、6投手による継投ノーヒットノーランを許した。…",
+          "link": "https://news.mynavi.jp/article/20210816-1947728/index.html",
+          "publishedOn": "2021-08-15T22:14:18.000Z",
+          "wordCount": 308,
+          "title": "日本ハムが屈辱の3試合連続無得点　球団OBの岩本勉氏も悲痛な叫び"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/housekeeping-162/index.html",
+          "author": null,
+          "description": "「家事も育児も家計も全部ワリカン! 」バツイチ同士の事実再婚を選んだマンガ家・水谷さるころが、共働き家庭で家事・育児・仕事を円満にまわすためのさまざまな独自ルールを紹介します。第162回のテーマは「子どもにとっての『帰るべき家』とは」です。",
+          "link": "https://news.mynavi.jp/article/housekeeping-162/index.html",
+          "publishedOn": "2021-08-15T22:00:31.000Z",
+          "wordCount": 396,
+          "title": "家事と育児と男と女 第162回 我が家が賃貸派な理由"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947715/index.html",
+          "author": null,
+          "description": "アイドルグループ・櫻坂46の田村保乃が8月17日にリリースする1st写真集『一歩目』(小学館 2,200円)より、水着ショットの第2弾が16日、公開された。",
+          "link": "https://news.mynavi.jp/article/20210816-1947715/index.html",
+          "publishedOn": "2021-08-15T22:00:16.000Z",
+          "wordCount": 320,
+          "title": "櫻坂46田村保乃、水着姿で美バスト披露 「柔らかな朝陽とキミと」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947482/index.html",
+          "author": null,
+          "description": "アイドルグループのKing ＆ Princeが、きょう16日に放送される日本テレビ系バラエティ番組『しゃべくり007』(21:00～『人生が変わる1分間の深イイ話』と合体SP)に出演する。",
+          "link": "https://news.mynavi.jp/article/20210816-1947482/index.html",
+          "publishedOn": "2021-08-15T22:00:00.000Z",
+          "wordCount": 325,
+          "title": "平野紫耀＆岸優太の天然コンビが奇跡を…King ＆ Prince『しゃべくり』登場"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947732/index.html",
+          "author": null,
+          "description": "なかの・しょうざぶろう１９５７年千葉県出身。８１年慶應義塾大学大学院経営管理研究科修了後、キッコーマン入社。 国内営業、海外販社出向、２００８年４月経営企画部長、６月執行役員、１１年常務執行役員、１２年ＣＦＯ（最高財務責任者）、１５年取締役・・・",
+          "link": "https://news.mynavi.jp/article/20210816-1947732/index.html",
+          "publishedOn": "2021-08-15T22:00:00.000Z",
+          "wordCount": 337,
+          "title": "【キッコーマン】中野祥三郎新社長が語る「調味料は一度その地に定着すれば簡単にはなくならない」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947716/index.html",
+          "author": null,
+          "description": "◆ 勝ちパターンを投入しても良いケース？\n\n　前半戦を5位で終え、後半戦での巻き返しを目指すDeNAが15日、新潟でのヤクルト戦で後半戦のスタートを切ったが、1−４で逆転負けを喫した。\n\n　試…",
+          "link": "https://news.mynavi.jp/article/20210816-1947716/index.html",
+          "publishedOn": "2021-08-15T21:59:22.000Z",
+          "wordCount": 313,
+          "title": "後半の巻き返し狙うDeNAの継投に真中氏から一言「追っていかないといけないことを考えると」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947710/index.html",
+          "author": null,
+          "description": "◆「ここに投げられるピッチャーは勝てる」\n\n　ソフトバンクはホームに日本ハムを迎えて同一カード3連勝を目指すもスコアレスドロー。それでも、投手陣が6人の継投でノーヒットノーランを達成するなど、収穫…",
+          "link": "https://news.mynavi.jp/article/20210816-1947710/index.html",
+          "publishedOn": "2021-08-15T21:44:10.000Z",
+          "wordCount": 301,
+          "title": "達川氏「板東、甲斐野は文句なし」鷹スチュワートの快投も分析"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947723/index.html",
+          "author": null,
+          "description": "アトレチコ・ミネイロは14日、フリーとなっていたスペイン代表FWジエゴ・コスタを獲得したことを発表した。\n　ブラジルの名門アトレチコ・ミネイロはクラブ公式サイトを通じ、D・コスタと2022年12月3",
+          "link": "https://news.mynavi.jp/article/20210816-1947723/index.html",
+          "publishedOn": "2021-08-15T21:43:44.000Z",
+          "wordCount": 295,
+          "title": "ジエゴ・コスタ、ブラジルの名門アトレチコ・ミネイロに加入！…FWフッキらと同僚に"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947711/index.html",
+          "author": null,
+          "description": "青木源太と足立梨花がパーソナリティをつとめ、暮らしに役立つ情報や気になるトピックを深掘りしていくTOKYO FMの番組「青木源太・足立梨花 Sunday Collection」。8月15日（日）の放送では、経済産業省 コンテンツ産業課長の高木美香さんに、「ジャパンコンテンツ」をテーマに話を伺いました。",
+          "link": "https://news.mynavi.jp/article/20210816-1947711/index.html",
+          "publishedOn": "2021-08-15T21:40:00.000Z",
+          "wordCount": 333,
+          "title": "日本の“映画”“アニメ”を世界へ…国が補助金で後押しする注目の制度「J-LOD」とは？"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947724/index.html",
+          "author": null,
+          "description": "トッテナムに所属する韓国代表FWソン・フンミンが、15日に行われたプレミアリーグ開幕節のマンチェスター・C戦を振り返った。イギリスメディア『スカイスポーツ』が伝えた。\n　ソン・フンミンは昨季王者マン",
+          "link": "https://news.mynavi.jp/article/20210816-1947724/index.html",
+          "publishedOn": "2021-08-15T21:28:36.000Z",
+          "wordCount": 298,
+          "title": "決勝弾のソン・フンミン「ファンのために戦った」…ケインへのチャントは「聞こえなかった」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1944258/index.html",
+          "author": null,
+          "description": "今日は2021年8月16日。マイナビニュースが毎日「星座占い」をお届けします。各星座の総合・恋愛・金運・仕事運・健康運におけるランキングとラッキーアイテムを紹介。何かの参考になれば幸いです。",
+          "link": "https://news.mynavi.jp/article/20210816-1944258/index.html",
+          "publishedOn": "2021-08-15T21:23:46.000Z",
+          "wordCount": 472,
+          "title": "【8月16日・今日の運勢】12星座占いランキング(総合運・恋愛運・金運・仕事運・健康運)"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947700/index.html",
+          "author": null,
+          "description": "◆ 16日の第4試合で鹿島学園と対戦\n\n　8月9日、ついに開幕した2年ぶりの夏の甲子園。\n\n　『第103回全国高等学校野球選手権大会』は天候不良で3日連続の順延という珍事もあり、15日にようや…",
+          "link": "https://news.mynavi.jp/article/20210816-1947700/index.html",
+          "publishedOn": "2021-08-15T21:14:40.000Z",
+          "wordCount": 349,
+          "title": "強打の盛岡大付が誇る“左右のスラッガー”　松本龍哉と金子京介が聖地に登場"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947696/index.html",
+          "author": null,
+          "description": "【1983年式 日産 スカイライン HT 2000 ターボ RS-X Vol.2】【1】から続く「外装はキレイに見えたのですが、中身はボロボロで、そのまま返品しようかと思いました。でも、30年前に購入できなかった憧れのクルマなので、ボディの・・・",
+          "link": "https://news.mynavi.jp/article/20210816-1947696/index.html",
+          "publishedOn": "2021-08-15T21:05:00.000Z",
+          "wordCount": 381,
+          "title": "「外装はキレイに見えたのですが、中身はボロボロで、そのまま返品しようかと思いました」｜1983年式 日産 スカイライン HT 2000 ターボ RS-X　Vol.2"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947693/index.html",
+          "author": null,
+          "description": "2015年に『ラブライブ!サンシャイン!!』のオーディションに合格し声優としてデビューした斉藤朱夏。その後、Aqoursのメンバーとして紅白にも出場。2018年に発売した写真集はオリコン週間ランキングで1位を獲得し、2019年にはソロ歌手と・・・",
+          "link": "https://news.mynavi.jp/article/20210816-1947693/index.html",
+          "publishedOn": "2021-08-15T21:02:00.000Z",
+          "wordCount": 303,
+          "title": "声優・斉藤朱夏が語るこれから「25歳から先の私は、より自分を愛してあげられる私でいたい」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947694/index.html",
+          "author": null,
+          "description": "2015年に『ラブライブ!サンシャイン!!』のオーディションに合格し声優としてデビューした斉藤朱夏。その後、Aqoursのメンバーとして紅白にも出場。2018年に発売した写真集はオリコン週間ランキングで1位を獲得し、2019年にはソロ歌手と・・・",
+          "link": "https://news.mynavi.jp/article/20210816-1947694/index.html",
+          "publishedOn": "2021-08-15T21:01:00.000Z",
+          "wordCount": 304,
+          "title": "声優・斉藤朱夏が語る25歳の想い「楽しかったことや辛い日々、その全部があって今の私」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1946543/index.html",
+          "author": null,
+          "description": "日本テレビ系情報バラエティ番組『ヒルナンデス!』(毎週月～金曜11:55～)では、Hey! Say! JUMP・八乙女光、ジャニーズWEST・中間淳太、濱田崇裕、SixTONES・森本慎太郎による「ファッションセンス格付けバトル」を19日に放送する。",
+          "link": "https://news.mynavi.jp/article/20210816-1946543/index.html",
+          "publishedOn": "2021-08-15T21:00:00.000Z",
+          "wordCount": 325,
+          "title": "八乙女光×中間淳太×濱田崇裕×森本慎太郎「フルーツ狩りデートコーデ」対決"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1946842/index.html",
+          "author": null,
+          "description": "新しい働き方として「テレワーク」「在宅勤務」が集めている。新型コロナの影響で在宅勤務に切り替わったという人も多いのではないだろうか。感染症対策として推進される在宅勤務だが、他にもさまざまなメリットがあるようだ。そこで今回は、マイナビニュース会員の既婚男性304名に「家庭にとって在宅勤務でよかったと思うことはありますか?」と尋ねてみた。",
+          "link": "https://news.mynavi.jp/article/20210816-1946842/index.html",
+          "publishedOn": "2021-08-15T21:00:00.000Z",
+          "wordCount": 371,
+          "title": "既婚男性に聞いた、在宅勤務で家庭にとってよかったことは?"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1946847/index.html",
+          "author": null,
+          "description": "コロナ下で増加した「在宅勤務」、家庭にとってのメリットを感じている人も多いのではないだろうか。今回は、マイナビニュース会員の既婚女性300名に「家庭にとって在宅勤務でよかったと思うこと」を聞いてみた。",
+          "link": "https://news.mynavi.jp/article/20210816-1946847/index.html",
+          "publishedOn": "2021-08-15T21:00:00.000Z",
+          "wordCount": 376,
+          "title": "既婚女性に聞いた、在宅勤務で家庭にとってよかったことは?"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947489/index.html",
+          "author": null,
+          "description": "アイドルグループ・King ＆ Princeの平野紫耀と女優の浜辺美波がこのほど、日本テレビ系大型特番『24時間テレビ44』(21日18:30～22日20:54)のドラマスペシャル『生徒が人生をやり直せる学校』(21日21:00頃～)のクランクアップを迎えた。",
+          "link": "https://news.mynavi.jp/article/20210816-1947489/index.html",
+          "publishedOn": "2021-08-15T21:00:00.000Z",
+          "wordCount": 337,
+          "title": "平野紫耀＆浜辺美波、24時間テレビドラマ撮了「一緒に踊れたのは一生の思い出」"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947543/index.html",
+          "author": null,
+          "description": "女優の桜井日奈子が、BSテレ東のドラマ『ごほうびごはん』(10月2日～ 毎週土曜0:00～)に主演することが16日、明らかになった。",
+          "link": "https://news.mynavi.jp/article/20210816-1947543/index.html",
+          "publishedOn": "2021-08-15T21:00:00.000Z",
+          "wordCount": 355,
+          "title": "桜井日奈子、自分へのごほうびは「お寿司とハイボール」グルメドラマ初主演"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947692/index.html",
+          "author": null,
+          "description": "泉澤祐希と古舘佑太郎が、8月16日に放送される『ナイト・ドクター』（フジテレビ系、毎週月曜21:00～）の第7話にゲスト出演する。  救急医療の働き方改革として試験的に結成された夜間勤務だけを専門に& Prince）、桜庭瞬（北村匠海）、高岡幸保（岡崎紗絵）と共に、365日24時間“どんな患者も断らない”ナイト・ドクターとして奮闘する様を描く。  泉澤が演じる星崎比呂は、新米救命士。路上に倒れていた男性の搬送先となる病院を探すも、深夜の病院はどこも人手不足で、ことごとく受け入れを断られてしまう。そんな中、「あさひ海浜病院」だけが受け入れてくれ、星崎は安堵。しかし、搬送された男性が受け入れ拒否されるのには、さまざまな理由があり、受け入れた男性を巡って「ナイト・ドクター」と日勤の医師で対立することに。  古舘演じる里中悟は、「あさひ海浜病院」の脳外科医で、成瀬の医大時代の後輩。「ナイト・ドクター」になる前は脳外科医だった成瀬は、第5話で明らかとなった訴訟問題もあり、「ナイト・ドクター」へと転身。しかし、脳外科医として専門技術をみがく道も捨て切れていなかった。里中はそんな成瀬の今後に大きく関わる存在となる。  なお先週の放送では、成瀬から「お前のおかげで患者が助かった」と褒められた深澤のリアクションに注目が集まった。ネット上では、オムライスにケチャップで鯛を描きながら「『お前のおかげで』アハハ。“めでタイ”なんつって」とニヤニヤが止まらない深澤に「可愛すぎ」「思わずにやけちゃう」との反応があった。  ＜泉澤祐希　コメント＞ 医療ドラマは専門用語や、普段使わない言葉を使い、さらに救命士はスピーディに、明確に現場の状況や負傷者の状態を伝えなくてはならないので、これは苦戦しそうだ……と感じており、緊張もしていました。でもぶつかるしかない！　やるしかない！　という強い気持ちで挑みました！　新米救命士の星崎は、やる気に満ちあふれ、何としても患者さんを助けたいという気持ちで一杯です。しかし、受け入れ先がなかったりと壁にぶつかります。それでもめげずにしっかりと立ち向かうことのできる強い心を持つ新米救命士・星崎の成長を見届けていただければと思います！  ＜古舘佑太郎　コメント＞ 万が一の時は、深夜でも救急医療の方が助けてくれると、どこか当たり前のように思っていました。しかし実際は、夜間医療の方たちの苦労や葛藤の上に、我々の安心は成り立っていることを実感しました。優秀で冷静沈着なイメージの強い医師ですが、この物語を通して僕が演じた里中含め、人間味あふれる彼らをとても身近に感じることができました。時に仲間とぶつかったり迷ったりしながら生きる、彼らを見届けていただけるとうれしいです。  ＜第7話あらすじ＞ 美月（波瑠）は幸保（岡崎）から合コンに誘われるが、興味ないと断る。一方、成瀬（田中）は医大の後輩で脳外科医の里中（古舘）と病院内で出会い、ナイト・ドクターとして勤務していることに驚かれた。  幸保は看護師の益田舞子（野呂佳代）と合コンへ。幸保が相手の赤松直人（佐伯大地）たちに、自分たちの人数の少なさを謝っていると美月が現れる。美月はめげる事があって参加したのだ。だが、幸保が医師は敬遠されると思い、相手に看護師だと伝えていたことを知らない美月は、自分がナイト・ドクターだと言ってしまった。すると男性たち全員が看護師の舞子に注目。美月は幸保と揉めてしまう。  その夜、病院をたらい回しにされた患者が運び込まれた。患者を受け渡す救命士の星崎（泉澤）はホッとした様子。美月は患者の顔を見て理由を悟る。その患者は、かつて美月が救助したホームレス（神尾佑）だった。  次に搬送されたのは風見まどか（藤嶋花音）。付き添いの父、信行（林泰文）にまどかの緊急手術を幸保が拒否されたことを桜庭（北村）が美月たちに報告。信行は夜間勤務の医師たちを信用していないようだ。指導医の本郷亨（沢村一樹）は、それがナイト・ドクターの現実だと美月たちに突きつける。そんな時、昼間の合コン相手の赤松が原因不明の発熱で外来にやって来た。…",
+          "link": "https://news.mynavi.jp/article/20210816-1947692/index.html",
+          "publishedOn": "2021-08-15T21:00:00.000Z",
+          "wordCount": 301,
+          "title": "泉澤祐希と古舘佑太郎が『ナイト・ドクター』第7話にゲスト出演"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947688/index.html",
+          "author": null,
+          "description": "こもとも子「ごほうびごはん」のTVドラマ化が決定。10月2日よりBSテレビ東京とテレビ大阪で放送され、ひかりTVでは1週間先行配信される。",
+          "link": "https://news.mynavi.jp/article/20210816-1947688/index.html",
+          "publishedOn": "2021-08-15T21:00:00.000Z",
+          "wordCount": 350,
+          "title": "こもとも子「ごほうびごはん」ドラマ化！主人公のOL・池田咲子役は桜井日奈子"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210816-1947695/index.html",
+          "author": null,
+          "description": "2015年に『ラブライブ!サンシャイン!!』のオーディションに合格し声優としてデビューした斉藤朱夏。その後、Aqoursのメンバーとして紅白にも出場。2018年に発売した写真集はオリコン週間ランキングで1位を獲得し、2019年にはソロ歌手と・・・",
+          "link": "https://news.mynavi.jp/article/20210816-1947695/index.html",
+          "publishedOn": "2021-08-15T21:00:00.000Z",
+          "wordCount": 307,
+          "title": "斉藤朱夏「ミニモニ。に憧れて…歌って踊るのが好きな少女が声優になってから」"
+        },
         {
           "id": "https://news.mynavi.jp/article/20210816-1946625/index.html",
           "author": null,
